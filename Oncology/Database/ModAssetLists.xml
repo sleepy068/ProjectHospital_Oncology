@@ -1,0 +1,352 @@
+<Database>
+
+<!-- 
+### Skills ### 
+This section adds my custom logo to the department specific skills. -->
+
+<GameDBAsset ID="ASSET_MOD_ICON_ONCO">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/mod_skill_icon_onco.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_MOD_ICON_ONCO_DARK">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/mod_skill_icon_onco_dark.png</File> 
+</GameDBAsset>
+
+<!-- 
+### Department ### 
+This section handles adding my custom department logos to the game. -->
+
+<GameDBAsset ID="ASSET_ONC_DPT_ICON_0">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/mod_dept_icon_0.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_DPT_ICON_1">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/mod_dept_icon_1.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_DPT_ICON_2">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/mod_dept_icon_2.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_DPT_ICON_3">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/mod_dept_icon_3.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_DPT_ICON_4">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/mod_dept_icon_4.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_DPT_ICON_5">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/mod_dept_icon_5.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_DPT_ICON_6">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/mod_dept_icon_6.png</File> 
+</GameDBAsset>
+
+<!-- 
+### Diagonsis ### 
+This section handles adding my custom diagonsis icons to the game. -->
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_001">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_sc1a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_002">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_sc1b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_003">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_mea1a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_004">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_mea1b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_005">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_metasta.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_006">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_metastb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_007">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_nodulea.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_008">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_noduleb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_009">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_PNIa.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_010">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_PNIb.png</File> 
+</GameDBAsset>
+
+<!-- Generic 'High' Level Indicator Icon -->
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_011">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_highlevela.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_012">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_highlevelb.png</File> 
+</GameDBAsset>
+
+<!-- Generic 'Low' Level Indicator Icon -->
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_013">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_lowlevela.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_014">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_lowlevelb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_015">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_ag1a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_016">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_ag1b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_017">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_lc1a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_018">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_lc1b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_019">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_lc2a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_020">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_lc2b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_021">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_hemopta.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_022">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_hemoptb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_023">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_nervea.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_024">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_nerveb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_025">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_aniflexa.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_026">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_sl_aniflexb.png</File> 
+</GameDBAsset>
+
+<!-- Bowel Cancer -->
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_027">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_coc1a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_028">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_coc1b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_029">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_coc2a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_030">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_coc2b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_031">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_coc3a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_032">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_coc3b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_033">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_coc4a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_034">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_coc4b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_035">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_coc5a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_036">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_coc5b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_035">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_coc6a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_SYM_ICON_036">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_sl_coc6b.png</File> 
+</GameDBAsset>
+
+
+<!-- 
+### Threatment ### 
+This section handles adding my custom treatment icons to the game. -->
+
+<GameDBAsset ID="ASSET_ONC_TRT_ICON_001">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/trt_sl_creama.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_TRT_ICON_002">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/trt_sl_creamb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_TRT_ICON_003">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/trt_sl_pdta.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_TRT_ICON_004">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/trt_sl_pdtb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_TRT_ICON_005">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/trt_sl_tartha.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_TRT_ICON_006">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/trt_sl_tarthb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_TRT_ICON_007">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/trt_sl_pillbottlea.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_TRT_ICON_008">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/trt_sl_pillbottleb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_TRT_ICON_009">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/trt_sl_epipena.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_TRT_ICON_010">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/trt_sl_epipenb.png</File> 
+</GameDBAsset>
+<!-- 
+### Threatment ### 
+This section handles adding my custom examination icons to the game. -->
+
+<GameDBAsset ID="ASSET_ONC_EXM_ICON_001">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/exm_sl_ccbta.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_EXM_ICON_002">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/exm_sl_ccbtb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_EXM_ICON_003">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/exm_sl_neda.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_EXM_ICON_004">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/exm_sl_nedb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_EXM_ICON_005">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/exm_sl_testtubea.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_EXM_ICON_006">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/exm_sl_testtubeb.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_EXM_ICON_007">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/exm_sl_coloa.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_EXM_ICON_008">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/exm_sl_colob.png</File> 
+</GameDBAsset>
+
+</Database>

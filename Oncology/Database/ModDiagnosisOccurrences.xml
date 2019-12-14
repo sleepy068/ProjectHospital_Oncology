@@ -1,0 +1,25 @@
+<Database>
+    <GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_COMMON">
+        <OccurrenceRate>100</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+    
+    <GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_UNCOMMON">
+        <OccurrenceRate>50</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+    
+    <GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_RARE">
+        <OccurrenceRate>25</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+	
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_VERYRARE">
+		<OccurrenceRate>10</OccurrenceRate>
+	</GameDBDiagnosisOccurrence>
+	  
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_ULTRARARE">
+		<OccurrenceRate>5</OccurrenceRate>
+	</GameDBDiagnosisOccurrence>
+	
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_UNIQUE">
+		<OccurrenceRate>2</OccurrenceRate>
+	</GameDBDiagnosisOccurrence>
+</Database>

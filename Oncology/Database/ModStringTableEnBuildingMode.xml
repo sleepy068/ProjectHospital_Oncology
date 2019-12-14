@@ -1,0 +1,23 @@
+<Database>
+
+<GameDBStringTable ID="LOC_EN_ADDON_ONCO_BUILDING_MODE">
+<LanguageCode>en</LanguageCode>
+<LanguageNameLocalized>English</LanguageNameLocalized>
+<Contributors>
+<Name>Sleepy068</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_OFFICE</LocID>                          	
+		<Text>Oncology Office</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_OFFICE_DESCRIPTION</LocID>              	
+		<Text>A doctor's office specialising in oncology. Staff requirements:\n1x Doctor</Text>  
+	</GameDBLocalizedString>
+
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>
