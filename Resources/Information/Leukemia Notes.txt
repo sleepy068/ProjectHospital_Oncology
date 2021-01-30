@@ -1,0 +1,69 @@
+TODO:
+Need more Chromosomal Detect Icons and Enzyme Markers
+
+
+CML
+CD33 Bright 95, CD13 Bright 83, CD11c Bright 80, CD7 66
+
+
+
+M3 Acute promyelocytic leukemia (APL) 
+- Translocation between chromosomes 15 and 17  t(15;17)
+- Immunophenotype: Positivity for CD13 and CD33
+- Staining: The cells are MPO, SB and chloroacetate esterase (CAE) positive, but generally negative for NSE (NSE positive in 25%).
+
+M4 Acute Myelomonocytic Leukemia
+- Translocation t(4;11), t(9;11)
+- IMMUNO (CMML)-CD14, CDw65, CD11b, CD33 and HLA-DR
+- Staining:More than 20% of the blasts should be MPO + and more than 20% should be NSE +. High serum lysozyme (3x normal) Peripheral monocytosis of > 5x9/L in an otherwise M2 marrow and increased lysozyme and >20% NSE + marrow blasts.
+
+M4e Acute myelomonocytic leukemia with eosinophilia
+- M4e variant in which eosinophils(> 5%) are increased in number and abnormal associated with abnormalities of chromosome 16.
+- Staining of Variant:CAE, usually negative in eosinophils, is frequently positive in the abnormal eosinophils of M4e.
+
+M5 Acute Monocytic Leukemia
+- Diagnosis: BM morphology->30% blasts and >80% cells monocytic
+- Chromosome Abnormalities:t(9;11)
+- Cell Morphology: Note the nuclear folds and the relatively large nucleoli typical of monoblasts. Strongly NSE+.More than 80% of BM monocytic.
+
+M6 Acute Erythroblastic Leukemia (Rare)
+- Maturation: M6 or erythroleukemia is rare and difficult to diagnose. More than 30-50% of the nucleated marrow cells are abnormal nucleated red blood cells.
+- Morphology: The leukemic red cells are frequently bizarre with extreme dysplastic featuresincluding giant forms, multinucleation, cytoplasmic vacuolization, cytoplasmic buds, and megaloblastoid changes.
+- Staining:MPO -, NSE+. The malignant red cells are PAS positive
+- Immunophenotype:Positive for glycophorin A and transferrin receptor.
+- Chromosome Abnormalities:del(5q)
+
+
+HCL
+CD20 Bright, CD11c Bright, CD25 Bright, CD123 Bright, CD22 Bright
+
+HCLV
+CD20 Bright, CD11c Bright, CD25 Neg, CD123 Dim, CD22 Bright
+BRAF V600E NEG
+
+Hematopoietic stem cell transplant
+
+acute myeloid leukemia - Markers
+Myeloid cells (granulocytes) - MPO (myeloperoxidase), CD11, CD13, CD15, CD16b, CD33, CD66
+CD7
+
+Hairy cell leukemia - CD11c, CD103
+HCL expressed bright CD20, bright CD22, bright CD11c, bright CD25, CD103, and bright homogeneous CD123(100%).
+HCL-v expressed bright CD20, bright CD22, CD11c(100%), CD103(100%), dim(40%) or negative(60%) CD123, and uniformly lacked CD25(100%).
+
+SMZL cases were CD103(-) and CD123(-) except for one case with dim CD123.
+
+Bright, dim and moderate... describe the amount of a particular cell surface protein.
+
++ is positive...
+
+++ is more positive
+
+- is negative
+
++/- we don't really know...
+
+When there is a range...they use dim, moderate and bright...
+
+Blood Smear
+To evaluate your red blood cells (RBCs), white blood cells (WBCs), and platelets, to distinguish between the different types of WBCs, and to determine their relative percentages in the blood.

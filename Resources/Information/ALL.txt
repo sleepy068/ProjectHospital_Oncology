@@ -1,0 +1,90 @@
+Once the blasts are identified and gated, the following markers are useful in classification of  pre B ALL. Included are marking prevalence:
+
+Marker	Prevalence
+ CD10	 89%
+ CD13	 5%
+ CD19	 100%
+ CD20	 24%
+ CD22	 69%
+ CD33	 31%
+ CD34	 76%
+ CD45 (bright)	 2%
+ CD45 (moderate) 33%
+ CD45 (dim)	 36%
+ CD45 (negative) 29%
+ CD56	 36%
+ CD79a	 88%
+ CD117	 0%
+ cytoplasmic IgM 22%
+ HLA Dr	 98%
+  TdT	 91%
+
+
+Immunophenotypic features of T-lymphoblastic lymphoma, selected markers.
+
+Marker	N★	Positive (%)
+CD1a	96	66·7
+CD2	136	90·4
+cCD3	125	84
+sCD3	134	46
+CD4	148	71·6
+CD5	148	95·3
+CD7	144	96·5
+CD8	145	77·9
+CD4+/CD8+	138	71
+CD4−/CD8−	138	16·7
+CD10	128	57
+CD13	70	7·1
+CD30	31	3·2
+CD33	69	13
+CD34	106	19·8
+CD45	142	99·3
+CD79a	135	5·2
+TdT	170	90
+Multiple myeloid markers	75†	2·6
+Any myeloid marker	92★	16·3
+Any B-cell marker	172★	9·3
+
+PreB
+CD10 Bright, CD19 Bright, CD117 NEG, TDT Bright
+
+B
+CD10 Neg, CD19 Bright, CD22 Bright, TDT Bright
+
+T
+CD5 Bright, CD7 Bright, CD1a Bright, TDT Bright
+
+CLL
+Stable
+CD19 Bright, CD20 Bright, CD11c Bright, CD38 Dim, CD43 Bright
+
+T Cell LGLL
+CD5 Bright (Rare), CD43 Bright, CD25 Neg, CD8 Bright, CD3 Bright
+
+NK Cell LGLL
+CD16 Bright, CD56 Bright, CD8 Bright, CD3 Neg, 
+
+T PLL
+CD3 Bright, CD7 Bright, TdT Neg, CD1a Neg
+
+abnormal expression of ""
+
+Immunophenotyping blood tests have returned results of an abnormal expression of "" present on the patients cells.
+A) Pro-B ALL: lymphoblasts are CD19, CD34, CD22, TdT and Cy CD79a positive and CD10 negative; 
+B) Pre-B ALL: lymphoblasts are CD22, CD34, CD19, TdT, cytoplasmic (Cy)CD79a, CD10 and Cy mμ positive; 
+C) Cortical/thymic TALL: Lymphoblasts are cyCD3, CD7, TdT, CD5, and CD1a positive.
+
+ALL
+PRE B
+HLA Dr 98%, CD79a 88%,  CD34 76%, CD19 100%, TdT expressed/bright
+pre B ALL cells characteristically coexpress CD10 and CD19. 
+In addition, CD20 and CD23 (other B cell markers) are not expressed.
+
+
+
+CD79a showed similar positivity in B ALL cases (66%). CD 20 was positive in 66% of mature B ALL cases 
+CD3 was positive in 70% of T ALL cases and negative in other ALL subtypes.
+
+CLL
+CLL is typically characterized as CD19+, CD5+, CD23+, CD22−, CD79b− , FMC7-with weak expression of sIg.
+

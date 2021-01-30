@@ -1,0 +1,512 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+	<!-- ### NEUROLOGY ### -->
+	
+	<!-- ### ### -->
+	<!-- ######################################## Brain Cancer ######################################## -->
+	<!-- ### ### -->
+	<!-- Meningioma -->
+	
+	<!-- Pilocytic Astrocytoma (Astrocytoma Grade 1) -->
+	<GameDBMedicalCondition ID="DIA_ONCO_BRAC1_0">
+	<AbbreviationLocID>DIA_ONCO_BRAC1_0_DESC</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_ONCO_BRAC01_0_DETECTED</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_HEADACHE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_NAUSEA</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_VOMITING</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_IRRITABILITY</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_POOR_BALANCE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_BLURRED_VISION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SL_SEIZURES</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules> <!-- Neuro -->
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_INCREASED_ICP</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_FATIGUE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules> <!-- Neuro -->
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_BRAIN_ABW</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>88</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_LPT2</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules> <!-- Roughly 10% in real-life -->
+            <ProbabilityPercent>35</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_CDF_T_13</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>95</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_EGB</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+        <ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+		<ExaminationRef>EXM_EEG</ExaminationRef>
+		<ExaminationRef>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_SLP_EMICRO_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_SLP_FISH_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+		<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+		<TreatmentRef>TRT_TRANQUILIZERS</TreatmentRef>
+		<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		<TreatmentRef>TRT_ANTI_SEIZURES_MEDICINE</TreatmentRef>
+		<TreatmentRef>TRT_REST</TreatmentRef>
+		<TreatmentRef>TRT_VP_SHUNTING</TreatmentRef>
+		<TreatmentRef>TRT_CRANIOTOMY</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_NEUROLOGY</DepartmentRef>
+    <InsurancePayment>3620</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_267</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_268</CustomIconSmallAssetRef>
+		
+    <Tags>
+        <Tag>disease</Tag>
+    </Tags>
+    </GameDBMedicalCondition>
+	
+	<!-- Diffuse Astrocytoma (Astrocytoma Grade 2) -->
+	<GameDBMedicalCondition ID="DIA_ONCO_BRAC1_1">
+	<AbbreviationLocID>DIA_ONCO_BRAC1_1_DESC</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_ONCO_BRAC01_1_DETECTED</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SL_SEIZURES</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_HEADACHE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent> <!-- Neuro -->
+            <GameDBSymptomRef>SYM_INCREASED_ICP</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_BLURRED_VISION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_NAUSEA</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_VOMITING</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>75</ProbabilityPercent> <!-- Neuro -->
+            <GameDBSymptomRef>SYM_SLP_FND</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_FATIGUE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CONFUSION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>40</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_MCRO_CYSTS</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_CM_KI67_LLI</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules> <!-- Neuro -->
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_BRAIN_ABW</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+		<ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+		<ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+		<ExaminationRef>EXM_EEG</ExaminationRef>
+		<ExaminationRef>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_SLP_FNA_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_SLP_FLOWCYT</ExaminationRef>
+		<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+		<TreatmentRef>TRT_ANTI_SEIZURES_MEDICINE</TreatmentRef>
+		<TreatmentRef>TRT_REST</TreatmentRef>
+		<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+		<TreatmentRef>TRT_TRANQUILIZERS</TreatmentRef>
+		<TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
+		<TreatmentRef>TRT_VP_SHUNTING</TreatmentRef>
+		<TreatmentRef>TRT_SLP_DEBULKING</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_NEUROLOGY</DepartmentRef>
+    <InsurancePayment>4040</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_267</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_268</CustomIconSmallAssetRef>
+		
+    <Tags>
+        <Tag>disease</Tag>
+    </Tags>
+    </GameDBMedicalCondition>
+	
+	<!-- Anaplastic Astrocytomas (Astrocytoma Grade 3) -->
+	<GameDBMedicalCondition ID="DIA_ONCO_BRAC1_2">
+	<AbbreviationLocID>DIA_ONCO_BRAC1_2_DESC</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_ONCO_BRAC01_2_DETECTED</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SL_SEIZURES</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_HEADACHE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_NAUSEA</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_VOMITING</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules> <!-- Neuro -->
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_INCREASED_ICP</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_FATIGUE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules> <!-- Neuro -->
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_BRAIN_ABW</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CONFUSION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent> <!-- Neuro -->
+            <GameDBSymptomRef>SYM_SLP_FND</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_CM_KI67_BLI</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>20</ProbabilityPercent> <!-- Normally very rare, this is higher to help the player -->
+            <GameDBSymptomRef>SYM_SLP_CDF_T_14</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_DYSPHASIA</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_BLURRED_VISION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+		<ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+		<ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+		<ExaminationRef>EXM_EEG</ExaminationRef>
+		<ExaminationRef>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_SLP_FLOWCYT</ExaminationRef>
+		<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_SLP_FISH_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+		<TreatmentRef>TRT_ANTI_SEIZURES_MEDICINE</TreatmentRef>
+		<TreatmentRef>TRT_REST</TreatmentRef>
+		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+		<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+		<TreatmentRef>TRT_TRANQUILIZERS</TreatmentRef>
+		<TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
+		<TreatmentRef>TRT_VP_SHUNTING</TreatmentRef>
+		<TreatmentRef>TRT_SLP_DEBULKING</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_NEUROLOGY</DepartmentRef>
+    <InsurancePayment>4040</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_267</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_268</CustomIconSmallAssetRef>
+		
+    <Tags>
+        <Tag>disease</Tag>
+    </Tags>
+    </GameDBMedicalCondition>
+	
+	<!-- Glioblastoma (Astrocytoma Grade 4) -->
+	<GameDBMedicalCondition ID="DIA_ONCO_BRAC1_3">
+	<AbbreviationLocID>DIA_ONCO_BRAC1_3_DESC</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_ONCO_BRAC01_3_DETECTED</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>30</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SL_SEIZURES</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_FATIGUE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>95</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_HEADACHE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_NAUSEA</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_VOMITING</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent> <!-- Neuro -->
+            <GameDBSymptomRef>SYM_SLP_FND</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CONFUSION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules> <!-- Neuro -->
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_INCREASED_ICP</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules> <!-- Neuro -->
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_BRAIN_ABW</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_DYSPHASIA</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_CDF_T_15</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_CDF_T_16</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_CDF_T_17</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_BLURRED_VISION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+		<GameDBSymptomRules>
+            <ProbabilityPercent>50</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SLP_CDF_T_18</GameDBSymptomRef>
+        </GameDBSymptomRules>
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_NEUROLOGICAL_TESTING</ExaminationRef>
+		<ExaminationRef>EXM_BASIC_VISUAL_TEST</ExaminationRef>
+		<ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
+		<ExaminationRef>EXM_EEG</ExaminationRef>
+		<ExaminationRef>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_SLP_FISH_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_SLP_FLOWCYT</ExaminationRef>
+		<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+		<TreatmentRef>TRT_ANTI_SEIZURES_MEDICINE</TreatmentRef>
+		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+		<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+		<TreatmentRef>TRT_TRANQUILIZERS</TreatmentRef>
+		<TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
+		<TreatmentRef>TRT_REST</TreatmentRef>
+		<TreatmentRef>TRT_VP_SHUNTING</TreatmentRef>
+		<TreatmentRef>TRT_SLP_GTR</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_NEUROLOGY</DepartmentRef>
+    <InsurancePayment>5180</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_267</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_268</CustomIconSmallAssetRef>
+		
+    <Tags>
+        <Tag>disease</Tag>
+    </Tags>
+    </GameDBMedicalCondition>
+	
+	<!-- Protoplasmic Astrocytomas -->
+	
+	<!-- Gemistocytic Astrocytomas -->
+	
+	<!-- Astrocytic Glioma -->
+	
+	<!-- Hypothalamic-Optic Glioma -->
+		<!-- SYM_SLP_CDF_T_13 -->
+		
+	<!-- Ependymomas -->
+	
+	<!-- Oligodendrogliomas -->
+		<!-- IDH mutated, 1p19q co-deleted -->
+	
+	<!-- Craniopharyngiomas -->
+	
+	<!-- Medulloblastomas -->
+	
+	<!-- Ganglioglioma  -->
+		<!-- Eosinophilic Granular Bodies -->
+	
+	<!-- Pleomorphic xanthoastrocytoma -->
+		<!-- Eosinophilic Granular Bodies -->
+	
+	<!-- Metastatic Brain Cancer -->
+	
+</Database>

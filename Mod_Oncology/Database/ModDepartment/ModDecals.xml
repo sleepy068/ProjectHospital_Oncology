@@ -1,0 +1,202 @@
+﻿<Database>
+
+   <GameDBObject ID="OBJECT_DECAL_MOD_ONCO">
+        <AbbreviationLocID>OBJECT_DECAL_ONCO_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>1</TextureIDNE>
+        <TextureIDSE>2</TextureIDSE>
+        <TextureIDSW>3</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_ONCO_CUSTOM_ICON001</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions></AccessPositions><!-- No limit -->
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+	
+	<GameDBObject ID="OBJECT_DECAL_MOD_ONCO1">
+        <AbbreviationLocID>OBJECT_DECAL_ONCO_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>4</TextureIDNW>
+        <TextureIDNE>5</TextureIDNE>
+        <TextureIDSE>6</TextureIDSE>
+        <TextureIDSW>7</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_ONCO_CUSTOM_ICON002</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions></AccessPositions><!-- No limit -->
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+	
+	<GameDBObject ID="OBJECT_DECAL_MOD_ONCO2">
+        <AbbreviationLocID>OBJECT_DECAL_ONCO_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>8</TextureIDNW>
+        <TextureIDNE>9</TextureIDNE>
+        <TextureIDSE>10</TextureIDSE>
+        <TextureIDSW>11</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_ONCO_CUSTOM_ICON003</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions></AccessPositions><!-- No limit -->
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+	
+	<GameDBObject ID="OBJECT_DECAL_MOD_ONCO3">
+        <AbbreviationLocID>OBJECT_DECAL_ONCO_DESC</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_ONCO_DECALS</TextureRef>
+        <TextureAtlasLayout>LAYOUT_16_X_16</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_1</SpriteShape>
+        <TextureIDNW>12</TextureIDNW>
+        <TextureIDNE>13</TextureIDNE>
+        <TextureIDSE>14</TextureIDSE>
+        <TextureIDSW>15</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_ONCO_CUSTOM_ICON004</CustomIconAssetRef>
+
+        <Placement>UNLIMITED</Placement>
+
+        <AccessPositions></AccessPositions><!-- No limit -->
+        <PlacedToEdge>true</PlacedToEdge>
+        <AttachedToWall>true</AttachedToWall>
+        <AllowedInCorners>true</AllowedInCorners>
+        <NonBlocking>true</NonBlocking>
+        <NotInteractable>true</NotInteractable>
+        <HeightOffset>1.5</HeightOffset>
+
+        <Tags>
+            <Tag>ui_decals</Tag>
+        </Tags>
+
+        <ColorSetRef>COLOR_SET_BUILDING_DECALS</ColorSetRef>
+        <Cost>20</Cost>
+    </GameDBObject>
+
+</Database>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

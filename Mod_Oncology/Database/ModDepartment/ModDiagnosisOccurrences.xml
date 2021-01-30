@@ -1,0 +1,38 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+    <GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_COMMON">
+        <OccurrenceRate>100</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+    
+    <GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_UNCOMMON">
+        <OccurrenceRate>50</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+	
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_UNLIKELY">
+        <OccurrenceRate>33</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+    
+    <GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_RARE">
+        <OccurrenceRate>25</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+	
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_PRETTYRARE">
+        <OccurrenceRate>15</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+	
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_VERYRARE">
+		<OccurrenceRate>10</OccurrenceRate>
+	</GameDBDiagnosisOccurrence>
+	  
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_ULTRARARE">
+		<OccurrenceRate>5</OccurrenceRate>
+	</GameDBDiagnosisOccurrence>
+	
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_UNIQUE">
+		<OccurrenceRate>2</OccurrenceRate>
+	</GameDBDiagnosisOccurrence>
+	
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_SL_ULTRAUNIQUE">
+		<OccurrenceRate>1</OccurrenceRate>
+	</GameDBDiagnosisOccurrence>
+</Database>
