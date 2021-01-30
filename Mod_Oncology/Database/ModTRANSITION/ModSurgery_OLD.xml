@@ -1,7 +1,7 @@
 ﻿<Database>
 	<!-- Oncology Mod by Sleepy068 -->
-    <GameDBTreatment ID="SUR_SLP_WIDELOCALEXCISION"> <!-- $1250 -->
-        <AbbreviationLocID>SUR_SLP_WIDELOCALEXCISION_DESC</AbbreviationLocID>
+    <GameDBTreatment ID="TRT_SLP_MOHS_MICROGRAPHIC_SURGERY"> <!-- $1250 -->
+        <AbbreviationLocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY_DESC</AbbreviationLocID>
         <DiscomfortLevel>Medium</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -53,7 +53,7 @@
 
             <Complications>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>6</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -68,7 +68,7 @@
                     <ProbabilityPercentMaxSkillLevel>3</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>3</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -137,8 +137,8 @@
 
     </GameDBTreatment>
 	
-	<GameDBTreatment ID="SUR_SLP_LAPAROSCOPIC_SURGERY"> <!-- $1425 -->
-        <AbbreviationLocID>SUR_SLP_LAPAROSCOPIC_SURGERY_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_LAPAROSCOPIC_SURGERY"> <!-- $1425 -->
+        <AbbreviationLocID>TRT_SLP_LAPAROSCOPIC_SURGERY_DESC</AbbreviationLocID>
         <DiscomfortLevel>Medium</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -190,7 +190,7 @@
 
             <Complications>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>9</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -269,8 +269,8 @@
 
     </GameDBTreatment>
 	
-	<GameDBTreatment ID="SUR_SLP_LOBECTOMY_SURGERY"> <!-- $1870 -->
-        <AbbreviationLocID>SUR_SLP_LOBECTOMY_SURGERY_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_LOBECTOMY_SURGERY"> <!-- $1870 -->
+        <AbbreviationLocID>TRT_SLP_LOBECTOMY_SURGERY_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -322,7 +322,7 @@
 
             <Complications>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>10</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -337,7 +337,7 @@
                     <ProbabilityPercentMaxSkillLevel>3</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>3</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -406,8 +406,8 @@
 
     </GameDBTreatment>
 
-	<GameDBTreatment ID="SUR_SLP_ENDOVASCULAR_EMBOLISATION"> <!-- $- -->
-        <AbbreviationLocID>SUR_SLP_ENDOVASCULAR_EMBOLISATION_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_ENDOVASCULAR_EMBOLISATION"> <!-- $- -->
+        <AbbreviationLocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -459,7 +459,7 @@
 
             <Complications>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>9</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -479,7 +479,7 @@
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>3</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -548,8 +548,8 @@
 
     </GameDBTreatment>
 	
-	<GameDBTreatment ID="SUR_SLP_ONCO_NERVE_DECOM_SURGERY"> <!-- $- -->
-        <AbbreviationLocID>SUR_SLP_ONCO_NERVE_DECOM_SURGERY_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_NERVE_DECOM_SURGERY"> <!-- $- -->
+        <AbbreviationLocID>TRT_SLP_NERVE_DECOM_SURGERY_DESC</AbbreviationLocID>
         <DiscomfortLevel>Medium</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -601,7 +601,7 @@
 
             <Complications>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>9</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -616,7 +616,7 @@
                     <ProbabilityPercentMaxSkillLevel>3</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>3</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -685,8 +685,8 @@
 
     </GameDBTreatment>
 	
-	<GameDBTreatment ID="SUR_SLP_POLYPECTOMY"> <!-- $1200 -->
-        <AbbreviationLocID>SUR_SLP_POLYPECTOMY_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_POLYPECTOMY"> <!-- $1200 -->
+        <AbbreviationLocID>TRT_SLP_POLYPECTOMY_DESC</AbbreviationLocID>
         <DiscomfortLevel>Medium</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -738,7 +738,7 @@
 
             <Complications>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>6</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -753,7 +753,7 @@
                     <ProbabilityPercentMaxSkillLevel>3</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>3</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -821,8 +821,8 @@
 
     </GameDBTreatment>
 
-	<GameDBTreatment ID="SUR_SLP_PARTIAL_COLECTOMY"> <!-- $2650 -->
-        <AbbreviationLocID>SUR_SLP_PARTIAL_COLECTOMY_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_PARTIAL_COLECTOMY"> <!-- $2650 -->
+        <AbbreviationLocID>TRT_SLP_PARTIAL_COLECTOMY_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -879,7 +879,7 @@
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>6</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -894,7 +894,7 @@
                     <ProbabilityPercentMaxSkillLevel>3</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>4</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -962,8 +962,8 @@
 
     </GameDBTreatment>
 	
-	<GameDBTreatment ID="SUR_SLP_ADRENALECTOMY"> <!-- $2885 -->
-        <AbbreviationLocID>SUR_SLP_ADRENALECTOMY_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_ADRENALECTOMY"> <!-- $2885 -->
+        <AbbreviationLocID>TRT_SLP_ADRENALECTOMY_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -1020,7 +1020,7 @@
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>6</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -1035,7 +1035,7 @@
                     <ProbabilityPercentMaxSkillLevel>3</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>4</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -1103,8 +1103,8 @@
 
     </GameDBTreatment>
 
-	<GameDBTreatment ID="SUR_SLP_SPLENECTOMY"> <!-- $- -->
-        <AbbreviationLocID>SUR_SLP_SPLENECTOMY_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_SPLENECTOMY"> <!-- $- -->
+        <AbbreviationLocID>TRT_SLP_SPLENECTOMY_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -1156,7 +1156,7 @@
 
             <Complications>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>10</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>5</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -1171,7 +1171,7 @@
                     <ProbabilityPercentMaxSkillLevel>5</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>4</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -1244,8 +1244,8 @@
 
     </GameDBTreatment>
 
-	<GameDBTreatment ID="SUR_SLP_SEG_MASTECTOMY"> <!-- $1700 -->
-        <AbbreviationLocID>SUR_SLP_SEG_MASTECTOMY_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_SEG_MASTECTOMY"> <!-- $1700 -->
+        <AbbreviationLocID>TRT_SLP_SEG_MASTECTOMY_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -1297,7 +1297,7 @@
 
             <Complications>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>6</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -1312,7 +1312,7 @@
                     <ProbabilityPercentMaxSkillLevel>3</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>3</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -1381,8 +1381,8 @@
 
     </GameDBTreatment>
  
-	<GameDBTreatment ID="SUR_SLP_DEBULKING"> <!-- NEURO (Variable) -->
-        <AbbreviationLocID>SUR_SLP_DEBULKING_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_DEBULKING"> <!-- NEURO (Variable) -->
+        <AbbreviationLocID>TRT_SLP_DEBULKING_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -1445,7 +1445,7 @@
                     <ProbabilityPercentMaxSkillLevel>5</ProbabilityPercentMaxSkillLevel>
                 </Complication>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>10</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>5</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -1520,8 +1520,8 @@
     </GameDBTreatment>
 	
 	<!-- Gross-Total Resection Craniotomy -->
-	<GameDBTreatment ID="SUR_SLP_GTR"> <!-- NEURO (Variable) -->
-        <AbbreviationLocID>SUR_SLP_GTR_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_GTR"> <!-- NEURO (Variable) -->
+        <AbbreviationLocID>TRT_SLP_GTR_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -1584,7 +1584,7 @@
                     <ProbabilityPercentMaxSkillLevel>5</ProbabilityPercentMaxSkillLevel>
                 </Complication>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>10</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>5</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -1659,8 +1659,8 @@
     </GameDBTreatment>
 	
 	<!-- Unilateral Salpingo-Oophorectomy -->
-	<GameDBTreatment ID="SUR_SLP_UNI_SALOOPH"> <!-- $1950 -->
-        <AbbreviationLocID>SUR_SLP_UNI_SALOOPH_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_UNI_SALOOPH"> <!-- $1950 -->
+        <AbbreviationLocID>TRT_SLP_UNI_SALOOPH_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -1717,7 +1717,7 @@
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>6</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -1732,7 +1732,7 @@
                     <ProbabilityPercentMaxSkillLevel>3</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>4</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -1801,8 +1801,8 @@
     </GameDBTreatment>
 	
 	<!-- Radical Prostatectomy -->
-	<GameDBTreatment ID="SUR_SLP_RAD_PROS"> <!-- $2120 -->
-        <AbbreviationLocID>SUR_SLP_RAD_PROS_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_RAD_PROS"> <!-- $2120 -->
+        <AbbreviationLocID>TRT_SLP_RAD_PROS_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -1859,12 +1859,12 @@
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ED</SymptomRef>
+                    <SymptomRef>SYM_SLP_ED</SymptomRef>
                     <ProbabilityPercent>3</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>6</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -1879,7 +1879,7 @@
                     <ProbabilityPercentMaxSkillLevel>3</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>4</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -1948,8 +1948,8 @@
     </GameDBTreatment>
 	
 	<!-- Parathyroidectomy -->
-	<GameDBTreatment ID="SUR_SLP_PARATHY"> <!-- $- -->
-        <AbbreviationLocID>SUR_SLP_PARATHY_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_PARATHY"> <!-- $- -->
+        <AbbreviationLocID>TRT_SLP_PARATHY_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -2006,7 +2006,7 @@
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>6</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -2021,7 +2021,7 @@
                     <ProbabilityPercentMaxSkillLevel>3</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>4</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -2090,8 +2090,8 @@
     </GameDBTreatment>
 	
 	<!-- Segmentectomy (Segmental resection)  -->
-	<GameDBTreatment ID="SUR_SLP_SEGMENTECTOMY"> <!-- $1650 -->
-        <AbbreviationLocID>SUR_SLP_SEGMENTECTOMY_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_SEGMENTECTOMY"> <!-- $1650 -->
+        <AbbreviationLocID>TRT_SLP_SEGMENTECTOMY_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -2148,7 +2148,7 @@
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>6</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -2163,7 +2163,7 @@
                     <ProbabilityPercentMaxSkillLevel>3</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>4</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -2232,8 +2232,8 @@
     </GameDBTreatment>
 	
 	<!-- Hepatectomy -->
-	<GameDBTreatment ID="SUR_SLP_HEPATECTOMY"> <!-- $1875 -->
-        <AbbreviationLocID>SUR_SLP_HEPATECTOMY_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_HEPATECTOMY"> <!-- $1875 -->
+        <AbbreviationLocID>TRT_SLP_HEPATECTOMY_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -2290,7 +2290,7 @@
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>6</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -2305,7 +2305,7 @@
                     <ProbabilityPercentMaxSkillLevel>3</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>4</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -2379,7 +2379,7 @@
     </GameDBTreatment>
 	
 	<!-- Liver Transplant Surgery  -->
-	<GameDBTreatment ID="SUR_SLP_LIVER_TRANSPL"> <!-- $ -->
+	<GameDBTreatment ID="TRT_SLP_LIVER_TRANSPL"> <!-- $ -->
         <AbbreviationLocID>TRT_SLP_LIVER_TRANSPL_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
@@ -2438,7 +2438,7 @@
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>6</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -2453,12 +2453,12 @@
                     <ProbabilityPercentMaxSkillLevel>3</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>3</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_CELL_REJECTION</SymptomRef>
+                    <SymptomRef>SYM_SLP_CELL_REJECTION</SymptomRef>
                     <ProbabilityPercent>1</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -2527,8 +2527,8 @@
     </GameDBTreatment>
 	
 	<!-- Parotidectomy -->
-	<GameDBTreatment ID="SUR_SLP_PAROTIDECTOMY"> <!-- $2050 -->
-        <AbbreviationLocID>SUR_SLP_PAROTIDECTOMY_DESC</AbbreviationLocID>
+	<GameDBTreatment ID="TRT_SLP_PAROTIDECTOMY"> <!-- $2050 -->
+        <AbbreviationLocID>TRT_SLP_PAROTIDECTOMY_DESC</AbbreviationLocID>
         <DiscomfortLevel>High</DiscomfortLevel>
         <Procedure>
             <StaffSelectionRules>DEFAULT_ROOMS</StaffSelectionRules>
@@ -2585,7 +2585,7 @@
                     <ProbabilityPercentMaxSkillLevel>1</ProbabilityPercentMaxSkillLevel>
                 </Complication>
                 <Complication>
-                    <SymptomRef>SYM_CRP_ABSCESS</SymptomRef>
+                    <SymptomRef>SYM_SL_ABSCESS</SymptomRef>
                     <ProbabilityPercent>6</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>
@@ -2600,7 +2600,7 @@
                     <ProbabilityPercentMaxSkillLevel>3</ProbabilityPercentMaxSkillLevel>
                 </Complication>
 				<Complication>
-                    <SymptomRef>SYM_CRP_ANAPHYLACTIC_SHOCK</SymptomRef>
+                    <SymptomRef>SYM_SLP_ANAPHYLACTIC_SHOCK</SymptomRef>
                     <ProbabilityPercent>4</ProbabilityPercent>
                     <ProbabilityPercentMaxSkillLevel>2</ProbabilityPercentMaxSkillLevel>
                 </Complication>

@@ -1,6 +1,6 @@
 <Database>
 	<!-- Oncology Mod by Sleepy068 -->
-	<GameDBStringTable ID="LOC_EN_ADDON_ONCOLOGYSL_TREATMENTS">
+	<GameDBStringTable ID="LOC_EN_ADDON_ONCOLOGYSL_TREATMENTSOLD">
 	<LanguageCode>en</LanguageCode>
 	<LanguageNameLocalized>English</LanguageNameLocalized>
 	<Contributors>
@@ -27,16 +27,6 @@
 	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_PHOTODYNAMIC_THERAPY_DESC</LocID>                        	
 	<Text>Photodynamic therapy is a treatment that uses certain drugs called photosensitizing agents, along with a special light, to kill cancer cells. \n\nRequired room: Any office</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</LocID>                               
-	<Text>Wide Local Excision (WLE)</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY_DESC</LocID>                   
-	<Text>A wide local excision (WLE) is a surgical procedure to remove a small area of diseased or problematic tissue with a margin of normal tissue. This procedure is commonly performed on the breast and to skin lesions, but can be used on any area of the body. \n\nRequired room: Operating room at Oncology dpt.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -70,36 +60,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_LAPAROSCOPIC_SURGERY</LocID>                                    	
-	<Text>Laparoscopic Surgery</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_LAPAROSCOPIC_SURGERY_DESC</LocID>                        	
-	<Text>Laparoscopic or “minimally invasive” surgery is a specialized technique for performing surgery. It's a low-risk, minimally invasive procedure that requires only small incisions. Laparoscopy uses an instrument called a laparoscope to look at the abdominal organs. \n\nRequired room: Operating room at Oncology dpt.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_LOBECTOMY_SURGERY</LocID>                                    	
-	<Text>Pulmonary Lobectomy</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_LOBECTOMY_SURGERY_DESC</LocID>                        	
-	<Text>Pulmonary Lobectomy of the lung is a surgical operation where a lobe of the lung is removed. It is done to remove a portion of diseased lung, such as early stage lung cancer. \n\nRequired room: Operating room at Oncology dpt.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION</LocID>                                    	
-	<Text>Endovascular Embolization</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>                        	
-	<Text>Endovascular embolization (EE) is an invasive surgical procedure. It’s used to treat abnormal blood vessels found in your brain, as well as other areas of your body. This procedure is an alternative to open surgery. It blocks blood vessels to cut off blood flow to an affected area. \n\nRequired room: Operating room at Oncology dpt.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_IMMUNOTHERAPY_DRUGS</LocID>                                    	
 	<Text>Immunotherapy</Text>  
 	</GameDBLocalizedString>
@@ -108,17 +68,7 @@
 	<LocID>TRT_SLP_IMMUNOTHERAPY_DRUGS_DESC</LocID>                        	
 	<Text>Immunotherapy is a type of cancer treatment which assists the body's immune system to fight cancer. \n\nRequired room: Any office</Text>  
 	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_NERVE_DECOM_SURGERY</LocID>                                    	
-	<Text>Nerve Reconstructive Surgery</Text>
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_NERVE_DECOM_SURGERY_DESC</LocID>                        	
-	<Text>Nerve Reconstructive Surgery, or surgical nerve repair involves exploration of the injured nerve and removal of injured tissue or scar from the nerve endings. After that, a nerve can be directly reconnected if there is enough length on the ends to allow for a good quality repair without tension. \n\nRequired room: Operating room at Neurology dpt.</Text>  
-	</GameDBLocalizedString>
-	
+		
 	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_EPIPEN</LocID>                                    	
 	<Text>Epinephrine Autoinjector</Text>  
@@ -127,36 +77,6 @@
 	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_EPIPEN_DESC</LocID>                        	
 	<Text>An epinephrine autoinjector is a medical device for injecting a measured dose or doses of epinephrine by means of autoinjector technology. It is most often used for the treatment of anaphylaxis. \n\nRequired room: Any office</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_POLYPECTOMY</LocID>                                    	
-	<Text>Polypectomy</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_POLYPECTOMY_DESC</LocID>                        	
-	<Text>A polypectomy is a procedure used to remove polyps from the inside of the colon, also called the large intestine. A polyp is an abnormal collection of tissue. The procedure is relatively noninvasive. \n\nRequired room: Operating room at Oncology dpt.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_PARTIAL_COLECTOMY</LocID>                                    	
-	<Text>Colectomy</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_PARTIAL_COLECTOMY_DESC</LocID>                        	
-	<Text>A Colectomy is bowel resection of the large bowel. It consists of the surgical removal of any extent of the colon, usually segmental resection. In extreme cases where the entire large intestine is removed. \n\nRequired room: Operating room at Oncology dpt.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_ADRENALECTOMY</LocID>                                    	
-	<Text>Adrenalectomy</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_ADRENALECTOMY_DESC</LocID>                        	
-	<Text>Adrenalectomy is the surgical removal of one or both adrenal glands. It is usually advised for patients with tumors of the adrenal glands. The procedure can be performed using an open incision or laparoscopic technique. \n\nRequired room: Operating room at Oncology dpt.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -209,16 +129,6 @@
 	<Text>The term 'hyper' refers to the hyperfractionated nature of the chemotherapy, which is given in smaller doses, more frequently, to minimize side effects. 'CVAD' is the acronym of the drugs used in course A: cyclophosphamide, vincristine, doxorubicin (also known by its trade name, Adriamycin), and dexamethasone. Short-term intensive therapies show improved results. \n\nRequired room: High Priority Hospitalisation at Oncology dpt.</Text>  
 	</GameDBLocalizedString>
 	
-	<GameDBLocalizedString>     
-	<LocID>TRT_SLP_SPLENECTOMY</LocID>                                    	
-	<Text>Splenectomy</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_SPLENECTOMY_DESC</LocID>                        	
-	<Text>Splenectomy is a surgical procedure to remove your spleen. The spleen is an organ that sits under your rib cage on the upper left side of your abdomen. It helps fight infection and filters unneeded material, such as old or damaged blood cells, from your blood. The most common reason for splenectomy is to treat a ruptured spleen, which is often caused by an abdominal injury. Splenectomy may be used to treat other conditions, including an enlarged spleen that is causing discomfort (splenomegaly), some blood disorders, certain cancers, infection, and noncancerous cysts or tumors. \n\nRequired room: Operating room at Oncology dpt.</Text>  
-	</GameDBLocalizedString>
-	
 	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_G_CSF</LocID>                                    	
 	<Text>G-CSF Drugs</Text>  
@@ -259,10 +169,6 @@
 	<Text>BRAF Inhibitors help block the BRAF-V600E gene mutation. In clinical trials, B-Raf increased metastatic melanoma patient chance of survival. In spite of the drug's high efficacy, 20% of tumors still develop resistance to the treatment. \n\nRequired room: Any office.</Text>  
 	</GameDBLocalizedString>
 	
-	<!-- ### ### -->
-	<!-- ######################################## Content for V0.13 Added Below ######################################## -->
-	<!-- ### ### -->
-	
 	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_TAMOXIFEN</LocID>                                    	
 	<Text>Tamoxifen</Text>  
@@ -271,16 +177,6 @@
 	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_TAMOXIFEN_DESC</LocID>                        	
 	<Text>Tamoxifen is a hormone therapy for breast cancer in both women and men. It lowers the risk of early breast cancer coming back (recurring) after surgery or developing in the other breast. It can also control advanced breast cancer for some time. \n\nRequired room: Any office.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_SEG_MASTECTOMY</LocID>                                    	
-	<Text>Partial Mastectomy</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_SEG_MASTECTOMY_DESC</LocID>                        	
-	<Text>An operation to remove the cancer and some normal tissue around it, but not the breast itself. Some lymph nodes under the arm may be removed for biopsy. Part of the chest wall lining may also be removed if the cancer is near it. \n\nRequired room: Operating room at Oncology dpt.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -304,26 +200,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_DEBULKING</LocID>                                    	
-	<Text>Surgical Debulking</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_DEBULKING_DESC</LocID>                        	
-	<Text>Surgical debulking of tumors is a procedure whereby a surgically incurable malignant neoplasm is partially removed without curative intent in order to make subsequent therapy with drugs, radiation or other adjunctive measures more effective and, thereby, improve the length of survival. The doctor will need to book follow up treatment appointments with the patient in an attempt push the cancer into remission. \n\nRequired room: Operating room at Neurology dpt.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_GTR</LocID>                                    	
-	<Text>Gross-Total Resection Craniotomy</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_GTR_DESC</LocID>                        	
-	<Text>Gross total resection is a complete removal of the magnetic resonance imaging (MRI) visible tumor tissue. Supratotal resection is performed as gross total resection with excising the MRI visible tumor tissue borders into the unaffected brain tissue. \n\nRequired room: Operating room at Neurology dpt.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_ESTRADIOL_CREAM</LocID>                                    	
 	<Text>Estradiol Cream</Text>  
 	</GameDBLocalizedString>
@@ -331,26 +207,6 @@
 	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_ESTRADIOL_CREAM_DESC</LocID>                        	
 	<Text>Estradiol cream is a preparation of estrogen, a female hormone, for topical application to the vaginal area used to treat certain symptoms of menopause such as dryness, burning, and itching of the vaginal area and urgency or irritation with urination. \n\nRequired room: Any office.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_UNI_SALOOPH</LocID>                                    	
-	<Text>Unilateral Salpingo-Oophorectomy</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_UNI_SALOOPH_DESC</LocID>                        	
-	<Text>A unilateral salpingo-oophorectomy is the surgical removal of one ovary and one fallopian tube, both of which are located on the same side of the body and share a common blood supply (in contrast, a bilateral procedure involves the removal of both ovaries and fallopian tubes). Unilateral salpingo-oophorectomy should be considered as the first choice of fertility-sparing treatment for women who wish to preserve fertility. Although the higher risk of local relapses is found, it is not associated with decreased overall survival. \n\nRequired room: Operating room at Oncology dpt.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_RAD_PROS</LocID>                                    	
-	<Text>Radical Prostatectomy</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_RAD_PROS_DESC</LocID>                        	
-	<Text>Radical prostatectomy is an operation to remove the prostate gland and tissues surrounding it. This usually includes the seminal vesicles and some nearby lymph nodes. Radical prostatectomy can cure prostate cancer in men whose cancer is limited to the prostate. \n\nRequired room: Operating room at Oncology dpt.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -364,16 +220,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_PARATHY</LocID>                                    	
-	<Text>Parathyroidectomy</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_PARATHY_DESC</LocID>                        	
-	<Text>Parathyroidectomy is surgery to remove the parathyroid glands or parathyroid tumors. The parathyroid glands are right behind your thyroid gland in your neck. These glands help your body control the calcium level in the blood. \n\nRequired room: Operating room at Oncology dpt.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_RCHOP</LocID>                                    	
 	<Text>R-CHOP Chemotherapy</Text>  
 	</GameDBLocalizedString>
@@ -382,10 +228,6 @@
 	<LocID>TRT_SLP_RCHOP_DESC</LocID>                        	
 	<Text>R-CHOP is a combination treatment used to treat non-Hodgkin lymphoma (NHL). R-CHOP includes five chemotherapy drugs: rituximab (Rituxan) cyclophosphamide. doxorubicin hydrochloride, vincristine and prednisolone. \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
 	</GameDBLocalizedString>
-	
-	<!-- ### ### -->
-	<!-- ######################################## Content for V0.13.1a Added Below ######################################## -->
-	<!-- ### ### -->
 	
 	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_RITUXIMAB</LocID>                                    	
@@ -396,10 +238,6 @@
 	<LocID>TRT_SLP_RITUXIMAB_DESC</LocID>                        	
 	<Text>Rituximab, sold under the brand name Rituxan among others, is a medication used to treat certain autoimmune diseases and types of cancer. Rituximab is a chimeric monoclonal antibody against the protein CD20, which is primarily found on the surface of immune system B cells. When it binds to this protein it triggers cell death. \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
 	</GameDBLocalizedString>
-	
-	<!-- ### ### -->
-	<!-- ######################################## Content for V0.13.2.0 Added Below ######################################## -->
-	<!-- ### ### -->
 	
 	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_GEMCITABINE</LocID>                                    	
@@ -422,16 +260,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_SEGMENTECTOMY</LocID>                                    	
-	<Text>Segmentectomy</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_SEGMENTECTOMY_DESC</LocID>                        	
-	<Text>Segmental resection is a surgical procedure to remove part of an organ or gland, as a sub-type of a resection, which might involve removing the whole body part. It may also be used to remove a tumor and normal tissue around it. \n\nRequired room: Operating room at Oncology dpt.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_FEP</LocID>                                    	
 	<Text>FEP Combination Treatment</Text>  
 	</GameDBLocalizedString>
@@ -440,10 +268,6 @@
 	<LocID>TRT_SLP_FEP_DESC</LocID>                        	
 	<Text>5-Fluorouracil (5-FU), Cisplatin, and Etoposide (FEP) Combination Treatment. Chemotherapy has relatively poor curative efficacy in certain cancers such as Signet Ring Cell Carcinoma (SRCC) and patients and overall survival rates are lower compared to patients with more typical cancer pathology. These cancers are usually diagnosed during the late stages of the disease, so the tumors generally spread more aggressively than non-signet cancers, making treatment challenging but most active regimens include 5-Fluorouracil (5-FU), Cisplatin, and/or Etoposide. FEP combination chemotherapy seems to be an effective treatment regimen for gastric cancer as salvage chemotherapy. \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
 	</GameDBLocalizedString>
-	
-	<!-- ### ### -->
-	<!-- ######################################## Content for V0.13.3.0 Added Below ######################################## -->
-	<!-- ### ### -->
 	
 	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_AMMONUL</LocID>                                    	
@@ -466,26 +290,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_HEPATECTOMY</LocID>                                    	
-	<Text>Hepatectomy</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_HEPATECTOMY_DESC</LocID>                        	
-	<Text>Hepatectomy is the surgical resection (removal of all or part) of the liver. \n\nRequired room: Operating room at Oncology dpt.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_LIVER_TRANSPL</LocID>                                    	
-	<Text>Liver Transplant Surgery</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_LIVER_TRANSPL_DESC</LocID>                        	
-	<Text>A liver transplant is a surgical procedure that removes a liver that no longer functions properly (liver failure) and replaces it with a healthy liver from a deceased donor or a portion of a healthy liver from a living donor. \n\nRequired room: Operating room at Oncology dpt.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 	<LocID>TRT_SLP_IMMUNOSUS_DRUGS</LocID>                                    	
 	<Text>Immunosuppressive Drugs</Text>  
 	</GameDBLocalizedString>
@@ -495,23 +299,6 @@
 	<Text>Immunosuppressant drugs are a class of drugs that suppress, or reduce, the strength of the body’s immune system. Some of these drugs are used to make the body less likely to reject a transplanted organ, such as a liver, heart, or kidney. \n\nRequired room: Operating room at Oncology dpt.</Text>  
 	</GameDBLocalizedString>
 	
-	<!-- ### ### -->
-	<!-- ######################################## Content for V0.13.4.1 Added Below ######################################## -->
-	<!-- ### ### -->
-	
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_PAROTIDECTOMY</LocID>                                    	
-	<Text>Parotidectomy</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-	<LocID>TRT_SLP_PAROTIDECTOMY_DESC</LocID>                        	
-	<Text>A parotidectomy is the surgical excision of the parotid gland, the major and largest of the salivary glands. The procedure is most typically performed due to neoplasms, which are growths of rapidly and abnormally dividing cells. Neoplasms can be benign or malignant. \n\nRequired room: Operating room at Oncology dpt.</Text>  
-	</GameDBLocalizedString>
-	
-	<!-- ### ### -->
-	<!-- ######################################## Content for V0.14.0.2 Added Below ######################################## -->
-	<!-- ### ### -->
 	
 	</LocalizedStrings>
 	</GameDBStringTable>

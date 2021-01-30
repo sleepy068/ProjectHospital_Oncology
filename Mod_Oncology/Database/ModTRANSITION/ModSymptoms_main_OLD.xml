@@ -1,8 +1,8 @@
 <Database>
 	<!-- Oncology Mod by Sleepy068 -->
 	<!-- Skin Cancer -->
-	<GameDBSymptom ID="SYM_ONCO_CRP_SC1_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_SC1_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_SC1_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_SC1_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Low</Hazard>
@@ -25,8 +25,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_SC1_2_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_SC1_2_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_SC1_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_SC1_2_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Low</Hazard>
@@ -48,8 +48,8 @@
 
     </GameDBSymptom>
 
-	<GameDBSymptom ID="SYM_ONCO_CRP_SC1_3_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_SC1_3_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_SC1_3_DETECTED">
+        <DescriptionLocID>SYM_ONCO_SC1_3_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -60,7 +60,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+            <TreatmentRef>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -72,8 +72,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_SC1_4_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_SC1_4_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_SC1_4_DETECTED">
+        <DescriptionLocID>SYM_ONCO_SC1_4_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -96,8 +96,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_SC2_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_SC2_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_SC2_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_SC2_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Low</Hazard>
@@ -120,8 +120,8 @@
 		-->
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_SC2_2_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_SC2_2_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_SC2_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_SC2_2_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Low</Hazard>
@@ -144,8 +144,8 @@
 		-->
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_SC2_3_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_SC2_3_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_SC2_3_DETECTED">
+        <DescriptionLocID>SYM_ONCO_SC2_3_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -156,7 +156,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+            <TreatmentRef>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -169,8 +169,8 @@
 		-->
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_SC2_4_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_SC2_4_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_SC2_4_DETECTED">
+        <DescriptionLocID>SYM_ONCO_SC2_4_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -194,8 +194,8 @@
 		-->
     </GameDBSymptom>
 
-	<GameDBSymptom ID="SYM_ONCO_CRP_SC3_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_SC3_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_SC3_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_SC3_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -218,8 +218,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_SC3_2_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_SC3_2_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_SC3_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_SC3_2_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -242,8 +242,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_SC3_3_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_SC3_3_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_SC3_3_DETECTED">
+        <DescriptionLocID>SYM_ONCO_SC3_3_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -254,7 +254,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+            <TreatmentRef>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -267,8 +267,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_SC3_4_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_SC3_4_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_SC3_4_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_SC3_4_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -292,8 +292,8 @@
 		
     </GameDBSymptom>
 
-	<GameDBSymptom ID="SYM_ONCO_CRP_SC4_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_SC4_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_SC4_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_SC4_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -303,7 +303,7 @@
             <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+            <TreatmentRef>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -316,8 +316,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_SC4_1_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_SC4_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_SC4_1_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_SC4_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -342,8 +342,8 @@
     </GameDBSymptom>
 	
 	<!-- Adrenal Cancer -->
-	<GameDBSymptom ID="SYM_ONCO_CRP_AGC1_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_AGC1_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_AGC1_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_AGC1_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -366,8 +366,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_016</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_AGC1_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_AGC1_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_AGC1_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_AGC1_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -378,7 +378,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_LAPAROSCOPIC_SURGERY</TreatmentRef>
+            <TreatmentRef>TRT_SLP_LAPAROSCOPIC_SURGERY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -390,8 +390,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_016</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_AGC1_2_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_AGC1_2_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_AGC1_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_AGC1_2_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -415,8 +415,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_016</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_AGC2_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_AGC2_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_AGC2_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_AGC2_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -439,8 +439,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_046</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_AGC2_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_AGC2_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_AGC2_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_AGC2_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -451,7 +451,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_ADRENALECTOMY</TreatmentRef>
+            <TreatmentRef>TRT_SLP_ADRENALECTOMY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -463,8 +463,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_046</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_AGC2_2_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_AGC2_2_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_AGC2_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_AGC2_2_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -489,8 +489,8 @@
     </GameDBSymptom>
 	
 	<!-- Lung Cancer -->
-	<GameDBSymptom ID="SYM_ONCO_CRP_LC_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_LC_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_LC_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_LC_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -514,8 +514,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_LC_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_LC_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_LC_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_LC_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -526,7 +526,7 @@
         </Examinations>
 		
         <Treatments>
-            <TreatmentRef>SUR_SLP_LOBECTOMY_SURGERY</TreatmentRef>
+            <TreatmentRef>TRT_SLP_LOBECTOMY_SURGERY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -539,8 +539,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_LC_2_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_LC_2_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_LC_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_LC_2_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -565,8 +565,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_LC1_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_LC1_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_LC1_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_LC1_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -590,8 +590,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_LC1_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_LC1_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_LC1_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_LC1_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -616,8 +616,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_LC2_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_LC2_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_LC2_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_LC2_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -640,8 +640,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_LC3_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_LC3_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_LC3_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_LC3_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -664,8 +664,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_LC3_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_LC3_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_LC3_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_LC3_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -675,7 +675,7 @@
             <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_SEGMENTECTOMY</TreatmentRef>
+            <TreatmentRef>TRT_SLP_SEGMENTECTOMY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -688,8 +688,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_LC4_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_LC4_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_LC4_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_LC4_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -713,8 +713,8 @@
     </GameDBSymptom>
 	
 	<!-- Bowel Cancer -->
-	<GameDBSymptom ID="SYM_ONCO_CRP_BC1_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BC1_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BC1_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BC1_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -725,7 +725,7 @@
         </Examinations>
 		
         <Treatments>
-            <TreatmentRef>SUR_SLP_POLYPECTOMY</TreatmentRef>
+            <TreatmentRef>TRT_SLP_POLYPECTOMY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -738,8 +738,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BC1_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BC1_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BC1_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BC1_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -750,7 +750,7 @@
         </Examinations>
 		
         <Treatments>
-            <TreatmentRef>SUR_SLP_PARTIAL_COLECTOMY</TreatmentRef>
+            <TreatmentRef>TRT_SLP_PARTIAL_COLECTOMY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -763,8 +763,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BC1_2_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BC1_2_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BC1_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BC1_2_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -789,8 +789,8 @@
 		
     </GameDBSymptom>
 
-	<GameDBSymptom ID="SYM_ONCO_CRP_BC2_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BC2_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BC2_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BC2_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -814,8 +814,8 @@
 		
     </GameDBSymptom>
 
-	<GameDBSymptom ID="SYM_ONCO_CRP_BC3_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BC3_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BC3_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BC3_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -839,8 +839,8 @@
 		
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BC3_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BC3_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BC3_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BC3_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -865,8 +865,8 @@
     </GameDBSymptom>
 
 	<!-- Blood Cancer -->
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC01_0_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC01_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC01_0_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BLC01_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -888,8 +888,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_058</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC01_1_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC01_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC01_1_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BLC01_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -911,8 +911,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_058</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC01_2_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC01_2_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC01_2_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BLC01_2_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -934,8 +934,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_058</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC02_A_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC02_A_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC02_A_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BLC02_A_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -957,8 +957,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_136</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC02_B_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC02_B_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC02_B_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BLC02_B_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -980,8 +980,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_136</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC03_0_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC03_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC03_0_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BLC03_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1003,8 +1003,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_176</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC03_1_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC03_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC03_1_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BLC03_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1026,8 +1026,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_176</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC03_2_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC03_2_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC03_2_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BLC03_2_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1049,8 +1049,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_176</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC04_0_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC04_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC04_0_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BLC04_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1072,8 +1072,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_060</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC05_A_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC05_A_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC05_A_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BLC05_A_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1095,8 +1095,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_138</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC05_B_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC05_B_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC05_B_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BLC05_B_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1118,8 +1118,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_138</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC05_C_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC05_C_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC05_C_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BLC05_C_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1143,8 +1143,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_138</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC06_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC06_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC06_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BLC06_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1168,8 +1168,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_138</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC06_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC06_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC06_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BLC06_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1194,8 +1194,8 @@
     </GameDBSymptom>
 	
 	<!-- Lymphoma -->
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC07_0_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC07_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC07_0_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BLC07_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1220,8 +1220,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_354</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC08_0_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC08_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC08_0_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BLC08_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1246,8 +1246,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_356</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BLC09_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BLC09_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BLC09_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BLC09_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1273,8 +1273,8 @@
     </GameDBSymptom>
 	
 	<!-- Breast Cancer -->
-	<GameDBSymptom ID="SYM_ONCO_CRP_BREC01_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BREC01_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BREC01_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BREC01_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1290,7 +1290,7 @@
 			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+            <TreatmentRef>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1302,8 +1302,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_238</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BREC01_1_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BREC01_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BREC01_1_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BREC01_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1319,7 +1319,7 @@
 			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_SEG_MASTECTOMY</TreatmentRef>
+            <TreatmentRef>TRT_SLP_SEG_MASTECTOMY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1331,8 +1331,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_240</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BREC01_2_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BREC01_2_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BREC01_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BREC01_2_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1361,8 +1361,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_242</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BREC01_0M_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BREC01_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BREC01_0M_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BREC01_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1378,7 +1378,7 @@
 			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+            <TreatmentRef>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1390,8 +1390,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_238</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BREC01_1M_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_BREC01_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BREC01_1M_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_BREC01_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1407,7 +1407,7 @@
 			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_SEG_MASTECTOMY</TreatmentRef>
+            <TreatmentRef>TRT_SLP_SEG_MASTECTOMY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1419,8 +1419,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_240</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BREC01_2M_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BREC01_2_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BREC01_2M_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BREC01_2_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1450,8 +1450,8 @@
     </GameDBSymptom>
 	
 	<!-- Brain Cancer -->
-	<GameDBSymptom ID="SYM_ONCO_CRP_BRAC01_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BRAC01_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BRAC01_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BRAC01_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1478,8 +1478,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_268</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BRAC01_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BRAC01_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BRAC01_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BRAC01_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1494,7 +1494,7 @@
 			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_DEBULKING</TreatmentRef>
+            <TreatmentRef>TRT_SLP_DEBULKING</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1506,8 +1506,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_268</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BRAC01_2_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BRAC01_2_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BRAC01_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BRAC01_2_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1522,7 +1522,7 @@
 			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_DEBULKING</TreatmentRef>
+            <TreatmentRef>TRT_SLP_DEBULKING</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1534,8 +1534,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_268</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_BRAC01_3_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_BRAC01_3_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_BRAC01_3_DETECTED">
+        <DescriptionLocID>SYM_ONCO_BRAC01_3_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1550,7 +1550,7 @@
 			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_GTR</TreatmentRef>
+            <TreatmentRef>TRT_SLP_GTR</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1563,8 +1563,8 @@
     </GameDBSymptom>
 	
 	<!-- Ovarian Cancer -->
-	<GameDBSymptom ID="SYM_ONCO_CRP_OVAC1_0F_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_OVAC1_0F_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_OVAC1_0F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_OVAC1_0F_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1591,8 +1591,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_308</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_OVAC1_1F_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_OVAC1_1F_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_OVAC1_1F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_OVAC1_1F_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1607,7 +1607,7 @@
 			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_UNI_SALOOPH</TreatmentRef>
+            <TreatmentRef>TRT_SLP_UNI_SALOOPH</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1619,8 +1619,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_308</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_OVAC1_2F_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_OVAC1_2F_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_OVAC1_2F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_OVAC1_2F_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1649,8 +1649,8 @@
     </GameDBSymptom>
 	
 	<!-- Prostate Cancer -->
-	<GameDBSymptom ID="SYM_ONCO_CRP_PROC1_0M_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_PROC1_0M_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_PROC1_0M_DETECTED">
+        <DescriptionLocID>SYM_ONCO_PROC1_0M_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1677,8 +1677,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_340</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_PROC1_1M_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_PROC1_1M_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_PROC1_1M_DETECTED">
+        <DescriptionLocID>SYM_ONCO_PROC1_1M_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1693,7 +1693,7 @@
 			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_RAD_PROS</TreatmentRef>
+            <TreatmentRef>TRT_SLP_RAD_PROS</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1705,8 +1705,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_340</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_PROC1_2M_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_PROC1_2M_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_PROC1_2M_DETECTED">
+        <DescriptionLocID>SYM_ONCO_PROC1_2M_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1733,8 +1733,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_340</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_PROC1_3M_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_PROC1_3M_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_PROC1_3M_DETECTED">
+        <DescriptionLocID>SYM_ONCO_PROC1_3M_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1763,8 +1763,8 @@
     </GameDBSymptom>
 	
 	<!-- Other Cancer -->
-	<GameDBSymptom ID="SYM_ONCO_CRP_MC001_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_MC001_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_MC001_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_MC001_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1787,8 +1787,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_046</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_MC001_1_DETECTED_V2">
-        <DescriptionLocID>SYM_ONCO_CRP_MC001_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_MC001_1_DETECTED_V2">
+        <DescriptionLocID>SYM_ONCO_MC001_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1812,8 +1812,8 @@
     </GameDBSymptom>
 	
 	<!-- Liver Cancer -->
-	<GameDBSymptom ID="SYM_ONCO_CRP_LIV0_0_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_LIV0_0_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_LIV0_0_DETECTED">
+        <DescriptionLocID>SYM_ONCO_LIV0_0_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1837,8 +1837,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_412</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_LIV0_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_LIV0_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_LIV0_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_LIV0_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1850,7 +1850,7 @@
 			<ExaminationRef>EXM_SLP_LIVER_BIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_HEPATECTOMY</TreatmentRef>
+            <TreatmentRef>TRT_SLP_HEPATECTOMY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1862,8 +1862,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_412</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_LIV0_2_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_LIV0_2_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_LIV0_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_LIV0_2_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1875,7 +1875,7 @@
 			<ExaminationRef>EXM_SLP_LIVER_BIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_HEPATECTOMY</TreatmentRef>
+            <TreatmentRef>TRT_SLP_HEPATECTOMY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1887,8 +1887,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_420</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_LIV0_3_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_LIV0_3_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_LIV0_3_DETECTED">
+        <DescriptionLocID>SYM_ONCO_LIV0_3_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1914,8 +1914,8 @@
     </GameDBSymptom>
 	
 	<!-- Oral Cancer -->
-	<GameDBSymptom ID="SYM_ONCO_CRP_ORA001_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_ORA001_1_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_ORA001_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_ORA001_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1927,7 +1927,7 @@
 			<ExaminationRef>EXM_SLP_FNA_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_PAROTIDECTOMY</TreatmentRef>
+            <TreatmentRef>TRT_SLP_PAROTIDECTOMY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1939,8 +1939,8 @@
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_436</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_ORA001_2_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_ORA001_2_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_ORA001_2_DETECTED">
+        <DescriptionLocID>SYM_ONCO_ORA001_2_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>

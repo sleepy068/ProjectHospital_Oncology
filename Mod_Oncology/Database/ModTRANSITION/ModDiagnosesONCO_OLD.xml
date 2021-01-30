@@ -1,8 +1,8 @@
 <Database>
 	<!-- Oncology Mod by Sleepy068 -->
 	<!-- TEMPLATE DIAGNOSIS (For Copy Paste, helps makes things a little faster without forgetting important aspects)
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_AAAA">
-	<AbbreviationLocID>DIA_ONCO_CRP_AAAA_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_AAAA">
+	<AbbreviationLocID>DIA_ONCO_AAAA_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
 	<OccurrenceRef>OCCURRENCE_SL_UNCOMMON</OccurrenceRef>
 	<Symptoms>
@@ -51,14 +51,15 @@
 	<!-- =========================================================================================== -->
 	
 	<!-- Pheochromocytoma - Localised -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_AGC1_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_AGC1_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_AGC1_0">
+	<AbbreviationLocID>DIA_ONCO_AGC1_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_VERYRARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_AGC1_0_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_AGC1_0_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -182,14 +183,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Pheochromocytoma - Regional -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_AGC1_1">
-	<AbbreviationLocID>DIA_ONCO_CRP_AGC1_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_AGC1_1">
+	<AbbreviationLocID>DIA_ONCO_AGC1_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_AGC1_1_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_AGC1_1_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -287,6 +289,7 @@
 		
     <Treatments>
 		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+        <TreatmentRef>TRT_SLP_LAPAROSCOPIC_SURGERY</TreatmentRef>
 		<TreatmentRef>TRT_ANTIHYPERTENSIVES</TreatmentRef>
         <TreatmentRef>TRT_ANXIOLYTICS</TreatmentRef>
 		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
@@ -297,8 +300,6 @@
 		<TreatmentRef>TRT_ANTI_ARRHYTMICALS</TreatmentRef>
 		<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
 		<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
-		<TreatmentRef>SUR_SLP_LAPAROSCOPIC_SURGERY</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
@@ -315,14 +316,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Pheochromocytoma - Metastatic  -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_AGC1_2">
-	<AbbreviationLocID>DIA_ONCO_CRP_AGC1_2_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_AGC1_2">
+	<AbbreviationLocID>DIA_ONCO_AGC1_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNIQUE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_AGC1_2_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_AGC1_2_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -469,14 +471,15 @@
 	
 	<!-- Adrenocortical Carcinoma - Localised -->
 	<!-- SYM_SLP_CDF_T_14 -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_AGC2_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_AGC2_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_AGC2_0">
+	<AbbreviationLocID>DIA_ONCO_AGC2_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_AGC2_0_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_AGC2_0_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -592,14 +595,15 @@
 	
 	<!-- Adrenocortical Carcinoma - Regional -->
 	<!-- SYM_SLP_CDF_T_14 -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_AGC2_1">
-	<AbbreviationLocID>DIA_ONCO_CRP_AGC2_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_AGC2_1">
+	<AbbreviationLocID>DIA_ONCO_AGC2_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_AGC2_1_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_AGC2_1_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -688,8 +692,8 @@
     </Examinations>
 		
     <Treatments>
-		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
-		<TreatmentRef>SUR_SLP_ADRENALECTOMY</TreatmentRef>
+		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+		<TreatmentRef>TRT_SLP_ADRENALECTOMY</TreatmentRef>
 		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 		<TreatmentRef>TRT_SPASMOLYTICS</TreatmentRef>
 		<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
@@ -720,14 +724,15 @@
 	
 	<!-- Adrenocortical Carcinoma - Metastatic -->
 	<!-- SYM_SLP_CDF_T_14 -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_AGC2_2">
-	<AbbreviationLocID>DIA_ONCO_CRP_AGC2_2_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_AGC2_2">
+	<AbbreviationLocID>DIA_ONCO_AGC2_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNIQUE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_AGC2_2_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_AGC2_2_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -903,14 +908,15 @@
 	
 	<!-- ============= Leukaemia ============= -->
 	<!-- Acute lymphocytic leukaemia - Pre-B Cell -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC01_0_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC01_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC01_0_V2">
+	<AbbreviationLocID>DIA_ONCO_BLC01_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_VERYRARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC01_0_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC01_0_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -1050,14 +1056,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Acute lymphocytic leukaemia - B Cell (Burkitt type) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC01_1_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC01_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC01_1_V2">
+	<AbbreviationLocID>DIA_ONCO_BLC01_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC01_1_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC01_1_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -1197,14 +1204,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Acute lymphocytic leukaemia - T Cell -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC01_2_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC01_2_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC01_2_V2">
+	<AbbreviationLocID>DIA_ONCO_BLC01_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC01_2_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC01_2_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -1350,14 +1358,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Chronic lymphocytic leukaemia - Stable  -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC02_A_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC02_A_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC02_A_V2">
+	<AbbreviationLocID>DIA_ONCO_BLC02_A_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNCOMMON</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC02_A_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC02_A_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -1441,14 +1450,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Chronic lymphocytic leukaemia - Advanced  -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC02_B_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC02_B_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC02_B_V2">
+	<AbbreviationLocID>DIA_ONCO_BLC02_B_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_VERYRARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC02_B_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC02_B_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -1562,14 +1572,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Large granular lymphocytic leukemia (LGLL) (T-Cell) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC03_0_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC03_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC03_0_V2">
+	<AbbreviationLocID>DIA_ONCO_BLC03_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC03_0_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC03_0_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -1703,14 +1714,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Large granular lymphocytic leukemia (LGLL) (NK-Cell) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC03_1_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC03_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC03_1_V2">
+	<AbbreviationLocID>DIA_ONCO_BLC03_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC03_1_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC03_1_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -1844,14 +1856,15 @@
     </GameDBMedicalCondition>
 
 	<!-- T-cell prolymphocytic leukemia (T-PLL) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC03_2_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC03_2_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC03_2_V2">
+	<AbbreviationLocID>DIA_ONCO_BLC03_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNIQUE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC03_2_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC03_2_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -1998,14 +2011,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Acute Myeloid/Myelogenous Leukaemia -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC04_0_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC04_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC04_0_V2">
+	<AbbreviationLocID>DIA_ONCO_BLC04_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNCOMMON</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC04_0_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC04_0_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -2149,14 +2163,15 @@
     </GameDBMedicalCondition>
 
 	<!-- Chronic Myeloid/Myelogenous Leukaemia - Chronic Phase -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC05_A_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC05_A_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC05_A_V2">
+	<AbbreviationLocID>DIA_ONCO_BLC05_A_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC05_A_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC05_A_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -2277,14 +2292,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Chronic Myeloid/Myelogenous Leukaemia - Accelerated Phase -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC05_B_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC05_B_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC05_B_V2">
+	<AbbreviationLocID>DIA_ONCO_BLC05_B_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNIQUE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC05_B_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC05_B_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -2427,14 +2443,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Chronic Myeloid/Myelogenous Leukaemia - Blast Crisis Phase -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC05_C_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC05_C_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC05_C_V2">
+	<AbbreviationLocID>DIA_ONCO_BLC05_C_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNIQUE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC05_C_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC05_C_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -2606,14 +2623,15 @@
 	<!-- Chronic Eosinophilic Leukemia -->
 	
 	<!-- Hairy Cell leukemia -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC06_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC06_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC06_0">
+	<AbbreviationLocID>DIA_ONCO_BLC06_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC06_0_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC06_0_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -2745,14 +2763,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Hairy Cell leukemia - Varient -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC06_1">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC06_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC06_1">
+	<AbbreviationLocID>DIA_ONCO_BLC06_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNIQUE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC06_1_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC06_1_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -2891,14 +2910,15 @@
 	<!-- ============= Lymphoma ============= Occurance rate, 90% of them are Non-Hodgkin Lymphoma and 10% Hodgkin Lymphoma -->
 	<!-- ###### Non-Hodgkin Lymphoma ###### -->
 	<!-- Follicular Lymphoma -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC08_0_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC08_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC08_0_V2">
+	<AbbreviationLocID>DIA_ONCO_BLC08_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNCOMMON</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC08_0_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC08_0_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -2995,14 +3015,15 @@
 	<!-- Primary Mediastinal B Cell Lymphoma -->
 	
 	<!-- Diffuse Large B-Cell (Not Otherwise Specified) Lymphoma -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC07_0_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC07_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC07_0_V2">
+	<AbbreviationLocID>DIA_ONCO_BLC07_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNCOMMON</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC07_0_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC07_0_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -3152,14 +3173,15 @@
 	<!-- Small Lymphocytic Lymphoma -->
 	
 	<!-- Mantle Cell Lymphoma -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BLC09_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_BLC09_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BLC09_0">
+	<AbbreviationLocID>DIA_ONCO_BLC09_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BLC09_0_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BLC09_0_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -3330,16 +3352,17 @@
 	
 	<!-- ============= Female ============= -->
 	<!-- Ductal Carcinoma In Situ (DCIS) (Local) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BREC1_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_BREC1_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BREC1_0">
+	<AbbreviationLocID>DIA_ONCO_BREC1_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNCOMMON</OccurrenceRef>
 	<MatchingGenderRef>GENDER_FEMALE</MatchingGenderRef>
 	
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BREC01_0_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BREC01_0_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -3426,7 +3449,7 @@
 		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 		<TreatmentRef>TRT_SLP_TAMOXIFEN</TreatmentRef>
 		<TreatmentRef>TRT_STEROID_TOPICAL_CREAM</TreatmentRef>
-		<TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+		<TreatmentRef>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
@@ -3443,16 +3466,17 @@
     </GameDBMedicalCondition>
 	
 	<!-- Invasive Ductal Carcinoma (IDC) (Local/Regional) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BREC1_1_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BREC1_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BREC1_1_V2">
+	<AbbreviationLocID>DIA_ONCO_BREC1_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_COMMON</OccurrenceRef>
 	<MatchingGenderRef>GENDER_FEMALE</MatchingGenderRef>
 
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BREC01_1_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BREC01_1_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -3566,12 +3590,12 @@
     </Examinations>
 		
     <Treatments>
-		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
 		<TreatmentRef>TRT_COLD_TILING</TreatmentRef>
 		<TreatmentRef>TRT_NSAIDS</TreatmentRef>
 		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 		<TreatmentRef>TRT_STEROID_TOPICAL_CREAM</TreatmentRef>
-		<TreatmentRef>SUR_SLP_SEG_MASTECTOMY</TreatmentRef>
+		<TreatmentRef>TRT_SLP_SEG_MASTECTOMY</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
@@ -3620,16 +3644,17 @@
 	<!-- Fibroadenoma -->
 	
 	<!-- Metastatic Breast Cancer -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BREC1_2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BREC1_2_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BREC1_2">
+	<AbbreviationLocID>DIA_ONCO_BREC1_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_VERYRARE</OccurrenceRef>
 	<MatchingGenderRef>GENDER_FEMALE</MatchingGenderRef>
 
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BREC01_2_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BREC01_2_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 			
 		<GameDBSymptomRules>
@@ -3775,16 +3800,17 @@
 	
 	<!-- ============= Male ============= -->
 	<!-- Ductal Carcinoma In Situ (DCIS) (Local) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BREC1_0M">
-	<AbbreviationLocID>DIA_ONCO_CRP_BREC1_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BREC1_0M">
+	<AbbreviationLocID>DIA_ONCO_BREC1_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNIQUE</OccurrenceRef>
 	<MatchingGenderRef>GENDER_MALE</MatchingGenderRef>
 	
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BREC01_0M_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BREC01_0M_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -3871,7 +3897,7 @@
 		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 		<TreatmentRef>TRT_SLP_TAMOXIFEN</TreatmentRef>
 		<TreatmentRef>TRT_STEROID_TOPICAL_CREAM</TreatmentRef>
-		<TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+		<TreatmentRef>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
@@ -3888,16 +3914,17 @@
     </GameDBMedicalCondition>
 	
 	<!-- Invasive Ductal Carcinoma (IDC) (Local/Regional) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BREC1_1M_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BREC1_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BREC1_1M_V2">
+	<AbbreviationLocID>DIA_ONCO_BREC1_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNIQUE</OccurrenceRef>
 	<MatchingGenderRef>GENDER_MALE</MatchingGenderRef>
 
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BREC01_1M_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BREC01_1M_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -4011,12 +4038,12 @@
     </Examinations>
 		
     <Treatments>
-		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
 		<TreatmentRef>TRT_COLD_TILING</TreatmentRef>
 		<TreatmentRef>TRT_NSAIDS</TreatmentRef>
 		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 		<TreatmentRef>TRT_STEROID_TOPICAL_CREAM</TreatmentRef>
-		<TreatmentRef>SUR_SLP_SEG_MASTECTOMY</TreatmentRef>
+		<TreatmentRef>TRT_SLP_SEG_MASTECTOMY</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
@@ -4033,16 +4060,17 @@
     </GameDBMedicalCondition>
 	
 	<!-- Metastatic Breast Cancer -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BREC1_2M">
-	<AbbreviationLocID>DIA_ONCO_CRP_BREC1_2_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BREC1_2M">
+	<AbbreviationLocID>DIA_ONCO_BREC1_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRAUNIQUE</OccurrenceRef>
 	<MatchingGenderRef>GENDER_MALE</MatchingGenderRef>
 
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BREC01_2M_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BREC01_2M_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 			
 		<GameDBSymptomRules>
@@ -4193,16 +4221,17 @@
 
 	<!-- ============= Ovarian Cancer ============= -->
 	<!-- High-Grade Serous Carcinoma (HGSC) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_OVAC1_0F">
-	<AbbreviationLocID>DIA_ONCO_CRP_OVAC1_0F_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_OVAC1_0F">
+	<AbbreviationLocID>DIA_ONCO_OVAC1_0F_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_RARE</OccurrenceRef>
 	<MatchingGenderRef>GENDER_FEMALE</MatchingGenderRef>
 	
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_OVAC1_0F_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_OVAC1_0F_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules> 
@@ -4334,16 +4363,17 @@
 	<!-- Ovarian Cystadenofibroma -->
 	
 	<!-- Low-Grade Serous Carcinoma (LGSC) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_OVAC1_1F">
-	<AbbreviationLocID>DIA_ONCO_CRP_OVAC1_1F_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_OVAC1_1F">
+	<AbbreviationLocID>DIA_ONCO_OVAC1_1F_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_VERYRARE</OccurrenceRef>
 	<MatchingGenderRef>GENDER_FEMALE</MatchingGenderRef>
 	
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_OVAC1_1F_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_OVAC1_1F_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules> 
@@ -4444,7 +4474,7 @@
     </Examinations>
 		
     <Treatments>
-		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
 		<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
 		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 		<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
@@ -4453,7 +4483,7 @@
 		<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 		<TreatmentRef>TRT_PURGATIVES</TreatmentRef>
 		<TreatmentRef>TRT_SLP_ESTRADIOL_CREAM</TreatmentRef>
-		<TreatmentRef>SUR_SLP_UNI_SALOOPH</TreatmentRef>
+		<TreatmentRef>TRT_SLP_UNI_SALOOPH</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
@@ -4489,16 +4519,17 @@
 	<!-- Sex Cord Stromal Tumours -->
 
 	<!-- Metastatic Ovarian Cancer -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_OVAC1_2F">
-	<AbbreviationLocID>DIA_ONCO_CRP_OVAC1_2F_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_OVAC1_2F">
+	<AbbreviationLocID>DIA_ONCO_OVAC1_2F_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<MatchingGenderRef>GENDER_FEMALE</MatchingGenderRef>
 	
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_OVAC1_2F_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_OVAC1_2F_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -4659,14 +4690,15 @@
 	<!-- =========================================================================================== -->
 
 	<!-- Metastatic Colorectal Cancer -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BC1_2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BC1_2_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BC1_2">
+	<AbbreviationLocID>DIA_ONCO_BC1_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_VERYRARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BC1_2_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BC1_2_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -4803,14 +4835,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Colorectal Adenocarcinoma - Localised -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BC1_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_BC1_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BC1_0">
+	<AbbreviationLocID>DIA_ONCO_BC1_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_COMMON</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BC1_0_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BC1_0_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -4890,7 +4923,7 @@
 		
     <Treatments>
 		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
-		<TreatmentRef>SUR_SLP_POLYPECTOMY</TreatmentRef>
+		<TreatmentRef>TRT_SLP_POLYPECTOMY</TreatmentRef>
 		<TreatmentRef>TRT_SPASMOLYTICS</TreatmentRef>
 		<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
 		<TreatmentRef>TRT_PURGATIVES</TreatmentRef>
@@ -4914,14 +4947,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Colorectal Adenocarcinoma - Regional -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BC1_1">
-	<AbbreviationLocID>DIA_ONCO_CRP_BC1_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BC1_1">
+	<AbbreviationLocID>DIA_ONCO_BC1_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNCOMMON</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BC1_1_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BC1_1_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -5005,8 +5039,8 @@
     </Examinations>
 		
     <Treatments>
-		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
-		<TreatmentRef>SUR_SLP_PARTIAL_COLECTOMY</TreatmentRef>
+		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+		<TreatmentRef>TRT_SLP_PARTIAL_COLECTOMY</TreatmentRef>
 		<TreatmentRef>TRT_SPASMOLYTICS</TreatmentRef>
 		<TreatmentRef>TRT_STOMACHICS</TreatmentRef>
 		<TreatmentRef>TRT_PURGATIVES</TreatmentRef>
@@ -5033,14 +5067,15 @@
 	<!-- Colorectal Adenocarcinoma - BRAF Mutation -->
 
 	<!-- Mucinous Colorectal Adenocarcinoma (Mixed) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BC3_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_BC3_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BC3_0">
+	<AbbreviationLocID>DIA_ONCO_BC3_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_PRETTYRARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BC3_0_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BC3_0_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -5157,14 +5192,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Mucinous Colorectal Adenocarcinoma (Pure) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BC3_1">
-	<AbbreviationLocID>DIA_ONCO_CRP_BC3_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BC3_1">
+	<AbbreviationLocID>DIA_ONCO_BC3_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_VERYRARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BC3_1_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BC3_1_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -5288,14 +5324,15 @@
 	
 	<!-- ### ICON READY ### -->
 	<!-- Signet Ring Cell Colorectal Carcinoma -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BC2_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_BC2_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BC2_0">
+	<AbbreviationLocID>DIA_ONCO_BC2_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNIQUE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BC2_0_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BC2_0_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -5445,15 +5482,16 @@
 	<!-- =========================================================================================== -->
 
 	<!-- Hepatocellular Carcinoma (Local) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_LIV0_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_LIV0_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_LIV0_0">
+	<AbbreviationLocID>DIA_ONCO_LIV0_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNLIKELY</OccurrenceRef>
 
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_LIV0_0_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_LIV0_0_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -5539,15 +5577,16 @@
     </GameDBMedicalCondition>
 	
 	<!-- Hepatocellular Carcinoma (Regional) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_LIV0_1">
-	<AbbreviationLocID>DIA_ONCO_CRP_LIV0_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_LIV0_1">
+	<AbbreviationLocID>DIA_ONCO_LIV0_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNCOMMON</OccurrenceRef>
 
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_LIV0_1_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_LIV0_1_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -5658,8 +5697,7 @@
 		<TreatmentRef>TRT_SLP_LACTULOSE</TreatmentRef>
 		<TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
 		<TreatmentRef>TRT_REST</TreatmentRef>
-		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
-		<TreatmentRef>SUR_SLP_HEPATECTOMY</TreatmentRef>
+		<TreatmentRef>TRT_SLP_HEPATECTOMY</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
@@ -5676,15 +5714,16 @@
     </GameDBMedicalCondition>
 	
 	<!-- Hepatocellular Carcinoma (Critical)(Spontaneous Rupture of HCC) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_LIV0_2">
-	<AbbreviationLocID>DIA_ONCO_CRP_LIV0_2_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_LIV0_2">
+	<AbbreviationLocID>DIA_ONCO_LIV0_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_LIV0_2_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_LIV0_2_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -5817,8 +5856,8 @@
 		<TreatmentRef>TRT_SLP_LACTULOSE</TreatmentRef>
 		<TreatmentRef>TRT_BETA_BLOCKERS</TreatmentRef>
 		<TreatmentRef>TRT_REST</TreatmentRef>
-		<TreatmentRef>SUR_SLP_ENDOVASCULAR_EMBOLISATION</TreatmentRef>
-		<TreatmentRef>SUR_SLP_HEPATECTOMY</TreatmentRef>
+		<TreatmentRef>TRT_SLP_ENDOVASCULAR_EMBOLISATION</TreatmentRef>
+		<TreatmentRef>TRT_SLP_HEPATECTOMY</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
@@ -5849,15 +5888,16 @@
 	<!-- Liver Angiosarcoma -->
 
 	<!-- Metastatic Liver Cancer -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_LIV0_3">
-	<AbbreviationLocID>DIA_ONCO_CRP_LIV0_3_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_LIV0_3">
+	<AbbreviationLocID>DIA_ONCO_LIV0_3_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_VERYRARE</OccurrenceRef>
 
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_LIV0_3_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_LIV0_3_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -6006,14 +6046,15 @@
 	<!-- =========================================================================================== -->
 
 	<!-- Metastatic Lung Cancer -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_LC_2">
-	<AbbreviationLocID>DIA_ONCO_CRP_LC_2_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_LC_2">
+	<AbbreviationLocID>DIA_ONCO_LC_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_LC_2_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_LC_2_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -6139,7 +6180,7 @@
 		<TreatmentRef>TRT_ANTI_SEIZURES_MEDICINE</TreatmentRef>
 		<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
-		<TreatmentRef>SUR_SLP_ENDOVASCULAR_EMBOLISATION</TreatmentRef>
+		<TreatmentRef>TRT_SLP_ENDOVASCULAR_EMBOLISATION</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
@@ -6157,14 +6198,15 @@
 	
 	<!-- ### Non-Small Cell Lung Cancer ### -->
 	<!-- Undifferentiated Non-Small Cell Lung Cancer (NSCLC) - Localised -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_LC_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_LC_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_LC_0">
+	<AbbreviationLocID>DIA_ONCO_LC_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_RARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_LC_0_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_LC_0_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -6272,14 +6314,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Undifferentiated Non-Small Cell Lung Cancer (NSCLC) - Regional -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_LC_1">
-	<AbbreviationLocID>DIA_ONCO_CRP_LC_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_LC_1">
+	<AbbreviationLocID>DIA_ONCO_LC_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_VERYRARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_LC_1_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_LC_1_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -6377,7 +6420,7 @@
 		
     <Treatments>
 		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
-		<TreatmentRef>SUR_SLP_LOBECTOMY_SURGERY</TreatmentRef>
+		<TreatmentRef>TRT_SLP_LOBECTOMY_SURGERY</TreatmentRef>
 		<TreatmentRef>TRT_REST</TreatmentRef>
 		<TreatmentRef>TRT_MUCOLYTICS</TreatmentRef>
 		<TreatmentRef>TRT_BRONCHODILATORS</TreatmentRef>
@@ -6405,14 +6448,15 @@
 	<!-- Pleural Mesothelioma -->
 	
 	<!-- Lung Adenocarcinoma (Early Stage) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_LC3_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_LC3_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_LC3_0">
+	<AbbreviationLocID>DIA_ONCO_LC3_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_RARE</OccurrenceRef>
 	<Symptoms>
 		<GameDBSymptomRules>
 			<ProbabilityPercent>100</ProbabilityPercent>
-			<GameDBSymptomRef>SYM_ONCO_CRP_LC3_0_DETECTED</GameDBSymptomRef>
+			<GameDBSymptomRef>SYM_ONCO_LC3_0_DETECTED</GameDBSymptomRef>
 		</GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -6521,14 +6565,15 @@
 	</GameDBMedicalCondition>
 	
 	<!-- Lung Adenocarcinoma (Advanced Stage) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_LC3_1">
-	<AbbreviationLocID>DIA_ONCO_CRP_LC3_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_LC3_1">
+	<AbbreviationLocID>DIA_ONCO_LC3_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_COMMON</OccurrenceRef>
 	<Symptoms>
 		<GameDBSymptomRules>
 			<ProbabilityPercent>100</ProbabilityPercent>
-			<GameDBSymptomRef>SYM_ONCO_CRP_LC3_1_DETECTED</GameDBSymptomRef>
+			<GameDBSymptomRef>SYM_ONCO_LC3_1_DETECTED</GameDBSymptomRef>
 		</GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -6651,8 +6696,7 @@
 		<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 		<TreatmentRef>TRT_REST</TreatmentRef>
 		<TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
-		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
-		<TreatmentRef>SUR_SLP_SEGMENTECTOMY</TreatmentRef>
+		<TreatmentRef>TRT_SLP_SEGMENTECTOMY</TreatmentRef>
 	</Treatments>
 		
 	<DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
@@ -6677,14 +6721,15 @@
 	<!-- Adenosquamous Lung Carcinoma -->
 	
 	<!-- Squamous Cell Lung Cancer -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_LC4_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_LC4_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_LC4_0">
+	<AbbreviationLocID>DIA_ONCO_LC4_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_PRETTYRARE</OccurrenceRef>
 	<Symptoms>
 		<GameDBSymptomRules>
 			<ProbabilityPercent>100</ProbabilityPercent>
-			<GameDBSymptomRef>SYM_ONCO_CRP_LC4_0_DETECTED</GameDBSymptomRef>
+			<GameDBSymptomRef>SYM_ONCO_LC4_0_DETECTED</GameDBSymptomRef>
 		</GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -6811,14 +6856,15 @@
 	</GameDBMedicalCondition>
 	
 	<!-- Large Cell Lung Carcinoma -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_LC2_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_LC2_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_LC2_0">
+	<AbbreviationLocID>DIA_ONCO_LC2_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_VERYRARE</OccurrenceRef>
 	<Symptoms>
 		<GameDBSymptomRules>
 			<ProbabilityPercent>100</ProbabilityPercent>
-			<GameDBSymptomRef>SYM_ONCO_CRP_LC2_0_DETECTED</GameDBSymptomRef>
+			<GameDBSymptomRef>SYM_ONCO_LC2_0_DETECTED</GameDBSymptomRef>
 		</GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -6925,14 +6971,15 @@
 	
 	<!-- ### Small Cell Lung Cancer ### -->
 	<!-- Small Cell Lung Cancer (SCLC) - Limited Stage -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_LC1_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_LC1_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_LC1_0">
+	<AbbreviationLocID>DIA_ONCO_LC1_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_LC1_0_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_LC1_0_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -7065,14 +7112,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Small Cell Lung Cancer (SCLC) - Extensive Stage -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_LC1_1">
-	<AbbreviationLocID>DIA_ONCO_CRP_LC1_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_LC1_1">
+	<AbbreviationLocID>DIA_ONCO_LC1_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_VERYRARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_LC1_1_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_LC1_1_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -7200,7 +7248,7 @@
 		<TreatmentRef>TRT_COLD_TILING</TreatmentRef>
 		<TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
 		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
-		<TreatmentRef>SUR_SLP_ENDOVASCULAR_EMBOLISATION</TreatmentRef>
+		<TreatmentRef>TRT_SLP_ENDOVASCULAR_EMBOLISATION</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
@@ -7226,15 +7274,16 @@
 	<!-- ============= Prostate Cancer ============= -->
 	<!-- Prostatic Adenocarcinoma -->
 	<!-- Prostate Cancer (Stage 1) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_PROC1_0M">
-	<AbbreviationLocID>DIA_ONCO_CRP_PROC1_0M_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_PROC1_0M">
+	<AbbreviationLocID>DIA_ONCO_PROC1_0M_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNCOMMON</OccurrenceRef>
 	<MatchingGenderRef>GENDER_MALE</MatchingGenderRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_PROC1_0M_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_PROC1_0M_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -7314,15 +7363,16 @@
     </GameDBMedicalCondition>
 	
 	<!-- Prostate Cancer (Stage 2) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_PROC1_1M">
-	<AbbreviationLocID>DIA_ONCO_CRP_PROC1_1M_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_PROC1_1M">
+	<AbbreviationLocID>DIA_ONCO_PROC1_1M_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_RARE</OccurrenceRef>
 	<MatchingGenderRef>GENDER_MALE</MatchingGenderRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_PROC1_1M_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_PROC1_1M_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -7403,13 +7453,13 @@
     </Examinations>
 		
     <Treatments>
-		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
 		<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 		<TreatmentRef>TRT_REHYDRATION</TreatmentRef>
 		<TreatmentRef>TRT_REST</TreatmentRef>
 		<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
-		<TreatmentRef>SUR_SLP_RAD_PROS</TreatmentRef>
+		<TreatmentRef>TRT_SLP_RAD_PROS</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
@@ -7426,15 +7476,16 @@
     </GameDBMedicalCondition>
 	
 	<!-- Prostate Cancer (Stage 3) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_PROC1_2M">
-	<AbbreviationLocID>DIA_ONCO_CRP_PROC1_2M_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_PROC1_2M">
+	<AbbreviationLocID>DIA_ONCO_PROC1_2M_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_VERYRARE</OccurrenceRef>
 	<MatchingGenderRef>GENDER_MALE</MatchingGenderRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_PROC1_2M_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_PROC1_2M_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -7560,15 +7611,16 @@
     </GameDBMedicalCondition>
 	
 	<!-- Prostate Cancer (Stage 4) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_PROC1_3M">
-	<AbbreviationLocID>DIA_ONCO_CRP_PROC1_3M_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_PROC1_3M">
+	<AbbreviationLocID>DIA_ONCO_PROC1_3M_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<MatchingGenderRef>GENDER_MALE</MatchingGenderRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_PROC1_3M_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_PROC1_3M_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -7716,14 +7768,15 @@
 	<!-- Large Cell Neuroendocrine Lung Carcinoma -->
 	
 	<!-- Gastrointestinal Neuroendocrine Tumor - Limited Stage -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_MC001_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_MC001_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_MC001_0">
+	<AbbreviationLocID>DIA_ONCO_MC001_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_MC001_0_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_MC001_0_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -7835,14 +7888,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Gastrointestinal Neuroendocrine Tumor - Extensive Stage -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_MC001_1_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_MC001_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_MC001_1_V2">
+	<AbbreviationLocID>DIA_ONCO_MC001_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_MC001_1_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_MC001_1_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -7994,14 +8048,15 @@
 	
 	<!-- ============= Salivary Gland Cancer  ============= -->
 	<!-- Mucoepidermoid Carcinoma (Low Grade) --> 
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_ORA001_1">
-	<AbbreviationLocID>DIA_ONCO_CRP_ORA001_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_ORA001_1">
+	<AbbreviationLocID>DIA_ONCO_ORA001_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_ORA001_1_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_ORA001_1_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -8060,8 +8115,8 @@
 		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 		<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
 		<TreatmentRef>TRT_NSAIDS</TreatmentRef>
-		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
-		<TreatmentRef>SUR_SLP_PAROTIDECTOMY</TreatmentRef>
+		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+		<TreatmentRef>TRT_SLP_PAROTIDECTOMY</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
@@ -8078,14 +8133,15 @@
     </GameDBMedicalCondition>
 
 	<!-- Mucoepidermoid Carcinoma (High Grade) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_ORA001_2">
-	<AbbreviationLocID>DIA_ONCO_CRP_ORA001_2_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_ORA001_2">
+	<AbbreviationLocID>DIA_ONCO_ORA001_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_ORA001_2_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_ORA001_2_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -8227,14 +8283,15 @@
 	<!-- =========================================================================================== -->
 
 	<!-- Basal Cell Carcinoma Stage 1 -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_SC1_1">
-	<AbbreviationLocID>DIA_ONCO_CRP_SC1_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_SC1_1">
+	<AbbreviationLocID>DIA_ONCO_SC1_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_COMMON</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_SC1_1_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_SC1_1_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -8300,14 +8357,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Basal Cell Carcinoma Stage 2 -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_SC1_2">
-	<AbbreviationLocID>DIA_ONCO_CRP_SC1_2_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_SC1_2">
+	<AbbreviationLocID>DIA_ONCO_SC1_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNCOMMON</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_SC1_2_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_SC1_2_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -8380,14 +8438,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Basal Cell Carcinoma Stage 3 -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_SC1_3">
-	<AbbreviationLocID>DIA_ONCO_CRP_SC1_3_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_SC1_3">
+	<AbbreviationLocID>DIA_ONCO_SC1_3_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_RARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_SC1_3_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_SC1_3_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -8443,7 +8502,7 @@
 		
     <Treatments>
 		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
-		<TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+		<TreatmentRef>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</TreatmentRef>
         <TreatmentRef>TRT_SLP_IMIQUIMOD_CREAM</TreatmentRef>
         <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
     </Treatments>
@@ -8461,14 +8520,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Basal Cell Carcinoma Stage 4 -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_SC1_4">
-	<AbbreviationLocID>DIA_ONCO_CRP_SC1_4_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_SC1_4">
+	<AbbreviationLocID>DIA_ONCO_SC1_4_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_SC1_4_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_SC1_4_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -8555,14 +8615,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Squamous Cell Carcinoma Stage 1 -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_SC2_1">
-	<AbbreviationLocID>DIA_ONCO_CRP_SC2_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_SC2_1">
+	<AbbreviationLocID>DIA_ONCO_SC2_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_COMMON</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_SC2_1_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_SC2_1_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -8637,14 +8698,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Squamous Cell Carcinoma Stage 2 -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_SC2_2">
-	<AbbreviationLocID>DIA_ONCO_CRP_SC2_2_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_SC2_2">
+	<AbbreviationLocID>DIA_ONCO_SC2_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNCOMMON</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_SC2_2_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_SC2_2_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -8726,14 +8788,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Squamous Cell Carcinoma Stage 3 -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_SC2_3">
-	<AbbreviationLocID>DIA_ONCO_CRP_SC2_3_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_SC2_3">
+	<AbbreviationLocID>DIA_ONCO_SC2_3_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_RARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_SC2_3_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_SC2_3_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -8795,7 +8858,7 @@
 		
     <Treatments>
 		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
-		<TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+		<TreatmentRef>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</TreatmentRef>
 		<TreatmentRef>TRT_SLP_IMIQUIMOD_CREAM</TreatmentRef>
 		<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
@@ -8816,14 +8879,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Squamous Cell Carcinoma Stage 4 -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_SC2_4">
-	<AbbreviationLocID>DIA_ONCO_CRP_SC2_4_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_SC2_4">
+	<AbbreviationLocID>DIA_ONCO_SC2_4_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_SC2_4_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_SC2_4_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -8924,14 +8988,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Melanoma Stage 1 - Skin Cancer -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_SC3_1">
-	<AbbreviationLocID>DIA_ONCO_CRP_SC3_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_SC3_1">
+	<AbbreviationLocID>DIA_ONCO_SC3_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_UNCOMMON</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_SC3_1_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_SC3_1_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -8994,14 +9059,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Melanoma Stage 2 - Skin Cancer -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_SC3_2">
-	<AbbreviationLocID>DIA_ONCO_CRP_SC3_2_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_SC3_2">
+	<AbbreviationLocID>DIA_ONCO_SC3_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_RARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_SC3_2_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_SC3_2_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -9071,14 +9137,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Melanoma Stage 3 - Skin Cancer -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_SC3_3">
-	<AbbreviationLocID>DIA_ONCO_CRP_SC3_3_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_SC3_3">
+	<AbbreviationLocID>DIA_ONCO_SC3_3_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_VERYRARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_SC3_3_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_SC3_3_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 
 		<GameDBSymptomRules>
@@ -9136,7 +9203,7 @@
 		
     <Treatments>
 		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
-		<TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+		<TreatmentRef>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</TreatmentRef>
 		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
 		<TreatmentRef>TRT_SLP_BRAF_INH</TreatmentRef>
 		<TreatmentRef>TRT_ANTIHISTAMINES</TreatmentRef>
@@ -9157,14 +9224,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Melanoma Stage 4 - Skin Cancer -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_SC3_4_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_SC3_4_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_SC3_4_V2">
+	<AbbreviationLocID>DIA_ONCO_SC3_4_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_SC3_4_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_SC3_4_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -9288,14 +9356,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Merkel Cell Carcinoma - Local -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_SC4_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_SC4_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_SC4_0">
+	<AbbreviationLocID>DIA_ONCO_SC4_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_SC4_0_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_SC4_0_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 
 		<GameDBSymptomRules>
@@ -9361,7 +9430,7 @@
 		
     <Treatments>
 		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
-		<TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+		<TreatmentRef>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
@@ -9379,14 +9448,15 @@
     </GameDBMedicalCondition>
 	
 	<!-- Merkel Cell Carcinoma - Metastatic -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_SC4_1_V2">
-	<AbbreviationLocID>DIA_ONCO_CRP_SC4_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_SC4_1_V2">
+	<AbbreviationLocID>DIA_ONCO_SC4_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
+	<Disabled>true</Disabled>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_SC4_1_DETECTED_V2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_SC4_1_DETECTED_V2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>

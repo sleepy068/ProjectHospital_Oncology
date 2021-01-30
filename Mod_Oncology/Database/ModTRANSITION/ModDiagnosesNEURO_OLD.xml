@@ -8,8 +8,8 @@
 	<!-- Meningioma -->
 	
 	<!-- Pilocytic Astrocytoma (Astrocytoma Grade 1) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BRAC1_0">
-	<AbbreviationLocID>DIA_ONCO_CRP_BRAC1_0_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BRAC1_0">
+	<AbbreviationLocID>DIA_ONCO_BRAC1_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
@@ -50,7 +50,7 @@
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>80</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_SEIZURES</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SL_SEIZURES</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules> <!-- Neuro -->
@@ -65,22 +65,22 @@
 		
 		<GameDBSymptomRules> <!-- Neuro -->
             <ProbabilityPercent>90</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_BRAIN_ABW</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_BRAIN_ABW</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>88</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_LPT2</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_LPT2</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules> <!-- Roughly 10% in real-life -->
             <ProbabilityPercent>35</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_CDF_T_13</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_CDF_T_13</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>95</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_EGB</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_EGB</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
     </Symptoms>
@@ -93,9 +93,9 @@
 		<ExaminationRef>EXM_EEG</ExaminationRef>
 		<ExaminationRef>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
-		<ExaminationRef>EXM_CRP_EMICRO_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_SLP_EMICRO_SAMPLE</ExaminationRef>
 		<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
-		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_SLP_FISH_SAMPLE</ExaminationRef>
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
     </Examinations>
 		
@@ -125,8 +125,8 @@
     </GameDBMedicalCondition>
 	
 	<!-- Diffuse Astrocytoma (Astrocytoma Grade 2) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BRAC1_1">
-	<AbbreviationLocID>DIA_ONCO_CRP_BRAC1_1_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BRAC1_1">
+	<AbbreviationLocID>DIA_ONCO_BRAC1_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
@@ -137,7 +137,7 @@
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>70</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_SEIZURES</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SL_SEIZURES</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -167,7 +167,7 @@
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>75</ProbabilityPercent> <!-- Neuro -->
-            <GameDBSymptomRef>SYM_CRP_FND</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_FND</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -182,17 +182,17 @@
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>40</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_MCRO_CYSTS</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_MCRO_CYSTS</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>90</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_CM_KI67_LLI</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_CM_KI67_LLI</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules> <!-- Neuro -->
             <ProbabilityPercent>90</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_BRAIN_ABW</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_BRAIN_ABW</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
     </Symptoms>
@@ -206,8 +206,8 @@
 		<ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
 		<ExaminationRef>EXM_EEG</ExaminationRef>
 		<ExaminationRef>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING</ExaminationRef>
-		<ExaminationRef>EXM_CRP_FNA_SAMPLE</ExaminationRef>
-		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
+		<ExaminationRef>EXM_SLP_FNA_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_SLP_FLOWCYT</ExaminationRef>
 		<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
     </Examinations>
@@ -221,7 +221,7 @@
 		<TreatmentRef>TRT_TRANQUILIZERS</TreatmentRef>
 		<TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
 		<TreatmentRef>TRT_VP_SHUNTING</TreatmentRef>
-		<TreatmentRef>SUR_SLP_DEBULKING</TreatmentRef>
+		<TreatmentRef>TRT_SLP_DEBULKING</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_NEUROLOGY</DepartmentRef>
@@ -238,8 +238,8 @@
     </GameDBMedicalCondition>
 	
 	<!-- Anaplastic Astrocytomas (Astrocytoma Grade 3) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BRAC1_2">
-	<AbbreviationLocID>DIA_ONCO_CRP_BRAC1_2_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BRAC1_2">
+	<AbbreviationLocID>DIA_ONCO_BRAC1_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
@@ -250,7 +250,7 @@
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>60</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_SEIZURES</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SL_SEIZURES</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -280,7 +280,7 @@
 		
 		<GameDBSymptomRules> <!-- Neuro -->
             <ProbabilityPercent>90</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_BRAIN_ABW</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_BRAIN_ABW</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -290,22 +290,22 @@
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>80</ProbabilityPercent> <!-- Neuro -->
-            <GameDBSymptomRef>SYM_CRP_FND</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_FND</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>90</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_CM_KI67_BLI</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_CM_KI67_BLI</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>20</ProbabilityPercent> <!-- Normally very rare, this is higher to help the player -->
-            <GameDBSymptomRef>SYM_CRP_CDF_T_14</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_CDF_T_14</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>60</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_DYSPHASIA</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_DYSPHASIA</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -323,9 +323,9 @@
 		<ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
 		<ExaminationRef>EXM_EEG</ExaminationRef>
 		<ExaminationRef>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING</ExaminationRef>
-		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
+		<ExaminationRef>EXM_SLP_FLOWCYT</ExaminationRef>
 		<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
-		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_SLP_FISH_SAMPLE</ExaminationRef>
 		<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
     </Examinations>
@@ -339,7 +339,7 @@
 		<TreatmentRef>TRT_TRANQUILIZERS</TreatmentRef>
 		<TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
 		<TreatmentRef>TRT_VP_SHUNTING</TreatmentRef>
-		<TreatmentRef>SUR_SLP_DEBULKING</TreatmentRef>
+		<TreatmentRef>TRT_SLP_DEBULKING</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_NEUROLOGY</DepartmentRef>
@@ -356,8 +356,8 @@
     </GameDBMedicalCondition>
 	
 	<!-- Glioblastoma (Astrocytoma Grade 4) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BRAC1_3">
-	<AbbreviationLocID>DIA_ONCO_CRP_BRAC1_3_DESC</AbbreviationLocID>
+	<GameDBMedicalCondition ID="DIA_ONCO_BRAC1_3">
+	<AbbreviationLocID>DIA_ONCO_BRAC1_3_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
@@ -368,7 +368,7 @@
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>30</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_SEIZURES</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SL_SEIZURES</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -393,7 +393,7 @@
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>80</ProbabilityPercent> <!-- Neuro -->
-            <GameDBSymptomRef>SYM_CRP_FND</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_FND</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -408,27 +408,27 @@
 		
 		<GameDBSymptomRules> <!-- Neuro -->
             <ProbabilityPercent>90</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_BRAIN_ABW</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_BRAIN_ABW</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>70</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_DYSPHASIA</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_DYSPHASIA</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>80</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_CDF_T_15</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_CDF_T_15</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>60</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_CDF_T_16</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_CDF_T_16</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>90</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_CDF_T_17</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_CDF_T_17</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -438,7 +438,7 @@
 		
 		<GameDBSymptomRules>
             <ProbabilityPercent>50</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_CRP_CDF_T_18</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_SLP_CDF_T_18</GameDBSymptomRef>
         </GameDBSymptomRules>
     </Symptoms>
 	
@@ -452,8 +452,8 @@
 		<ExaminationRef>EXM_EEG</ExaminationRef>
 		<ExaminationRef>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
-		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
-		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
+		<ExaminationRef>EXM_SLP_FISH_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_SLP_FLOWCYT</ExaminationRef>
 		<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
     </Examinations>
@@ -467,7 +467,7 @@
 		<TreatmentRef>TRT_EYE_DROPS</TreatmentRef>
 		<TreatmentRef>TRT_REST</TreatmentRef>
 		<TreatmentRef>TRT_VP_SHUNTING</TreatmentRef>
-		<TreatmentRef>SUR_SLP_GTR</TreatmentRef>
+		<TreatmentRef>TRT_SLP_GTR</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_NEUROLOGY</DepartmentRef>
@@ -490,7 +490,7 @@
 	<!-- Astrocytic Glioma -->
 	
 	<!-- Hypothalamic-Optic Glioma -->
-		<!-- SYM_CRP_CDF_T_13 -->
+		<!-- SYM_SLP_CDF_T_13 -->
 		
 	<!-- Ependymomas -->
 	

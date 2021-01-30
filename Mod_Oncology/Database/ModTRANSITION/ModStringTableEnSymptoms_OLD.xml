@@ -1,6 +1,6 @@
 <Database>
 	<!-- Oncology Mod by Sleepy068 -->
-	<GameDBStringTable ID="LOC_EN_ADDON_ONCOLOGYSL_SYMPTOMS">
+	<GameDBStringTable ID="LOC_EN_ADDON_ONCOLOGYSL_SYMPTOMSOLD">
 	<LanguageCode>en</LanguageCode>
 	<LanguageNameLocalized>English</LanguageNameLocalized>
 	<Contributors>
@@ -30,26 +30,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC1_1_DETECTED</LocID>                               
-		<Text>Basal Cell Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC1_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Basal Cell Carcinoma with no signs of metastasis.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC1_2_DETECTED</LocID>                               
-		<Text>Basal Cell Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC1_2_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Basal Cell Carcinoma with no signs of metastasis.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_PERINEURAL_INVASION</LocID>                               
 		<Text>Perineural Invasion</Text>  
 	</GameDBLocalizedString>
@@ -57,26 +37,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_PERINEURAL_INVASION_DESC</LocID>                   
 		<Text>Perineural invasion, abbreviated PNI, refers to the invasion of cancer to the space surrounding a nerve.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC1_3_DETECTED</LocID>                               
-		<Text>Basal Cell Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC1_3_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Basal Cell Carcinoma with signs that it has spread to nearby lymph nodes and surrounding tissue.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC1_4_DETECTED</LocID>                               
-		<Text>Basal Cell Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC1_4_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Basal Cell Carcinoma with signs that it is metastatic.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -100,46 +60,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC2_1_DETECTED</LocID>                               
-		<Text>Squamous Cell Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC2_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Squamous Cell Carcinoma with no signs of metastasis.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC2_2_DETECTED</LocID>                               
-		<Text>Squamous Cell Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC2_2_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Squamous Cell Carcinoma with no signs of metastasis.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC2_3_DETECTED</LocID>                               
-		<Text>Squamous Cell Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC2_3_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Squamous Cell Carcinoma with signs that it has spread to nearby lymph nodes and surrounding tissue.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC2_4_DETECTED</LocID>                               
-		<Text>Squamous Cell Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC2_4_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Squamous Cell Carcinoma with signs that it is metastatic.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_ABNORMAL_MOLE</LocID>                               
 		<Text>Abnormal Mole</Text>  
 	</GameDBLocalizedString>
@@ -147,46 +67,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_ABNORMAL_MOLE_DESC</LocID>                   
 		<Text>A mole with an uneven border, unusual color, or change in growth.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC3_1_DETECTED</LocID>                               
-		<Text>Melanoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC3_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Melanoma with no evidence that it has spread to the lymph tissues, lymph nodes, or body organs. It appears locally confined without ulceration.</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC3_2_DETECTED</LocID>                               
-		<Text>Melanoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC3_2_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Melanoma with evidence it extends beyond the epidermis (very outer layer of skin) into the thicker dermis layer of the skin. There are no signs that it is metastatic.</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC3_3_DETECTED</LocID>                               
-		<Text>Melanoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC3_3_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Melanoma with signs that it has spread to nearby lymph nodes and surrounding tissue.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC3_4_DETECTED</LocID>                               
-		<Text>Melanoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC3_4_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Melanoma with signs that it is metastatic</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -210,56 +90,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_AGC1_0_DETECTED</LocID>                               
-		<Text>Pheochromocytoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_AGC1_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Pheochromocytoma with evidence it is only localised.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_AGC1_1_DETECTED</LocID>                               
-		<Text>Pheochromocytoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_AGC1_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Pheochromocytoma with evidence it is regional.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_AGC1_2_DETECTED</LocID>                               
-		<Text>Pheochromocytoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_AGC1_2_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Pheochromocytoma with evidence it is metastatic.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC_0_DETECTED</LocID>                               
-		<Text>Non-Small Cell Lung Cancer (NSCLC) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Non-Small Cell Lung Cancer with evidence it is only localised.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC_1_DETECTED</LocID>                               
-		<Text>Non-Small Cell Lung Cancer (NSCLC) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Non-Small Cell Lung Cancer with evidence it is regional.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 		<LocID>SYM_SL_SEIZURES</LocID>                               
 		<Text>Seizures</Text>  
 	</GameDBLocalizedString>
@@ -269,16 +99,6 @@
 		<Text>A seizure is a sudden, uncontrolled electrical disturbance in the brain. It can cause changes in your behavior, movements or feelings, and in levels of consciousness.</Text>  
 	</GameDBLocalizedString>
 
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC_2_DETECTED</LocID>                               
-		<Text>Non-Small Cell Lung Cancer (NSCLC) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC_2_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Non-Small Cell Lung Cancer with evidence it is metastatic.</Text>  
-	</GameDBLocalizedString>
-	
 	<GameDBLocalizedString>      
 		<LocID>SYM_SL_HEMOPTYSIS1</LocID>                               
 		<Text>Mild Hemoptysis</Text>  
@@ -290,26 +110,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC1_0_DETECTED</LocID>                               
-		<Text>Small Cell Lung Cancer (SCLC) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC1_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Small Cell Lung Cancer with evidence it is in limited state.</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC1_1_DETECTED</LocID>                               
-		<Text>Small Cell Lung Cancer (SCLC) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC1_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Small Cell Lung Cancer with evidence it is in extensive state.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_NERVE_DAMAGE</LocID>                               
 		<Text>Postoperative Neuropathic Pain</Text>  
 	</GameDBLocalizedString>
@@ -317,36 +117,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_NERVE_DAMAGE_DESC</LocID>                   
 		<Text>Postoperative neuropathic pain (PONP) can develop if nerves were damaged during a surgery. Damaged nerves cannot correctly transmit signals from various parts of the body to the brain. Instead, these signals become exaggerated, causing chronic pain that may persist for months or even years.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BC1_0_DETECTED</LocID>                               
-		<Text>Colorectal Adenocarcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BC1_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Colorectal Adenocarcinoma with evidence it is only localised.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BC1_1_DETECTED</LocID>                               
-		<Text>Colorectal Adenocarcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BC1_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Colorectal Adenocarcinoma with evidence it is regional.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BC1_2_DETECTED</LocID>                               
-		<Text>Colorectal Adenocarcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BC1_2_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Colorectal Adenocarcinoma with evidence it is metastatic.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -367,36 +137,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_POLYPS_DESC</LocID>                   
 		<Text>A polyp is a growth of tissue on the lining of the colon and rectum that projects into the intestines. People with colon polyps usually have no symptoms. Most colon polyps are harmless, though some types can become cancerous.</Text> 
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_AGC2_0_DETECTED</LocID>                               
-		<Text>Adrenocortical Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_AGC2_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Adrenocortical Carcinoma with evidence it is only localised.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_AGC2_1_DETECTED</LocID>                               
-		<Text>Adrenocortical Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_AGC2_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Adrenocortical Carcinoma with evidence it is regional.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_AGC2_2_DETECTED</LocID>                               
-		<Text>Adrenocortical Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_AGC2_2_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Adrenocortical Carcinoma with evidence it is metastatic.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -437,26 +177,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_HYPERALDOSTERONISM_DESC</LocID>                   
 		<Text>Hyperaldosteronism is a disease in which the adrenal gland(s) make too much aldosterone which leads to hypertension (high blood pressure) and low blood potassium levels. Primary hyperaldosteronism can be caused by either hyperactivity in one adrenal gland (unilateral disease) or both (bilateral disease).</Text> 
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_MC001_0_DETECTED</LocID>                               
-		<Text>Gastrointestinal NET Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_MC001_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected a Gastrointestinal Neuroendocrine Tumor with evidence it is in limited state.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_MC001_1_DETECTED</LocID>                               
-		<Text>Gastrointestinal NET Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_MC001_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected a Gastrointestinal Neuroendocrine Tumor with evidence it is in extensive state.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -508,8 +228,6 @@
 		<LocID>SYM_SLP_ANAPHYLACTIC_SHOCK_DESC</LocID>                   
 		<Text>Anaphylactic shock is a rare but severe allergic reaction that can be deadly if you don't treat it right away. It's most often caused by an allergy to food, insect bites, or certain medications. A shot of a drug called epinephrine is needed immediately.</Text>  
 	</GameDBLocalizedString>
-	
-	<!-- Blood Cancer Symptoms -->
 	
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_UNUSUAL_INFECT</LocID>                               
@@ -760,139 +478,6 @@
 		<LocID>SYM_SLP_BLA_HIGH3_DESC</LocID>                   
 		<Text>Blasts are precursors to the mature, circulating blood cells such as neutrophils, monocytes, lymphocytes and erythrocytes.  Blasts are usually found in low numbers in the bone marrow.  They are not usually found in significant numbers in the blood. Testing has detected a very high level of blasts in the patients blood (above 30%). At this level, the blast cells crowd out normal white blood cells making them far less effective.</Text>  
 	</GameDBLocalizedString>
-	
-	<!-- leukaemia -->
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC01_0_DETECTED</LocID>                               
-		<Text>Pre-B Cell Acute Lymphocytic Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC01_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Pre-B Cell Lymphocytic Leukaemia with evidence it is Acute.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC01_1_DETECTED</LocID>                               
-		<Text>B Cell Acute Lymphocytic Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC01_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected B Cell Lymphocytic Leukaemia with evidence it is Acute.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC02_A_DETECTED</LocID>                               
-		<Text>Chronic Lymphocytic Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC02_A_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Lymphocytic Leukaemia with evidence it is Chronic but Stable.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC02_B_DETECTED</LocID>                               
-		<Text>Chronic Lymphocytic Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC02_B_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Lymphocytic Leukaemia with evidence it is Chronic and in an Advanced state.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC01_2_DETECTED</LocID>                               
-		<Text>T Cell Acute Lymphocytic Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC01_2_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected T Cell Lymphocytic Leukaemia with evidence it is Acute.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC01_3_DETECTED</LocID>                               
-		<Text>T Cell Acute Lymphocytic Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC01_3_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected T Cell Lymphocytic Leukaemia with evidence it is Acute.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC03_0_DETECTED</LocID>                               
-		<Text>T-cell Large Granular Lymphocyte (LGL) Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC03_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Lymphocytic Leukaemia with evidence it is a subtype, T-Cell Large Granular Lymphocyte (LGL) Leukaemia.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC03_1_DETECTED</LocID>                               
-		<Text>NK-cell Large Granular Lymphocyte (LGL) Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC03_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Lymphocytic Leukaemia with evidence it is a subtype, NK-Cell Large Granular Lymphocyte (LGL) Leukaemia.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC03_2_DETECTED</LocID>                               
-		<Text>T-cell Prolymphocytic Leukaemia (T-PLL) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC03_2_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Lymphocytic Leukaemia with evidence it is a rare subtype, T-cell Prolymphocytic Leukaemia.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC04_0_DETECTED</LocID>                               
-		<Text>Acute Myeloid Leukaemia (AML) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC04_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Myeloid Leukaemia with evidence it is Acute.</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC05_A_DETECTED</LocID>                               
-		<Text>Chronic Myeloid Leukaemia (CML) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC05_A_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Myeloid Leukaemia with evidence it is in its Chronic phase.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC05_B_DETECTED</LocID>                               
-		<Text>Chronic Myeloid Leukaemia (CML) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC05_B_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Myeloid Leukaemia with evidence it is in its Accelerated phase.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC05_C_DETECTED</LocID>                               
-		<Text>Chronic Myeloid Leukaemia (CML) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC05_C_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Myeloid Leukaemia with evidence it is in its Blast Crisis phase.</Text>  
-	</GameDBLocalizedString>
-
-	<!-- ############### CELL MARKERS ############### -->
 	
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_CM_CD10_BRIGHT</LocID>                               
@@ -1284,8 +869,6 @@
 		<Text>HLA-DR is an MHC class II cell surface receptor encoded by the human leukocyte antigen complex on chromosome 6 region 6p21.31. The complex of HLA-DR and peptide, generally between 9 and 30 amino acids in length, constitutes a ligand for the T-cell receptor.</Text>  
 	</GameDBLocalizedString>
 	
-	<!-- ############### NORMAL STRINGS ############### -->
-	
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_PANCYTOPENIA</LocID>                               
 		<Text>Pancytopenia</Text>  
@@ -1337,26 +920,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC06_0_DETECTED</LocID>                               
-		<Text>Hairy Cell Leukaemia (HCL) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC06_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Hairy Cell Leukaemia.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC06_1_DETECTED</LocID>                               
-		<Text>Hairy Cell Leukaemia Variant (HCL-V) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC06_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Hairy Cell Leukaemia with evidence it is a rare variant.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_CDF_T_10</LocID>                               
 		<Text>Deletion Chromosome 17p13 Detected</Text>  
 	</GameDBLocalizedString>
@@ -1385,10 +948,6 @@
 		<LocID>SYM_SLP_LPT1_DESC</LocID>                   
 		<Text>Testing has detected a Large Primary Tumour within the patient, this can sometimes be sign that the cancer is in a more advanced state.</Text>  
 	</GameDBLocalizedString>
-	
-	<!-- ### ### -->
-	<!-- ######################################## Content for V0.13 Added Below ######################################## -->
-	<!-- ### ### -->
 	
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_BREAST_LUMP</LocID>                               
@@ -1491,16 +1050,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BREC01_0_DETECTED</LocID>                               
-		<Text>Ductal Carcinoma In Situ Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BREC01_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Ductal Carcinoma with evidence it is In Situ (in the original place and has not spread).</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_CDF_T_11</LocID>                               
 		<Text>BRCA1 Faulty Gene Findings</Text>  
 	</GameDBLocalizedString>
@@ -1561,16 +1110,6 @@
 	</GameDBLocalizedString>
 
 	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BREC01_1_DETECTED</LocID>                               
-		<Text>Invasive Ductal Carcinoma (IDC) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BREC01_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Ductal Carcinoma with evidence it is Invasive, having invaded the surrounding tissues.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_CM_CD44v6_BRIGHT</LocID>                               
 		<Text>CD44v6 Antigen Bright Expression</Text>  
 	</GameDBLocalizedString>
@@ -1588,16 +1127,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_CDF_T_12_DESC</LocID>                   
 		<Text>GATA3 is a transcription factor that in humans is encoded by the GATA3 gene. The GATA3 transcription factor is critical for the embryonic development of various tissues as well as for inflammatory and humoral immune responses and the proper functioning of the endothelium of blood vessels. Immuocytochemical analysis of GATA3 protein in breast cells is a valuable marker for diagnosing primary breast cancer, being tested as positive in up to 94% of cases.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BREC01_2_DETECTED</LocID>                               
-		<Text>Metastatic Breast Cancer Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BREC01_2_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Breast Cancer with evidence it is Metastatic.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -1638,16 +1167,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_LPT2_DESC</LocID>                   
 		<Text>Testing has detected an abnormal mass within the patient, further testing is required to identify malignancy, type or progression.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BRAC01_0_DETECTED</LocID>                               
-		<Text>Pilocytic Astrocytoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BRAC01_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Pilocytic Astrocytoma within the patient.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -1726,16 +1245,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BRAC01_1_DETECTED</LocID>                               
-		<Text>Diffuse Astrocytoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BRAC01_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Diffuse Astrocytoma within the patient.</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_CM_KI67_LLI</LocID>                               
 		<Text>Antigen KI-67 Low Labeling Index</Text>  
 	</GameDBLocalizedString>
@@ -1748,16 +1257,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_CM_KI67_BLI</LocID>                               
 		<Text>Antigen KI-67 Brisk Labeling Index</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BRAC01_2_DETECTED</LocID>                               
-		<Text>Anaplastic Astrocytoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BRAC01_2_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Anaplastic Astrocytoma within the patient.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -1803,16 +1302,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_CMA_CA125_DESC</LocID>                               
 		<Text>CA-125 also known as mucin 16 or MUC16 is a protein that in humans is encoded by the MUC16 gene. MUC16 is a member of the mucin family glycoproteins. A CA 125 test measures the amount of the protein CA 125 (cancer antigen 125) in your blood. A CA 125 test may be used to monitor certain cancers during and after treatment. In some cases, a CA 125 test may be used to look for early signs of ovarian cancer in people with a very high risk of the disease. The amount of CA-125 is higher with ovarian cancer. In premenopausal women, many other illnesses or diseases besides cancer can cause higher levels of CA-125.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_OVAC1_0F_DETECTED</LocID>                               
-		<Text>High-Grade Serous Carcinoma (HGSC) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_OVAC1_0F_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected High-Grade Serous Carcinoma within the patient.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -1863,16 +1352,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_OVAR_CYST_DESC</LocID>                   
 		<Text>Ovarian cysts are fluid-filled sacs or pockets in an ovary or on its surface. Most ovarian cysts don't cause symptoms. In some cases, menstrual irregularities, pain during intercourse or irregular bowel movements can occur. Most ovarian cysts are harmless and often clear up on their own without treatment.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_OVAC1_1F_DETECTED</LocID>                               
-		<Text>Low-Grade Serous Carcinoma (LGSC) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_OVAC1_1F_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Low-Grade Serous Carcinoma within the patient.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -1986,16 +1465,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BRAC01_3_DETECTED</LocID>                               
-		<Text>Glioblastoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BRAC01_3_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Glioblastoma within the patient.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_PSA_BL_DETECTED</LocID>                               
 		<Text>Prostate Specific Antigen High Levels</Text>  
 	</GameDBLocalizedString>
@@ -2023,46 +1492,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_APM1_DESC</LocID>                   
 		<Text>Testing has found abnormalities with the patient's prostate.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_PROC1_0M_DETECTED</LocID>                               
-		<Text>Prostate Cancer (Stage 1) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_PROC1_0M_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Prostate Cancer (Stage 1) within the patient.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_PROC1_1M_DETECTED</LocID>                               
-		<Text>Prostate Cancer (Stage 2) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_PROC1_1M_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Prostate Cancer (Stage 2) within the patient.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_PROC1_2M_DETECTED</LocID>                               
-		<Text>Prostate Cancer (Stage 3) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_PROC1_2M_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Prostate Cancer (Stage 3) within the patient.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_PROC1_3M_DETECTED</LocID>                               
-		<Text>Prostate Cancer (Stage 4) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_PROC1_3M_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Prostate Cancer (Stage 4) within the patient.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -2146,16 +1575,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_OVAC1_2F_DETECTED</LocID>                               
-		<Text>Metastatic Ovarian Cancer Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_OVAC1_2F_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Metastatic Ovarian Cancer within the patient.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_CM_CD13_NEG</LocID>                               
 		<Text>Aminopeptidase N (CD13) Negative Expression</Text>  
 	</GameDBLocalizedString>
@@ -2168,16 +1587,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_CM_CD30_BRIGHT_DESC</LocID>                               
 		<Text>CD30, also known as TNFRSF8, is a cell membrane protein of the tumor necrosis factor receptor family and tumor marker. This receptor is expressed by activated, but not by resting, T and B cells. TRAF2 and TRAF5 can interact with this receptor, and mediate the signal transduction that leads to the activation of NF-kappaB. CD30 is associated with anaplastic large cell lymphoma. It is expressed in embryonal carcinoma but not in seminoma and is thus a useful marker in distinguishing between these germ cell tumors. CD30 and CD15 are also expressed on Reed-Sternberg cells typical for Hodgkin's lymphoma.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC07_0_DETECTED</LocID>                               
-		<Text>Diffuse Large B-Cell (NOS) Lymphoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC07_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Diffuse Large B-Cell (NOS) Lymphoma.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -2211,16 +1620,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC08_0_DETECTED</LocID>                               
-		<Text>Follicular Lymphoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC08_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Follicular Lymphoma.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_CM_BLC2_BRIGHT</LocID>                               
 		<Text>BCL2 Bright Expression</Text>  
 	</GameDBLocalizedString>
@@ -2238,16 +1637,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_BL_DGP_DESC</LocID>                   
 		<Text>Vaguely nodular and/or diffuse cellular growth pattern.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC4_0_DETECTED</LocID>                               
-		<Text>Merkel Cell Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC4_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Merkel Cell Carcinoma with evidence it is only local.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -2281,30 +1670,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC4_1_DETECTED</LocID>                               
-		<Text>Merkel Cell Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC4_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Merkel Cell Carcinoma with evidence it is metastatic.</Text>  
-	</GameDBLocalizedString>
-	
-	<!-- ### ### -->
-	<!-- ######################################## Content for V0.13.1a Added Below ######################################## -->
-	<!-- ### ### -->
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC09_0_DETECTED</LocID>                               
-		<Text>Mantle Cell Lymphoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC09_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Mantle Cell Lymphoma.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_SM_P_006</LocID>                               
 		<Text>Cyclin D1 Overproduction</Text>  
 	</GameDBLocalizedString>
@@ -2323,10 +1688,6 @@
 		<LocID>SYM_SLP_CDF_T_21_DESC</LocID>                   
 		<Text>IGH gene rearrangements are considered to be one of the classical cytogenetic gene aberrations associated with numerous cancers. The molecular hallmark of MCL, t(11;14)(q13;q32) (IGH/CCND1), results in deregulation and overexpression of the G1-phase cell cycle gene, CCND1 (encoding cyclin D1), mediated by enhancer elements found throughout the IGH locus.</Text>  
 	</GameDBLocalizedString>
-	
-	<!-- ### ### -->
-	<!-- ######################################## Content for V0.13.2.0 Added Below ######################################## -->
-	<!-- ### ### -->
 	
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_BL_SPC</LocID>                               
@@ -2349,16 +1710,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC2_0_DETECTED</LocID>                               
-		<Text>Large Cell Lung Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC2_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Large Cell Lung Carcinoma.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_SM_P_007</LocID>                               
 		<Text>Thyroid Transcription Factor 1 Positive</Text>  
 	</GameDBLocalizedString>
@@ -2376,26 +1727,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_IS_001_DESC</LocID>                   
 		<Text>Tumor protein p63, typically referred to as p63, also known as transformation-related protein 63 is a protein that in humans is encoded by the TP63 (also known as the p63) gene. P63 immunostaining has utility for head and neck squamous cell carcinomas, differentiating prostatic adenocarcinoma (the most common type of prostate cancer) and benign prostatic tissue. </Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC3_0_DETECTED</LocID>                               
-		<Text>Lung Adenocarcinoma (Stage E) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC3_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Lung Adenocarcinoma with evidence it is in an early stage.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC3_1_DETECTED</LocID>                               
-		<Text>Lung Adenocarcinoma (Stage A) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC3_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Lung Adenocarcinoma with evidence it is in an advanced stage.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -2426,16 +1757,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_CDF_T_22_DESC</LocID>                   
 		<Text>The epidermal growth factor receptor (EGFR; ErbB-1; HER1 in humans) is a transmembrane protein that is a receptor for members of the epidermal growth factor family (EGF family) of extracellular protein ligands. Mutations that lead to EGFR overexpression (known as upregulation or amplification) have been associated with a number of cancers, including adenocarcinoma of the lung (40% of cases), anal cancers, glioblastoma (50%) and epithelian tumors of the head and neck (80-100%). These somatic mutations involving EGFR lead to its constant activation, which produces uncontrolled cell division.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC4_0_DETECTED</LocID>                               
-		<Text>Squamous Cell Lung Cancer Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_LC4_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Squamous Cell Lung Cancer.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -2496,16 +1817,6 @@
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_CDF_T_24_DESC</LocID>                   
 		<Text>Cadherin-1 also known as CAM 120/80 or epithelial cadherin (E-cadherin) or uvomorulin is a protein that in humans is encoded by the CDH1 gene. CDH1 has also been designated as CD324 (cluster of differentiation 324). It is a tumor suppressor gene. Loss of E-cadherin function or expression has been implicated in cancer progression and metastasis. E-cadherin downregulation decreases the strength of cellular adhesion within a tissue, resulting in an increase in cellular motility. This in turn may allow cancer cells to cross the basement membrane and invade surrounding tissues.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BC2_0_DETECTED</LocID>                               
-		<Text>Signet Ring Cell Colorectal Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BC2_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Signet Ring Cell Carcinoma of the Colon.</Text>  
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
@@ -2579,26 +1890,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BC3_0_DETECTED</LocID>                               
-		<Text>Mucinous Colorectal Adenocarcinoma (Mixed) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BC3_0_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Mucinous Adenocarcinoma of the Colon with evidence it is in a mixed cancer state.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BC3_1_DETECTED</LocID>                               
-		<Text>Mucinous Colorectal Adenocarcinoma (Pure) Detected</Text>  
-	</GameDBLocalizedString>
-            
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BC3_1_DETECTED_DESC</LocID>                   
-		<Text>Testing has detected Mucinous Adenocarcinoma of the Colon with evidence it is in a pure cancer state.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_SM_P_013</LocID>                               
 		<Text>Napsin A Highly Expressed</Text>  
 	</GameDBLocalizedString>
@@ -2607,29 +1898,6 @@
 		<LocID>SYM_SLP_SM_P_013_DESC</LocID>                   
 		<Text>Napsin A is a functional aspartic proteinase, expressed in the cytoplasm of healthy lung parenchyma. It is homologous with the polypeptide TAO2 and involved in maturation of the biologically active surfactant protein B. It also consists of a 38-kDa protein, a single-chain protein expressed in type II pneumocytes, alveolar macrophages, renal tubules, and exocrine glands and ducts in the pancreas. Napsin A may be an alternative marker for primary lung cancer.</Text>  
 	</GameDBLocalizedString>
-	
-	<!-- ### ### -->
-	<!-- ######################################## Content for V0.13.2.0 Added Below ######################################## -->
-	<!-- ### ### -->
-	
-	<GameDBLocalizedString>    
-		<LocID>SYM_ONCO_BREC01_0M_DETECTED</LocID>                               
-		<Text>Ductal Carcinoma In Situ Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>     
-		<LocID>SYM_ONCO_BREC01_1M_DETECTED</LocID>                               
-		<Text>Invasive Ductal Carcinoma (IDC) Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>     
-		<LocID>SYM_ONCO_BREC01_2M_DETECTED</LocID>                               
-		<Text>Metastatic Breast Cancer Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<!-- ### ### -->
-	<!-- ######################################## Content for V0.13.3.0 Added Below ######################################## -->
-	<!-- ### ### -->
 	
 	<GameDBLocalizedString>     
 		<LocID>SYM_SLP_WHITE_STOOLS</LocID>                               
@@ -2692,46 +1960,6 @@
 	</GameDBLocalizedString>
 	
 	<GameDBLocalizedString>    
-		<LocID>SYM_ONCO_LIV0_0_DETECTED</LocID>                               
-		<Text>Hepatocellular Carcinoma (Localised) Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>     
-		<LocID>SYM_ONCO_LIV0_0_DETECTED_DESC</LocID>                               
-		<Text>Testing has detected Hepatocellular Carcinoma with evidence it is localised.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>    
-		<LocID>SYM_ONCO_LIV0_1_DETECTED</LocID>                               
-		<Text>Hepatocellular Carcinoma (Regional) Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>     
-		<LocID>SYM_ONCO_LIV0_1_DETECTED_DESC</LocID>                               
-		<Text>Testing has detected Hepatocellular Carcinoma with evidence it is regional.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>    
-		<LocID>SYM_ONCO_LIV0_2_DETECTED</LocID>                               
-		<Text>Hepatocellular Carcinoma (Critical) Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>     
-		<LocID>SYM_ONCO_LIV0_2_DETECTED_DESC</LocID>                               
-		<Text>Testing has detected Hepatocellular Carcinoma with evidence it is in a critical state.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>    
-		<LocID>SYM_ONCO_LIV0_3_DETECTED</LocID>                               
-		<Text>Metastatic Liver Cancer Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>     
-		<LocID>SYM_ONCO_LIV0_3_DETECTED_DESC</LocID>                               
-		<Text>Testing has detected Liver Cancer with evidence it is Metastatic.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>    
 		<LocID>SYM_SLP_AB_LFT</LocID>                               
 		<Text>Abnormal LFT Results</Text>  
 	</GameDBLocalizedString>
@@ -2791,129 +2019,6 @@
 		<Text>A lesion or tumour inside the patient has ruptured. This is associated with life-threatening internal bleeding.</Text>  
 	</GameDBLocalizedString>
 	
-	<!-- ### ### -->
-	<!-- ######################################## Content for V0.13.4.0 Added Below ######################################## -->
-	<!-- ### ### -->
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC01_0_DETECTED_V2</LocID>                               
-		<Text>Pre-B Cell Acute Lymphocytic Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC01_1_DETECTED_V2</LocID>                               
-		<Text>B Cell Acute Lymphocytic Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC01_2_DETECTED_V2</LocID>                               
-		<Text>T Cell Acute Lymphocytic Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC02_A_DETECTED_V2</LocID>                               
-		<Text>Chronic Lymphocytic Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC02_B_DETECTED_V2</LocID>                               
-		<Text>Chronic Lymphocytic Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC03_0_DETECTED_V2</LocID>                               
-		<Text>T-cell Large Granular Lymphocyte (LGL) Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC03_1_DETECTED_V2</LocID>                               
-		<Text>NK-cell Large Granular Lymphocyte (LGL) Leukaemia Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC03_2_DETECTED_V2</LocID>                               
-		<Text>T-cell Prolymphocytic Leukaemia (T-PLL) Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC04_0_DETECTED_V2</LocID>                               
-		<Text>Acute Myeloid Leukaemia (AML) Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC05_A_DETECTED_V2</LocID>                               
-		<Text>Chronic Myeloid Leukaemia (CML) Detected</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC05_B_DETECTED_V2</LocID>                               
-		<Text>Chronic Myeloid Leukaemia (CML) Detected</Text>  
-	</GameDBLocalizedString>
-
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC05_C_DETECTED_V2</LocID>                               
-		<Text>Chronic Myeloid Leukaemia (CML) Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC08_0_DETECTED_V2</LocID>                               
-		<Text>Follicular Lymphoma Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BLC07_0_DETECTED_V2</LocID>                               
-		<Text>Diffuse Large B-Cell (NOS) Lymphoma Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_BREC01_1_DETECTED_V2</LocID>                               
-		<Text>Invasive Ductal Carcinoma (IDC) Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>     
-		<LocID>SYM_ONCO_BREC01_1M_DETECTED_V2</LocID>                               
-		<Text>Invasive Ductal Carcinoma (IDC) Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_MC001_1_DETECTED_V2</LocID>                               
-		<Text>Gastrointestinal NET Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC3_4_DETECTED_V2</LocID>                               
-		<Text>Melanoma Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_SC4_1_DETECTED_V2</LocID>                               
-		<Text>Merkel Cell Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<!-- ### ### -->
-	<!-- ######################################## Content for V0.13.4.1 Added Below ######################################## -->
-	<!-- ### ### -->
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_ORA001_1_DETECTED</LocID>                               
-		<Text>Mucoepidermoid Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_ORA001_1_DETECTED_DESC</LocID>                               
-		<Text>Testing has detected Mucoepidermoid Carcinoma with evidence it is in a low grade state.</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_ORA001_2_DETECTED</LocID>                               
-		<Text>Mucoepidermoid Carcinoma Detected</Text>  
-	</GameDBLocalizedString>
-	
-	<GameDBLocalizedString>      
-		<LocID>SYM_ONCO_ORA001_2_DETECTED_DESC</LocID>                               
-		<Text>Testing has detected Mucoepidermoid Carcinoma with evidence it is in a high grade state.</Text>  
-	</GameDBLocalizedString>
-	
 	<GameDBLocalizedString>      
 		<LocID>SYM_SLP_FACIAL_NERVE_PARA</LocID>                               
 		<Text>Facial Nerve Paralysis</Text>  
@@ -2945,7 +2050,7 @@
 	</GameDBLocalizedString>
 	
 	<!-- ### ### -->
-	<!-- ######################################## Content for V0.14.0.2 Added Below ######################################## -->
+	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
 	<!-- ### ### -->
 	
 	</LocalizedStrings>
