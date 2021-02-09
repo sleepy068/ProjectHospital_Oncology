@@ -23,6 +23,26 @@
 		<!-- ============= CRP Export Content ============= -->
 		<!-- ============================================== -->
 
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</LocID>                               
+			<Text>Ovarian Biopsy Sample</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE_DESC</LocID>                               
+			<Text>There is currently no effective screening test for ovarian cancer. When a patient is suspected to have ovarian cancer the doctor will perform various tests to find any abnormalities that need to be followed up with a biopsy. The only way to confirm a diagnosis of ovarian cancer is by taking a tissue sample (biopsy) and looking at the cells under a microscope.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_OVARIAN_BIOPSY_TEST</LocID>                               
+			<Text>Ovarian Biopsy Test</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_OVARIAN_BIOPSY_TEST_DESC</LocID>                               
+			<Text>Histology technicians are currently working with the sample provided by the patient. They should return their results soon.</Text>  
+		</GameDBLocalizedString>
+		
 </LocalizedStrings>
 </GameDBStringTable>
 </Database>
