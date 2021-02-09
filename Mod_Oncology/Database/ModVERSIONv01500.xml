@@ -1,14 +1,21 @@
 <Database>
 <!--
-Update v0.14.0.3
+Update v0.15.0.0
 
-Restructured Mod Files (better organised now and helps with the CRP transition)
+Changes:
+Mod converted to Community Resource Pack (It now requires this mod to function)
+Restructured Mod Files & Code (better organised now and helped with the CRP transition)
 Added <Tag>ui_ModObjects</Tag> to Oncology Object Tags (Allows other modders to add this tag to equipment to allow it to be placed on my objects such as the cube shelf)
+Replaced Biopsy with Ovarian Biopsy for Ovarian Cancers (Makes more sense and makes it harder to guess the diagnosis).
+
+Localisation:
 Updated Italian Localisation (v0.14.0.1)
 
 Bug Fixes:
 Fixed issue with room requipments of Epipen (Should be able to be used anywhere now)
 Fixed Dutch Localisation issue with Nerve Compression Surgery
+Fixed a bunch of wrong hospitalisation types for certain surgeries
+
 -->
 
 </Database>

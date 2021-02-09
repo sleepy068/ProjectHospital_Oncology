@@ -355,8 +355,8 @@
         <IconIndex>1711</IconIndex>
         <DurationHours>0</DurationHours>
 			
-		<CustomIconBigAssetRef>ASSET_ONC_EXM_ICON_039</CustomIconBigAssetRef>
-        <CustomIconSmallAssetRef>ASSET_ONC_EXM_ICON_040</CustomIconSmallAssetRef>
+		<CustomIconBigAssetRef>ASSET_ONC_CRP_EXM_ICON_0001</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_CRP_EXM_ICON_0002</CustomIconSmallAssetRef>
 		
         <LabTestingExaminationRef>EXM_CRP_OVARIAN_BIOPSY_TEST</LabTestingExaminationRef>
     </GameDBExamination>
@@ -422,8 +422,8 @@
         <Cost>50</Cost>
         <IconIndex>1711</IconIndex>
 		
-		<CustomIconBigAssetRef>ASSET_ONC_EXM_ICON_039</CustomIconBigAssetRef>
-        <CustomIconSmallAssetRef>ASSET_ONC_EXM_ICON_040</CustomIconSmallAssetRef>
+		<CustomIconBigAssetRef>ASSET_ONC_CRP_EXM_ICON_0003</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_CRP_EXM_ICON_0004</CustomIconSmallAssetRef>
 		
         <DurationHours>2</DurationHours>
     </GameDBExamination>

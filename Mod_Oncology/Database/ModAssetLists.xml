@@ -22,7 +22,25 @@
 <!-- ^^^^^^^^^^^^^^ Oncology Treatments ^^^^^^^^^^^^^^ -->
 
 <!-- ^^^^^^^^^^^^^^ Oncology Examinations ^^^^^^^^^^^^^^ -->
+<GameDBAsset ID="ASSET_ONC_CRP_EXM_ICON_0001">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/exm_slp_ovarbioS_1a.png</File> 
+</GameDBAsset>
 
+<GameDBAsset ID="ASSET_ONC_CRP_EXM_ICON_0002">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/exm_slp_ovarbioS_1b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_EXM_ICON_0003">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/exm_slp_ovarbioT_1a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_EXM_ICON_0004">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/exm_slp_ovarbioT_1b.png</File> 
+</GameDBAsset>
 
 
 

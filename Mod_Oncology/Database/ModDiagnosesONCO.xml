@@ -4306,7 +4306,7 @@
 		<ExaminationRef>EXM_CT</ExaminationRef>
 		<ExaminationRef>EXM_MRI</ExaminationRef>
 		<ExaminationRef>EXM_CRP</ExaminationRef>
-		<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>	
+		<ExaminationRef>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</ExaminationRef>	
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
     </Examinations>
 		
@@ -4447,7 +4447,7 @@
 		<ExaminationRef>EXM_CRP_IV_STAINING_SAMPLE</ExaminationRef>	
 		<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
-		<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>		
+		<ExaminationRef>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</ExaminationRef>		
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
     </Examinations>
 		
