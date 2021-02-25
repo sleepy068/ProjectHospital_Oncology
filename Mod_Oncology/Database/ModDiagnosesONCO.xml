@@ -4662,6 +4662,47 @@
 	<!-- ICON READY -->
 	<!-- Metastatic Uterine Cancer -->
 	
+	<!-- ============= Vaginal Cancer ============= -->
+	<!-- Vaginal Intraepithelial Neoplasia (VAIN)(Low Risk) -->
+	<GameDBMedicalCondition ID="DIA_ONCO_CRP_VAGC1_0F">
+	<AbbreviationLocID>DIA_ONCO_CRP_VAGC1_0F_DESC</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_SL_UNCOMMON</OccurrenceRef>
+	<MatchingGenderRef>GENDER_FEMALE</MatchingGenderRef>
+	
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_ONCO_CRP_VAGC1_0F_DETECTED</GameDBSymptomRef>
+        </GameDBSymptomRules>
+
+
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>	
+		<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</ExaminationRef>	
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_CRP_WATCH_WAIT</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
+    <InsurancePayment></InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef></CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef></CustomIconSmallAssetRef>
+		
+    <Tags>
+        <Tag>disease</Tag>
+    </Tags>
+    </GameDBMedicalCondition>
+	
 	
 	<!-- =========================================================================================== -->
 	<!-- ==================================== Gastrointestinal Cancer ============================== -->

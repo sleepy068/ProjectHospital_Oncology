@@ -24,25 +24,43 @@
 <!-- ^^^^^^^^^^^^^^ Oncology Examinations ^^^^^^^^^^^^^^ -->
 <GameDBAsset ID="ASSET_ONC_CRP_EXM_ICON_0001">   
 	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
-	<File>MOD_ROOT/exm_slp_ovarbioS_1a.png</File> 
+	<File>MOD_ROOT/CRP_exm_slp_ovarbioS_1a.png</File> 
 </GameDBAsset>
 
 <GameDBAsset ID="ASSET_ONC_CRP_EXM_ICON_0002">   
 	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
-	<File>MOD_ROOT/exm_slp_ovarbioS_1b.png</File> 
+	<File>MOD_ROOT/CRP_exm_slp_ovarbioS_1b.png</File> 
 </GameDBAsset>
 
 <GameDBAsset ID="ASSET_ONC_CRP_EXM_ICON_0003">   
 	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
-	<File>MOD_ROOT/exm_slp_ovarbioT_1a.png</File> 
+	<File>MOD_ROOT/CRP_exm_slp_ovarbioT_1a.png</File> 
 </GameDBAsset>
 
 <GameDBAsset ID="ASSET_ONC_CRP_EXM_ICON_0004">   
 	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
-	<File>MOD_ROOT/exm_slp_ovarbioT_1b.png</File> 
+	<File>MOD_ROOT/CRP_exm_slp_ovarbioT_1b.png</File> 
 </GameDBAsset>
 
+<GameDBAsset ID="ASSET_ONC_CRP_EXM_ICON_0005">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/CRP_exm_slp_vagbioS_1a.png</File> 
+</GameDBAsset>
 
+<GameDBAsset ID="ASSET_ONC_CRP_EXM_ICON_0006">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/CRP_exm_slp_vagbioS_1b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_EXM_ICON_0007">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/CRP_exm_slp_vagbioT_1a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_EXM_ICON_0008">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/CRP_exm_slp_vagbioT_1b.png</File> 
+</GameDBAsset>
 
 <!-- Post CRP Change Below -->
 <!-- 

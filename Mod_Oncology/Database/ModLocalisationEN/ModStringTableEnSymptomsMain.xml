@@ -872,6 +872,16 @@
 	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
 	<!-- ### ### -->
 	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED</LocID>                               
+		<Text>Vaginal Intraepithelial Neoplasia (VAIN)(LR) Detected</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED_DESC</LocID>                               
+		<Text>Testing has detected Vaginal Intraepithelial Neoplasia (VAIN) but evidence suggests it is low risk.</Text>  
+	</GameDBLocalizedString>
+	
 	</LocalizedStrings>
 	</GameDBStringTable>
 </Database>

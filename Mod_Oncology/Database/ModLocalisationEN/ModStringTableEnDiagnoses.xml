@@ -873,6 +873,16 @@
 	<!-- ### ### -->
 	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
 	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA001_2</LocID>                         
+		<Text>Vaginal Intraepithelial Neoplasia (Low Risk)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA001_2_DESC</LocID>                         
+		<Text>Vaginal intraepithelial neoplasia, also known as VAIN, is a condition involving cell changes in the vagina. It is sometimes referred to as carcinoma in-situ. VAIN is not cancer but there is a chance it may develop into cancer if left untreated. VAIN rarely causes symptoms and is usually detected because a woman is considered potentially at risk. Many cases of low-grade VAIN will go away on their own, so some doctors will choose to watch them closely without starting treatment.</Text>	
+		</GameDBLocalizedString>
 		
 	</LocalizedStrings>
 	</GameDBStringTable>
