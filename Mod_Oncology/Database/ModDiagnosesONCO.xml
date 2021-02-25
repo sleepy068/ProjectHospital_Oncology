@@ -4675,31 +4675,58 @@
             <ProbabilityPercent>100</ProbabilityPercent>
             <GameDBSymptomRef>SYM_ONCO_CRP_VAGC1_0F_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
-
-
+		<GameDBSymptomRules>
+            <ProbabilityPercent>50</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_METRORRAGIE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>40</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_DYSPAREUNIA</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>20</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_PAIN</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>30</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_PERSISTENT_URGE_TO_URINATE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>10</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_HEMATURIA</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
     </Symptoms>
 	
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>	
+		<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+		<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
 		<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</ExaminationRef>	
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
     </Examinations>
 		
     <Treatments>
+		<TreatmentRef>TRT_CRP_PROGESTATIF</TreatmentRef>
+		<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+		<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+		<TreatmentRef>TRT_CRP_ESTRADIOL_CREAM</TreatmentRef>
 		<TreatmentRef>TRT_CRP_WATCH_WAIT</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
-    <InsurancePayment></InsurancePayment>
+    <InsurancePayment>90</InsurancePayment>
 		
 	<IconIndex>1</IconIndex>
 	
-	<CustomIconBigAssetRef></CustomIconBigAssetRef>
-    <CustomIconSmallAssetRef></CustomIconSmallAssetRef>
+	<CustomIconBigAssetRef>ASSET_ONC_CRP_DIA_ICON_0001</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_ONC_CRP_DIA_ICON_0002</CustomIconSmallAssetRef>
 		
     <Tags>
-        <Tag>disease</Tag>
+        <Tag>clinic</Tag>
+		<Tag>disease</Tag>
     </Tags>
     </GameDBMedicalCondition>
 	

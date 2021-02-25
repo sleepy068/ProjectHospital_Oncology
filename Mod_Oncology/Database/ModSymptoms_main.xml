@@ -1990,8 +1990,8 @@
 		
         <IconIndex>1</IconIndex>
 		
-		<CustomIconBigAssetRef></CustomIconBigAssetRef>
-		<CustomIconSmallAssetRef></CustomIconSmallAssetRef>
+		<CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0001</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0002</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
 </Database>

@@ -4,10 +4,38 @@
 <!-- =========================================== -->
 <!-- ============= Diagnosis Icons ============= -->
 <!-- =========================================== -->
+<GameDBAsset ID="ASSET_ONC_CRP_DIA_ICON_0001">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_slp_vag01a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_DIA_ICON_0002">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_slp_vag01b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_DIA_ICON_0003">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_slp_vag02a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_DIA_ICON_0004">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_slp_vag02b.png</File> 
+</GameDBAsset>
 
 <!-- ============================================== -->
 <!-- ============= Main Symptom Icons ============= -->
 <!-- ============================================== -->
+<GameDBAsset ID="ASSET_ONC_CRP_MAIN_ICON_0001">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_main_slp_vag01a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_MAIN_ICON_0002">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_main_slp_vag01b.png</File> 
+</GameDBAsset>
 
 <!-- ========================================= -->
 <!-- ============= Surgery Icons ============= -->

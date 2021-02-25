@@ -43,6 +43,26 @@
 			<Text>Histology technicians are currently working with the sample provided by the patient. They should return their results soon.</Text>  
 		</GameDBLocalizedString>
 		
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</LocID>                               
+			<Text>Vaginal Biopsy Sample</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE_DESC</LocID>                               
+			<Text>Certain signs and symptoms may strongly suggest vaginal cancer, but many of them can be caused by other problems. The only way to be certain that it's cancer is to do a biopsy. In this procedure, a small piece of tissue from the suspicious area is removed. A technician specializing in diagnosing diseases with lab tests (Histology Lab Technician) will then look at the tissue sample under a microscope to see if cancer or a pre-cancerous condition is present and, if so, what type it is.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_VAGINAL_BIOPSY_TEST</LocID>                               
+			<Text>Vaginal Biopsy Test</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_VAGINAL_BIOPSY_TEST_DESC</LocID>                               
+			<Text>Histology technicians are currently working with the sample provided by the patient. They should return their results soon.</Text>  
+		</GameDBLocalizedString>
+		
 </LocalizedStrings>
 </GameDBStringTable>
 </Database>
