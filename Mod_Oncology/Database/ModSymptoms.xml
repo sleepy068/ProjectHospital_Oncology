@@ -173,7 +173,7 @@
 		<!-- <ExaminationRef>EXM_SLP_MINERALT_SAMPLE</ExaminationRef> - Patient Side -->
 		
         <Examinations>
-		    <ExaminationRef>EXM_SLP_MINERALT_TEST</ExaminationRef>
+		    <ExaminationRef>EXM_CRP_MINERALT_TEST</ExaminationRef>
         </Examinations>
 		
 		<Treatments>
@@ -209,7 +209,7 @@
 		<!-- EXM_SLP_MINERALT_SAMPLE - Patient Side -->
 		
         <Examinations>
-		    <ExaminationRef>EXM_SLP_MINERALT_TEST</ExaminationRef>
+		    <ExaminationRef>EXM_CRP_MINERALT_TEST</ExaminationRef>
         </Examinations>
 		
 		<Treatments>
@@ -243,7 +243,7 @@
 		- Patient Side -->
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_LIVER_FT_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_LIVER_FT_TEST</ExaminationRef>
 			<ExaminationRef>EXM_USG</ExaminationRef>
 			<ExaminationRef>EXM_CT</ExaminationRef>
         </Examinations>
@@ -264,5 +264,30 @@
 	<!-- ============================================== -->
 	<!-- ============= CRP Export Content ============= -->
 	<!-- ============================================== -->
+	<!-- Pure Mucinous Cells Counts -->
+	<GameDBSymptom ID="SYM_CRP_BL_PMCC">
+        <DescriptionLocID>SYM_CRP_BL_PMCC_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+		<!-- <ExaminationRef>EXM_SLP_BLOOD_SMEAR_SAMPLE</ExaminationRef> - Patient Side -->
+		
+        <Examinations>
+			<ExaminationRef>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BLOOD_SMEAR_TEST</ExaminationRef>
+        </Examinations>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+		
+		<CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_405</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_406</CustomIconSmallAssetRef>
+		
+        <IconIndex>1</IconIndex>
+		
+    </GameDBSymptom>
+	
 	
 </Database>

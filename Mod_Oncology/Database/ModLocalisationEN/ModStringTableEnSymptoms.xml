@@ -103,6 +103,16 @@
 	<!-- ============================================== -->
 	<!-- ============= CRP Export Content ============= -->
 	<!-- ============================================== -->
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BL_PMCC</LocID>                               
+		<Text>Pure Mucinous Cells</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BL_PMCC_DESC</LocID>                   
+		<Text>Mucinous carcinoma can form along side of other types cancer cells but when it doesn't the cancer is considered 'pure'. Pure mucinous carcinoma is composed of 90–100% mucinous cells.</Text>  
+	</GameDBLocalizedString>
+	
 	
 	</LocalizedStrings>
 	</GameDBStringTable>

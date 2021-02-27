@@ -1013,7 +1013,7 @@
 		<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
         <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-		<ExaminationRef>EXM_CRP_CBC_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
 		<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
@@ -1160,7 +1160,7 @@
 		<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
         <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-		<ExaminationRef>EXM_CRP_CBC_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
 		<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
@@ -1312,7 +1312,7 @@
 		<ExaminationRef>EXM_THORAX_PERCUSSION</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
         <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-		<ExaminationRef>EXM_CRP_CBC_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
 		<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
@@ -1413,7 +1413,7 @@
 		<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-		<ExaminationRef>EXM_CRP_CBC_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
     </Examinations>
@@ -1531,7 +1531,7 @@
 		<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-		<ExaminationRef>EXM_CRP_CBC_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
 		<ExaminationRef>EXM_CRP_BONEBIOPSY_SAMPLE</ExaminationRef>
 		<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
@@ -1665,7 +1665,7 @@
 		<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
 		<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 		<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_CBC_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
         <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 		<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
@@ -1806,7 +1806,7 @@
 		<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
 		<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 		<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_CBC_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
         <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 		<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
@@ -1957,7 +1957,7 @@
 		<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
 		<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 		<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_CBC_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
         <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 		<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
@@ -2112,7 +2112,7 @@
 		<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
         <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-		<ExaminationRef>EXM_CRP_CBC_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
 		<ExaminationRef>EXM_CRP_IV_STAINING_SAMPLE</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
@@ -2241,7 +2241,7 @@
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 		<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
 		<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
-		<ExaminationRef>EXM_CRP_CBC_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
         <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
@@ -2389,7 +2389,7 @@
 		<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
 		<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 		<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_CBC_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
         <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
@@ -2542,7 +2542,7 @@
 		<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
         <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-		<ExaminationRef>EXM_CRP_CBC_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
 		<ExaminationRef>EXM_CRP_IV_STAINING_SAMPLE</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
@@ -2849,7 +2849,7 @@
 		<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
         <ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
-		<ExaminationRef>EXM_CRP_CBC_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
 		<ExaminationRef>EXM_CRP_IV_STAINING_SAMPLE</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
@@ -3103,7 +3103,7 @@
 		<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
 		<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
 		<ExaminationRef>EXM_USG</ExaminationRef>
-		<ExaminationRef>EXM_CRP_CBC_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CBC_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
