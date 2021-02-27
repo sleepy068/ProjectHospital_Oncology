@@ -4730,6 +4730,193 @@
     </Tags>
     </GameDBMedicalCondition>
 	
+	<!-- Vaginal Intraepithelial Neoplasia (VAIN)(High Risk) -->
+	<GameDBMedicalCondition ID="DIA_ONCO_CRP_VAGC1_1F">
+	<AbbreviationLocID>DIA_ONCO_CRP_VAGC1_1F_DESC</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_SL_RARE</OccurrenceRef>
+	<MatchingGenderRef>GENDER_FEMALE</MatchingGenderRef>
+	
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_ONCO_CRP_VAGC1_1F_DETECTED</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>50</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_METRORRAGIE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>40</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_DYSPAREUNIA</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>20</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_PAIN</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>30</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_PERSISTENT_URGE_TO_URINATE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>10</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_HEMATURIA</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>	
+		<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+		<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</ExaminationRef>	
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_CRP_PROGESTATIF</TreatmentRef>
+		<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+		<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+		<TreatmentRef>TRT_CRP_ESTRADIOL_CREAM</TreatmentRef>
+		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+		<TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
+    <InsurancePayment>990</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_ONC_CRP_DIA_ICON_0003</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_ONC_CRP_DIA_ICON_0004</CustomIconSmallAssetRef>
+		
+    <Tags>
+		<Tag>disease</Tag>
+    </Tags>
+    </GameDBMedicalCondition>
+	
+	<!-- Vaginal Squamous Cell Carcinoma (Local) -->
+	<GameDBMedicalCondition ID="DIA_ONCO_CRP_VAGC2_0F">
+	<AbbreviationLocID>DIA_ONCO_CRP_VAGC2_0F_DESC</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_SL_RARE</OccurrenceRef>
+	<MatchingGenderRef>GENDER_FEMALE</MatchingGenderRef>
+	
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_ONCO_CRP_VAGC2_0F_DETECTED</GameDBSymptomRef>
+        </GameDBSymptomRules>
+
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>	
+		<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</ExaminationRef>	
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+		<TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
+    <InsurancePayment>990</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_ONC_CRP_DIA_ICON_0003</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_ONC_CRP_DIA_ICON_0004</CustomIconSmallAssetRef>
+		
+    <Tags>
+		<Tag>disease</Tag>
+    </Tags>
+    </GameDBMedicalCondition>
+	
+	<!-- Vaginal Squamous Cell Carcinoma (Regional) -->
+	<GameDBMedicalCondition ID="DIA_ONCO_CRP_VAGC2_1F">
+	<AbbreviationLocID>DIA_ONCO_CRP_VAGC2_1F_DESC</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_SL_RARE</OccurrenceRef>
+	<MatchingGenderRef>GENDER_FEMALE</MatchingGenderRef>
+	
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_ONCO_CRP_VAGC2_1F_DETECTED</GameDBSymptomRef>
+        </GameDBSymptomRules>
+
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>	
+		<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</ExaminationRef>	
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+		<TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
+    <InsurancePayment>990</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_ONC_CRP_DIA_ICON_0003</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_ONC_CRP_DIA_ICON_0004</CustomIconSmallAssetRef>
+		
+    <Tags>
+		<Tag>disease</Tag>
+    </Tags>
+    </GameDBMedicalCondition>
+	
+	<!-- Metastatic Vaginal Cancer -->
+	<GameDBMedicalCondition ID="DIA_ONCO_CRP_VAGC2_2F">
+	<AbbreviationLocID>DIA_ONCO_CRP_VAGC2_2F_DESC</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_SL_RARE</OccurrenceRef>
+	<MatchingGenderRef>GENDER_FEMALE</MatchingGenderRef>
+	
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_ONCO_CRP_VAGC2_2F_DETECTED</GameDBSymptomRef>
+        </GameDBSymptomRules>
+
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>	
+		<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</ExaminationRef>	
+		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+		<TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
+    <InsurancePayment>990</InsurancePayment>
+		
+	<IconIndex>1</IconIndex>
+	
+	<CustomIconBigAssetRef>ASSET_ONC_CRP_DIA_ICON_0003</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_ONC_CRP_DIA_ICON_0004</CustomIconSmallAssetRef>
+		
+    <Tags>
+		<Tag>disease</Tag>
+    </Tags>
+    </GameDBMedicalCondition>
+	
 	
 	<!-- =========================================================================================== -->
 	<!-- ==================================== Gastrointestinal Cancer ============================== -->

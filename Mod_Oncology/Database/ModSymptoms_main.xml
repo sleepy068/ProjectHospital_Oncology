@@ -1965,7 +1965,6 @@
     </GameDBSymptom>
 	
 	<!-- Vaginal Cancer -->
-	<!-- Vaginal Intraepithelial Neoplasia (VAIN)(Low Risk) -->
 	<GameDBSymptom ID="SYM_ONCO_CRP_VAGC1_0F_DETECTED">
         <DescriptionLocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
@@ -1983,6 +1982,118 @@
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_CRP_WATCH_WAIT</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0001</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0002</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_ONCO_CRP_VAGC1_1F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> 
+			 <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef> 
+		     - Must be included in Diagnosis Code if needed -->
+		<!-- <ExaminationRef>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</ExaminationRef> - Patient Side for testing -->
+		
+        <Examinations>
+			<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0001</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0002</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_ONCO_CRP_VAGC2_0F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> 
+			 <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef> 
+		     - Must be included in Diagnosis Code if needed -->
+		<!-- <ExaminationRef>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</ExaminationRef> - Patient Side for testing -->
+		
+        <Examinations>
+			<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0001</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0002</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_ONCO_CRP_VAGC2_0F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> 
+			 <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef> 
+		     - Must be included in Diagnosis Code if needed -->
+		<!-- <ExaminationRef>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</ExaminationRef> - Patient Side for testing -->
+		
+        <Examinations>
+			<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0001</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0002</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_ONCO_CRP_VAGC2_0F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> 
+			 <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef> 
+		     - Must be included in Diagnosis Code if needed -->
+		<!-- <ExaminationRef>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</ExaminationRef> - Patient Side for testing -->
+		
+        <Examinations>
+			<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>

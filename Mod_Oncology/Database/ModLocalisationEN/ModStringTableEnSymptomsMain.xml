@@ -882,6 +882,16 @@
 		<Text>Testing has detected Vaginal Intraepithelial Neoplasia (VAIN) but evidence suggests it is low risk.</Text>  
 	</GameDBLocalizedString>
 	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED</LocID>                               
+		<Text>Vaginal Intraepithelial Neoplasia (VAIN)(HR) Detected</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED_DESC</LocID>                               
+		<Text>Testing has detected Vaginal Intraepithelial Neoplasia (VAIN) and evidence suggests it is high risk.</Text>  
+	</GameDBLocalizedString>
+	
 	</LocalizedStrings>
 	</GameDBStringTable>
 </Database>

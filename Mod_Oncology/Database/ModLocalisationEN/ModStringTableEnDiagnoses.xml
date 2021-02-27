@@ -874,14 +874,54 @@
 	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
 	<!-- ### ### -->
 	
-	<GameDBLocalizedString>      
-		<LocID>DIA_ONCO_CRP_ORA001_2</LocID>                         
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC1_0F</LocID>                         
 		<Text>Vaginal Intraepithelial Neoplasia (Low Risk)</Text>	
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>DIA_ONCO_CRP_ORA001_2_DESC</LocID>                         
+		<LocID>DIA_ONCO_CRP_VAGC1_0F_DESC</LocID>                         
 		<Text>Vaginal intraepithelial neoplasia, also known as VAIN, is a condition involving cell changes in the vagina. It is sometimes referred to as carcinoma in-situ. VAIN is not cancer but there is a chance it may develop into cancer if left untreated. VAIN rarely causes symptoms and is usually detected because a woman is considered potentially at risk. Many cases of low-grade VAIN will go away on their own, so some doctors will choose to watch them closely without starting treatment.</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC1_1F</LocID>                         
+		<Text>Vaginal Intraepithelial Neoplasia (High Risk)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC1_1F_DESC</LocID>                         
+		<Text>Vaginal intraepithelial neoplasia, also known as VAIN, is a condition involving cell changes in the vagina. It is sometimes referred to as carcinoma in-situ. VAIN is not cancer but there is a chance it may develop into cancer if left untreated. VAIN rarely causes symptoms and is usually detected because a woman is considered potentially at risk. High Risk VAIN is less likely to go away on its own, so treatment may be started right away.</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_0F</LocID>                         
+		<Text>Vaginal Squamous Cell Carcinoma (Local)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_0F_DESC</LocID>                         
+		<Text>Vaginal cancer is a rare cancer that occurs in the patient's vagina — the muscular tube that connects the uterus with the outer genitals. Nearly 9 out of 10 cases of vaginal cancer are squamous cell carcinomas. These cancers start in the squamous cells that make up the epithelial lining of the vagina. They're most common in the upper part of the vagina near the cervix. Localised, the cancer is only found in the vaginal wall. </Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_1F</LocID>                         
+		<Text>Vaginal Squamous Cell Carcinoma (Regional)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_1F_DESC</LocID>                         
+		<Text>Vaginal cancer is a rare cancer that occurs in the patient's vagina — the muscular tube that connects the uterus with the outer genitals. Nearly 9 out of 10 cases of vaginal cancer are squamous cell carcinomas. These cancers start in the squamous cells that make up the epithelial lining of the vagina. They're most common in the upper part of the vagina near the cervix. Regional, the cancer has spread through the wall of the vagina to the tissue around the vagina. It may or may not have spread to the wall of the pelvis.</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_2F</LocID>                         
+		<Text>Metastatic Vaginal Cancer</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_2F_DESC</LocID>                         
+		<Text>Vaginal cancer is a rare cancer that occurs in the patient's vagina — the muscular tube that connects the uterus with the outer genitals. When Metastatic, the cancer has spread to parts of the body that are not near the vagina, such as the lungs, liver or bone.</Text>	
 		</GameDBLocalizedString>
 		
 	</LocalizedStrings>
