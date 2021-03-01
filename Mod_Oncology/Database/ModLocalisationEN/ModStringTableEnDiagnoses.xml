@@ -924,6 +924,21 @@
 		<Text>Vaginal cancer is a rare cancer that occurs in the patient's vagina — the muscular tube that connects the uterus with the outer genitals. When Metastatic, the cancer has spread to parts of the body that are not near the vagina, such as the lungs, liver or bone.</Text>	
 		</GameDBLocalizedString>
 		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA002_1</LocID>                         
+		<Text>Salivary Duct Carcinoma</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA002_1F</LocID>                         
+		<Text>Salivary Duct Carcinoma</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA002_1_DESC</LocID>                         
+		<Text>Salivary duct carcinoma (SDC) is an aggressive primary salivary malignancy which microscopically resembles high-grade ductal carcinoma of the breast, with both in situ and invasive patterns. It is typically found in older men, most often in the parotid gland.</Text>	
+		</GameDBLocalizedString>
+		
 	</LocalizedStrings>
 	</GameDBStringTable>
 </Database>

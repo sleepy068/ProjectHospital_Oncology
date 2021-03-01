@@ -8506,7 +8506,7 @@
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 		<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
 		<ExaminationRef>EXM_CRP_IV_STAINING_SAMPLE</ExaminationRef>
-		<ExaminationRef>EXM_CRP_FNA_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</ExaminationRef>
         <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
     </Examinations>
 		
@@ -8528,7 +8528,6 @@
 		
     <Tags>
         <Tag>disease</Tag>
-        <Tag>clinic</Tag>
     </Tags>
     </GameDBMedicalCondition>
 
@@ -8622,7 +8621,7 @@
 		<ExaminationRef>EXM_CRP_IV_STAINING_SAMPLE</ExaminationRef>
 		<ExaminationRef>EXM_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_BLOOD_SMEAR_SAMPLE</ExaminationRef>
-		<ExaminationRef>EXM_CRP_FNA_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</ExaminationRef>
 		<ExaminationRef>EXM_CT</ExaminationRef>
 		<ExaminationRef>EXM_MRI</ExaminationRef>
 		<ExaminationRef>EXM_CRP</ExaminationRef>
@@ -8649,7 +8648,6 @@
 		
     <Tags>
         <Tag>disease</Tag>
-        <Tag>clinic</Tag>
     </Tags>
     </GameDBMedicalCondition>
 	
@@ -8657,7 +8655,179 @@
 	
 	<!-- Acinic Cell Carcinoma -->
 	
-	<!-- Salivary Duct Carcinoma -->
+	<!-- Salivary Duct Carcinoma (Male 4 : Female 1) -->
+	<GameDBMedicalCondition ID="DIA_ONCO_CRP_ORA002_1">
+	<AbbreviationLocID>DIA_ONCO_CRP_ORA002_1_DESC</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
+	<MatchingGenderRef>GENDER_MALE</MatchingGenderRef>
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_ONCO_CRP_ORA002_1_DETECTED</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>50</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_CM_CD340_POS</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_CM_CK7_BRIGHT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>73</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_HRM_01</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_HRM_02</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_NODULE_SKIN</GameDBSymptomRef>
+		</GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SWELLING</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_NUMBNESS</GameDBSymptomRef>
+		</GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_DYSPHAGIA</GameDBSymptomRef>
+		</GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>15</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_PAIN</GameDBSymptomRef>
+		</GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>76</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_CDF_T_14</GameDBSymptomRef>
+		</GameDBSymptomRules>
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
+		<ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</ExaminationRef>
+        <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_CRP_TAMOXIFEN</TreatmentRef>
+		<TreatmentRef>TRT_COLD_TILING</TreatmentRef>
+		<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+		<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+		<TreatmentRef>SUR_SLP_BRACHYTHERAPY</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
+    <InsurancePayment>1335</InsurancePayment>
+		
+	<IconIndex>1343</IconIndex>
+	<CustomIconBigAssetRef>ASSET_ONC_CRP_DIA_ICON_0011</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_ONC_CRP_DIA_ICON_0012</CustomIconSmallAssetRef>
+		
+    <Tags>
+        <Tag>disease</Tag>
+    </Tags>
+    </GameDBMedicalCondition>
+	
+	<!-- Salivary Duct Carcinoma (Male 4 : Female 1) -->
+	<GameDBMedicalCondition ID="DIA_ONCO_CRP_ORA002_1F">
+	<AbbreviationLocID>DIA_ONCO_CRP_ORA002_1_DESC</AbbreviationLocID>
+	<Duration>0</Duration>
+	<OccurrenceRef>OCCURRENCE_SL_ULTRAUNIQUE</OccurrenceRef>
+	<MatchingGenderRef>GENDER_FEMALE</MatchingGenderRef>
+	<Symptoms>
+        <GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_ONCO_CRP_ORA002_1F_DETECTED</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>50</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_CM_CD340_POS</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_CM_CK7_BRIGHT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>73</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_HRM_01</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_HRM_02</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_NODULE_SKIN</GameDBSymptomRef>
+		</GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_SWELLING</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_NUMBNESS</GameDBSymptomRef>
+		</GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_DYSPHAGIA</GameDBSymptomRef>
+		</GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>15</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_PAIN</GameDBSymptomRef>
+		</GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>76</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_CDF_T_14</GameDBSymptomRef>
+		</GameDBSymptomRules>
+    </Symptoms>
+	
+    <Examinations>
+        <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
+		<ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</ExaminationRef>
+        <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+    </Examinations>
+		
+    <Treatments>
+		<TreatmentRef>TRT_CRP_TAMOXIFEN</TreatmentRef>
+		<TreatmentRef>TRT_COLD_TILING</TreatmentRef>
+		<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+		<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+		<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+		<TreatmentRef>SUR_SLP_BRACHYTHERAPY</TreatmentRef>
+    </Treatments>
+		
+    <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
+    <InsurancePayment>1335</InsurancePayment>
+		
+	<IconIndex>1343</IconIndex>
+	<CustomIconBigAssetRef>ASSET_ONC_CRP_DIA_ICON_0011</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_ONC_CRP_DIA_ICON_0012</CustomIconSmallAssetRef>
+		
+    <Tags>
+        <Tag>disease</Tag>
+    </Tags>
+    </GameDBMedicalCondition>
 	
 	<!-- Malignant Fibrohistiocytoma -->
 	
@@ -9995,5 +10165,9 @@
 	<!-- Kaposi Sarcoma -->
 	
 	<!-- Synovial Sarcoma -->
+	
+	<!-- =========================================================================================== -->
+	<!-- ==================================== Deadly Cancers ==================================== -->
+	<!-- =========================================================================================== -->
 	
 </Database>

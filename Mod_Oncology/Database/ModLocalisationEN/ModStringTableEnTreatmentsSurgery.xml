@@ -211,6 +211,16 @@
 	<Text>Vaginectomy is a surgery to remove all or part of the vagina. It is usually used as a treatment for vaginal cancer. If the uterus and ovaries are to remain intact, vaginectomy will leave a canal and opening suitable for draining menstrual discharge. Otherwise, a hysterectomy must be performed to avoid the danger of retaining menstrual discharge within the body. \n\nRequired room: Operating room at Oncology dpt.</Text>  
 	</GameDBLocalizedString>
 	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_BRACHYTHERAPY</LocID>                                    	
+	<Text>Brachytherapy</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_BRACHYTHERAPY_DESC</LocID>                        	
+	<Text>Brachytherapy is a procedure that involves placing radioactive material inside the patient's body. Brachytherapy is one type of radiation therapy that's used to treat cancer. Brachytherapy is sometimes called internal radiation. Brachytherapy allows doctors to deliver higher doses of radiation to more-specific areas of the body, compared with the conventional form of radiation therapy (external beam radiation) that projects radiation from a machine outside of your body. Brachytherapy may cause fewer side effects than does external beam radiation, and the overall treatment time is usually shorter. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
 	</LocalizedStrings>
 	</GameDBStringTable>
 </Database>

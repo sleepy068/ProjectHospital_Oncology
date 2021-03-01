@@ -1921,10 +1921,10 @@
         <Hazard>Medium</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 		
-		<!-- <ExaminationRef>EXM_CRP_FNA_SAMPLE</ExaminationRef> -->
+		<!-- <ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</ExaminationRef> -->
 		
         <Examinations>
-			<ExaminationRef>EXM_CRP_FNA_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>SUR_SLP_PAROTIDECTOMY</TreatmentRef>
@@ -1946,10 +1946,10 @@
         <Hazard>Medium</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 		
-		<!-- <ExaminationRef>EXM_CRP_LIVER_BIOPSY_SAMPLE</ExaminationRef> -->
+		<!-- <ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</ExaminationRef> -->
 		
         <Examinations>
-			<ExaminationRef>EXM_CRP_FNA_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
@@ -1962,6 +1962,62 @@
 		
 		<CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_435</CustomIconBigAssetRef>
 		<CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_436</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_ONCO_CRP_ORA002_1_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_ORA001_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> 
+			 <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef> 
+		     - Must be included in Diagnosis Code if needed -->
+		<!-- <ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</ExaminationRef> -->
+		
+        <Examinations>
+			<ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_BRACHYTHERAPY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0005</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0006</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_ONCO_CRP_ORA002_1F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_ORA001_2_DETECTED_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> 
+			 <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef> 
+		     - Must be included in Diagnosis Code if needed -->
+		<!-- <ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</ExaminationRef> -->
+		
+        <Examinations>
+			<ExaminationRef>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>SUR_SLP_BRACHYTHERAPY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0005</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0006</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
 	<!-- Vaginal Cancer -->

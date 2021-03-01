@@ -1,15 +1,19 @@
 <Database>
 <!--
-Update v0.15.0.0
+Update v1.0.0.0
 Additions:
-Added 1 New Diagnosis Type (Total of 1 New Diagnosis)
+Added 1 New Diagnosis Type (Vaginal Cancer)
+Added content to existing diagnosis types (Salivary Gland Cancers)
+Total of 6 new Diagnosis
+
 (NEW CONTENT ONLY) Main Symptoms, Surgery, Samples, Testing and various other icons now have unique icons of their own.
 
 Changes:
-Mod converted to Community Resource Pack (It now requires this mod to function)
-Restructured Mod Files & Code (better organised now and helped with the CRP transition)
+Mod converted to Community Resource Pack (It now requires this mod to function).
+Restructured Mod Files & Code (better organised now and helped with the CRP transition).
 Added <Tag>ui_ModObjects</Tag> to Oncology Object Tags (Allows other modders to add this tag to equipment to allow it to be placed on my objects such as the cube shelf)
 Replaced Biopsy with Ovarian Biopsy for Ovarian Cancers (Makes more sense and makes it harder to guess the diagnosis).
+Replaced Fine Needle Aspriation for Mucoepidermoid Carcinoma with Salivary Gland Biopsy (I want to get into a little bit more specific exams and symptoms to avoid the 'stab anywhere, find anything' trend).
 
 Localisation:
 Updated Italian Localisation (v0.14.0.1)

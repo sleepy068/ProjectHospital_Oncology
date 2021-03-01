@@ -922,6 +922,21 @@
 		<Text>Testing has detected Vaginal Cancer with evidence it is metastatic and spread across the body.</Text>  
 	</GameDBLocalizedString>
 	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_ORA002_1_DETECTED</LocID>                               
+		<Text>Salivary Duct Carcinoma Detected</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_ORA002_1F_DETECTED</LocID>                               
+		<Text>Salivary Duct Carcinoma Detected</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_ORA002_1_DETECTED_DESC</LocID>                               
+		<Text>Testing has detected Salivary Duct Carcinoma.</Text>  
+	</GameDBLocalizedString>
+	
 	</LocalizedStrings>
 	</GameDBStringTable>
 </Database>
