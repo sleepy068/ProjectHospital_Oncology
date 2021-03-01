@@ -4691,17 +4691,11 @@
             <ProbabilityPercent>30</ProbabilityPercent>
             <GameDBSymptomRef>SYM_PERSISTENT_URGE_TO_URINATE</GameDBSymptomRef>
         </GameDBSymptomRules>
-		<GameDBSymptomRules>
-            <ProbabilityPercent>10</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_HEMATURIA</GameDBSymptomRef>
-        </GameDBSymptomRules>
-		
     </Symptoms>
 	
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>	
-		<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
 		<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</ExaminationRef>	
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
@@ -4711,7 +4705,6 @@
 		<TreatmentRef>TRT_CRP_PROGESTATIF</TreatmentRef>
 		<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
-		<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 		<TreatmentRef>TRT_CRP_ESTRADIOL_CREAM</TreatmentRef>
 		<TreatmentRef>TRT_CRP_WATCH_WAIT</TreatmentRef>
     </Treatments>
@@ -4758,17 +4751,11 @@
             <ProbabilityPercent>30</ProbabilityPercent>
             <GameDBSymptomRef>SYM_PERSISTENT_URGE_TO_URINATE</GameDBSymptomRef>
         </GameDBSymptomRules>
-		<GameDBSymptomRules>
-            <ProbabilityPercent>10</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_HEMATURIA</GameDBSymptomRef>
-        </GameDBSymptomRules>
-		
     </Symptoms>
 	
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>	
-		<ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
 		<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</ExaminationRef>	
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
@@ -4778,7 +4765,6 @@
 		<TreatmentRef>TRT_CRP_PROGESTATIF</TreatmentRef>
 		<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
 		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
-		<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
 		<TreatmentRef>TRT_CRP_ESTRADIOL_CREAM</TreatmentRef>
 		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
 		<TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
@@ -4809,28 +4795,84 @@
             <ProbabilityPercent>100</ProbabilityPercent>
             <GameDBSymptomRef>SYM_ONCO_CRP_VAGC2_0F_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
-
+		<GameDBSymptomRules>
+            <ProbabilityPercent>50</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_METRORRAGIE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>50</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_DYSPAREUNIA</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>50</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_LEUCORRHEE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>50</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_FREQUENT_URINATION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>20</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_PAIN</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>50</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_PAINFUL_URINATION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>30</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_PERSISTENT_URGE_TO_URINATE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_CDF_T_25</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>50</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_WEIGHT_LOSS</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_FATIGUE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>93</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_HPV_HR</GameDBSymptomRef>
+        </GameDBSymptomRules>
     </Symptoms>
 	
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>	
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>
+		<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FCU_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</ExaminationRef>	
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
     </Examinations>
 		
     <Treatments>
+		<TreatmentRef>TRT_CRP_PROGESTATIF</TreatmentRef>
+		<TreatmentRef>TRT_REHYDRATION</TreatmentRef>
+		<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+		<TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+		<TreatmentRef>TRT_ANTIVIROTICS</TreatmentRef>
+		<TreatmentRef>TRT_REST</TreatmentRef>
+		<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+		<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		<TreatmentRef>TRT_CRP_ESTRADIOL_CREAM</TreatmentRef>
 		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
 		<TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
-    <InsurancePayment>990</InsurancePayment>
+    <InsurancePayment>1120</InsurancePayment>
 		
 	<IconIndex>1</IconIndex>
 	
-	<CustomIconBigAssetRef>ASSET_ONC_CRP_DIA_ICON_0003</CustomIconBigAssetRef>
-    <CustomIconSmallAssetRef>ASSET_ONC_CRP_DIA_ICON_0004</CustomIconSmallAssetRef>
+	<CustomIconBigAssetRef>ASSET_ONC_CRP_DIA_ICON_0005</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_ONC_CRP_DIA_ICON_0006</CustomIconSmallAssetRef>
 		
     <Tags>
 		<Tag>disease</Tag>
@@ -4849,28 +4891,100 @@
             <ProbabilityPercent>100</ProbabilityPercent>
             <GameDBSymptomRef>SYM_ONCO_CRP_VAGC2_1F_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
-
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_METRORRAGIE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_DYSPAREUNIA</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_LEUCORRHEE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_FREQUENT_URINATION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_PAINFUL_URINATION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>50</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_PERSISTENT_URGE_TO_URINATE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_APM</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CONSTIPATION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_CDF_T_25</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>50</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_WEIGHT_LOSS</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_FATIGUE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>85</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_CM_CK7_BRIGHT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_CM_CK19_BRIGHT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>93</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_HPV_HR</GameDBSymptomRef>
+        </GameDBSymptomRules>
     </Symptoms>
 	
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>	
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
+		<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>		
+		<ExaminationRef>EXM_CT</ExaminationRef>
+		<ExaminationRef>EXM_USG</ExaminationRef>
+		<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+		<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FCU_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</ExaminationRef>	
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
     </Examinations>
 		
     <Treatments>
+		<TreatmentRef>TRT_CRP_PROGESTATIF</TreatmentRef>
+		<TreatmentRef>TRT_REHYDRATION</TreatmentRef>
+		<TreatmentRef>TRT_PURGATIVES</TreatmentRef>
+		<TreatmentRef>TRT_REST</TreatmentRef>
+		<TreatmentRef>TRT_ANTIVIROTICS</TreatmentRef>
+		<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+		<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		<TreatmentRef>TRT_CRP_ESTRADIOL_CREAM</TreatmentRef>
 		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
-		<TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+		<TreatmentRef>SUR_SLP_VAGINECTOMY</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
-    <InsurancePayment>990</InsurancePayment>
+    <InsurancePayment>1850</InsurancePayment>
 		
 	<IconIndex>1</IconIndex>
 	
-	<CustomIconBigAssetRef>ASSET_ONC_CRP_DIA_ICON_0003</CustomIconBigAssetRef>
-    <CustomIconSmallAssetRef>ASSET_ONC_CRP_DIA_ICON_0004</CustomIconSmallAssetRef>
+	<CustomIconBigAssetRef>ASSET_ONC_CRP_DIA_ICON_0007</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_ONC_CRP_DIA_ICON_0008</CustomIconSmallAssetRef>
 		
     <Tags>
 		<Tag>disease</Tag>
@@ -4881,7 +4995,7 @@
 	<GameDBMedicalCondition ID="DIA_ONCO_CRP_VAGC2_2F">
 	<AbbreviationLocID>DIA_ONCO_CRP_VAGC2_2F_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
-	<OccurrenceRef>OCCURRENCE_SL_RARE</OccurrenceRef>
+	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<MatchingGenderRef>GENDER_FEMALE</MatchingGenderRef>
 	
 	<Symptoms>
@@ -4889,28 +5003,105 @@
             <ProbabilityPercent>100</ProbabilityPercent>
             <GameDBSymptomRef>SYM_ONCO_CRP_VAGC2_2F_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
-
+		<GameDBSymptomRules>
+            <ProbabilityPercent>100</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_METASTASIZED_CANCER</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>93</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_HPV_HR</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_METRORRAGIE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>70</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_DYSPAREUNIA</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_LEUCORRHEE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_FREQUENT_URINATION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_PAINFUL_URINATION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>75</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_PERSISTENT_URGE_TO_URINATE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_APM</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CONSTIPATION</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_CDF_T_25</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>60</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_WEIGHT_LOSS</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>80</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_FATIGUE</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>85</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_CM_CK7_BRIGHT</GameDBSymptomRef>
+        </GameDBSymptomRules>
+		<GameDBSymptomRules>
+            <ProbabilityPercent>90</ProbabilityPercent>
+            <GameDBSymptomRef>SYM_CRP_CM_CK19_BRIGHT</GameDBSymptomRef>
+        </GameDBSymptomRules>
     </Symptoms>
 	
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>	
-		<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</ExaminationRef>	
+		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+		<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
+		<ExaminationRef>EXM_CRP_PELVIC_EXAM</ExaminationRef>		
+		<ExaminationRef>EXM_CT</ExaminationRef>
+		<ExaminationRef>EXM_USG</ExaminationRef>
+		<ExaminationRef>EXM_CRP_ECHO_PELV</ExaminationRef>
+		<ExaminationRef>EXM_PCR_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FISH_SAMPLE</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FCU_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_CRP_FLOWCYT</ExaminationRef>
+		<ExaminationRef>EXM_CT</ExaminationRef>
+		<ExaminationRef>EXM_MRI</ExaminationRef>
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>	
     </Examinations>
 		
     <Treatments>
+		<TreatmentRef>TRT_CRP_PROGESTATIF</TreatmentRef>
+		<TreatmentRef>TRT_REHYDRATION</TreatmentRef>
+		<TreatmentRef>TRT_PURGATIVES</TreatmentRef>
+		<TreatmentRef>TRT_REST</TreatmentRef>
+		<TreatmentRef>TRT_ANTIVIROTICS</TreatmentRef>
+		<TreatmentRef>TRT_DIET_MODIFICATION</TreatmentRef>
+		<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		<TreatmentRef>TRT_CRP_ESTRADIOL_CREAM</TreatmentRef>
 		<TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
-		<TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+		<TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
     </Treatments>
 		
     <DepartmentRef>DPT_ONCOLOGY</DepartmentRef>
-    <InsurancePayment>990</InsurancePayment>
+    <InsurancePayment>2788</InsurancePayment>
 		
 	<IconIndex>1</IconIndex>
 	
-	<CustomIconBigAssetRef>ASSET_ONC_CRP_DIA_ICON_0003</CustomIconBigAssetRef>
-    <CustomIconSmallAssetRef>ASSET_ONC_CRP_DIA_ICON_0004</CustomIconSmallAssetRef>
+	<CustomIconBigAssetRef>ASSET_ONC_CRP_DIA_ICON_0009</CustomIconBigAssetRef>
+    <CustomIconSmallAssetRef>ASSET_ONC_CRP_DIA_ICON_0010</CustomIconSmallAssetRef>
 		
     <Tags>
 		<Tag>disease</Tag>

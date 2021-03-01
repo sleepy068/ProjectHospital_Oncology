@@ -892,6 +892,36 @@
 		<Text>Testing has detected Vaginal Intraepithelial Neoplasia (VAIN) and evidence suggests it is high risk.</Text>  
 	</GameDBLocalizedString>
 	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED</LocID>                               
+		<Text>Vaginal Squamous Cell Carcinoma Detected</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED_DESC</LocID>                               
+		<Text>Testing has detected Vaginal Squamous Cell Carcinoma with evidence it is localised.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED</LocID>                               
+		<Text>Vaginal Squamous Cell Carcinoma Detected</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED_DESC</LocID>                               
+		<Text>Testing has detected Vaginal Squamous Cell Carcinoma with evidence it is Regional.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED</LocID>                               
+		<Text>Metastatic Vaginal Cancer Detected</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED_DESC</LocID>                               
+		<Text>Testing has detected Vaginal Cancer with evidence it is metastatic and spread across the body.</Text>  
+	</GameDBLocalizedString>
+	
 	</LocalizedStrings>
 	</GameDBStringTable>
 </Database>

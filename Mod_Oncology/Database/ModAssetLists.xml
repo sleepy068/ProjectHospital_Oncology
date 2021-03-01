@@ -24,6 +24,36 @@
 	<File>MOD_ROOT/dia_slp_vag02b.png</File> 
 </GameDBAsset>
 
+<GameDBAsset ID="ASSET_ONC_CRP_DIA_ICON_0005">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_slp_vscc1a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_DIA_ICON_0006">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_slp_vscc1b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_DIA_ICON_0007">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_slp_vscc2a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_DIA_ICON_0008">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_slp_vscc2b.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_DIA_ICON_0009">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_slp_vscc3a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_DIA_ICON_0010">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/dia_slp_vscc3b.png</File> 
+</GameDBAsset>
+
 <!-- ============================================== -->
 <!-- ============= Main Symptom Icons ============= -->
 <!-- ============================================== -->
@@ -37,15 +67,45 @@
 	<File>MOD_ROOT/sym_main_slp_vag01b.png</File> 
 </GameDBAsset>
 
+<GameDBAsset ID="ASSET_ONC_CRP_MAIN_ICON_0003">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_main_slp_vscca.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_MAIN_ICON_0004">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sym_main_slp_vsccb.png</File> 
+</GameDBAsset>
+
 <!-- ========================================= -->
 <!-- ============= Surgery Icons ============= -->
 <!-- ========================================= -->
+<GameDBAsset ID="ASSET_ONC_CRP_SUR_ICON_0001">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sur_slp_vag1a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_SUR_ICON_0002">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/sur_slp_vag1b.png</File> 
+</GameDBAsset>
+
+
 
 <!-- ============================================== -->
 <!-- ============= CRP Export Icons =============== -->
 <!-- ============================================== -->
 
 <!-- ^^^^^^^^^^^^^^ Oncology Symptoms ^^^^^^^^^^^^^^ -->
+<GameDBAsset ID="ASSET_ONC_CRP_SYM_ICON_0001">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/CRP_sym_slp_p16a.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_ONC_CRP_SYM_ICON_0002">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/CRP_sym_slp_p16b.png</File> 
+</GameDBAsset>
 
 <!-- ^^^^^^^^^^^^^^ Oncology Treatments ^^^^^^^^^^^^^^ -->
 

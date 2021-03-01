@@ -289,5 +289,56 @@
 		
     </GameDBSymptom>
 	
+	<!-- p16INK4a Overexpression (Sleepy068) -->
+	 <GameDBSymptom ID="SYM_CRP_CDF_T_25">
+        <DescriptionLocID>SYM_CRP_CDF_T_25_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+		<!-- EXM_CRP_FISH_SAMPLE - Patient Side -->
+		<!-- EXM_PCR_SAMPLING - Patient Side -->
+		
+        <Examinations>
+			<ExaminationRef>EXM_PCR_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_CRP_FISH_TEST</ExaminationRef>
+        </Examinations>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+		
+		<CustomIconBigAssetRef>ASSET_ONC_CRP_SYM_ICON_0001</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_ONC_CRP_SYM_ICON_0002</CustomIconSmallAssetRef>
+		
+        <IconIndex>1</IconIndex>
+		
+    </GameDBSymptom>
+	
+	<!-- Cytokeratin 19 (CK19) Brightly Expressed (Sleepy068) -->
+	<GameDBSymptom ID="SYM_CRP_CM_CK19_BRIGHT">
+        <DescriptionLocID>SYM_CRP_CM_CK19_BRIGHT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+		<!-- EXM_CRP_FLOWCYT - Patient Side -->
+		
+        <Examinations>
+		    <ExaminationRef>EXM_CRP_FLOWCYT_TEST</ExaminationRef>
+        </Examinations>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+		
+		<CustomIconBigAssetRef>ASSET_CRP_SYM_ICON_165</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_CRP_SYM_ICON_166</CustomIconSmallAssetRef>
+		
+        <IconIndex>1</IconIndex>
+		
+    </GameDBSymptom>
+	
+	
 	
 </Database>

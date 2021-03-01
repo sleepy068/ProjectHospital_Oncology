@@ -201,7 +201,15 @@
 	<!-- ### ### -->
 	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
 	<!-- ### ### -->
-	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_VAGINECTOMY</LocID>                                    	
+	<Text>Vaginectomy</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_VAGINECTOMY_DESC</LocID>                        	
+	<Text>Vaginectomy is a surgery to remove all or part of the vagina. It is usually used as a treatment for vaginal cancer. If the uterus and ovaries are to remain intact, vaginectomy will leave a canal and opening suitable for draining menstrual discharge. Otherwise, a hysterectomy must be performed to avoid the danger of retaining menstrual discharge within the body. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
 	
 	</LocalizedStrings>
 	</GameDBStringTable>

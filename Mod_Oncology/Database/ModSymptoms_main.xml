@@ -12,7 +12,7 @@
             <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_IMIQUIMOD_CREAM</TreatmentRef>
+            <TreatmentRef>TRT_CRP_IMIQUIMOD_CREAM</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -36,7 +36,7 @@
             <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_PHOTODYNAMIC_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_PHOTODYNAMIC_THERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -84,7 +84,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -107,7 +107,7 @@
             <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_IMIQUIMOD_CREAM</TreatmentRef>
+            <TreatmentRef>TRT_CRP_IMIQUIMOD_CREAM</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -131,7 +131,7 @@
             <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_PHOTODYNAMIC_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_PHOTODYNAMIC_THERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -181,7 +181,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -205,7 +205,7 @@
             <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_PHOTODYNAMIC_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_PHOTODYNAMIC_THERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -229,7 +229,7 @@
             <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_TARGETED_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -279,7 +279,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -328,7 +328,7 @@
 			<ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -354,7 +354,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_TARGETED_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -403,7 +403,7 @@
         </Examinations>
 		
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -427,7 +427,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_TARGETED_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -476,7 +476,7 @@
         </Examinations>
 		
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -501,7 +501,7 @@
         </Examinations>
 		
         <Treatments>
-            <TreatmentRef>TRT_SLP_TARGETED_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -552,7 +552,7 @@
         </Examinations>
 		
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -577,7 +577,7 @@
         </Examinations>
 		
         <Treatments>
-            <TreatmentRef>TRT_SLP_IMMUNOTHERAPY_DRUGS</TreatmentRef>
+            <TreatmentRef>TRT_CRP_IMMUNOTHERAPY_DRUGS</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -603,7 +603,7 @@
         </Examinations>
 		
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -627,7 +627,7 @@
             <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_GEMCITABINE</TreatmentRef>
+            <TreatmentRef>TRT_CRP_GEMCITABINE</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -651,7 +651,7 @@
             <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_TARGETED_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -699,7 +699,7 @@
             <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_ALEMTUZUMAB</TreatmentRef>
+            <TreatmentRef>TRT_CRP_ALEMTUZUMAB</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -721,7 +721,7 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
         </Examinations>
 		
         <Treatments>
@@ -746,7 +746,7 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
         </Examinations>
 		
         <Treatments>
@@ -776,7 +776,7 @@
         </Examinations>
 		
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -797,11 +797,11 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
         </Examinations>
 		
         <Treatments>
-            <TreatmentRef>TRT_SLP_FEP</TreatmentRef>
+            <TreatmentRef>TRT_CRP_FEP</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -822,11 +822,11 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
         </Examinations>
 		
         <Treatments>
-            <TreatmentRef>TRT_SLP_FEP</TreatmentRef>
+            <TreatmentRef>TRT_CRP_FEP</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -847,11 +847,11 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</ExaminationRef>
         </Examinations>
 		
         <Treatments>
-            <TreatmentRef>TRT_SLP_FEP</TreatmentRef>
+            <TreatmentRef>TRT_CRP_FEP</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -873,10 +873,10 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_BONEBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -896,10 +896,10 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_BONEBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_HYPER_CVAD</TreatmentRef>
+            <TreatmentRef>TRT_CRP_HYPER_CVAD</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -919,10 +919,10 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_BONEBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -942,10 +942,10 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_BONEBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SL_ACTIVE_MONITOR</TreatmentRef>
+            <TreatmentRef>TRT_CRP_ACTIVE_MONITOR</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -965,10 +965,10 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_BONEBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -988,10 +988,10 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_BONEBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_METHOTREXATE</TreatmentRef>
+            <TreatmentRef>TRT_CRP_METHOTREXATE</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1011,10 +1011,10 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_BONEBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_METHOTREXATE</TreatmentRef>
+            <TreatmentRef>TRT_CRP_METHOTREXATE</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1034,10 +1034,10 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_BONEBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_ALEMTUZUMAB</TreatmentRef>
+            <TreatmentRef>TRT_CRP_ALEMTUZUMAB</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1057,10 +1057,10 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_BONEBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1080,10 +1080,10 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_BONEBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_TARGETED_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1103,10 +1103,10 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_BONEBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_TARGETED_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1128,10 +1128,10 @@
 		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> - Must be included in Diagnosis Code -->
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_BONEBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1153,10 +1153,10 @@
 		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> - Must be included in Diagnosis Code -->
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_BONEBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1178,10 +1178,10 @@
 		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> - Must be included in Diagnosis Code -->
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_BONEBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_BONEBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1202,13 +1202,13 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
 		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> - Must be included in Diagnosis Code 
-		<ExaminationRef>EXM_SLP_LYMPHBIOPSY_SAMPLE</ExaminationRef> Patient Side-->
+		<ExaminationRef>EXM_CRP_LYMPHBIOPSY_SAMPLE</ExaminationRef> Patient Side-->
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_LYMPHBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_LYMPHBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_RCHOP</TreatmentRef>
+            <TreatmentRef>TRT_CRP_RCHOP</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1228,13 +1228,13 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
 		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> - Must be included in Diagnosis Code 
-		<ExaminationRef>EXM_SLP_LYMPHBIOPSY_SAMPLE</ExaminationRef> Patient Side-->
+		<ExaminationRef>EXM_CRP_LYMPHBIOPSY_SAMPLE</ExaminationRef> Patient Side-->
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_LYMPHBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_LYMPHBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SL_ACTIVE_MONITOR</TreatmentRef>
+            <TreatmentRef>TRT_CRP_ACTIVE_MONITOR</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1254,13 +1254,13 @@
         <PatientMobility>MOBILE</PatientMobility>
 		
 		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> - Must be included in Diagnosis Code 
-		<ExaminationRef>EXM_SLP_LYMPHBIOPSY_SAMPLE</ExaminationRef> Patient Side-->
+		<ExaminationRef>EXM_CRP_LYMPHBIOPSY_SAMPLE</ExaminationRef> Patient Side-->
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_LYMPHBIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_LYMPHBIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_RCHOP</TreatmentRef>
+            <TreatmentRef>TRT_CRP_RCHOP</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1349,7 +1349,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1437,7 +1437,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1579,7 +1579,7 @@
 			<ExaminationRef>EXM_CRP_OVARIAN_BIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1636,7 +1636,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1665,7 +1665,7 @@
 			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SL_ACTIVE_MONITOR</TreatmentRef>
+            <TreatmentRef>TRT_CRP_ACTIVE_MONITOR</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1721,7 +1721,7 @@
 			<ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_IMMUNOTHERAPY_DRUGS</TreatmentRef>
+            <TreatmentRef>TRT_CRP_IMMUNOTHERAPY_DRUGS</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1750,7 +1750,7 @@
 			<ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1775,7 +1775,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_TARGETED_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1799,7 +1799,7 @@
             <ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1819,13 +1819,13 @@
         <Hazard>Medium</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 		
-		<!-- <ExaminationRef>EXM_SLP_LIVER_BIOPSY_SAMPLE</ExaminationRef> -->
+		<!-- <ExaminationRef>EXM_CRP_LIVER_BIOPSY_SAMPLE</ExaminationRef> -->
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_LIVER_BIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_LIVER_BIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_TARGETED_THERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_TARGETED_THERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1844,10 +1844,10 @@
         <Hazard>Medium</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 		
-		<!-- <ExaminationRef>EXM_SLP_LIVER_BIOPSY_SAMPLE</ExaminationRef> -->
+		<!-- <ExaminationRef>EXM_CRP_LIVER_BIOPSY_SAMPLE</ExaminationRef> -->
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_LIVER_BIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_LIVER_BIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>SUR_SLP_HEPATECTOMY</TreatmentRef>
@@ -1869,10 +1869,10 @@
         <Hazard>Medium</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 		
-		<!-- <ExaminationRef>EXM_SLP_LIVER_BIOPSY_SAMPLE</ExaminationRef> -->
+		<!-- <ExaminationRef>EXM_CRP_LIVER_BIOPSY_SAMPLE</ExaminationRef> -->
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_LIVER_BIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_LIVER_BIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>SUR_SLP_HEPATECTOMY</TreatmentRef>
@@ -1894,14 +1894,14 @@
         <Hazard>Medium</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 		
-		<!-- <ExaminationRef>EXM_SLP_LIVER_BIOPSY_SAMPLE</ExaminationRef> -->
+		<!-- <ExaminationRef>EXM_CRP_LIVER_BIOPSY_SAMPLE</ExaminationRef> -->
 		
         <Examinations>
 			<ExaminationRef>EXM_CT</ExaminationRef>
 			<ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -1921,10 +1921,10 @@
         <Hazard>Medium</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 		
-		<!-- <ExaminationRef>EXM_SLP_FNA_SAMPLE</ExaminationRef> -->
+		<!-- <ExaminationRef>EXM_CRP_FNA_SAMPLE</ExaminationRef> -->
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_FNA_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CRP_FNA_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>SUR_SLP_PAROTIDECTOMY</TreatmentRef>
@@ -1946,13 +1946,13 @@
         <Hazard>Medium</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 		
-		<!-- <ExaminationRef>EXM_SLP_LIVER_BIOPSY_SAMPLE</ExaminationRef> -->
+		<!-- <ExaminationRef>EXM_CRP_LIVER_BIOPSY_SAMPLE</ExaminationRef> -->
 		
         <Examinations>
-			<ExaminationRef>EXM_SLP_FNA_SAMPLE</ExaminationRef>
+			<ExaminationRef>EXM_CRP_FNA_SAMPLE</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_SLP_CHEMOTHERAPY</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -2031,7 +2031,7 @@
 		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> 
 			 <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef> 
 		     - Must be included in Diagnosis Code if needed -->
-		<!-- <ExaminationRef>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</ExaminationRef> - Patient Side for testing -->
+		<!-- <ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</ExaminationRef> - Patient Side for testing -->
 		
         <Examinations>
 			<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_TEST</ExaminationRef>
@@ -2045,12 +2045,12 @@
 		
         <IconIndex>1</IconIndex>
 		
-		<CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0001</CustomIconBigAssetRef>
-		<CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0002</CustomIconSmallAssetRef>
+		<CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0003</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0004</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_VAGC2_0F_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_CRP_VAGC2_1F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -2059,13 +2059,13 @@
 		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> 
 			 <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef> 
 		     - Must be included in Diagnosis Code if needed -->
-		<!-- <ExaminationRef>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</ExaminationRef> - Patient Side for testing -->
+		<!-- <ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</ExaminationRef> - Patient Side for testing -->
 		
         <Examinations>
 			<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_TEST</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+            <TreatmentRef>SUR_SLP_VAGINECTOMY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -2073,12 +2073,12 @@
 		
         <IconIndex>1</IconIndex>
 		
-		<CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0001</CustomIconBigAssetRef>
-		<CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0002</CustomIconSmallAssetRef>
+		<CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0003</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0004</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
-	<GameDBSymptom ID="SYM_ONCO_CRP_VAGC2_0F_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED_DESC</DescriptionLocID>
+	<GameDBSymptom ID="SYM_ONCO_CRP_VAGC2_2F_DETECTED">
+        <DescriptionLocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -2087,13 +2087,14 @@
 		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> 
 			 <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef> 
 		     - Must be included in Diagnosis Code if needed -->
-		<!-- <ExaminationRef>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</ExaminationRef> - Patient Side for testing -->
+		<!-- <ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</ExaminationRef> - Patient Side for testing -->
 		
         <Examinations>
-			<ExaminationRef>EXM_CRP_VAGINAL_BIOPSY_TEST</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>SUR_SLP_WIDELOCALEXCISION</TreatmentRef>
+            <TreatmentRef>TRT_CRP_CHEMOTHERAPY</TreatmentRef>
         </Treatments>
 		
         <ShameLevel>0</ShameLevel>
@@ -2101,8 +2102,8 @@
 		
         <IconIndex>1</IconIndex>
 		
-		<CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0001</CustomIconBigAssetRef>
-		<CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0002</CustomIconSmallAssetRef>
+		<CustomIconBigAssetRef>ASSET_ONC_CRP_MAIN_ICON_0003</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_ONC_CRP_MAIN_ICON_0004</CustomIconSmallAssetRef>
     </GameDBSymptom>
 	
 </Database>
