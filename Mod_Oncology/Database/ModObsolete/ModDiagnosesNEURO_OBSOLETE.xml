@@ -8,14 +8,14 @@
 	<!-- Meningioma -->
 	
 	<!-- Pilocytic Astrocytoma (Astrocytoma Grade 1) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BRAC1_0_V2">
+	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BRAC1_0">
 	<AbbreviationLocID>DIA_ONCO_CRP_BRAC1_0_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BRAC01_0_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BRAC01_0_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -125,14 +125,14 @@
     </GameDBMedicalCondition>
 	
 	<!-- Diffuse Astrocytoma (Astrocytoma Grade 2) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BRAC1_1_V2">
+	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BRAC1_1">
 	<AbbreviationLocID>DIA_ONCO_CRP_BRAC1_1_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BRAC01_1_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BRAC01_1_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -238,14 +238,14 @@
     </GameDBMedicalCondition>
 	
 	<!-- Anaplastic Astrocytomas (Astrocytoma Grade 3) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BRAC1_2_V2">
+	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BRAC1_2">
 	<AbbreviationLocID>DIA_ONCO_CRP_BRAC1_2_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BRAC01_2_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BRAC01_2_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
@@ -356,14 +356,14 @@
     </GameDBMedicalCondition>
 	
 	<!-- Glioblastoma (Astrocytoma Grade 4) -->
-	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BRAC1_3_V2">
+	<GameDBMedicalCondition ID="DIA_ONCO_CRP_BRAC1_3">
 	<AbbreviationLocID>DIA_ONCO_CRP_BRAC1_3_DESC</AbbreviationLocID>
 	<Duration>0</Duration>
 	<OccurrenceRef>OCCURRENCE_SL_ULTRARARE</OccurrenceRef>
 	<Symptoms>
         <GameDBSymptomRules>
             <ProbabilityPercent>100</ProbabilityPercent>
-            <GameDBSymptomRef>SYM_ONCO_CRP_BRAC01_3_DETECTED</GameDBSymptomRef>
+            <GameDBSymptomRef>SYM_ONCO_BRAC01_3_DETECTED</GameDBSymptomRef>
         </GameDBSymptomRules>
 		
 		<GameDBSymptomRules>
