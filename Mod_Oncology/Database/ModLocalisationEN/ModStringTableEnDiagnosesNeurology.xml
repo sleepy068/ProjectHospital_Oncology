@@ -9,7 +9,7 @@
 
 	<LocalizedStrings>
         <GameDBLocalizedString>      
-		<LocID>DIA_ONCO_CRP_BRAC1_0</LocID>                         
+		<LocID>DIA_ONCO_CRP_BRAC1_0_V2</LocID>                         
 		<Text>Pilocytic Astrocytoma</Text>	
 		</GameDBLocalizedString>
 		
@@ -19,7 +19,7 @@
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>DIA_ONCO_CRP_BRAC1_1</LocID>                         
+		<LocID>DIA_ONCO_CRP_BRAC1_1_V2</LocID>                         
 		<Text>Diffuse Astrocytoma</Text>	
 		</GameDBLocalizedString>
 		
@@ -29,7 +29,7 @@
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>DIA_ONCO_CRP_BRAC1_2</LocID>                         
+		<LocID>DIA_ONCO_CRP_BRAC1_2_V2</LocID>                         
 		<Text>Anaplastic Astrocytoma</Text>	
 		</GameDBLocalizedString>
 		
@@ -39,7 +39,7 @@
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>DIA_ONCO_CRP_BRAC1_3</LocID>                         
+		<LocID>DIA_ONCO_CRP_BRAC1_3_V2</LocID>                         
 		<Text>Glioblastoma</Text>	
 		</GameDBLocalizedString>
 		

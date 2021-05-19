@@ -122,6 +122,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Diffuse Astrocytoma (Astrocytoma Grade 2) -->
@@ -235,6 +236,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Anaplastic Astrocytomas (Astrocytoma Grade 3) -->
@@ -353,6 +355,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Glioblastoma (Astrocytoma Grade 4) -->
@@ -481,6 +484,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Protoplasmic Astrocytomas -->
