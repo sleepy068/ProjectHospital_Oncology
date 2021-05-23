@@ -101,7 +101,7 @@
         <DescriptionLocID>SYM_SLP_SPLENOMEGALY_DESC</DescriptionLocID>
         <DiscomfortLevel>Medium</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
-        <Hazard>Medium</Hazard>
+        <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 		
 		<RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
@@ -163,7 +163,7 @@
         <DescriptionLocID>SYM_SLP_HYPERCALCEMIA_DESC</DescriptionLocID>
         <DiscomfortLevel>Medium</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
-        <Hazard>Medium</Hazard>
+        <Hazard>High</Hazard>
         <PatientMobility>MOBILE</PatientMobility>
 		
 		<RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>

@@ -180,6 +180,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Pheochromocytoma - Regional -->
@@ -313,6 +314,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Pheochromocytoma - Metastatic  -->
@@ -467,6 +469,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Adrenocortical Carcinoma - Localised -->
@@ -591,6 +594,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Adrenocortical Carcinoma - Regional -->
@@ -720,6 +724,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Adrenocortical Carcinoma - Metastatic -->
@@ -870,6 +875,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	
@@ -1053,6 +1059,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Acute lymphocytic leukaemia - B Cell (Burkitt type) -->
@@ -1201,6 +1208,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Acute lymphocytic leukaemia - T Cell -->
@@ -1355,6 +1363,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Chronic lymphocytic leukaemia - Stable  -->
@@ -1447,6 +1456,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Chronic lymphocytic leukaemia - Advanced  -->
@@ -1569,6 +1579,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Large granular lymphocytic leukemia (LGLL) (T-Cell) -->
@@ -1711,6 +1722,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Large granular lymphocytic leukemia (LGLL) (NK-Cell) -->
@@ -1853,6 +1865,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 
 	<!-- T-cell prolymphocytic leukemia (T-PLL) -->
@@ -2008,6 +2021,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Acute Myeloid/Myelogenous Leukaemia -->
@@ -2160,6 +2174,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 
 	<!-- Chronic Myeloid/Myelogenous Leukaemia - Chronic Phase -->
@@ -2289,6 +2304,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Chronic Myeloid/Myelogenous Leukaemia - Accelerated Phase -->
@@ -2440,6 +2456,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Chronic Myeloid/Myelogenous Leukaemia - Blast Crisis Phase -->
@@ -2594,6 +2611,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- ### ICON READY ### -->
@@ -2760,6 +2778,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Hairy Cell leukemia - Varient -->
@@ -2901,6 +2920,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Central Nervous System Leukemia -->
@@ -3010,6 +3030,7 @@
         <Tag>disease</Tag>
 		<Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Primary Mediastinal B Cell Lymphoma -->
@@ -3159,6 +3180,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 		<!-- Primary Mediastinal Large B-Cell Lymphoma -->
@@ -3308,6 +3330,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Lymphoplasmacytic Lymphoma -->
@@ -3463,6 +3486,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Invasive Ductal Carcinoma (IDC) (Local/Regional) -->
@@ -3609,6 +3633,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- IDC Type: Tubular Carcinoma of the Breast -->
@@ -3796,6 +3821,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- ============= Male ============= -->
@@ -3911,6 +3937,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Invasive Ductal Carcinoma (IDC) (Local/Regional) -->
@@ -4057,6 +4084,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Metastatic Breast Cancer -->
@@ -4212,6 +4240,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	
@@ -4355,6 +4384,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Ovarian Serous Cystadenoma -->
@@ -4497,6 +4527,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Mucinous Epithelial Ovarian Cancer -->
@@ -4669,6 +4700,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- ============= Uterine Cancer ============= -->
@@ -4832,6 +4864,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Colorectal Adenocarcinoma - Localised -->
@@ -4944,6 +4977,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Colorectal Adenocarcinoma - Regional -->
@@ -5061,6 +5095,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- ### ICON READY ### -->
@@ -5189,6 +5224,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Mucinous Colorectal Adenocarcinoma (Pure) -->
@@ -5314,6 +5350,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Adenosquamous Colorectal Carcinoma -->
@@ -5462,6 +5499,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- ### ICON READY ### -->
@@ -5574,6 +5612,7 @@
         <Tag>disease</Tag>
 		<Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Hepatocellular Carcinoma (Regional) -->
@@ -5711,6 +5750,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Hepatocellular Carcinoma (Critical)(Spontaneous Rupture of HCC) -->
@@ -5871,6 +5911,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Hepatocellular Carcinoma (Biliary Differentiation) -->
@@ -6038,6 +6079,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 
 	
@@ -6194,6 +6236,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- ### Non-Small Cell Lung Cancer ### -->
@@ -6311,6 +6354,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Undifferentiated Non-Small Cell Lung Cancer (NSCLC) - Regional -->
@@ -6443,6 +6487,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Pleural Mesothelioma -->
@@ -6562,6 +6607,7 @@
 		<Tag>disease</Tag>
 		<Tag>clinic</Tag>
 	</Tags>
+	<Disabled>true</Disabled>
 	</GameDBMedicalCondition>
 	
 	<!-- Lung Adenocarcinoma (Advanced Stage) -->
@@ -6710,6 +6756,7 @@
 	<Tags>
 		<Tag>disease</Tag>
 	</Tags>
+	<Disabled>true</Disabled>
 	</GameDBMedicalCondition>
 	
 	<!-- Micropapillary Lung Adenocarcinoma -->
@@ -6853,6 +6900,7 @@
 	<Tags>
 		<Tag>disease</Tag>
 	</Tags>
+	<Disabled>true</Disabled>
 	</GameDBMedicalCondition>
 	
 	<!-- Large Cell Lung Carcinoma -->
@@ -6965,6 +7013,7 @@
 	<Tags>
 		<Tag>disease</Tag>
 	</Tags>
+	<Disabled>true</Disabled>
 	</GameDBMedicalCondition>
 	
 	<!-- Giant Cell Lung Carcinoma -->
@@ -7109,6 +7158,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Small Cell Lung Cancer (SCLC) - Extensive Stage -->
@@ -7262,6 +7312,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	
@@ -7360,6 +7411,7 @@
         <Tag>disease</Tag>
 		<Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Prostate Cancer (Stage 2) -->
@@ -7473,6 +7525,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Prostate Cancer (Stage 3) -->
@@ -7608,6 +7661,7 @@
         <Tag>disease</Tag>
 		<Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Prostate Cancer (Stage 4) -->
@@ -7756,6 +7810,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	
@@ -7885,6 +7940,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Gastrointestinal Neuroendocrine Tumor - Extensive Stage -->
@@ -8039,6 +8095,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 
 	
@@ -8130,6 +8187,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 
 	<!-- Mucoepidermoid Carcinoma (High Grade) -->
@@ -8252,6 +8310,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Adenoid Cystic Carcinoma -->
@@ -8354,6 +8413,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Basal Cell Carcinoma Stage 2 -->
@@ -8435,6 +8495,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Basal Cell Carcinoma Stage 3 -->
@@ -8517,6 +8578,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Basal Cell Carcinoma Stage 4 -->
@@ -8612,6 +8674,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Squamous Cell Carcinoma Stage 1 -->
@@ -8695,6 +8758,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Squamous Cell Carcinoma Stage 2 -->
@@ -8785,6 +8849,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Squamous Cell Carcinoma Stage 3 -->
@@ -8876,6 +8941,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Squamous Cell Carcinoma Stage 4 -->
@@ -8985,6 +9051,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Melanoma Stage 1 - Skin Cancer -->
@@ -9056,6 +9123,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Melanoma Stage 2 - Skin Cancer -->
@@ -9134,6 +9202,7 @@
         <Tag>disease</Tag>
         <Tag>clinic</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Melanoma Stage 3 - Skin Cancer -->
@@ -9221,6 +9290,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Melanoma Stage 4 - Skin Cancer -->
@@ -9353,6 +9423,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Merkel Cell Carcinoma - Local -->
@@ -9445,6 +9516,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Merkel Cell Carcinoma - Metastatic -->
@@ -9578,6 +9650,7 @@
     <Tags>
         <Tag>disease</Tag>
     </Tags>
+	<Disabled>true</Disabled>
     </GameDBMedicalCondition>
 	
 	<!-- Desmoplastic Melanoma -->

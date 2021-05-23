@@ -423,74 +423,6 @@
 		
     </GameDBSymptom>
 	
-	<!-- Hypercalcemia (Too much calcium) -->
-	<GameDBSymptom ID="SYM_SLP_HYPERCALCEMIA">
-        <DescriptionLocID>SYM_SLP_HYPERCALCEMIA_DESC</DescriptionLocID>
-        <DiscomfortLevel>Medium</DiscomfortLevel>
-        <PatientComplains>false</PatientComplains>
-        <Hazard>Medium</Hazard>
-        <PatientMobility>MOBILE</PatientMobility>
-		
-		<RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>36</RiskOfCollapseEndHours>
-        <CollapseSymptomRef>SYM_SLP_SEVERE_HYPERCALCEMIA</CollapseSymptomRef>
-		
-		<!-- <ExaminationRef>EXM_SLP_MINERALT_SAMPLE</ExaminationRef> - Patient Side -->
-		
-        <Examinations>
-		    <ExaminationRef>EXM_SLP_MINERALT_TEST</ExaminationRef>
-        </Examinations>
-		
-		<Treatments>
-			<TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
-		</Treatments>
-		
-        <ShameLevel>0</ShameLevel>
-        <IsMainSymptom>false</IsMainSymptom>
-		
-		<CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_051</CustomIconBigAssetRef>
-        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_052</CustomIconSmallAssetRef>
-		
-        <IconIndex>1</IconIndex>
-		
-    </GameDBSymptom>
-	
-	<!-- Severe Hypercalcemia -->
-	<GameDBSymptom ID="SYM_SLP_SEVERE_HYPERCALCEMIA">
-        <DescriptionLocID>SYM_SLP_SEVERE_HYPERCALCEMIA_DESC</DescriptionLocID>
-        <DiscomfortLevel>High</DiscomfortLevel>
-        <PatientComplains>false</PatientComplains>
-        <Hazard>High</Hazard>
-        <PatientMobility>MOBILE</PatientMobility>
-		
-		<WalkAnimSuffix>_limp</WalkAnimSuffix>
-        <WalkSpeedModifier>0.5</WalkSpeedModifier>
-		
-		<RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>24</RiskOfCollapseEndHours>
-        <CollapseSymptomRef>SYM_UNCONSCIOUSNESS</CollapseSymptomRef>
-		<CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_LOW</CollapseProcedureRef>
-		
-		<!-- EXM_SLP_MINERALT_SAMPLE - Patient Side -->
-		
-        <Examinations>
-		    <ExaminationRef>EXM_SLP_MINERALT_TEST</ExaminationRef>
-        </Examinations>
-		
-		<Treatments>
-			<TreatmentRef>TRT_SLP_PARATHY</TreatmentRef>
-		</Treatments>
-		
-        <ShameLevel>0</ShameLevel>
-        <IsMainSymptom>false</IsMainSymptom>
-		
-		<CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_051</CustomIconBigAssetRef>
-        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_052</CustomIconSmallAssetRef>
-		
-        <IconIndex>1</IconIndex>
-		
-    </GameDBSymptom>
-	
 	<!-- Hyperammonaemia (excess of ammonia in the blood) -->
 	<GameDBSymptom ID="SYM_SLP_HYPERAMMONEMIA">
         <DescriptionLocID>SYM_SLP_HYPERAMMONEMIA_DESC</DescriptionLocID>
@@ -1801,68 +1733,6 @@
 	<!-- ================================= -->
 	<!-- ============= Organ ============= -->
 	<!-- ================================= -->
-	<!-- Splenomegaly -->
-	<GameDBSymptom ID="SYM_SLP_SPLENOMEGALY">
-        <DescriptionLocID>SYM_SLP_SPLENOMEGALY_DESC</DescriptionLocID>
-        <DiscomfortLevel>Medium</DiscomfortLevel>
-        <PatientComplains>false</PatientComplains>
-        <Hazard>Medium</Hazard>
-        <PatientMobility>MOBILE</PatientMobility>
-		
-		<RiskOfCollapseStartHours>4</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>72</RiskOfCollapseEndHours>
-        <CollapseSymptomRef>SYM_SLP_RUP_SPLENOMEGALY</CollapseSymptomRef>
-		
-        <Examinations>
-		    <ExaminationRef>EXM_USG</ExaminationRef>
-			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
-        </Examinations>
-		
-		<Treatments>
-			<TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
-		</Treatments>
-		
-        <ShameLevel>0</ShameLevel>
-        <IsMainSymptom>false</IsMainSymptom>
-		
-		<CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_157</CustomIconBigAssetRef>
-        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_158</CustomIconSmallAssetRef>
-		
-        <IconIndex>1</IconIndex>
-		
-    </GameDBSymptom>
-	
-	<!-- Ruptured Spleen - COMPLICATION -->
-	<GameDBSymptom ID="SYM_SLP_RUP_SPLENOMEGALY">
-        <DescriptionLocID>SYM_SLP_RUP_SPLENOMEGALY_DESC</DescriptionLocID>
-        <DiscomfortLevel>High</DiscomfortLevel>
-        <PatientComplains>false</PatientComplains>
-        <Hazard>High</Hazard>
-        <PatientMobility>IMOBILE</PatientMobility>
-		
-		<RiskOfCollapseStartHours>3</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>10</RiskOfCollapseEndHours>
-        <CollapseSymptomRef>SYM_SEPTIC_SHOCK</CollapseSymptomRef>
-		
-        <Examinations>
-		    <ExaminationRef>EXM_USG</ExaminationRef>
-        </Examinations>
-		
-		<Treatments>
-			<TreatmentRef>TRT_SLP_SPLENECTOMY</TreatmentRef>
-		</Treatments>
-		
-        <ShameLevel>0</ShameLevel>
-        <IsMainSymptom>false</IsMainSymptom>
-		<CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_MEDIUM</CollapseProcedureRef>
-		
-		<CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_161</CustomIconBigAssetRef>
-        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_162</CustomIconSmallAssetRef>
-		
-        <IconIndex>1</IconIndex>
-		
-    </GameDBSymptom>
-	
 	<!-- Hepatomegaly -->
 	<GameDBSymptom ID="SYM_SLP_HEPATOMEGALY">
         <DescriptionLocID>SYM_SLP_HEPATOMEGALY_DESC</DescriptionLocID>
@@ -2149,41 +2019,6 @@
 		
     </GameDBSymptom>
 	
-	<!-- Acute Liver Failure -->
-	<GameDBSymptom ID="SYM_SLP_ACUTE_LIVER_FAILURE">
-        <DescriptionLocID>SYM_SLP_ACUTE_LIVER_FAILURE_DESC</DescriptionLocID>
-        <DiscomfortLevel>High</DiscomfortLevel>
-        <PatientComplains>false</PatientComplains>
-        <Hazard>High</Hazard>
-		<PatientMobility>MOBILE</PatientMobility>
-
-        <RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>48</RiskOfCollapseEndHours>
-        <CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
-		
-        <!--
-		<ExaminationRef>EXM_SLP_LIVER_FT_SAMPLING</ExaminationRef>
-		- Patient Side -->
-		
-        <Examinations>
-			<ExaminationRef>EXM_SLP_LIVER_FT_TEST</ExaminationRef>
-			<ExaminationRef>EXM_USG</ExaminationRef>
-			<ExaminationRef>EXM_CT</ExaminationRef>
-        </Examinations>
-		
-		<Treatments>
-            <TreatmentRef>TRT_SLP_LIVER_TRANSPL</TreatmentRef>
-        </Treatments>
-		
-        <ShameLevel>0</ShameLevel>
-        <IsMainSymptom>false</IsMainSymptom>
-        <IconIndex>1</IconIndex>
-		
-		<CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_425</CustomIconBigAssetRef>
-        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_426</CustomIconSmallAssetRef>
-		
-    </GameDBSymptom>
-
 	<!-- Cellular Rejection -->
 	<GameDBSymptom ID="SYM_SLP_CELL_REJECTION">
         <DescriptionLocID>SYM_SLP_CELL_REJECTION_DESC</DescriptionLocID>
@@ -5029,71 +4864,4 @@
         <IconIndex>1</IconIndex>
 		
     </GameDBSymptom>
-	
-	<!-- ======================================== -->
-	<!-- ============= Core Content ============= -->
-	<!-- ======================================== -->
-	<GameDBSymptom ID="SYM_SLP_NERVE_DAMAGE">
-        <DescriptionLocID>SYM_SLP_NERVE_DAMAGE_DESC</DescriptionLocID>
-        <DiscomfortLevel>High</DiscomfortLevel>
-        <PatientComplains>true</PatientComplains>
-        <Hazard>Medium</Hazard>
-        <PatientMobility>MOBILE</PatientMobility>
-		
-        <Examinations>
-		    <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
-			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-        </Examinations>
-		
-		<Treatments>
-            <TreatmentRef>TRT_SLP_NERVE_DECOM_SURGERY</TreatmentRef>
-        </Treatments>
-		
-        <ShameLevel>0</ShameLevel>
-        <IsMainSymptom>false</IsMainSymptom>
-		
-        <IconIndex>1</IconIndex>
-		
-		<CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_023</CustomIconBigAssetRef>
-        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_024</CustomIconSmallAssetRef>
-		
-    </GameDBSymptom>
-	
-	<!-- Rupture of a Lesion -->
-	<GameDBSymptom ID="SYM_SLP_LES_RUPTURE">
-        <DescriptionLocID>SYM_SLP_LES_RUPTURE_DESC</DescriptionLocID>
-        <DiscomfortLevel>High</DiscomfortLevel>
-        <PatientComplains>false</PatientComplains>
-        <Hazard>High</Hazard>
-        <PatientMobility>MOBILE</PatientMobility>
-		
-		<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
-			 <ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
-		- Patient Side -->
-		
-		<RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
-        <RiskOfCollapseEndHours>4</RiskOfCollapseEndHours>
-        <CollapseSymptomRef>SYM_SLP_INTERNAL_BLEEDING</CollapseSymptomRef>
-		
-        <Examinations>
-			<ExaminationRef>EXM_USG</ExaminationRef>
-			<ExaminationRef>EXM_CT</ExaminationRef>
-			<ExaminationRef>EXM_MRI</ExaminationRef>
-        </Examinations>
-		
-		<Treatments>
-			<TreatmentRef>TRT_SLP_ENDOVASCULAR_EMBOLISATION</TreatmentRef>
-		</Treatments>
-		
-        <ShameLevel>0</ShameLevel>
-        <IsMainSymptom>false</IsMainSymptom>
-		
-		<CustomIconBigAssetRef>ASSET_ONC_SYM_ICON_433</CustomIconBigAssetRef>
-        <CustomIconSmallAssetRef>ASSET_ONC_SYM_ICON_434</CustomIconSmallAssetRef>
-		
-        <IconIndex>1</IconIndex>
-		
-    </GameDBSymptom>
-	
-
 </Database>
