@@ -1,19 +1,16 @@
 <Database>
 <!--
-Update v1.0.4.0
+Update v1.0.5.0
 
 Additions:
 
 Changes:
 
 Localisation:
+Added Czech (0.13.4.1)
 
 Bug Fixes:
-Fixed issue with transition diagnosis not been disabled properly.
-Fixed a couple of duplicate data from the transition process.
-Added <ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef> to a few blood cancers that had it missing.
-Fixed missing main treatment in diagnosis code with Metastatic Vaginal Cancer.
-Fixed missing exam in diagnosis code for Lung Adenocarcinoma.
+Fixed some localisation bugs
 
 -->
 
