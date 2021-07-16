@@ -1,0 +1,514 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_CZ_ADDON_ONCOLOGYSL_TREATMENTS">
+	<LanguageCode>cz</LanguageCode>
+	<LanguageNameLocalized>Czech</LanguageNameLocalized>
+	<Contributors>
+	<Name>XiZyno</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMIQUIMOD_CREAM</LocID>                                    	
+	<Text>Imichimod krém</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMIQUIMOD_CREAM_DESC</LocID>                        	
+	<Text>Imichimod je krém na předpis, který se používá k léčbě povrchového bazocelulárního karcinomu a aktinické keratózy. \n\nPožadovaná místnost: Jakákoliv ordinace</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PHOTODYNAMIC_THERAPY</LocID>                                    	
+	<Text>Fotodynamická terapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PHOTODYNAMIC_THERAPY_DESC</LocID>                        	
+	<Text>Fotodynamická terapie je léčba, při které se používají určité léky zvané fotosenzitizující látky spolu se speciálním světlem k zabíjení rakovinných buněk. \n\nPožadovaná místnost: Jakákoliv ordinace</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY</LocID>                               
+	<Text>Široká místní excize (WLE)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MOHS_MICROGRAPHIC_SURGERY_DESC</LocID>                   
+	<Text>Široká lokální excize (WLE) je chirurgický zákrok k odstranění malé oblasti nemocné nebo problematické tkáně s okrajem normální tkáně. Tento postup se běžně provádí na prsou a na kožních lézích, ale lze jej použít na jakoukoli část těla. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_DOCTORS_ADVICE</LocID>                                    	
+	<Text>Poradenství pro onkologické pacienty</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_DOCTORS_ADVICE_DESC</LocID>                        	
+	<Text>Lékař poskytuje pacientovi rady, jak řešit jeho situaci, pomáhá pacientovi lépe porozumět jeho možnostem, jako je paliativní péče, a dělá vše, co je v jeho silách, aby zajistil pacientovi nejlepší možnou kvalitu života během této doby. \n\nPožadovaná místnost: Jakákoliv ordinace</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TARGETED_THERAPY</LocID>                                    	
+	<Text>Cílená terapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TARGETED_THERAPY_DESC</LocID>                        	
+	<Text>Cílené terapie jsou léky nebo jiné látky, které blokují růst a šíření rakoviny interferencí se specifickými molekulami. Cílené terapie se liší od standardní chemoterapie, protože jsou navrženy tak, aby působily na specifické molekulární cíle a útočily na rakovinné buňky bez poškození zdravých buněk. \n\nPožadovaná místnost: Jakákoliv ordinace</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_CHEMOTHERAPY</LocID>                                    	
+	<Text>Chemoterapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_CHEMOTHERAPY_DESC</LocID>                        	
+	<Text>Chemoterapie je typ léčby rakoviny, který používá jeden nebo více protinádorových léků jako součást standardizovaného režimu chemoterapie. Chemoterapie může být podána s léčebným záměrem, nebo může být zaměřena na prodloužení života nebo na zmírnění příznaků. \n\nPožadovaná místnost: Běžná hospitalizace na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LAPAROSCOPIC_SURGERY</LocID>                                    	
+	<Text>Laparoskopická chirurgie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LAPAROSCOPIC_SURGERY_DESC</LocID>                        	
+	<Text>Laparoskopická nebo „minimálně invazivní“ chirurgie je specializovaná technika pro provádění chirurgických zákroků. Jedná se o minimálně invazivní postup s nízkým rizikem, který vyžaduje pouze malé řezy. Laparoskopie používá nástroj zvaný laparoskop ke sledování břišních orgánů. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LOBECTOMY_SURGERY</LocID>                                    	
+	<Text>Plicní lobektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LOBECTOMY_SURGERY_DESC</LocID>                        	
+	<Text>Plicní lobektomie plic je chirurgický zákrok, při kterém je odstraněn plicní lalok. Dělá se k odstranění části nemocných plic, jako je rakovina plic v rané fázi. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION</LocID>                                    	
+	<Text>Endovaskulární embolizace</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>                        	
+	<Text>Endovaskulární embolizace (EE) je invazivní chirurgický zákrok. Používá se k léčbě abnormálních krevních cév nalezených ve vašem mozku i v jiných oblastech vašeho těla. Tento postup je alternativou k otevřené operaci. Blokuje krevní cévy, aby odřízl průtok krve do postižené oblasti. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOTHERAPY_DRUGS</LocID>                                    	
+	<Text>Imunoterapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOTHERAPY_DRUGS_DESC</LocID>                        	
+	<Text>Imunoterapie je druh léčby rakoviny, který pomáhá imunitnímu systému těla bojovat proti rakovině. \n\nPožadovaná místnost: Jakákoliv ordinace</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>Nervová rekonstrukční chirurgie</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>Nervová rekonstrukční chirurgie nebo chirurgická oprava nervu zahrnuje vyšetření poškozeného nervu a odstranění zraněné tkáně nebo jizvy z nervových zakončení. Poté lze nerv přímo znovu připojit, pokud je na koncích dostatečná délka, která umožňuje kvalitní opravu bez napětí. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_EPIPEN</LocID>                                    	
+	<Text>Autoinjektor epinefrinu</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_EPIPEN_DESC</LocID>                        	
+	<Text>Autoinjektor epinefrinu je lékařský prostředek pro vstřikování naměřené dávky nebo dávek epinefrinu pomocí technologie autoinjektoru. Nejčastěji se používá k léčbě anafylaxe. \n\nPožadovaná místnost: Jakákoliv ordinace</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POLYPECTOMY</LocID>                                    	
+	<Text>Polypektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POLYPECTOMY_DESC</LocID>                        	
+	<Text>Polypektomie je postup používaný k odstranění polypů zevnitř tlustého střeva, nazývaného také tlusté střevo. Polyp je abnormální sbírka tkáně. Postup je relativně neinvazivní. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARTIAL_COLECTOMY</LocID>                                    	
+	<Text>Kolektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARTIAL_COLECTOMY_DESC</LocID>                        	
+	<Text>Kolektomie je resekce tlustého střeva. Skládá se z chirurgického odstranění jakéhokoli rozsahu tlustého střeva, obvykle segmentové resekce. V extrémních případech, kdy je odstraněno celé tlusté střevo. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ADRENALECTOMY</LocID>                                    	
+	<Text>Adrenalektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ADRENALECTOMY_DESC</LocID>                        	
+	<Text>Adrenalektomie je chirurgické odstranění jedné nebo obou nadledvin. Obvykle se doporučuje pacientům s nádory nadledvin. Proceduru lze provést otevřeným řezem nebo laparoskopickou technikou. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MITOTANE</LocID>                                    	
+	<Text>Mitotan</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_MITOTANE_DESC</LocID>                        	
+	<Text>Mitotan, prodávaný pod značkou Lysodren, je inhibitor steroidogeneze a cytostatický antineoplastický lék, který se používá při léčbě adrenokortikálního karcinomu a Cushingova syndromu. \n\nPožadovaná místnost: Jakákoliv ordinace</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPIRONOLACTONE</LocID>                                    	
+	<Text>Spironolakton</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPIRONOLACTONE_DESC</LocID>                        	
+	<Text>Spironolakton je draslík šetřící diuretikum (pilulka na vodu), které brání tělu absorbovat příliš mnoho soli a udržuje hladinu draslíku příliš nízkou. Spironolakton se používá k léčbě srdečního selhání, vysokého krevního tlaku (hypertenze) nebo hypokalémie (nízké hladiny draslíku v krvi). \n\nPožadovaná místnost: Jakákoliv ordinace</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_OCTREOTIDE_INJECTION</LocID>                                    	
+	<Text>Injekce oktreotidu</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_OCTREOTIDE_INJECTION_DESC</LocID>                        	
+	<Text>Octreotid se používá k léčbě nádorů produkujících růstový hormon (akromegalie a gigantismus) a může pomoci při stabilizaci pacienta trpícího karcinoidní krizí. \n\nPožadovaná místnost: Jakákoliv ordinace</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SL_ACTIVE_MONITOR</LocID>                                    	
+	<Text>Aktivní monitorování</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_ACTIVE_MONITOR_DESC</LocID>                        	
+	<Text>Aktivní sledování je, když onkolog nedoporučuje žádnou léčbu, ale monitoruje zdraví pacienta pravidelnými kontrolami a krevními testy. Tomu se někdy říká „pečlivé sledování“ nebo „hlídání a čekání“. \n\nPožadovaná místnost: Jakákoliv Onkologická ordinace</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SLP_HYPER_CVAD</LocID>                                    	
+	<Text>Intenzivní terapie Hyper-CVAD</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPER_CVAD_DESC</LocID>                        	
+	<Text>Termín „hyper“ označuje hyperfrakcionovanou povahu chemoterapie, která se častěji podává v menších dávkách, aby se minimalizovaly vedlejší účinky. „CVAD“ je zkratka pro léky používané v kurzu A: cyklofosfamid, vinkristin, doxorubicin (také známý pod obchodním názvem Adriamycin) a dexamethason. Krátkodobé intenzivní terapie ukazují zlepšené výsledky. \n\nPožadovaná místnost: Prioritní hospitalizace na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_SLP_SPLENECTOMY</LocID>                                    	
+	<Text>Splenektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SPLENECTOMY_DESC</LocID>                        	
+	<Text>Splenektomie je chirurgický zákrok k odstranění sleziny. Slezina je orgán, který sedí pod hrudním košem na levé horní straně břicha. Pomáhá bojovat proti infekci a filtruje nepotřebný materiál, jako jsou staré nebo poškozené krvinky, z krve. Nejčastějším důvodem splenektomie je léčba prasklé sleziny, která je často způsobena úrazem břicha. Splenektomii lze použít k léčbě dalších stavů, včetně zvětšené sleziny, která způsobuje nepohodlí (splenomegalie), některých krevních poruch, určitých druhů rakoviny, infekcí a nerakovinných cyst nebo nádorů. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_G_CSF</LocID>                                    	
+	<Text>Léky G-CSF</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_G_CSF_DESC</LocID>                        	
+	<Text>Léčivé faktory stimulující kolonie granulocytů, také známé jako faktor 3 stimulující kolonie, je glykoprotein, který stimuluje kostní dřeň k produkci granulocytů a kmenových buněk a jejich uvolňování do krevního řečiště. \n\nPožadovaná místnost: Jakákoliv ordinace.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_METHOTREXATE</LocID>                                    	
+	<Text>Methotrexát IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_METHOTREXATE_DESC</LocID>                        	
+	<Text>Methotrexát, dříve známý jako amethopterin, je chemoterapeutikum a látka potlačující imunitu. Používá se k léčbě rakoviny, autoimunitních onemocnění, mimoděložního těhotenství a k lékařským potratům. Mezi typy rakoviny, které se používá, patří rakovina prsu, leukémie, rakovina plic, lymfom a osteosarkom.. \n\nPožadovaná místnost: Běžná hospitalizace na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ALEMTUZUMAB</LocID>                                    	
+	<Text>Alemtuzumab IV</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ALEMTUZUMAB_DESC</LocID>                        	
+	<Text>Alemtuzumab je lék používaný k léčbě chronické lymfocytární leukémie a roztroušené sklerózy. V CLL byl Alemtuzumab použit jako léčba první linie i druhé linie. U RS se obecně doporučuje pouze v případě, že jiná léčba nefunguje. Podává se injekcí do žíly. \n\nPožadovaná místnost: Běžná hospitalizace na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_BRAF_INH</LocID>                                    	
+	<Text>BRAF Inhibitory</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_BRAF_INH_DESC</LocID>                        	
+	<Text>BRAF Inhibitory pomáhají blokovat mutaci genu BRAF-V600E. V klinických studiích zvyšoval B-Raf šanci na přežití u pacientů s metastatickým melanomem. I přes vysokou účinnost léčiva se u 20% nádorů stále vyvíjí rezistence na léčbu. \n\nPožadovaná místnost: Jakákoliv ordinace.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TAMOXIFEN</LocID>                                    	
+	<Text>Tamoxifen</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TAMOXIFEN_DESC</LocID>                        	
+	<Text>TamoxifenTamoxifen je hormonální léčba rakoviny prsu u žen i mužů. Snižuje riziko předčasného návratu rakoviny prsu po operaci nebo rozvoji druhého prsu. Může také nějakou dobu kontrolovat pokročilý karcinom prsu. \n\nPožadovaná místnost: Jakákoliv ordinace.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEG_MASTECTOMY</LocID>                                    	
+	<Text>Částečná mastektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEG_MASTECTOMY_DESC</LocID>                        	
+	<Text>Operace k odstranění rakoviny a některé normální tkáně kolem ní, ale ne samotného prsu. Některé lymfatické uzliny pod paží mohou být odstraněny pro biopsii. Část výstelky hrudní stěny lze také odstranit, pokud je rakovina poblíž. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPERSALINE</LocID>                                    	
+	<Text>Hypertonický fyziologický roztok</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPERSALINE_DESC</LocID>                        	
+	<Text>Hyperosmolární terapie hypertonickým solným roztokem nebo mannitolem může rychle snížit intrakraniální tlak a případně zachránit životy a mozkové buňky. Hypertonický fyziologický roztok je účinný, protože nepřekračuje hematoencefalickou bariéru (hodně), a tím čerpá mozkomíšní tekutinu z lebky a tekutinu z poraněného mozku, čímž snižuje tlak a další zranění. \n\nPožadovaná místnost: Jakákoliv ordinace.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>Řez a odvodnění</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>Řez a drenáž a klinické odběrové pery jsou drobné chirurgické zákroky k uvolnění plic nebo tlaku vytvářeného pod kůží. \n\nPožadovaná Místnost: Onkologická diagnostická ordinace / Onkologická ordinace / JIP / Pozorovací místnost</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_DEBULKING</LocID>                                    	
+	<Text>Chirurgické oslabení</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_DEBULKING_DESC</LocID>                        	
+	<Text>Chirurgické odstraňování nádorů je postup, při kterém se chirurgicky nevyléčitelný maligní novotvar částečně odstraní bez léčebného záměru, aby se zefektivnila následná léčba léky, ozařováním nebo jinými doplňkovými opatřeními, a tím se prodloužila doba přežití. Lékař bude muset rezervovat následné schůzky s pacientem ve snaze vytlačit rakovinu do remise. \n\nPožadovaná místnost: Operační sál na Neurologii</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GTR</LocID>                                    	
+	<Text>Celková resekční kraneotomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GTR_DESC</LocID>                        	
+	<Text>Celková resekce je úplné odstranění viditelné nádorové tkáně pomocí magnetické rezonance (MRI). Supratotální resekce se provádí jako celková celková resekce s vyříznutím hranic nádorové tkáně viditelných MRI do neovlivněné mozkové tkáně. \n\nPožadovaná místnost: Operační sál na Neurologii</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ESTRADIOL_CREAM</LocID>                                    	
+	<Text>Estradiol krém</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ESTRADIOL_CREAM_DESC</LocID>                        	
+	<Text>Estradiolový krém je přípravek estrogenu, ženského hormonu, pro místní aplikaci na vaginální oblast, který se používá k léčbě určitých příznaků menopauzy, jako je suchost, pálení a svědění vaginální oblasti a naléhavost nebo podráždění močení.. \n\nPožadovaná místnost: Jakákoliv ordinace.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_UNI_SALOOPH</LocID>                                    	
+	<Text>Jednostranná salpingo-ooforektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_UNI_SALOOPH_DESC</LocID>                        	
+	<Text>Jednostranná salpingo-ooforektomie je chirurgické odstranění jednoho vaječníku a jedné vejcovody, které jsou umístěny na stejné straně těla a sdílejí společné zásobování krví (na rozdíl od toho bilaterální postup zahrnuje odstranění vaječníků i vejcovodů trubky). Jednostranná salpingo-ooforektomie by měla být považována za první volbu léčby šetřící plodnost u žen, které si chtějí uchovat plodnost. Přestože je zjištěno vyšší riziko lokálních relapsů, není spojeno se sníženým celkovým přežitím. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RAD_PROS</LocID>                                    	
+	<Text>Radikální prostatektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RAD_PROS_DESC</LocID>                        	
+	<Text>Radikální prostatektomie je operace k odstranění prostaty a tkání kolem ní. To obvykle zahrnuje semenné váčky a některé blízké lymfatické uzliny. Radikální prostatektomie může léčit rakovinu prostaty u mužů, jejichž rakovina je omezena na prostatu. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HORMONE_THERAPY</LocID>                                    	
+	<Text>Hormonální terapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HORMONE_THERAPY_DESC</LocID>                        	
+	<Text>Hormonální terapie nebo hormonální terapie je použití hormonů v lékařství. \n\nPožadovaná místnost: Jakákoliv ordinace.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARATHY</LocID>                                    	
+	<Text>Paratyroidektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARATHY_DESC</LocID>                        	
+	<Text>Parathyroidectomy je chirurgický zákrok k odstranění příštítných tělísek nebo příštítných tělísek. Příštítné tělíska jsou přímo za štítnou žlázou v krku. Tyto žlázy pomáhají tělu kontrolovat hladinu vápníku v krvi. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RCHOP</LocID>                                    	
+	<Text>Chemoterapie R-CHOP</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RCHOP_DESC</LocID>                        	
+	<Text>R-CHOP je kombinovaná léčba používaná k léčbě nehodgkinského lymfomu (NHL). R-CHOP zahrnuje pět chemoterapeutických léků: rituximab (Rituxan) cyklofosfamid. doxorubicin hydrochlorid, vinkristin a prednisolon. \n\nPožadovaná místnost: Běžná hospitalizace na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13.1a Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RITUXIMAB</LocID>                                    	
+	<Text>Rituximab</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RITUXIMAB_DESC</LocID>                        	
+	<Text>Rituximab, prodávaný mimo jiné pod značkou Rituxan, je lék používaný k léčbě určitých autoimunitních onemocnění a typů rakoviny. Rituximab je chimérická monoklonální protilátka proti proteinu CD20, který se primárně nachází na povrchu B buněk imunitního systému. Když se váže na tento protein, spouští buněčnou smrt. \n\nPožadovaná místnost: Běžná hospitalizace na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13.2.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GEMCITABINE</LocID>                                    	
+	<Text>Gemcitabin</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GEMCITABINE_DESC</LocID>                        	
+	<Text>Gemcitabin, prodávaný pod značkou Gemzar je mimo jiné chemoterapeutický lék používaný k léčbě řady typů rakoviny. Tyto rakoviny zahrnují rakovinu prsu, rakovinu vaječníků, nemalobuněčnou rakovinu plic, rakovinu pankreatu a rakovinu močového měchýře. Podává se pomalou injekcí do žíly. \n\nPožadovaná místnost: Běžná hospitalizace na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POCT</LocID>                                    	
+	<Text>Kombinovaná léčba POC</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_POCT_DESC</LocID>                        	
+	<Text>Kombinovaná léčba pamidronátem a oktreotidem. Izolované zprávy naznačují, že pamidronát a oktreotid mohou v některých případech pomoci při úlevě od bolesti kostí a pomáhat při léčbě hypertrofické plicní osteoartropatie (HPOA). K vyřešení problému je nutné zacházet se základním problémem.  \n\nPožadovaná místnost: Jakákoliv ordinace.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEGMENTECTOMY</LocID>                                    	
+	<Text>Segmentektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEGMENTECTOMY_DESC</LocID>                        	
+	<Text>Segmentální resekce je chirurgický zákrok k odstranění části orgánu nebo žlázy jako podtypu resekce, který může zahrnovat odstranění celé části těla. Může být také použit k odstranění nádoru a normální tkáně kolem něj. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_FEP</LocID>                                    	
+	<Text>Kombinovaná léčba FEP</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_FEP_DESC</LocID>                        	
+	<Text>Kombinovaná léčba 5-fluorouracilem (5-FU), cisplatinou a etoposidem (FEP). Chemoterapie má relativně špatnou léčebnou účinnost u některých druhů rakoviny, jako je například Signet Ring Cell Carcinoma (SRCC) a pacienti, a celková míra přežití je nižší ve srovnání s pacienty s typičtějšími rakovinovými patologiemi. Tyto druhy rakoviny jsou obvykle diagnostikovány v pozdních stádiích nemoci, takže nádory se obecně šíří agresivněji než jiné typy rakoviny, takže léčba je náročná, ale nejaktivnější režimy zahrnují 5-fluoruracil (5-FU), cisplatinu a / nebo etoposid. Kombinovaná chemoterapie FEP se jeví jako účinný léčebný režim pro rakovinu žaludku jako záchranná chemoterapie. \n\nPožadovaná místnost: Běžná hospitalizace na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13.3.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_AMMONUL</LocID>                                    	
+	<Text>Amoniak</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_AMMONUL_DESC</LocID>                        	
+	<Text>Ammoniak (kombinace benzoanu sodného a fenylacetátu sodného) se používá k léčbě onemocnění způsobeného nadměrným množstvím amoniaku v krvi (hyperamonémie). \n\nPožadovaná místnost: Běžná hospitalizace na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LACTULOSE</LocID>                                    	
+	<Text>Laktulóza</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LACTULOSE_DESC</LocID>                        	
+	<Text>Laktulóza je lék na předpis používaný ústy nebo rektálně k léčbě nebo prevenci komplikací onemocnění jater (jaterní encefalopatie). Léčí problém, ale může pomoci zlepšit duševní stav. Laktulóza je okyselovač tlustého střeva, který působí snížením množství amoniaku v krvi. \n\nPožadovaná místnost: Jakákoliv ordinace.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HEPATECTOMY</LocID>                                    	
+	<Text>Hepatektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HEPATECTOMY_DESC</LocID>                        	
+	<Text>Hepatektomie je chirurgická resekce (odstranění celé nebo části) jater. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LIVER_TRANSPL</LocID>                                    	
+	<Text>Chirurgie transplantace jater</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_LIVER_TRANSPL_DESC</LocID>                        	
+	<Text>Transplantace jater je chirurgický zákrok, který odstraní játra, která již nefungují správně (selhání jater), a nahradí je zdravými játry zesnulého dárce nebo částí zdravých jater od žijícího dárce. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOSUS_DRUGS</LocID>                                    	
+	<Text>Imunosupresivní léky</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_IMMUNOSUS_DRUGS_DESC</LocID>                        	
+	<Text>Imunosupresiva jsou skupinou léků, které potlačují nebo snižují sílu imunitního systému těla. Některé z těchto léků se používají k tomu, aby tělo snížilo pravděpodobnost odmítnutí transplantovaného orgánu, jako jsou játra, srdce nebo ledviny. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13.4.1 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PAROTIDECTOMY</LocID>                                    	
+	<Text>Parotidektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PAROTIDECTOMY_DESC</LocID>                        	
+	<Text>Parotidektomie je chirurgická excize příušní žlázy, hlavní a největší ze slinných žláz. Procedura se nejčastěji provádí kvůli novotvarům, které jsou růstem rychle a abnormálně se dělících buněk. Novotvary mohou být benigní nebo maligní. \n\nPožadovaná místnost: Operační sál na Onkologickém odd.</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

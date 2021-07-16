@@ -1,0 +1,2950 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_CZ_ADDON_ONCOLOGYSL_SYMPTOMS">
+	<LanguageCode>cz</LanguageCode>
+	<LanguageNameLocalized>Czech</LanguageNameLocalized>
+	<Contributors>
+	<Name>XiZyno</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ACTINIC_KERATOSIS</LocID>                               
+		<Text>Aktinická keratóza</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ACTINIC_KERATOSIS_DESC</LocID>                   
+		<Text>Aktinická keratóza je drsná šupinatá skvrna na pokožce, která se vyvíjí po letech vystavení slunci.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NODULE_SKIN</LocID>                               
+		<Text>Uzlík na kůži</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NODULE_SKIN_DESC</LocID>                   
+		<Text>Malý, lesklý hrbol nebo uzlík na kůži</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_1_DETECTED</LocID>                               
+		<Text>Detekován bazocelulární karcinom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_1_DETECTED_DESC</LocID>                   
+		<Text>Testováním byl zjištěn bazocelulární karcinom bez známek metastáz.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_2_DETECTED</LocID>                               
+		<Text>Detekován bazocelulární karcinom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_2_DETECTED_DESC</LocID>                   
+		<Text>Testováním byl zjištěn bazocelulární karcinom bez známek metastáz.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PERINEURAL_INVASION</LocID>                               
+		<Text>Perineurální invaze</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PERINEURAL_INVASION_DESC</LocID>                   
+		<Text>Perineurální invaze, zkráceně PNI, označuje invazi rakoviny do prostoru obklopujícího nervy.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_3_DETECTED</LocID>                               
+		<Text>Detekován bazocelulární karcinom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_3_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo bazocelulární karcinom se známkami jeho rozšíření do blízkých lymfatických uzlin a okolní tkáně.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_4_DETECTED</LocID>                               
+		<Text>Detekován bazocelulární karcinom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_4_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo bazocelulární karcinom se známkami, že metastázuje.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_METASTASIZED_CANCER</LocID>                               
+		<Text>Metastázující rakovina</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_METASTASIZED_CANCER_DESC</LocID>                   
+		<Text>Metastázující rakovina je rakovina, která se šíří z místa původu do jiné části těla.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CHRONIC_WOUND</LocID>                               
+		<Text>Chronická rána</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CHRONIC_WOUND_DESC</LocID>                   
+		<Text>Chronické rány jsou boláky, které se nehojí do tří měsíců. Mohou znovu a znovu začít s malými a mocnými strupy, ale nezlepší se.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_1_DETECTED</LocID>                               
+		<Text>Detekován karcinom dlaždicových buněk</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_1_DETECTED_DESC</LocID>                   
+		<Text>Testováním byl detekován spinocelulární karcinom bez známek metastáz.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_2_DETECTED</LocID>                               
+		<Text>Detekován karcinom dlaždicových buněk</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_2_DETECTED_DESC</LocID>                   
+		<Text>Testováním byl detekován spinocelulární karcinom bez známek metastáz.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_3_DETECTED</LocID>                               
+		<Text>Detekován karcinom dlaždicových buněk</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_3_DETECTED_DESC</LocID>                   
+		<Text>Testováním byl detekován spinocelulární karcinom se známkami jeho rozšíření do blízkých lymfatických uzlin a okolní tkáně.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_4_DETECTED</LocID>                               
+		<Text>Detekován karcinom dlaždicových buněk</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_4_DETECTED_DESC</LocID>                   
+		<Text>Testováním byl detekován spinocelulární karcinom se známkami, že metastázuje.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ABNORMAL_MOLE</LocID>                               
+		<Text>Abnormální pigmentová skvrna</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ABNORMAL_MOLE_DESC</LocID>                   
+		<Text>Pigmentová skvrna s nerovným okrajem, neobvyklou barvou nebo změnou růstu.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_1_DETECTED</LocID>                               
+		<Text>Detekován melanom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_1_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo melanom bez důkazů, že se rozšířil do lymfatických tkání, lymfatických uzlin nebo tělesných orgánů. Vypadá to, že je lokálně uzavřený bez vředů.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_2_DETECTED</LocID>                               
+		<Text>Detekován melanom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_2_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo melanom s důkazem, že přesahuje epidermis (velmi vnější vrstva kůže) do silnější dermis vrstvy kůže. Neexistují žádné známky toho, že metastázuje.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_3_DETECTED</LocID>                               
+		<Text>Detekován melanom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_3_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo melanom se známkami jeho šíření do blízkých lymfatických uzlin a okolní tkáně.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_4_DETECTED</LocID>                               
+		<Text>Detekován melanom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_4_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo melanom se známkami, že metastázuje.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HIGH_EPLVL</LocID>                               
+		<Text>Vysoké hladiny adrenalinu</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HIGH_EPLVL_DESC</LocID>                   
+		<Text>Pacient má zvýšené hladiny epinefrinu (adrenalinu) v krvi. Adrenalin je normálně produkován jak nadledvinami, tak malým počtem neuronů v prodloužené míše. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HIGH_NEPLVL</LocID>                               
+		<Text>Vysoké hladiny norepinefrinu</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HIGH_NEPLVL_DESC</LocID>                   
+		<Text>Pacient má zvýšené hladiny norepinefrinu (noradrenalinu) v krvi. Norepinefrin je přirozeně se vyskytující chemická látka v těle, která působí jako stresový hormon i neurotransmiter. Uvolňuje se do krve jako stresový hormon, když mozek vnímá, že došlo ke stresující události. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC1_0_DETECTED</LocID>                               
+		<Text>Detekován feochromocytom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC1_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo lokalizovaný feochromocytom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC1_1_DETECTED</LocID>                               
+		<Text>Detekován feochromocytom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC1_1_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo regionální feochromocytom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC1_2_DETECTED</LocID>                               
+		<Text>Detekován feochromocytom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC1_2_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo feochromocytom s prokázáním, že metastázuje.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC_0_DETECTED</LocID>                               
+		<Text>Detekován Nemalobuněčný karcinom plic (NSCLC)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo lokalizovaný nemalobuněčný karcinom plic</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC_1_DETECTED</LocID>                               
+		<Text>Detekován Nemalobuněčný karcinom plic (NSCLC)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC_1_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo regionální nemalobuněčný karcinom plic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SL_SEIZURES</LocID>                               
+		<Text>Záchvaty</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SL_SEIZURES_DESC</LocID>                   
+		<Text>Záchvat je náhlá nekontrolovaná elektrická porucha v mozku. Může to způsobit změny ve vašem chování, pohybech nebo pocitech a v úrovních vědomí.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC_2_DETECTED</LocID>                               
+		<Text>Detekován Nemalobuněčný karcinom plic (NSCLC)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC_2_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo metastázující nemalobuněčný karcinom plic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SL_HEMOPTYSIS1</LocID>                               
+		<Text>Mírná hemoptýza</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SL_HEMOPTYSIS1_DESC</LocID>                   
+		<Text>Hemoptýza je vykašlávání krve nebo hlenu potřísněného krví z průdušek, hrtanu, průdušnice nebo plic. Jinými slovy, jedná se o krvácení z dýchacích cest. K tomu může dojít u rakoviny plic, infekcí, jako je tuberkulóza, bronchitida nebo zápal plic, a určitých kardiovaskulárních stavů.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC1_0_DETECTED</LocID>                               
+		<Text>Detekován Malobuněčný karcinom plic (SCLC)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC1_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo omezený malobuněčný karcinom plic.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC1_1_DETECTED</LocID>                               
+		<Text>Detekován Malobuněčný karcinom plic (SCLC)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC1_1_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo rozsáhlý malobuněčný karcinom plic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NERVE_DAMAGE</LocID>                               
+		<Text>Pooperační neuropatická bolest</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NERVE_DAMAGE_DESC</LocID>                   
+		<Text>Pooperační neuropatická bolest (PONP) se může vyvinout, pokud byly během operace poškozeny nervy. Poškozené nervy nemohou správně přenášet signály z různých částí těla do mozku. Místo toho se tyto signály zveličují a způsobují chronickou bolest, která může přetrvávat měsíce nebo dokonce roky.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC1_0_DETECTED</LocID>                               
+		<Text>Zjištěn kolorektální adenokarcinom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC1_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo lokalizovaný kolorektální adenokarcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC1_1_DETECTED</LocID>                               
+		<Text>Zjištěn kolorektální adenokarcinom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC1_1_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo regionální kolorektální adenokarcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC1_2_DETECTED</LocID>                               
+		<Text>Zjištěn kolorektální adenokarcinom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC1_2_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo metastázující kolorektální adenokarcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HIGH_CEALVL</LocID>                               
+		<Text>Vysoké hladiny karcinoembryonálních antigenů</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HIGH_CEALVL_DESC</LocID>                   
+		<Text>Pacient má zvýšené hladiny karcinoembryonálního antigenu v krvi. Vysoká úroveň CEA může být známkou určitých typů rakoviny. Patří mezi ně rakoviny tlustého střeva a konečníku, prostaty, vaječníků, plic, štítné žlázy nebo jater. Vysoké hladiny CEA mohou být také známkou některých nerakovinných stavů, jako je cirhóza, nerakovinové onemocnění prsu a emfyzém.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_POLYPS</LocID>                               
+		<Text>Kolorektální polyp</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_POLYPS_DESC</LocID>                   
+		<Text>Polyp je růst tkáně na sliznici tlustého střeva a konečníku, který vyčnívá do střev. Lidé s polypy tlustého střeva obvykle nemají žádné příznaky. Většina polypů tlustého střeva je neškodná, i když některé typy mohou být rakovinné.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC2_0_DETECTED</LocID>                               
+		<Text>Zjištěn adrenokortikální karcinom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC2_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo lokalizovaný adrenokortikální karcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC2_1_DETECTED</LocID>                               
+		<Text>Zjištěn adrenokortikální karcinom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC2_1_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo regionální adrenokortikální karcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC2_2_DETECTED</LocID>                               
+		<Text>Zjištěn adrenokortikální karcinom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC2_2_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo metastázující adrenokortikální karcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPONATREMIA</LocID>                               
+		<Text>Hyponatrémie </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPONATREMIA_DESC</LocID>                   
+		<Text>Hyponatrémie se vyskytuje, když je koncentrace sodíku v krvi neobvykle nízká. Sodík je elektrolyt a pomáhá regulovat množství vody ve vašich buňkách a kolem nich.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERGLYCEMIA</LocID>                               
+		<Text>Hyperglykémie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERGLYCEMIA_DESC</LocID>                   
+		<Text>Hyperglykémie je odborný termín pro vysokou hladinu glukózy v krvi (krevní cukr). K vysoké hladině cukru v krvi dochází, když má tělo příliš málo inzulínu nebo když tělo nemůže inzulín správně používat.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERCORTISOL</LocID>                               
+		<Text>Hyperkortizolismus</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERCORTISOL_DESC</LocID>                   
+		<Text>Cushingův syndrom, nazývaný také hyperkortizolismus, je vzácná endokrinní porucha způsobená chronickým vystavením tělesných tkání nadměrné hladině kortizolu - hormonu přirozeně produkovaného nadledvinami.</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERALDOSTERONISM</LocID>                               
+		<Text>Hyperaldosteronismus</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERALDOSTERONISM_DESC</LocID>                   
+		<Text>Hyperaldosteronismus je onemocnění, při kterém nadledviny produkují příliš mnoho aldosteronu, což vede k hypertenzi (vysokému krevnímu tlaku) a nízké hladině draslíku v krvi. Primární hyperaldosteronismus může být způsoben buď hyperaktivitou v jedné nadledvině (jednostranné onemocnění) nebo oběma (bilaterální onemocnění).</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_MC001_0_DETECTED</LocID>                               
+		<Text>Zjištěn Gastrointestinální neuroendokrinní nádor</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_MC001_0_DETECTED_DESC</LocID>                   
+		<Text>Při testování byl zjištěn omezený gastrointestinální neuroendokrinní nádor.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_MC001_1_DETECTED</LocID>                               
+		<Text>Zjištěn Gastrointestinální neuroendokrinní nádor</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_MC001_1_DETECTED_DESC</LocID>                   
+		<Text>Při testování byl zjištěn rozsáhlý gastrointestinální neuroendokrinní nádor.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_LARGE_LYMPHNODE</LocID>                               
+		<Text>Lymfadenitida</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_LARGE_LYMPHNODE_DESC</LocID>                   
+		<Text>Lymfadenitida (oteklé lymfatické uzliny) je, když se lymfatické uzliny otokují v reakci na nemoc, infekci nebo stres. Oteklé lymfatické uzliny jsou známkou toho, že váš lymfatický systém pracuje na tom, aby zbavil vaše tělo odpovědných agentů. Žlázy imunitního systému se obvykle zvětšují v reakci na bakteriální nebo virovou infekci, ale náhlý otok mnoha lymfatických uzlin může naznačovat rakovinu.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ELAVATED_5HIAA</LocID>                               
+		<Text>5-HIAA Vysoké hladiny moči</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ELAVATED_5HIAA_DESC</LocID>                   
+		<Text>Pacient má v moči zvýšené hladiny 5-HIAA (kyseliny 5-hydroxyindoloctové). Serotonin, měřeno v moči jako kyselina 5-hydroxyindoloctová (5HIAA). Zvýšené hladiny 5HIAA korelují s karcinoidovým syndromem a karcinoidními krizemi. Dlouhodobé vystavení srdečních chlopní vysokým hladinám serotoninu je spojeno s komplikacemi onemocnění.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CGA_BL_DETECTED</LocID>                               
+		<Text>Chromogranin-A vysoké hladiny v krvi</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CGA_BL_DETECTED_DESC</LocID>                   
+		<Text>Pacient má v krvi zvýšené hladiny nádorového markeru chromograninu-A. Chromogranin A (CgA) je obecný marker spojený se všemi karcinoidními nádory. Je to protein produkovaný a uvolňovaný v nádorových buňkách. Chromogranin A je spojen s jinými hormony a může se podílet na jejich regulaci. V krvi je normální hladina chromograninu A a rozsah je v současné době zhruba menší než 39 ng / l.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CARCINOID_CRISIS</LocID>                               
+		<Text>Krize karcinoidů</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CARCINOID_CRISIS_DESC</LocID>                   
+		<Text>Karcinoidová krize je život ohrožující forma karcinoidového syndromu, která je výsledkem uvolnění ohromného množství biologicky aktivních sloučenin z nádoru, které může být vyvoláno extrémním stresem, manipulací s nádorem (biopsie nebo chirurgický zákrok) nebo anestezií.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ANAPHYLACTIC_SHOCK</LocID>                               
+		<Text>Anafylaktický šok</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ANAPHYLACTIC_SHOCK_DESC</LocID>                   
+		<Text>Anafylaktický šok je vzácná, ale závažná alergická reakce, která může být smrtelná, pokud ji nebudete okamžitě léčit. Je to nejčastěji způsobeno alergií na jídlo, kousnutím hmyzem nebo některými léky. Okamžitě je zapotřebí dávka léku zvaného epinefrin.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- Blood Cancer Symptoms -->
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_UNUSUAL_INFECT</LocID>                               
+		<Text>Neobvyklá infekce</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_UNUSUAL_INFECT_DESC</LocID>                   
+		<Text>Infekce, která má neznámou příčinu nebo vykazuje neobvyklé vlastnosti.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_FREQUENT_INFECT</LocID>                               
+		<Text>Časté infekce</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_FREQUENT_INFECT_DESC</LocID>                   
+		<Text>Časté infekce jsou infekce, které jsou příliš velké, příliš závažné nebo příliš dlouhé. Mohou nastat časté nebo opakující se infekce, protože tělo neprodukuje dostatek bílých krvinek, aby imunitní systém fungoval správně.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_LYMPHOCYTOSIS</LocID>                               
+		<Text>Lymfocytóza</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_LYMPHOCYTOSIS_DESC</LocID>                   
+		<Text>Lymfocytóza je vyšší než normální množství lymfocytů, podtyp bílých krvinek, v těle. Lymfocyty jsou součástí vašeho imunitního systému a bojují proti infekcím.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PETECHIAE</LocID>                               
+		<Text>Petechie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PETECHIAE_DESC</LocID>                   
+		<Text>Petechie jsou malé, kruhové, nevyvýšené skvrny, které se objevují na kůži nebo na sliznici nebo serózní membráně. Vyskytují se v důsledku krvácení pod kůží.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BLEEDING_GUM</LocID>                               
+		<Text>Krvácení z dásní</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BLEEDING_GUM_DESC</LocID>                   
+		<Text>Krvácení z dásní je nejčastějším příznakem onemocnění dásní. Může však také poukazovat na další zdravotní problémy. Příležitostné krvácení z dásní může být způsobeno příliš razantním čištěním zubů nebo nesprávným nasazením zubních protéz. Časté krvácení z dásní může také naznačovat vážnější problémy.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HIGH_TCOUNT</LocID>                               
+		<Text>Vysoký počet T-buněk</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HIGH_TCOUNT_DESC</LocID>                   
+		<Text>Vysoký počet T buněk může být způsoben: infekční mononukleózou, také známou jako mono nebo „polibkovou chorobou“, akutní lymfocytární leukemií (ALL), typem rakoviny, která postihuje WBC. mnohočetný myelom, typ rakoviny, který ovlivňuje plazmatické buňky v kostní dřeni</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_RC_APLASIA</LocID>                               
+		<Text>Aplasie červených krvinek</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_RC_APLASIA_DESC</LocID>                   
+		<Text>Čistá aplázie červených krvinek (PRCA) nebo erytroblastopenie se týká typu anémie, která ovlivňuje prekurzory červených krvinek, nikoli však bílých krvinek. U PRCA přestává kostní dřeň produkovat červené krvinky. Existuje několik etiologií, které mohou způsobit PRCA.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CHRONIC_NEUT</LocID>                               
+		<Text>Neutropenie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CHRONIC_NEUT_DESC</LocID>                   
+		<Text>Neutropenie je, když má člověk nízkou hladinu neutrofilů. Neutrofily jsou typem bílých krvinek. Všechny bílé krvinky pomáhají tělu bojovat s infekcí. Neutrofily bojují proti infekci ničením škodlivých bakterií a hub (kvasinek), které napadají tělo. Neutrofily se tvoří v kostní dřeni.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SPLENOMEGALY</LocID>                               
+		<Text>Splenomegalie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SPLENOMEGALY_DESC</LocID>                   
+		<Text>Splenomegalie je stav, ke kterému dochází, když se vaše slezina zvětší. Běžně se také označuje jako zvětšená slezina nebo zvětšení sleziny.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_RUP_SPLENOMEGALY</LocID>                               
+		<Text>Prasklá slezina</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_RUP_SPLENOMEGALY_DESC</LocID>                   
+		<Text>Prasklá slezina je naléhavý zdravotní stav, ke kterému dochází, když se tobolkovitý obal sleziny rozlomí a vylije krev do oblasti břicha. V závislosti na velikosti prasknutí může dojít k velkému vnitřnímu krvácení.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HEPATOMEGALY</LocID>                               
+		<Text>Hepatomegalie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HEPATOMEGALY_DESC</LocID>                   
+		<Text>Hepatomegalie je, když má pacient abnormálně velkou játra. Je to často známka vážného zdravotního problému.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_THROMBOCYTOPENIA</LocID>                               
+		<Text>Trombocytopenie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_THROMBOCYTOPENIA_DESC</LocID>                   
+		<Text>Trombocytopenie je stav, při kterém máte nízký počet krevních destiček. Trombocyty (trombocyty) jsou bezbarvé krvinky, které napomáhají srážení krve. Trombocyty zastavují krvácení hromaděním a vytvářením zátek při poranění krevních cév.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_02</LocID>                               
+		<Text>Zjištěna vada PML-RARA</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_02_DESC</LocID>                   
+		<Text>Buňky APL mají velmi specifickou abnormalitu zvanou „vyvážená translokace“, ve které jsou zaměňovány části chromozomů 15 a 17. To má za následek vznik abnormálního fúzního genu známého jako „PML / RARα“. Tento mutovaný gen způsobuje mnoho rysů onemocnění.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_FISH_POSLESION</LocID>                               
+		<Text>FISH-Pozitivní léze</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_FISH_POSLESION_DESC</LocID>                   
+		<Text>Léze pacienta byla testována a vyšetření FISH potvrdila, že je maligní.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_01</LocID>                               
+		<Text>Zjištěna vada ve Philadelphia chromozomu</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_01_DESC</LocID>                   
+		<Text>Philadelphia chromozom nebo Philadelphia translokace (Ph) je specifická genetická abnormalita v chromozomu 22 buněk leukemické rakoviny (zejména buněk chronické myeloidní leukemie (CML)). Chromozomální defekt ve filadelfském chromozomu je reciproční translokace, při které si vyměňují místa dva chromozomy 9 a 22. Přítomnost této translokace je vysoce citlivým testem na CML, protože většina případů CML je pozitivní.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_001</LocID>                               
+		<Text>Myeloperoxidáza (MPO) pozitivní</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_001_DESC</LocID>                   
+		<Text>Myeloperoxidáza je lysozomální enzym, který se nachází v azurofilních granulích neutrofilů a jejich prekurzorech, eozinofilech a monocytech. Toto barvení se používá hlavně k rozlišení akutní myeloidní leukemie od akutní lymfoblastické leukemie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_002</LocID>                               
+		<Text>Súdán Black B Pozitivní</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_002_DESC</LocID>                   
+		<Text>Solvent Black 3 je azobarvivo. Jedná se o nefluorescenční, relativně termostabilní lysochromové (barvivo rozpustné v tucích) diazo barvivo používané k barvení neutrálních triglyceridů a lipidů na zmrazených řezech a některých lipoproteinů na parafinových řezech. V laboratoři se pro barvení Súdánem používá Solvent Black 3. Při diferenciaci hematologických poruch bude barvit myeloblasty, ale ne lymfoblasty.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_03</LocID>                               
+		<Text>Zjištěna mutace IDH1/IDH2</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_03_DESC</LocID>                   
+		<Text>Isocitrát dehydrogenáza (IDH) je klíčovým enzymem podílejícím se na přeměně isocitrátu na a-ketoglutarát (α-KG) v cyklu trikarboxylové kyseliny (TCA). Mutace IDH produkuje neomorfní enzym, který může vést k abnormální akumulaci R-2-HG a podporuje leukemogenezi. Mutace IDH se vyskytuje u 20% pacientů s akutní myeloidní leukémií (AML), zejména včetně IDH1 R132, IDH2 R140 a IDH2 R172.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_04</LocID>                               
+		<Text>Detekován fúzní gen BCR-ABL</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_04_DESC</LocID>                   
+		<Text>BCR-ABL je mutace, která je tvořena kombinací dvou genů, známých jako BCR a ABL. Někdy se tomu říká fúzní gen. Gen BCR je obvykle na chromozomu číslo 22. Gen ABL je obvykle na chromozomu číslo 9. Mutace BCR-ABL nastává, když se kousky genů BCR a ABL odlomí a vymění si místa.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_05</LocID>                               
+		<Text>Detekován gen Trizomie 8</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_05_DESC</LocID>                   
+		<Text>Trizomie 8, známá také jako Warkanyův syndrom 2, je lidská chromozomální porucha způsobená třemi kopiemi (trizomií) chromozomu 8. Může se objevit s mozaikou nebo bez ní. Termín „mozaika“ označuje, že některé buňky obsahují další chromozom, zatímco jiné nikoli.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_06</LocID>                               
+		<Text>Detekován gen Trizomie 9</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_06_DESC</LocID>                   
+		<Text>Mozaiková trizomie 9 je vzácná chromozomální porucha, při které se celý 9. chromozom objeví v některých buňkách těla třikrát (trizomie), nikoli dvakrát. Termín „mozaika“ označuje, že některé buňky obsahují další chromozom 9, zatímco jiné mají typický chromozomální pár.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_07</LocID>                               
+		<Text>Duplikace chromozomu Philadelphia</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_07_DESC</LocID>                   
+		<Text>Byla zjištěna duplikace defektního chromozomu, Philadelphia Chromosome. K tomu může dojít v pokročilejších stádiích chronické myeloidní leukemie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BLA_HIGH1</LocID>                               
+		<Text>Zvýšený počet blastových buněk</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BLA_HIGH1_DESC</LocID>                   
+		<Text>Blasty jsou prekurzory zralých cirkulujících krevních buněk, jako jsou neutrofily, monocyty, lymfocyty a erytrocyty. Výbuchy se obvykle nacházejí v malém počtu v kostní dřeni. Obvykle se v krvi nenacházejí ve významném počtu. Testování odhalilo zvýšenou hladinu blastů v krvi pacienta (mezi 5 až 19%)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BLA_HIGH2</LocID>                               
+		<Text>Zvýšený počet blastových buněk</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BLA_HIGH2_DESC</LocID>                   
+		<Text>Blasty jsou prekurzory zralých cirkulujících krevních buněk, jako jsou neutrofily, monocyty, lymfocyty a erytrocyty. Výbuchy se obvykle nacházejí v malém počtu v kostní dřeni. Obvykle se v krvi nenacházejí ve významném počtu. Testování odhalilo vysokou hladinu blastů v krvi pacienta (nad 20%)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BLA_HIGH3</LocID>                               
+		<Text>Velmi vysoký počet blastových buněk</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BLA_HIGH3_DESC</LocID>                   
+		<Text>Blasty jsou prekurzory zralých cirkulujících krevních buněk, jako jsou neutrofily, monocyty, lymfocyty a erytrocyty. Výbuchy se obvykle nacházejí v malém počtu v kostní dřeni. Obvykle se v krvi nenacházejí ve významném počtu. Testování odhalilo velmi vysokou hladinu výbuchů v krvi pacientů (nad 30%). Na této úrovni vysoké buňky vytlačují normální bílé krvinky, což je činí mnohem méně účinnými.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- leukaemia -->
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC01_0_DETECTED</LocID>                               
+		<Text>Byla detekována Pre-B Akutní lymfocytární leukemie </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC01_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Pre-B Akutní lymfocytární leukemii.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC01_1_DETECTED</LocID>                               
+		<Text>Byla detekována B-Buněčná Akutní lymfocytární leukemie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC01_1_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo B-Buněčnou Akutní lymfocytární leukemii.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC02_A_DETECTED</LocID>                               
+		<Text>Byla detekována chronická lymfocytární leukemie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC02_A_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo stabilní Chronickou lymfocytární leukemii.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC02_B_DETECTED</LocID>                               
+		<Text>Byla detekována chronická lymfocytární leukemie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC02_B_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo stabilní Chronickou lymfocytární leukemii v pokročilém stádiu.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC01_2_DETECTED</LocID>                               
+		<Text>Byla detekována T-Buněčná Akutní lymfocytární leukemie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC01_2_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo T-Buněčnou Akutní lymfocytární leukemii.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC01_3_DETECTED</LocID>                               
+		<Text>Byla detekována  T-Buněčná Akutní lymfocytární leukemie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC01_3_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo T-Buněčnou Akutní lymfocytární leukemii.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC03_0_DETECTED</LocID>                               
+		<Text>Byla detekována T-buněčná LGL leukemie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC03_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo podtyp lymfocytární leukemie, T-buněčná LGL leukemie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC03_1_DETECTED</LocID>                               
+		<Text>Byla detekována NK-buněčná LGL leukemie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC03_1_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo podtyp lymfocytární leukemie, NK-buněčná LGL leukemie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC03_2_DETECTED</LocID>                               
+		<Text>Byla detekována T-buněčná Prolymfocytická leukémie (T-PLL)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC03_2_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo podtyp lymfocytární leukemie, T-buněčná Prolymfocytická leukémie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC04_0_DETECTED</LocID>                               
+		<Text>Byla detekována Akutní myeloidní leukémie (AML)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC04_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Akutní myeloidní leukemii.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC05_A_DETECTED</LocID>                               
+		<Text>Byla detekována Chronická myeloidní leukémie (CML)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC05_A_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Chronickou myeloidní leukemii.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC05_B_DETECTED</LocID>                               
+		<Text>Byla detekována Chronická myeloidní leukémie (CML)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC05_B_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Chronickou myeloidní leukemii ve zrychlené fázi.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC05_C_DETECTED</LocID>                               
+		<Text>Byla detekována Chronická myeloidní leukémie (CML)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC05_C_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Chronickou myeloidní leukemii ve fázi blastové krize.</Text>  
+	</GameDBLocalizedString>
+
+	<!-- ############### CELL MARKERS ############### -->
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD10_BRIGHT</LocID>                               
+		<Text>Jasný výraz neprilysinu (CD10)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD10_BRIGHT_DESC</LocID>                   
+		<Text>Neprilysin, také známý jako membránová metaloendopeptidáza, neutrální endopeptidáza, shluk diferenciace 10 a běžný antigen akutní lymfoblastické leukémie, je enzym, který je u lidí kódován genem MME. Identifikován u běžné akutní lymfoblastické leukémie jako rakovinově specifický antigen, CD10 je ektoenzym na povrchu buněk široce exprimovaný na různých typech buněk.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD10_NEG</LocID>                               
+		<Text>Negativní výraz neprilysinu (CD10)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD10_NEG_DESC</LocID>                   
+		<Text>Neprilysin, také známý jako membránová metaloendopeptidáza, neutrální endopeptidáza, shluk diferenciace 10 a běžný antigen akutní lymfoblastické leukémie, je enzym, který je u lidí kódován genem MME. Identifikován u běžné akutní lymfoblastické leukémie jako rakovinově specifický antigen, CD10 je ektoenzym na povrchu buněk široce exprimovaný na různých typech buněk.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD19_BRIGHT</LocID>                               
+		<Text>Jasný výraz antigenu CD19</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD19_BRIGHT_DESC</LocID>                   
+		<Text>Antigen B-lymfocytů CD19, také známý jako molekula CD19, povrchový antigen B-lymfocytů B4, povrchový antigen T-buněk Leu-12 a CVID3 je transmembránový protein, který je u lidí kódován genem CD19. U lidí je CD19 exprimován ve všech buňkách linie B, s výjimkou plazmatických buněk, a ve folikulárních dendritických buňkách.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD19_NEG</LocID>                               
+		<Text>Negativní výraz antigenu CD19</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD19_NEG_DESC</LocID>                   
+		<Text>Antigen B-lymfocytů CD19, také známý jako molekula CD19, povrchový antigen B-lymfocytů B4, povrchový antigen T-buněk Leu-12 a CVID3 je transmembránový protein, který je u lidí kódován genem CD19. U lidí je CD19 exprimován ve všech buňkách linie B, s výjimkou plazmatických buněk, a ve folikulárních dendritických buňkách.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD20_DIM</LocID>                               
+		<Text>Tlumený výraz antigenu CD20</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD20_DIM_DESC</LocID>                   
+		<Text>Antigen B-lymfocytů CD20 nebo CD20 je exprimován na povrchu všech B-buněk počínaje fází pro-B a postupně stoupající v koncentraci až do dospělosti. CD20 je povrchová molekula zalitá v membráně, která hraje roli ve vývoji a diferenciaci B-buněk na plazmatické buňky.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD20_BRIGHT</LocID>                               
+		<Text>Jasný výraz antigenu C20</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD20_BRIGHT_DESC</LocID>                   
+		<Text>Antigen B-lymfocytů CD20 nebo CD20 je exprimován na povrchu všech B-buněk počínaje fází pro-B a postupně stoupající v koncentraci až do dospělosti. CD20 je povrchová molekula zalitá v membráně, která hraje roli ve vývoji a diferenciaci B-buněk na plazmatické buňky.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_TDT_BRIGHT</LocID>                               
+		<Text>Jasný výraz antigenu TdT</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_TDT_BRIGHT_DESC</LocID>                   
+		<Text>Terminální deoxynukleotidyltransferáza (TdT), známá také jako DNA nukleotidylexotransferáza (DNTT) nebo terminální transferáza, je specializovaná DNA polymeráza exprimovaná v nezralých lymfatických buňkách pre-B, pre-T a buňkách akutní lymfoblastické leukémie / lymfomu..</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_TDT_NEG</LocID>                               
+		<Text>Negativní výraz antigenu TdT¨</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_TDT_NEG_DESC</LocID>                   
+		<Text>Terminální deoxynukleotidyltransferáza (TdT), známá také jako DNA nukleotidylexotransferáza (DNTT) nebo terminální transferáza, je specializovaná DNA polymeráza exprimovaná v nezralých lymfatických buňkách pre-B, pre-T a buňkách akutní lymfoblastické leukémie / lymfomu..</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD22_DIM</LocID>                               
+		<Text>Tlumený výraz antigenu CD22</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD22_DIM_DESC</LocID>                   
+		<Text>CD22 nebo shluk diferenciace-22 je molekula patřící do rodiny lektinů SIGLEC. Nachází se na povrchu zralých B buněk a v menší míře na některých nezralých B buňkách. CD22 je transmembránový protein vázající cukr, který se specificky váže na kyselinu sialovou s doménou imunoglobulinu (Ig) umístěnou na svém N-konci. Přítomnost Ig domén činí z CD22 člena imunoglobulinové nadrodiny. CD22 funguje jako inhibiční receptor pro signalizaci receptoru B buněk (BCR).</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD22_BRIGHT</LocID>                               
+		<Text>Jasný výraz antigenu CD22</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD22_BRIGHT_DESC</LocID>                   
+		<Text>CD22 nebo shluk diferenciace-22 je molekula patřící do rodiny lektinů SIGLEC. Nachází se na povrchu zralých B buněk a v menší míře na některých nezralých B buňkách. CD22 je transmembránový protein vázající cukr, který se specificky váže na kyselinu sialovou s doménou imunoglobulinu (Ig) umístěnou na svém N-konci. Přítomnost Ig domén činí z CD22 člena imunoglobulinové nadrodiny. CD22 funguje jako inhibiční receptor pro signalizaci receptoru B buněk (BCR).</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD23_BRIGHT</LocID>                               
+		<Text>Jasný výraz Fc epsilon RII (CD23)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD23_BRIGHT_DESC</LocID>                   
+		<Text>CD23, také známý jako Fc epsilon RII nebo FcεRII, je „nízkoafinitní“ receptor pro IgE, izotyp protilátky zapojený do alergie a rezistence na parazity, a je důležitý při regulaci hladin IgE. Na rozdíl od mnoha receptorů protilátek je CD23 lektin typu C. Antigen CD23 je protein na povrchu buněk, který je považován za důležitý při diferenciaci chronické lymfocytární leukémie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD34_BRIGHT</LocID>                               
+		<Text>Jasný výraz antigenu CD34</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD34_BRIGHT_DESC</LocID>                   
+		<Text>Protein CD34 je členem rodiny jednoprůchodových transmembránových sialomucinových proteinů, které vykazují expresi na rané hematopoetické a vaskulární tkáni. CD34 je také důležitá adhezní molekula a je nezbytný pro vstup T buněk do lymfatických uzlin. Je exprimován na endotelu lymfatických uzlin, zatímco L-selektin, na který se váže, je na T buňce.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD79a_BRIGHT</LocID>                               
+		<Text>Jasný výraz antigenu CD79a </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD79a_BRIGHT_DESC</LocID>                   
+		<Text>Shluk diferenciace CD79A, také známý jako proteinový řetězec alfa asociovaný s komplexem antigenu receptoru B, a membránový glykoprotein MB-1, je protein, který je u lidí kódován genem CD79A. CD79a hraje různé a rozmanité role ve vývoji a funkci B buněk. Heterodimer CD79a / b se nekovalentně asociuje s těžkým řetězcem imunoglobulinu přes jeho transmembránovou oblast, čímž vytváří BCR spolu s lehkým řetězcem imunoglobulinu a pre-BCR, když je ve vývoji B buněk spojen s náhradním lehkým řetězcem..</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD79b_NEG</LocID>                               
+		<Text>Negativní výraz antigenu CD79b</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD79b_NEG_DESC</LocID>                   
+		<Text>Molekula CD79b, beta asociovaná s imunoglobulinem, také známá jako CD79B (shluk diferenciace 79B), je lidský gen. Heterodimer CD79a / b se nekovalentně asociuje s těžkým řetězcem imunoglobulinu přes jeho transmembránovou oblast, čímž vytváří BCR spolu s lehkým řetězcem imunoglobulinu a pre-BCR, když je ve vývoji B buněk spojen s náhradním lehkým řetězcem..</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD11c_BRIGHT</LocID>                               
+		<Text>Jasný výraz Integrin alpha X (CD11c) </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD11c_BRIGHT_DESC</LocID>                   
+		<Text>vCD11c, také známý jako Integrin, alfa X (komplementární podjednotka receptoru 4) (ITGAX), je gen, který kóduje CD11c. CD11c je transmembránový protein typu I, který je exprimován na monocytech, granulocytech, podskupině B buněk, dendritických buňkách a makrofágech a může být prokázán na B lymfocytární chronické lymfocytární leukémii, lymfomech okrajových zón a leukemii vlasových buněk.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD25_BRIGHT</LocID>                               
+		<Text>Jasný výraz IL2RA (CD25)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD25_BRIGHT_DESC</LocID>                   
+		<Text>Alfa řetězec receptoru interleukinu-2 (také nazývaný CD25) je protein, který je u lidí kódován genem IL2RA. Alfa (IL2RA) a beta (IL2RB) řetězce interleukinu 2 (IL2) tvoří společně s běžným gama řetězcem (IL2RG) vysoce afinitní IL2 receptor. IL2RA je exprimován ve většině B-buněčných novotvarů, některých akutních nelymfocytárních leukémiích, neuroblastomech, mastocytóze a lymfocytech infiltrujících nádor. Funguje jako receptor pro HTLV-1 a je následně exprimován na neoplastických buňkách u dospělých T lymfocytů / leukémie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD25_NEG</LocID>                               
+		<Text>Negativní výraz IL2RA (CD25) </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD25_NEG_DESC</LocID>                   
+		<Text>Alfa řetězec receptoru interleukinu-2 (také nazývaný CD25) je protein, který je u lidí kódován genem IL2RA. Alfa (IL2RA) a beta (IL2RB) řetězce interleukinu 2 (IL2) tvoří společně s běžným gama řetězcem (IL2RG) vysoce afinitní IL2 receptor. IL2RA je exprimován ve většině B-buněčných novotvarů, některých akutních nelymfocytárních leukémiích, neuroblastomech, mastocytóze a lymfocytech infiltrujících nádor. Funguje jako receptor pro HTLV-1 a je následně exprimován na neoplastických buňkách u dospělých T lymfocytů / leukémie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD103_BRIGHT</LocID>                               
+		<Text>Jasný výraz ITGAE (CD103)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD103_BRIGHT_DESC</LocID>                   
+		<Text>Integrin, alfa E, také známý jako CD103, je integrinový protein, který je u člověka kódován genem ITGAE. CD103 je široce exprimován na T buňkách intraepiteliálních lymfocytů (IEL) (jak T buňkách αβ, tak γδ T buňkách) a na některých periferních regulačních T buňkách (Tregs). Je užitečná při identifikaci vlasatobuněčné leukémie, která je pro tento marker pozitivní, na rozdíl od většiny ostatních hematologických malignit, které jsou negativní na CD103, kromě T-lymfomu spojeného s enteropatií.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD123_DIM</LocID>                               
+		<Text>Tlumený výraz receptoru Interleukin-3 (CD123)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD123_DIM_DESC</LocID>                   
+		<Text>Receptor interleukinu-3 (CD123) je molekula nacházející se v buňkách, která pomáhá přenášet signál interleukinu-3, rozpustného cytokinu důležitého v imunitním systému. Receptor, který se nachází na pluripotentních progenitorových buňkách, indukuje fosforylaci tyrosinu v buňce a podporuje proliferaci a diferenciaci v hematopoetických buněčných liniích. CD123 je exprimován napříč subtypy akutní myeloidní leukémie (AML), včetně leukemických kmenových buněk.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD123_BRIGHT</LocID>                               
+		<Text>Jasný výraz receptoru Interleukin-3 (CD123)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD123_BRIGHT_DESC</LocID>                   
+		<Text>Receptor interleukinu-3 (CD123) je molekula nacházející se v buňkách, která pomáhá přenášet signál interleukinu-3, rozpustného cytokinu důležitého v imunitním systému. Receptor, který se nachází na pluripotentních progenitorových buňkách, indukuje fosforylaci tyrosinu v buňce a podporuje proliferaci a diferenciaci v hematopoetických buněčných liniích. CD123 je exprimován napříč subtypy akutní myeloidní leukémie (AML), včetně leukemických kmenových buněk.</Text>  
+	</GameDBLocalizedString>
+	
+		<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD123_NEG</LocID>                               
+		<Text>Negativní výraz receptoru Interleukin-3 (CD123)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD123_NEG_DESC</LocID>                   
+		<Text>Receptor interleukinu-3 (CD123) je molekula nacházející se v buňkách, která pomáhá přenášet signál interleukinu-3, rozpustného cytokinu důležitého v imunitním systému. Receptor, který se nachází na pluripotentních progenitorových buňkách, indukuje fosforylaci tyrosinu v buňce a podporuje proliferaci a diferenciaci v hematopoetických buněčných liniích. CD123 je exprimován napříč subtypy akutní myeloidní leukémie (AML), včetně leukemických kmenových buněk.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD1a_BRIGHT</LocID>                               
+		<Text>Jasný výraz antigenu CD1a</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD1a_BRIGHT_DESC</LocID>                   
+		<Text>CD1a (shluk diferenciace 1a) je lidský protein kódovaný genem CD1A. Tento gen kóduje člena rodiny CD1 transmembránových glykoproteinů, které strukturně souvisejí s proteiny hlavního histokompatibilního komplexu (MHC) a tvoří heterodimery s beta-2-mikroglobulinem. Proteiny CD1 zprostředkovávají prezentaci primárně lipidových a glykolipidových antigenů vlastního nebo mikrobiálního původu T buňkám.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD1a_NEG</LocID>                               
+		<Text>Negativní výraz antigenu CD1a</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD1a_NEG_DESC</LocID>                   
+		<Text>CD1a (shluk diferenciace 1a) je lidský protein kódovaný genem CD1A. Tento gen kóduje člena rodiny CD1 transmembránových glykoproteinů, které jsou strukturně příbuzné proteinům hlavního histokompatibilního komplexu (MHC) a tvoří heterodimery s beta-2-mikroglobulinem. Proteiny CD1 zprostředkovávají prezentaci primárně lipidových a glykolipidových antigenů vlastního nebo mikrobiálního původu T buňkám</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD5_BRIGHT</LocID>                               
+		<Text>Jasný výraz antigenu CD5</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD5_BRIGHT_DESC</LocID>                   
+		<Text>CD5 je shluk diferenciace exprimovaný na povrchu T buněk (různé druhy) a v podskupině myších B buněk známých jako B-la. Exprese tohoto receptoru v lidských B buňkách byla kontroverzním tématem a dosud neexistuje shoda ohledně role tohoto receptoru jako markeru lidských B buněk. CD5 je dobrým imunohistochemickým markerem pro T-buňky, i když není tak citlivý jako CD3. Asi 76% T-buněčných novotvarů exprimuje CD5 a také se vyskytuje u chronické lymfocytární leukémie a lymfomu z plášťových buněk (oba jsou B buněčné malignity), které neexprimují CD3. Obvykle se ztrácí v kožním T-buněčném lymfomu a jeho nepřítomnost může být použita jako indikátor malignity v tomto stavu.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD7_BRIGHT</LocID>                               
+		<Text>Jasný výraz antigenu CD7</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD7_BRIGHT_DESC</LocID>                   
+		<Text>CD7 (Klastr diferenciace 7) je protein, který je u lidí kódován genem CD7. Tento gen kóduje transmembránový protein, který je členem nadrodiny imunoglobulinů. Tento protein se nachází na thymocytech a zralých T buňkách. Hraje zásadní roli v interakcích T-buněk a také v interakci T-buněk / B-buněk během raného vývoje lymfoidů. Tento gen kóduje transmembránový protein, který je členem nadrodiny imunoglobulinů. Tento protein se nachází na thymocytech a zralých T buňkách. Hraje zásadní roli v interakcích T-buněk a také v interakci T-buněk / B-buněk během raného vývoje lymfoidů.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD13_BRIGHT</LocID>                               
+		<Text>Jasný výraz Aminopeptidázy N (CD13) </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD13_BRIGHT_DESC</LocID>                   
+		<Text>Membránová alanyl aminopeptidáza (EC 3.4.11.2) známá také jako alanyl aminopeptidáza (AAP) nebo aminopeptidáza N (AP-N) je enzym, který je u lidí kódován genem ANPEP. Aminopeptidáza N se nachází v mikrovilární membráně tenkého střeva a ledvin a také v dalších plazmatických membránách. V tenkém střevě hraje aminopeptidáza N roli při konečném trávení peptidů generovaných hydrolýzou proteinů žaludečními a pankreatickými proteázami. Jeho funkce v proximálních tubulárních epiteliálních buňkách a jiných typech buněk je méně jasná. Vady tohoto genu se zdají být příčinou různých typů leukémie nebo lymfomu.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD15_BRIGHT</LocID>                               
+		<Text>Jasný výraz Sialyl-Lewis X (CD15)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD15_BRIGHT_DESC</LocID>                   
+		<Text>Sialyl LewisX (sLeX), také známý jako shluk diferenciačních 15s (CD15s) nebo fázově specifický embryonální antigen 1 (SSEA-1), je tetrasacharidový sacharid, který se obvykle váže na O-glykany na povrchu buněk. Je známo, že hraje zásadní roli v procesech rozpoznávání mezi buňkami. Je to také prostředek, kterým vejce přitahuje spermie; nejprve se toho držet, pak se s ním spojit a nakonec vytvořit zygotu. Sialyl-Lewisx zprostředkovává fagocytózu a chemotaxi nacházející se na neutrofilech; vyjádřeno u pacientů s Hodgkinovou chorobou, některými B-buněčnými chronickými lymfocytárními leukémiemi, akutními lymfoblastickými leukémiemi a nejakutnějšími nelymfocytárními leukémiemi. CD15 je přítomen téměř ve všech Reed-Sternbergových buňkách, včetně jejich vzácných mononukleárních variant, a jako takový může být použit v imunohistochemii k identifikaci přítomnosti těchto buněk v biopsiích.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD33_BRIGHT</LocID>                               
+		<Text>Jasný výraz Siglec-3 (CD33)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD33_BRIGHT_DESC</LocID>                   
+		<Text>CD33 nebo Siglec-3 (lektin 3 vázající Ig na kyselinu sialovou, SIGLEC3, SIGLEC-3, gp67, p67) je transmembránový receptor exprimovaný na buňkách myeloidní linie. Obvykle je považován za myeloidně specifický, ale lze jej nalézt také u některých lymfoidních buněk. CD33 může být stimulován jakoukoli molekulou zbytky kyseliny sialové, jako jsou glykoproteiny nebo glykolipidy. Po navázání je imunoreceptorový tyrosinový inhibiční motiv (ITIM) CD33, přítomný na cytosolické části proteinu, fosforylován a působí jako dokovací místo pro proteiny obsahující doménu Src 2 (SH2), jako jsou SHP fosfatázy. To má za následek kaskádu, která inhibuje fagocytózu v buňce.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD117_BRIGHT</LocID>                               
+		<Text>Jasný výraz Proto-O c-KIT (CD117)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD117_BRIGHT_DESC</LocID>                   
+		<Text>Proto-onkogenový c-KIT, také známý jako tyrosin-protein kináza KIT, CD117 nebo receptor růstového faktoru žírných / kmenových buněk, je receptorový tyrosin kinázový protein, který je u lidí kódován genem KIT. KIT je důležitý marker buněčného povrchu používaný k identifikaci určitých typů progenitorů hematopoézy (krve) v kostní dřeni. Abych byl specifický, hematopoetické kmenové buňky (HSC), multipotentní progenitory (MPP) a běžné myeloidní progenitory (CMP) exprimují vysoké hladiny KIT. Běžné lymfoidní progenitory (CLP) exprimují nízké povrchové hladiny KIT. Protilátky proti KIT jsou široce používány v imunohistochemii, aby pomohly rozlišit konkrétní typy nádorů v histologických řezech tkáně. Používá se především při diagnostice GIST, které jsou pozitivní na KIT, ale negativní na markery jako desmin a S-100, které jsou pozitivní u hladkých svalů a nervových nádorů, které mají podobný vzhled.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD117_NEG</LocID>                               
+		<Text>Negativní výraz Proto-O c-KIT (CD117) </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD117_NEG_DESC</LocID>                   
+		<Text>Proto-onkogenový c-KIT, také známý jako tyrosin-protein kináza KIT, CD117 nebo receptor růstového faktoru žírných / kmenových buněk, je receptorový tyrosin kinázový protein, který je u lidí kódován genem KIT. KIT je důležitý marker buněčného povrchu používaný k identifikaci určitých typů progenitorů hematopoézy (krve) v kostní dřeni. Abych byl specifický, hematopoetické kmenové buňky (HSC), multipotentní progenitory (MPP) a běžné myeloidní progenitory (CMP) exprimují vysoké hladiny KIT. Běžné lymfoidní progenitory (CLP) exprimují nízké povrchové hladiny KIT. Protilátky proti KIT jsou široce používány v imunohistochemii, aby pomohly rozlišit konkrétní typy nádorů v histologických řezech tkáně. Používá se především při diagnostice GIST, které jsou pozitivní na KIT, ale negativní na markery jako desmin a S-100, které jsou pozitivní u hladkých svalů a nervových nádorů, které mají podobný vzhled.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD38_BRIGHT</LocID>                               
+		<Text>Jasný výraz Cyklického ADP RH (CD38)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD38_BRIGHT_DESC</LocID>                   
+		<Text>CD38, také známý jako cyklická ADP ribóza hydroláza, je glykoprotein nacházející se na povrchu mnoha imunitních buněk, včetně CD4⁺, CD8⁺, B lymfocytů a přirozených zabíječských buněk. CD38 také funguje v buněčné adhezi, signální transdukci a signalizaci vápníku. Ztráta funkce CD38 je spojena se sníženou imunitní odpovědí, metabolickými poruchami a úpravami chování včetně sociální amnézie. Protein CD38 je marker aktivace buněk. Souvisí to s infekcí HIV, leukémiemi, myelomy, solidními nádory, diabetes mellitus typu II a kostním metabolismu, stejně jako s některými geneticky podmíněnými podmínkami.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD38_DIM</LocID>                               
+		<Text>Tlumený výraz Cyklického ADP RH (CD38) </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD38_DIM_DESC</LocID>                   
+		<Text>CD38, také známý jako cyklická ADP ribóza hydroláza, je glykoprotein nacházející se na povrchu mnoha imunitních buněk, včetně CD4⁺, CD8⁺, B lymfocytů a přirozených zabíječských buněk. CD38 také funguje v buněčné adhezi, signální transdukci a signalizaci vápníku. Ztráta funkce CD38 je spojena se sníženou imunitní odpovědí, metabolickými poruchami a úpravami chování včetně sociální amnézie. Protein CD38 je marker aktivace buněk. Souvisí to s infekcí HIV, leukémiemi, myelomy, solidními nádory, diabetes mellitus typu II a kostním metabolismu, stejně jako s některými geneticky podmíněnými podmínkami.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD43_BRIGHT</LocID>                               
+		<Text>Jasný výraz Leukosialinu (CD43)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD43_BRIGHT_DESC</LocID>                   
+		<Text>Leukosialin také známý jako sialophorin nebo CD43 (shluk diferenciace 43) je transmembránový buněčný povrchový protein, který je u lidí kódován genem SPN (sialophorin). Poruchy v molekule CD43 jsou spojeny s vývojem Wiskott-Aldrichova syndromu. Pomocí imunohistochemie lze CD43 demonstrovat v paracortical T-buňkách zdravých lymfatických uzlin a mandlí; je také pozitivní v řadě lymfoidních a myeloidních nádorů. I když je přítomen ve více než 90% T-buněčných lymfomů, je obecně méně účinný při prokázání tohoto stavu než antigen CD3. Může však být užitečné jako součást panelu demonstrovat B-buněčný lymfoblastický lymfom, protože maligní buňky v tomto stavu jsou často pozitivní na CD43 a může být obtížné barvení jinými protilátkami.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD8_BRIGHT</LocID>                               
+		<Text>Jasný výraz antigenu CD8</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD8_BRIGHT_DESC</LocID>                   
+		<Text>CD8 (shluk diferenciace 8) je transmembránový glykoprotein, který slouží jako ko-receptor pro receptor T buněk (TCR). Stejně jako TCR se CD8 váže na molekulu hlavního histokompatibilního komplexu (MHC), ale je specifický pro MHC protein třídy I. Ko-receptor CD8 je převážně exprimován na povrchu cytotoxických T buněk, ale lze jej nalézt také na přirozených zabíječských buňkách, kortikálních thymocytech a dendritických buňkách. Molekula CD8 je markerem pro populaci cytotoxických T buněk. Vyjadřuje se v T-lymfoblastickém lymfomu a hypo-pigmentované mycosis fungoides.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD3_BRIGHT</LocID>                               
+		<Text>Jasný výraz antigenu CD3</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD3_BRIGHT_DESC</LocID>                   
+		<Text>V imunologii pomáhá CD3 (shluk diferenciace 3) T buněčný ko-receptor aktivovat jak cytotoxické T buňky (CD8 + naivní T buňky), tak také T pomocné buňky (CD4 + naivní T buňky). CD3 je zpočátku exprimován v cytoplazmě pro-thymocytů, kmenových buněk, ze kterých T-buňky vznikají v brzlíku. Pro-thymocyty se diferencují na běžné thymocyty a poté na medulární thymocyty a právě v tomto druhém stadiu začíná antigén CD3 migrovat do buněčné membrány. Antigen se nalézá navázaný na membrány všech zralých T-buněk a prakticky v žádném jiném buněčném typu, i když se zdá, že je v Purkyňových buňkách přítomen v malém množství. Tato vysoká specificita v kombinaci s přítomností CD3 ve všech fázích vývoje T-buněk z něj činí užitečný imunohistochemický marker pro T-buňky v tkáňových řezech. Antigen zůstává přítomen téměř ve všech T-buněčných lymfomech a leukémiích, a lze je proto použít k jejich odlišení od povrchně podobných B-buněk a myeloidních novotvarů.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD3_NEG</LocID>                               
+		<Text>Negativní výraz antigenu CD3</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD3_NEG_DESC</LocID>                   
+		<Text>V imunologii pomáhá CD3 (shluk diferenciace 3) T buněčný ko-receptor aktivovat jak cytotoxické T buňky (CD8 + naivní T buňky), tak také T pomocné buňky (CD4 + naivní T buňky). CD3 je zpočátku exprimován v cytoplazmě pro-thymocytů, kmenových buněk, ze kterých T-buňky vznikají v brzlíku. Pro-thymocyty se diferencují na běžné thymocyty a poté na medulární thymocyty a právě v tomto druhém stadiu začíná antigén CD3 migrovat do buněčné membrány. Antigen se nalézá navázaný na membrány všech zralých T-buněk a prakticky v žádném jiném buněčném typu, i když se zdá, že je v Purkyňových buňkách přítomen v malém množství. Tato vysoká specificita v kombinaci s přítomností CD3 ve všech fázích vývoje T-buněk z něj činí užitečný imunohistochemický marker pro T-buňky v tkáňových řezech. Antigen zůstává přítomen téměř ve všech T-buněčných lymfomech a leukémiích, a lze je proto použít k jejich odlišení od povrchně podobných B-buněk a myeloidních novotvarů.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD16_BRIGHT</LocID>                               
+		<Text>Jasný výraz FcγRIII (CD16)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD16_BRIGHT_DESC</LocID>                   
+		<Text>CD16, také známý jako FcyRIII, je shluk diferenciační molekuly nacházející se na povrchu buněk zabijáků, neutrofilů, monocytů a makrofágů. CD16 byl identifikován jako Fc receptory FcyRIIIa a FcyRIIIb, které se účastní signální transdukce. Tyto receptory se vážou na Fc část IgG protilátek, která pak aktivuje na protilátkách závislou buněčně zprostředkovanou cytotoxicitu (ADCC) v lidských NK buňkách. CD16 je vyžadován pro procesy ADCC prováděné lidskými monocyty. U lidí mají monocyty exprimující CD16 různé schopnosti ADCC v přítomnosti specifických protilátek a mohou zabíjet primární leukemické buňky, rakovinné buněčné linie a buňky infikované virem hepatitidy B. Kromě toho je CD16 schopen zprostředkovat přímé zabíjení některých virově infikovaných a rakovinných buněk bez protilátek.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD56_BRIGHT</LocID>                               
+		<Text>Jasný výraz NC adhezní molekuly (CD56)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD56_BRIGHT_DESC</LocID>                   
+		<Text>Nervová buněčná adhezní molekula (NCAM), také nazývaná CD56, je homofilní vazebný glykoprotein exprimovaný na povrchu neuronů, glií a kosterního svalu. Ačkoli je CD56 často považován za marker závazku neurální linie kvůli svému objevovacímu místu, exprese CD56 se také nachází mimo jiné v hematopoetickém systému. Zde je exprese CD56 nejpřísněji asociována, ale rozhodně není omezena na přirozené zabíjecí buňky. V anatomické patologii patologové využívají k rozpoznání určitých nádorů imunohistochemii CD56. Nádory, které jsou pozitivní na CD56, jsou myelom, myeloidní leukémie, neuroendokrinní nádory, Wilmsův nádor, neuroblastom, extranodální lymfom NK / T-buněk, nosní typ, karcinom pankreatických acinárních buněk, feochromocytom, paraganglioma, malobuněčný karcinom plic a Ewingův sarkom. rodina nádorů.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_HLADR_BRIGHT</LocID>                               
+		<Text>Jasný výraz HLA-DR</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_HLADR_BRIGHT_DESC</LocID>                   
+		<Text>HLA-DR je buněčný povrchový receptor MHC třídy II kódovaný komplexem lidského leukocytového antigenu v oblasti 6p21.31 chromozomu 6. Komplex HLA-DR a peptidu, obvykle o délce 9 až 30 aminokyselin, tvoří ligand pro receptor T-buněk.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ############### NORMAL STRINGS ############### -->
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PANCYTOPENIA</LocID>                               
+		<Text>Pancytopenie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PANCYTOPENIA_DESC</LocID>                   
+		<Text>Pancytopenie je stav, ke kterému dochází, když má člověk nízký počet všech tří typů krvinek: červených krvinek, bílých krvinek a krevních destiček. Pancytopenie je obvykle způsobena problémem s kostní dřeně, která produkuje krvinky. Může však existovat několik různých základních příčin.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HAIRYCELL</LocID>                               
+		<Text>Chlupatě vypadjící buňka</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HAIRYCELL_DESC</LocID>                   
+		<Text>Chlupaté buňky jsou abnormální bílé krvinky s vlasovými projekcemi cytoplazmy. Jsou základním znakem vlasaté buněčné leukémie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_003</LocID>                               
+		<Text>TRAP Enzym Detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_003_DESC</LocID>                   
+		<Text>Kyselina fosfatáza rezistentní na tartrát (TRAP nebo TRAPáza), nazývaná také kyselá fosfatáza 5, rezistentní na tartrát (ACP5), je glykosylovaný monomerní metaloproteinový enzym exprimovaný u savců. Má molekulovou hmotnost přibližně 35 kDa, základní izoelektrický bod (7,6–9,5) a optimální aktivitu v kyselých podmínkách..</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_08</LocID>                               
+		<Text>BRAF V600E mutace detekována</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_08_DESC</LocID>                   
+		<Text>Protoonkogen B-Raf (BRAF) kóduje cytoplazmatickou serin / threonin kinázu s klíčovou rolí v regulaci signální signální transdukční dráhy aktivované mitogenem. Aktivující missense mutace v kodonu 600 exonu 15 (V600E) genu BRAF byla identifikována u mnoha novotvarů včetně melanomu, kolorektálního karcinomu, papilárního karcinomu štítné žlázy, leukémie vlasových buněk a histiocytózy z Langerhansových buněk.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_09</LocID>                               
+		<Text>IGHV Hypermutace detekována</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_09_DESC</LocID>                   
+		<Text>Oblast V-III těžkého řetězce Ig VH26 je protein, který je u lidí kódován genem IGHV @. IGHV jsou geny variabilní oblasti těžkého řetězce imunoglobulinu; v B-buněčných novotvarech, jako je chronická lymfocytární leukémie, jsou mutace IGHV spojeny s lepší odpovědí na některá léčení a s prodlouženým přežitím. Přibližně 80 až 90 procent pacientů s HCL má hypermutaci ve variabilním genu těžkého řetězce imunoglobulinu. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC06_0_DETECTED</LocID>                               
+		<Text>Chlupatá buněčná leukemie (HCL) detekována</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC06_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Chlupatou buněčnou leukemii.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC06_1_DETECTED</LocID>                               
+		<Text>Chlupatá buněčná leukemie-varianta (HCL-V) odhalena</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC06_1_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Chlupatou buněčnou leukemii-varianta.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_10</LocID>                               
+		<Text>Odstranění chromozomu 17p13 detekováno</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_10_DESC</LocID>                   
+		<Text>Při testování bylo zjištěno, že chromozom 17p13 je z testovaných buněk pacienta odstraněn.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NECROSIS</LocID>                               
+		<Text>Nekróza</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NECROSIS_DESC</LocID>                   
+		<Text>Nekróza je forma poškození buněk, která vede k předčasnému odumírání buněk v živé tkáni autolýzou.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_LPT1</LocID>                               
+		<Text>Byl odhalen velký primární nádor</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_LPT1_DESC</LocID>                   
+		<Text>Testování zjistilo u pacienta velký primární nádor, což může někdy znamenat, že rakovina je v pokročilejším stavu.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BREAST_LUMP</LocID>                               
+		<Text>Boule v prsu</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BREAST_LUMP_DESC</LocID>                   
+		<Text>Boule v prsu je lokalizovaný otok, výčnělek, boule nebo boule v prsu, která je odlišná od prsní tkáně kolem ní.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BREAST_DISCH</LocID>                               
+		<Text>Prsní výtok</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BREAST_DISCH_DESC</LocID>                   
+		<Text>Výtok z bradavky je uvolňování tekutiny z bradavky. Je to velmi častý příznak prsu a ve většině případů jde o normální funkce prsu, než aby byl způsoben problémem.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SORE_NIPPLE</LocID>                               
+		<Text>Bolavá bradavka</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SORE_NIPPLE_DESC</LocID>                   
+		<Text>Bolest bradavek je bolest, ke které dochází v prsní tkáni kolem oblasti bradavky. Bolest bradavek může být spojena s dalšími příznaky a příznaky, které mohou zahrnovat bolest prsu, výtok z bradavek, hrudku nebo hmotu, svědění nebo změny kůže. Rakovina prsu obvykle nezpůsobuje bolest bradavek ani bolest prsou.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BREAST_SCHANGE</LocID>                               
+		<Text>Změny tvaru prsou</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BREAST_SCHANGE_DESC</LocID>                   
+		<Text>U pacienta došlo ke změně tvaru nebo velikosti prsou.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BREAST_DIMP</LocID>                               
+		<Text>Dolíček na prsou</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BREAST_DIMP_DESC</LocID>                   
+		<Text>Také známá jako peau d'orange, dolíčky prsou způsobují, že pokožka vypadá jako důlková a nerovná kůže pomeranče. Někdy může být kůže také červená a zanícená.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BREAST_PAIN</LocID>                               
+		<Text>Bolest prsou</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BREAST_PAIN_DESC</LocID>                   
+		<Text>Těsnost, citlivost nebo ostrá bolest v jednom nebo obou prsou, ke kterým dochází často a obvykle neznamená, že se něco děje.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SUS_CALC</LocID>                               
+		<Text>Podezřelé kalcifikace</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SUS_CALC_DESC</LocID>                   
+		<Text>Kalcifikace prsu jsou malé usazeniny vápníku, které se vyvíjejí v prsní tkáni ženy. Jsou velmi časté a obvykle jsou benigní (nerakovinové). Kalcifikace prsu jsou častější u žen, ale lze je najít také u mužů. V některých případech mohou určité typy kalcifikací prsu naznačovat časnou rakovinu prsu.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_IRR_BMASS</LocID>                               
+		<Text>Nepravidelná hustota prsou</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_IRR_BMASS_DESC</LocID>                   
+		<Text>Potenciální abnormalita na mamogramu může být nazývána uzlíkem, hmotou, hrudkou, hustotou nebo zkreslením. Hmota (paušální), která má nepravidelný okraj nebo hvězdicovitý vzhled (spikulární), může být rakovinová.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CMA_CA153</LocID>                               
+		<Text>Vysoké krevní hodnoty antigenu rakoviny 15-3 </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CMA_CA153_DESC</LocID>                   
+		<Text>Rakovinový antigen 15-3 (CA15-3) je protein vyrobený řadou buněk, zejména buňkami rakoviny prsu. Protein se pohybuje do krve, kde jej lze měřit. Hladiny CA15-3 jsou vyšší než obvykle u většiny žen s rakovinou prsu, která se rozšířila do dalších částí těla (tzv. Metastatický karcinom prsu). Ne všechny typy rakoviny prsu způsobí zvýšení hladin CA 15-3, protože některé typy rakovinných buněk nadměrně neprodukují antigen.</Text>  
+	</GameDBLocalizedString>
+	
+		<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CMA_CA2729</LocID>                               
+		<Text>Vysoké krevní hodnoty antigenu rakoviny 27-29</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CMA_CA2729_DESC</LocID>                   
+		<Text>Cancer Antigen 27-29 je jedním z několika antigenů, které lékaři používají jako nádorové markery pro rakovinu prsu. Tyto markery mají tendenci se zvyšovat, kdykoli je přítomna rakovina. Test CA 27.29 se primárně používá k monitorování metastatického karcinomu prsu a méně často k detekci recidivy u lidí dříve léčených pro rakovinu prsu v rané fázi.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BREC01_0_DETECTED</LocID>                               
+		<Text>Duktální karcinom In Situ detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BREC01_0_DETECTED_DESC</LocID>                   
+		<Text>Testování detekovalo Duktální karcinom In Situ (v originálním místě a nerozšířený).</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_11</LocID>                               
+		<Text>BRCA1 Chybné nálezy genů</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_11_DESC</LocID>                   
+		<Text>BRCA1 / 2 je gen potlačující lidský nádor (také známý jako prozatímní gen) a je zodpovědný za opravu DNA. BRCA1 a BRCA2 jsou nesouvisející proteiny, ale oba jsou obvykle exprimovány v buňkách prsu a jiné tkáni, kde pomáhají opravit poškozenou DNA nebo zničit buňky, pokud DNA nelze opravit. Ženy, které nesou poruchu v BRCA1 nebo BRCA2, mají vysoké celoživotní riziko rakoviny prsu, které se odhaduje na 30–60% a celoživotní riziko rakoviny vaječníků asi 20%. Mohou mít prospěch z opatření pro prevenci a včasné odhalení rakoviny. Muži, kteří nesou poruchu BRCA1 nebo BRCA2, mohou mít zvýšené riziko rakoviny prostaty a rakoviny prsu u mužů.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HRM_01</LocID>                               
+		<Text>Estrogenový receptor pozitivní</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HRM_01_DESC</LocID>                   
+		<Text>Rakovina je pozitivní na estrogenové receptory (nebo ER +), pokud má receptory pro estrogen. To naznačuje, že rakovinné buňky, stejně jako normální buňky prsu, mohou přijímat signály z estrogenu, které by mohly podporovat jejich růst.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HRM_02</LocID>                               
+		<Text>Progesteronový receptor pozitivní</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HRM_02_DESC</LocID>                   
+		<Text>Rakovina je progesteronově pozitivní (PR +), pokud má receptory progesteronu. To naznačuje, že rakovina říká, že může přijímat signály od progesteronu, které by mohly podporovat jejich růst.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD340_NEG</LocID>                               
+		<Text>Negativní výraz HER2/neu (CD340)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD340_NEG_DESC</LocID>                   
+		<Text>Receptorová tyrosin-protein kináza erbB-2, také známá jako CD340, protoonkogen Neu, Erbb2 nebo ERBB2, je protein, který je u lidí kódován genem ERBB2. ERBB je zkratkou z erytroblastického onkogenu B, genu izolovaného z ptačího genomu. Často se také nazývá HER2 nebo HER2 / neu. HER2 je členem rodiny receptorů pro lidský epidermální růstový faktor (HER / EGFR / ERBB). Ukázalo se, že amplifikace nebo nadměrná exprese tohoto onkogenu hraje důležitou roli ve vývoji a progresi určitých agresivních typů rakoviny prsu. V posledních letech se protein stal důležitým biomarkerem a cílem léčby pro přibližně 30% pacientek s rakovinou prsu.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD340_POS</LocID>                               
+		<Text>Pozitivní mutace HER2/neu (CD340)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD340_POS_DESC</LocID>                   
+		<Text>Receptorová tyrosin-protein kináza erbB-2, také známá jako CD340, protoonkogen Neu, Erbb2 nebo ERBB2, je protein, který je u lidí kódován genem ERBB2. ERBB je zkratkou z erytroblastického onkogenu B, genu izolovaného z ptačího genomu. Často se také nazývá HER2 nebo HER2 / neu. HER2 je členem rodiny receptorů pro lidský epidermální růstový faktor (HER / EGFR / ERBB). Ukázalo se, že amplifikace nebo nadměrná exprese tohoto onkogenu hraje důležitou roli ve vývoji a progresi určitých agresivních typů rakoviny prsu. V posledních letech se protein stal důležitým biomarkerem a cílem léčby pro přibližně 30% pacientek s rakovinou prsu.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SPEC_MARG</LocID>                               
+		<Text>Špičaté okraje</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SPEC_MARG_DESC</LocID>                   
+		<Text>Špičaté okraje jsou skutečnou diagnostickou vlastností malignity. Je vidět, že prameny tkáně vyzařují z nesprávně definované hmoty a vytvářejí hvězdný vzhled.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BREC01_1_DETECTED</LocID>                               
+		<Text>Invazivní duktální karcinom (IDC) detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BREC01_1_DETECTED_DESC</LocID>                   
+		<Text>Testováno objevilo Invazivní duktální karcinom, který napadl okolní tkáně.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD44v6_BRIGHT</LocID>                               
+		<Text>Jasný výraz antigenu CD44v6</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD44v6_BRIGHT_DESC</LocID>                   
+		<Text>CD44v6 je izoforma rodiny CD44 transmembránových glykoproteinů. Vysoká exprese CD44v6 u epiteliálního karcinomu koreluje s růstem nádoru, invazí, metastázami a recidivou. CD44v6 je koreceptor receptoru tyrosinkináz c-Met, RON a VEGFR-2..</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_12</LocID>                               
+		<Text>Nálezy mutací GATA3</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_12_DESC</LocID>                   
+		<Text>GATA3 je transkripční faktor, který je u lidí kódován genem GATA3. Transkripční faktor GATA3 je rozhodující pro embryonální vývoj různých tkání, jakož i pro zánětlivé a humorální imunitní odpovědi a správnou funkci endotelu cév. Imuocytochemická analýza proteinu GATA3 v buňkách prsu je cenným markerem pro diagnostiku primárního karcinomu prsu a je testována jako pozitivní až v 94% případů.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BREC01_2_DETECTED</LocID>                               
+		<Text>Detekován metastázující karcinom prsou</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BREC01_2_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo metastázující karcinom prsou.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SL_HEMOPTYSIS2</LocID>                               
+		<Text>Těžká hemoptýza</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SL_HEMOPTYSIS2_DESC</LocID>                   
+		<Text>Hemoptýza je vykašlávání krve nebo hlenu potřísněného krví z průdušek, hrtanu, průdušnice nebo plic. Jinými slovy, jedná se o krvácení z dýchacích cest. K tomu může dojít u rakoviny plic, infekcí, jako je tuberkulóza, bronchitida nebo zápal plic, a určitých kardiovaskulárních stavů.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_INC_INTRAPRE</LocID>                               
+		<Text>Zvýšený intrakraniální tlak</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_INC_INTRAPRE_DESC</LocID>                   
+		<Text>Zvýšený intrakraniální tlak (ICP) je nárůst tlaku v mozku. Může to být způsobeno zvýšením množství tekutiny obklopující váš mozek. Může se například jednat o zvýšené množství mozkomíšního moku, které přirozeně tlumí mozek, nebo o zvýšení krve v mozku v důsledku poranění nebo prasknutí nádoru.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BRAIN_ABW</LocID>                               
+		<Text>Abnormální vzory mozkových vln</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BRAIN_ABW_DESC</LocID>                   
+		<Text>EEG detekoval abnormální vzorce mozkových vln. Hroty, ostré vlny nebo komplexy hrotových vln vyskytující se při konzistentní lokalizaci jsou pozorovány někdy brzy v průběhu mozkových nádorů. Jsou však častější buď jako časné nálezy pomalu rostoucích novotvarů spojených se záchvaty, nebo později po vývoji fokálního zpomalení.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_LPT2</LocID>                               
+		<Text>Zjištěna abnormální hmotnost</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_LPT2_DESC</LocID>                   
+		<Text>Testováním byla u pacienta zjištěna abnormální hmotnost, je nutné provést další testování k identifikaci malignity, typu nebo progrese.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BRAC01_0_DETECTED</LocID>                               
+		<Text>Detekován Pilocytární astrocytom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BRAC01_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Pilocytární astrocytom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_13</LocID>                               
+		<Text>Nálezy neurofibromatózy typu I (NF-1)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_13_DESC</LocID>                   
+		<Text>Neurofibromatóza typu I (NF-1) je komplexní multisystémová porucha u člověka způsobená mutací genu na chromozomu 17, který je zodpovědný za produkci proteinu zvaného neurofibromin, který je potřebný pro normální funkci v mnoha typech lidských buněk. Přibližně 10% pacientů s neurofibromatózou I (NFI) bude mít nádory centrálního nervového systému (CNS). Nejběžnějším z nich jsou hypothalamicko-optické gliomy, následované mozkovým kmenem a mozečkovými pilocytickými astrocytomy.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EGB</LocID>                               
+		<Text>Eosinofilní granulární těla</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EGB_DESC</LocID>                   
+		<Text>Častá přítomnost eozinofilních zrnitých těl je často užitečným vodítkem při odrazování novotvaru vyššího stupně směrem k nádoru nižšího stupně, jako je pleomorfní xanthoastrocytom (PXA) nebo pilocytický astrocytom.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_SL_ABSCESS</LocID>                               
+		<Text>Absces</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_FND</LocID>                   
+		<Text>fokální neurologický deficit</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_FND_DESC</LocID>                               
+		<Text>Fokální neurologický deficit je problém s funkcí nervu, míchy nebo mozku. Ovlivňuje konkrétní místo, například levou stranu obličeje, pravou paži nebo dokonce malou oblast, jako je jazyk. Za ohniskové neurologické deficity se také považují problémy s řečí, zrakem a sluchem.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CMD</LocID>                   
+		<Text>Kalcifikované minerální vklady</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CMD_DESC</LocID>                               
+		<Text>Mozkové kameny nebo mozkové kameny jsou definovány jako velké pevné intrakraniální kalcifikace. I když je mnoho lidí považováno za neškodné, mohou se tyto usazeniny fosforečnanu vápenatého nebo „mozkové kameny“ zvětšit a jsou spojeny s neurologickými příznaky, které se pohybují od záchvatů až po parkinsonské příznaky. Dystrofické kalcifikace se nejčastěji vyskytují v oblastech poranění mozku, jako je trauma, chirurgický zákrok, mrtvice a radiační léčba.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_DYSPHASIA</LocID>                   
+		<Text>Dysfázie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_14</LocID>                   
+		<Text>Li-Fraumeniho syndrom (LFS)</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_14_DESC</LocID>                               
+		<Text>Syndrom Li-Fraumeni (LFS) je zděděná familiární predispozice k širokému spektru určitých, často vzácných rakovin. To je způsobeno změnou (mutací) v tumor supresorovém genu známém jako TP53.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_DYSPHASIA_DESC</LocID>                               
+		<Text>Dysfázie je jazyková porucha charakterizovaná nedostatkem generace řeči a někdy i jejím porozuměním v důsledku onemocnění mozku nebo poškození.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_MCRO_CYSTS</LocID>                   
+		<Text>Mikrocysty</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_MCRO_CYSTS_DESC</LocID>                               
+		<Text>Mikrocysta je jednoduše velmi malá cysta. Cysty jsou abnormální, obvykle nerakovinový růst naplněný tekutinou nebo polotuhou látkou, někdy způsobující bolest.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BRAC01_1_DETECTED</LocID>                               
+		<Text>Detekován difúzní astrocytom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BRAC01_1_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo difúzní astrocytom.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_KI67_LLI</LocID>                               
+		<Text>Nízký index značení Antigenu KI-67 </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_KI67_LLI_DESC</LocID>                   
+		<Text>Antigen KI-67 také známý jako Ki-67 nebo MKI67 je protein, který je u lidí kódován genem MKI67 (antigen identifikovaný monoklonální protilátkou Ki-67). Ki-67 je vynikající marker pro stanovení růstové frakce dané buněčné populace. Frakce nádorových buněk pozitivních na Ki-67 (index značení Ki-67) často koreluje s klinickým průběhem rakoviny.</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_KI67_BLI</LocID>                               
+		<Text>Rychlý index značení Antigenu KI-67 </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BRAC01_2_DETECTED</LocID>                               
+		<Text>Detekován Anaplastický astrocytom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BRAC01_2_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Anaplastický astrocytom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_15</LocID>                               
+		<Text>Ztráta heterozygotnosti</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_15_DESC</LocID>                   
+		<Text>Ztráta heterozygotnosti na rameni chromozomu 10q je nejčastější alterací genu pro primární i sekundární glioblastomy; vyskytuje se v 60-90% případů. Tato mutace se jeví jako specifická pro multiformní glioblastom a u jiných typů nádorů se vyskytuje zřídka. Tato mutace je spojena se špatným přežitím. LOH na 10q plus 1 nebo 2 dalších genových mutací se jeví jako časté změny a jsou s největší pravděpodobností hlavními hráči ve vývoji glioblastomů.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_16</LocID>                               
+		<Text>Nadměrná exprese PDGFR</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_16_DESC</LocID>                   
+		<Text>Růstový faktor odvozený z krevních destiček (PDGF) je jedním z mnoha růstových faktorů, které regulují růst a dělení buněk. Zejména PDGF hraje významnou roli při tvorbě krevních cév, růstu krevních cév z již existující tkáně krevních cév, mitogenezi, tj. Proliferaci, mezenchymálních buněk. V onkologii gen PDGF působí jako hlavní mitogen pro gliové buňky vazbou na receptor PDGF (PDGFR). Amplifikace nebo nadměrná exprese PDGFR je typická pro cestu vedoucí k sekundárním glioblastomům.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_017</LocID>                               
+		<Text>Negativní mutace IDH1/IDH2</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_DYSPAREUNIA</LocID>                   
+		<Text>Dyspareunie (Žena)</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_DYSPAREUNIA_DESC</LocID>                               
+		<Text>Bolestivý styk může nastat z důvodů, které sahají od strukturálních problémů po psychologické problémy. Mnoho žen má někdy v životě bolestivý styk. Lékařský termín pro bolestivý styk je dyspareunie, definovaná jako přetrvávající nebo opakující se bolest genitálií, která se vyskytuje těsně před, během nebo po pohlavním styku.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CMA_CA125</LocID>                   
+		<Text>Vysoká hladina rakovinného Antigenu 125 v krvi</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CMA_CA125_DESC</LocID>                               
+		<Text>CA-125 také známý jako mucin 16 nebo MUC16 je protein, který je u lidí kódován genem MUC16. MUC16 je členem rodiny mucinových glykoproteinů. Test CA 125 měří množství proteinu CA 125 (rakovinový antigen 125) ve vaší krvi. Test CA 125 lze použít ke sledování určitých druhů rakoviny během a po léčbě. V některých případech může být test CA 125 použit k vyhledání časných příznaků rakoviny vaječníků u lidí s velmi vysokým rizikem onemocnění. Množství CA-125 je vyšší u rakoviny vaječníků. U premenopauzálních žen může mnoho dalších onemocnění nebo onemocnění kromě rakoviny způsobit vyšší hladinu CA-125.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_OVAC1_0F_DETECTED</LocID>                               
+		<Text>High-Grade serózní karcinom (HGSC) detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_OVAC1_0F_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Grade serózní karcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EARLY_SAT</LocID>                               
+		<Text>Časná sytost</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EARLY_SAT_DESC</LocID>                   
+		<Text>Počáteční sytost je neschopnost sníst celé jídlo nebo se cítit plný už po malém množství jídla.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PMPB</LocID>                               
+		<Text>Postmenopauzální krvácení</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PMPB_DESC</LocID>                   
+		<Text>Postmenopauzální krvácení (PMB) je definováno jako krvácení, ke kterému dojde po 1 roce amenorey u ženy, která nedostává hormonální terapii (HT). Ženy užívající kontinuální terapii progesteronem a estrogenovými hormony mohou očekávat nepravidelné vaginální krvácení, zejména prvních 6 měsíců. Příčin postmenopauzálního krvácení může být několik. Mezi nejčastější příčiny patří: zánět a ztenčení vaginální výstelky (atrofická vaginitida) nebo výstelky dělohy (endometriální atrofie) - způsobené nižší hladinou estrogenu.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_IRR_MNS</LocID>                               
+		<Text>Nepravidelná menstruace</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_IRR_MNS_DESC</LocID>                   
+		<Text>Zmeškané, zpožděné nebo nepravidelné období nebo neobvyklé vzorce krvácení. Nepravidelná menstruace může mít příčiny, které nejsou způsobeny základním onemocněním. Mezi příklady patří rodinná anamnéza nepravidelné menstruace, menopauza nebo menarche, fyzický stres, psychický stres, kouření nebo vedlejší účinky léků.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_APM</LocID>                               
+		<Text>Byla zjištěna abnormální pánevní hmota</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_APM_DESC</LocID>                   
+		<Text>Pánevní hmota je zvětšení nebo otok v pánevní oblasti. Většina pánevních hmot je objevena během rutinních gynekologických nebo fyzických vyšetření. Pánevní hmoty mohou pocházet buď z gynekologických orgánů, jako je děložní čípek, děloha, děložní adnexa, nebo z jiných pánevních orgánů, jako jsou střeva, močový měchýř, močovody a ledvinové orgány. Existuje mnoho gynekologických problémů, které mohou vyústit v pánevní hmotu. Kromě toho existují další onemocnění, která mohou také vést k pánevní hmotě. Většinou jde o benigní onemocnění, jako je ovariální cysta, zatímco jiné mohou souviset s gynekologickou rakovinou.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_OVAR_CYST</LocID>                               
+		<Text>Ovariální cysty</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_OVAR_CYST_DESC</LocID>                   
+		<Text>Ovariální cysty jsou tekutinou naplněné vaky nebo kapsy ve vaječníku nebo na jeho povrchu. Většina ovariálních cyst nezpůsobuje příznaky. V některých případech se mohou objevit menstruační nepravidelnosti, bolesti při pohlavním styku nebo nepravidelné pohyby střev. Většina ovariálních cyst je neškodná a často se sama vyčistí bez léčby.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_OVAC1_1F_DETECTED</LocID>                               
+		<Text>Low-Grade serózní karcinom (LGSC) detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_OVAC1_1F_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Low-Grade serózní karcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_004</LocID>                               
+		<Text>Mikropapilární invazní vzor</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_004_DESC</LocID>                   
+		<Text>Mikropapilární obrazec je definován jako obrazec ukazující mikropapilární struktury bez fibrovaskulárního jádra. Je dobře známo, že přítomnost mikropapilárního vzorce vede ke horší prognóze rakoviny vaječníků, prsu a močového měchýře.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_005</LocID>                               
+		<Text>Tělo Psammomu</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_005_DESC</LocID>                   
+		<Text>Těla psammomu jsou kulaté mikroskopické kalcifikované sbírky. Těla psammomu jsou běžným nálezem u dobře diferencovaného serózního karcinomu a lze je nalézt ve spojení s maligními žlázovými buňkami detekovanými cervikovaginální cytologií.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_18</LocID>                               
+		<Text>Detekována mutace BRAF V599E</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_18_DESC</LocID>                   
+		<Text>Protoonkogen B-Raf (BRAF) kóduje cytoplazmatickou serin / threonin kinázu s klíčovou rolí v regulaci signální transdukční dráhy proteinkinázy aktivované mitogenem. Mutace v genu BRAF se vyskytují v benigních a maligních melanocytových lézích, přičemž> 90% tvoří mutace V599E. Výsledkem této mutace je konstitutivně aktivní funkce kinázy a zvýšená tvorba kolonií in vitro.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ASCITES</LocID>                               
+		<Text>Ascites</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ASCITES_DESC</LocID>                   
+		<Text>Otok břicha způsobený hromaděním tekutiny, nejčastěji související s onemocněním jater.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PLEURAL_EFFUSION</LocID>                               
+		<Text>Pleurální výpotek</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PLEURAL_EFFUSION_DESC</LocID>                   
+		<Text>Pleurální výpotek, někdy označovaný jako „voda v plicích“, je hromadění přebytečné tekutiny mezi vrstvami pohrudnice mimo plíce. Pleura jsou tenké membrány, které lemují plíce a vnitřek hrudní dutiny a působí na mazání a usnadňují dýchání.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD146_BRIGHT</LocID>                               
+		<Text>Jasný výraz MCAM (CD146)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD146_BRIGHT_DESC</LocID>                   
+		<Text>Melanomová buněčná adhezní molekula (MCAM) je buněčná adhezní molekula, která je abnormálně exprimována v různých nádorech a je úzce spojena s metastázami nádoru.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CK7_BRIGHT</LocID>                               
+		<Text>Jasný výraz Keratinu 7 (CK7)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CK7_BRIGHT_DESC</LocID>                   
+		<Text>Keratin, cytoskeletální 7 typu II, také známý jako cytokeratin-7 (CK-7) nebo keratin-7 (K7) nebo sarkolektin (SCL), je protein, který je u lidí kódován genem KRT7. Keratin-7 se nachází v jednoduchém žlázovém epitelu a v přechodném epitelu. Epiteliální buňky plic a prsu obsahují keratin-7, ale některé další žlázové epitely, jako jsou například tlusté střevo a prostata, nikoli. Protože se antigen keratin-7 nachází ve zdravých i neoplastických buňkách, lze protilátky proti CK7 použít v imunohistochemii k rozlišení ovariálních a přechodných buněčných karcinomů od rakoviny tlustého střeva a prostaty. Při stanovení těchto diagnóz se běžně používá společně s CK20.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CK7_NEG</LocID>                               
+		<Text>Negativní výraz Keratinu 7 (CK7)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CK7_NEG_DESC</LocID>                   
+		<Text>Keratin, cytoskeletální 7 typu II, také známý jako cytokeratin-7 (CK-7) nebo keratin-7 (K7) nebo sarkolektin (SCL), je protein, který je u lidí kódován genem KRT7. Keratin-7 se nachází v jednoduchém žlázovém epitelu a v přechodném epitelu. Epiteliální buňky plic a prsu obsahují keratin-7, ale některé další žlázové epitely, jako jsou například tlusté střevo a prostata, nikoli. Protože se antigen keratin-7 nachází ve zdravých i neoplastických buňkách, lze protilátky proti CK7 použít v imunohistochemii k rozlišení ovariálních a přechodných buněčných karcinomů od rakoviny tlustého střeva a prostaty. Při stanovení těchto diagnóz se běžně používá společně s CK20.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CK20_BRIGHT</LocID>                               
+		<Text>Jasný výraz Keratinu 20 (CK20) </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CK20_BRIGHT_DESC</LocID>                   
+		<Text>Keratin 20, často zkráceně CK20, je protein, který je u lidí kódován genem KRT20. V imunohistochemii lze protilátky proti CK20 použít k identifikaci řady adenokarcinomu vznikajícího z epitelu, který normálně obsahuje protein CK20. Například se protein běžně vyskytuje u kolorektálního karcinomu, karcinomů přechodných buněk a u karcinomu Merkelových buněk, ale chybí u karcinomu plic, karcinomu prostaty a ne mucinózního karcinomu vaječníků. Často se používá v kombinaci s protilátkami proti CK7 k rozlišení různých typů žlázových nádorů.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CK20_NEG</LocID>                               
+		<Text>Negativní výraz Keratinu 20 (CK20)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CK20_NEG_DESC</LocID>                   
+		<Text>Keratin 20, často zkráceně CK20, je protein, který je u lidí kódován genem KRT20. V imunohistochemii lze protilátky proti CK20 použít k identifikaci řady adenokarcinomu vznikajícího z epitelu, který normálně obsahuje protein CK20. Například se protein běžně vyskytuje u kolorektálního karcinomu, karcinomů přechodných buněk a u karcinomu Merkelových buněk, ale chybí u karcinomu plic, karcinomu prostaty a ne mucinózního karcinomu vaječníků. Často se používá v kombinaci s protilátkami proti CK7 k rozlišení různých typů žlázových nádorů.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_17</LocID>                               
+		<Text>Negativní nálezy IDH1/IDH2</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_17_DESC</LocID>                   
+		<Text>Isocitrát dehydrogenáza (IDH) je klíčovým enzymem podílejícím se na přeměně isocitrátu na a-ketoglutarát (α-KG) v cyklu trikarboxylové kyseliny (TCA). Mutace IDH produkuje neomorfní enzym, který může vést k abnormální akumulaci R-2-HG a podporuje leukemogenezi. Mutace IDH se vyskytuje u 20% pacientů s akutní myeloidní leukémií (AML), zejména včetně IDH1 R132, IDH2 R140 a IDH2 R172.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BRAC01_3_DETECTED</LocID>                               
+		<Text>Byl zjištěn glioblastom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BRAC01_3_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo glioblastom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PSA_BL_DETECTED</LocID>                               
+		<Text>Vysoká hladinu prostatického specifického antigenu</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PSA_BL_DETECTED_DESC</LocID>                   
+		<Text>Prostatický specifický antigen (PSA) je glykoprotein produkovaný pouze prostatou. Jeho funkcí je zkapalňování spermatu. Malé množství uniká do krevního řečiště, kde je lze měřit. Antigen prostaty je specifický pro tkáně, ale není specifický pro rakovinu. U mužů s benigní hypertrofií prostaty (BPH), prostatitidou, infekcí močových cest nebo infarktem prostaty se mohou objevit zvýšené hladiny..</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_DYSORGASMIA</LocID>                   
+		<Text>Dysorgasmie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_DYSORGASMIA_DESC</LocID>                               
+		<Text>Dysorgasmie je definována jako bolestivý orgasmus, ale bez jakékoli předchozí bolesti během pohlavního styku. Bolest je často pocit křečí v pánvi, hýždě nebo břiše.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_APM1</LocID>                               
+		<Text>Abnormální nálezy prostaty</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_APM1_DESC</LocID>                   
+		<Text>Testováním byly zjištěny abnormality prostaty pacienta.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_PROC1_0M_DETECTED</LocID>                               
+		<Text>Zjištěna rakovina prostaty (1. stupeň)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_PROC1_0M_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo rakovinu prostaty (1. stupeň).</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_PROC1_1M_DETECTED</LocID>                               
+		<Text>Zjištěna rakovina prostaty (2. stupeň)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_PROC1_1M_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo rakovinu prostaty (2. stupeň).</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_PROC1_2M_DETECTED</LocID>                               
+		<Text>Zjištěna rakovina prostaty (3. stupeň)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_PROC1_2M_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo rakovinu prostaty (3. stupeň).</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_PROC1_3M_DETECTED</LocID>                               
+		<Text>Zjištěna rakovina prostaty (4. stupeň)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_PROC1_3M_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo rakovinu prostaty (4. stupeň).</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_DIFF_URINE</LocID>                               
+		<Text>Zadržování moči</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_DIFF_URINE_DESC</LocID>                   
+		<Text>Obtížné močení a úplné vyprázdnění močového měchýře. Retence moči může mít příčiny, které nejsou způsobeny základním onemocněním. Mezi příklady patří záměrné zadržování v moči nebo vedlejší účinky léků.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NIGHT_URGE</LocID>                               
+		<Text>Časté močení v noci</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NIGHT_URGE_DESC</LocID>                   
+		<Text>Častá potřeba vstát a jít na toaletu v noci močit se nazývá nokturie. Liší se od enurézy nebo pomočování, kdy člověk nevzbuzuje ze spánku, ale močový měchýř se stejně vyprazdňuje. Nokturie je častou příčinou ztráty spánku, zejména u starších dospělých.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_UAS_PCA3</LocID>                               
+		<Text>Vysoká hladinu prostatického specifického antigenu 3</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_UAS_PCA3_DESC</LocID>                   
+		<Text>Antigen 3 rakoviny prostaty (PCA3) je vysoce exprimován v nádorech prostaty. Testování vrátilo vysoké hladiny PCA3 v moči.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_UAS_PCA3</LocID>                               
+		<Text>Vysoká hladinu prostatického specifického antigenu 3</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_UAS_PCA3_DESC</LocID>                   
+		<Text>Antigen 3 rakoviny prostaty (PCA3) je vysoce exprimován v nádorech prostaty. Testování vrátilo vysoké hladiny PCA3 v moči.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ED</LocID>                               
+		<Text>Erektilní dysfunkce</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ED_DESC</LocID>                   
+		<Text>Erektilní dysfunkce (ED) je neschopnost dosáhnout nebo udržet dostatečně pevnou erekci, aby mohla mít pohlavní styk. Někdy se jí říká impotence, i když tento termín se dnes používá méně často. Příležitostné ED není neobvyklé. Mnoho mužů to zažívá v době stresu. Erektilní dysfunkce po radikální prostatektomii u klinicky lokalizovaného karcinomu prostaty je známou potenciální komplikací operace.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HEMATOSPERMIA</LocID>                               
+		<Text>Hematospermie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HEMATOSPERMIA_DESC</LocID>                   
+		<Text>Hematospermie je definována jako krev ve spermatu. I když je krev v ejakulátu často vnímána jako málo významná, může způsobit velké obavy mužům, kteří ji zažívají. Podmínka je běžná, mnoho epizod zůstává nepovšimnuto; proto prevalence hematospermie zůstává neznámá.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERCALCEMIA</LocID>                               
+		<Text>Hyperkalcémie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERCALCEMIA_DESC</LocID>                   
+		<Text>Hyperkalcémie je stav, kdy je hladina vápníku v krvi nad normální hodnotou. Hyperkalcémie je nejčastěji způsobena nadměrnou aktivitou ve čtyřech malých žlázách na krku (příštítná tělíska) nebo rakovinou. Extra vápník v krvi ovlivňuje mnoho tělesných systémů.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SEVERE_HYPERCALCEMIA</LocID>                               
+		<Text>Těžká hyperkalcémie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SEVERE_HYPERCALCEMIA_DESC</LocID>                   
+		<Text>Těžká hyperkalcémie je lékařská pohotovost vyžadující urgentní léčbu. Hyperkalcémie je stav, kdy je hladina vápníku v krvi nad normální hodnotou. Zřídka může závažná hyperkalcémie narušit funkci vašeho srdce, což způsobí bušení srdce a mdloby, indikace srdeční arytmie a další srdeční problémy.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_OVAC1_2F_DETECTED</LocID>                               
+		<Text>Detekován metastázující Ovariální karcinom</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_OVAC1_2F_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo metastázující karcinom vaječníků.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD13_NEG</LocID>                               
+		<Text>Negativní výraz Aminopeptidázy N (CD13) </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD30_BRIGHT</LocID>                   
+		<Text>Jasný výraz antigenu CD30</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD30_BRIGHT_DESC</LocID>                               
+		<Text>CD30, také známý jako TNFRSF8, je protein buněčné membrány rodiny receptorů faktoru nekrotizující nádory a nádorového markeru. Tento receptor je exprimován aktivovanými, ale ne klidovými T a B buňkami. TRAF2 a TRAF5 mohou interagovat s tímto receptorem a zprostředkovat signální transdukci, která vede k aktivaci NF-kappaB. CD30 je spojen s anaplastickým velkobuněčným lymfomem. Vyjadřuje se v embryonálním karcinomu, ale nikoli v seminomu, a je tedy užitečným markerem pro rozlišení mezi těmito nádory zárodečných buněk. CD30 a CD15 jsou také exprimovány na Reed-Sternbergových buňkách typických pro Hodgkinův lymfom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC07_0_DETECTED</LocID>                               
+		<Text>Difúzní velký B-buněčný lymfom detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC07_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Difúzní velký B-buněčný lymfom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD45_BRIGHT</LocID>                               
+		<Text>Jasný výraz PTPRC (CD45)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD45_BRIGHT_DESC</LocID>                   
+		<Text>Protein tyrosin fosfatáza, receptorový typ, C známý také jako PTPRC, je enzym, který je u lidí kódován genem PTPRC. PTPRC je také známý jako antigen CD45 (CD znamená klastr diferenciace), který se původně nazýval společný antigen leukocytů (LCA). CD45 je pan-leukocytový protein s aktivitou tyrosin fosfatázy zapojený do regulace signální transdukce v krvetvorbě. CD45 se nekolokalizuje lipidovými rafty na myších a lidských netransformovaných hematopoetických buňkách, ale umístění CD45 v lipidových raftech je modifikováno během jejich onkogenní transformace na akutní myeloidní leukémii.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_19</LocID>                               
+		<Text>Translokace IGH-BCL2</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_19_DESC</LocID>                   
+		<Text>Charakteristickým znakem folikulárního lymfomu (FL) je aberantní translokace t (14; 18) (q32; q21) zahrnující lokus IgH na chromozomu 14 a gen BCL2 na chromozomu 18..</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_20</LocID>                               
+		<Text>Hypermutace BCL6 (3q27)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_20_DESC</LocID>                   
+		<Text>Protein B-buněčného lymfomu 6 je protein, který je u lidí kódován genem BCL6. Stejně jako BCL2, BCL3, BCL5, BCL7A, BCL9 a BCL10 má klinický význam u lymfomu. Protein kódovaný tímto genem je evolučně konzervovaný transkripční faktor se zinkovým prstem a obsahuje N-koncovou POZ / BTB doménu. Tento protein působí jako sekvenčně specifický represor transkripce a bylo prokázáno, že moduluje STAT závislé odpovědi Interleukinu 4 (IL-4) B buněk. Tento protein může interagovat s několika komplexy corepressorů a inhibovat tak transkripci. Bylo zjištěno, že tento gen je často translokován a hypermutován v difuzním velkobuněčném B-buněčném lymfomu (DLBCL)).</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC08_0_DETECTED</LocID>                               
+		<Text>Folikulární lymfom detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC08_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Folikulární lymfom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_BLC2_BRIGHT</LocID>                               
+		<Text>Jasný výraz BCL2</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_BLC2_BRIGHT_DESC</LocID>                   
+		<Text>Bcl-2 (B-buněčný lymfom 2), kódovaný u lidí genem BCL2, je zakládajícím členem rodiny regulačních proteinů Bcl-2, které regulují buněčnou smrt (apoptózu) buď inhibicí (anti-apoptotickou) nebo indukcí (pro-apoptotická) apoptóza. Protilátky proti Bcl-2 lze použít k imunohistochemii k identifikaci buněk obsahujících antigen. Ve zdravé tkáni reagují tyto protilátky s B-buňkami v zóně pláště a také s některými T-buňkami. Pozitivní buňky se však značně zvyšují ve folikulárním lymfomu i v mnoha dalších formách rakoviny. V některých případech může být přítomnost nebo nepřítomnost barvení Bcl-2 v biopsiích významná pro prognózu pacienta nebo pravděpodobnost relapsu.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BL_DGP</LocID>                               
+		<Text>Difúzní růstový vzor</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BL_DGP_DESC</LocID>                   
+		<Text>Nejasně nodulární a/nebo difúzní vzorec buněčného růstu.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC4_0_DETECTED</LocID>                               
+		<Text>Karcinom Merkelových buněk detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC4_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo lokální karcinom Merkelových buněk.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ABNORMAL_NODULE</LocID>                               
+		<Text>Abnormálně zbarvený uzlík</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ABNORMAL_NODULE_DESC</LocID>                   
+		<Text>Pacient má na kůži uzlík (bulku), který má podivnou červenou / fialovou barvu.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_MCP_VIR</LocID>                               
+		<Text>Nález Polyomaviru z Merkelové buňky</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_MCP_VIR_DESC</LocID>                   
+		<Text>Polyomavirus z Merkelových buněk (MCV nebo MCPyV) byl poprvé popsán v lednu 2008 v Pittsburghu v Pensylvánii. Jednalo se o první příklad lidského virového patogenu objeveného pomocí nezaujatého metagenomického sekvenování nové generace technikou zvanou digitální transkriptomová subtrakce. MCV je jedním ze sedmi v současné době známých lidských onkovirů. Detekce viru je stále ve fázi výzkumu a obecně není dostupná jako klinický test. Detekce virové DNA se provádí pomocí PCR nebo FISH
+.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_MCP_VIR_EL</LocID>                               
+		<Text>Nálezy elektronového mikroskopu MCV</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_MCP_VIR_EL_DESC</LocID>                   
+		<Text>Transmisní elektronová mikroskopie MCV VLP při zvětšení × 50 000 ukazuje charakteristické polyomavirové ikosaedrální kapsidové struktury. Tento důkaz ukazuje na polyomavirus z Merkelových buněk nebo MCV, který je jedním ze sedmi v současnosti známých lidských onkovirů. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC4_1_DETECTED</LocID>                               
+		<Text>Karcinom Merkelových buněk detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC4_1_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo metastázující karcinom Merkelových buněk.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13.1a Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC09_0_DETECTED</LocID>                               
+		<Text>Lymfom plášťových buněk detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC09_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Lymfom plášťových buněk.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_006</LocID>                               
+		<Text>Nadprodukce Cyklinu D1 </Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_006_DESC</LocID>                   
+		<Text>Cyklin D1 je protein, který reguluje vstup buňky do buněčného cyklu. Řídí přechod mezi fází G0 a G1. V normálních tkáních jsou bazální epiteliální buňky, endotelové buňky a stromální buňky často pozitivní na cyklin D1, protože tyto buňky procházejí buněčným cyklem. V důsledku translokace zahrnující gen cyklinu D1 a IgH, t (11; 14) převážná většina lymfomů z plášťových buněk nadměrně exprimuje cyklin D1. Toto je užitečná vlastnost při klasifikaci lymfomů B-buněk nízkého stupně.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_21</LocID>                               
+		<Text>Nálezy translokace IGH/CCND1</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_21_DESC</LocID>                   
+		<Text>Přesmyky genů IGH jsou považovány za jednu z klasických aberací cytogenetických genů spojených s mnoha druhy rakoviny. Molekulární charakteristický znak MCL, t (11; 14) (q13; q32) (IGH / CCND1), vede k deregulaci a nadměrné expresi genu buněčného cyklu G1 fáze, CCND1 (kódující cyklin D1), zprostředkovaný zesilovacími prvky nalezenými v celém lokus IGH.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13.2.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BL_SPC</LocID>                               
+		<Text>Sůl a pepř Chromatin</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BL_SPC_DESC</LocID>                   
+		<Text>V patologii se solin a pepřový chromatin, také jádra solí a pepřů a tečkovaný chromatin, týkají buněčných jader, která prokazují granulovaný chromatin (ve světelné mikroskopii). Sůl a pepřový chromatin se obvykle vyskytuje u endokrinních nádorů, jako je medulární karcinom štítné žlázy, neuroendokrinní nádory a feochromocytom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BL_LSAC</LocID>                               
+		<Text>Velké anaplastické buňky</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BL_LSAC_DESC</LocID>                   
+		<Text>Anaplastické buňky vykazují výrazný pleomorfismus (variabilita). Jádra jsou charakteristicky extrémně hyperchromatická (tmavě zbarvená) a velká. Poměr nukleární cytoplazmy se může přiblížit 1: 1 namísto normálu 1: 4 nebo 1: 6. Mohou být vytvořeny obrovské buňky, které jsou podstatně větší než jejich sousedé a mají buď jedno obrovské jádro, nebo několik jader (syncytia). Anaplastická jádra jsou variabilní a bizarní co do velikosti a tvaru.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC2_0_DETECTED</LocID>                               
+		<Text>Velkobuněčný karcinom plic detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC2_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Velkobuněčný karcinom plic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_007</LocID>                               
+		<Text>Faktor transkripce štítné žlázy 1 pozitivní</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_007_DESC</LocID>                   
+		<Text>NK2 homeobox 1 (NKX2-1), také známý jako transkripční faktor štítné žlázy 1 (TTF-1), je protein, který je u lidí kódován genem NKX2-1. Buňky pozitivní na TTF-1 se nacházejí v plicích jako pneumocyty typu II a klubové buňky. Ve štítné žláze jsou folikulární a parafolikulární buňky také pozitivní na TTF-1. U rakoviny plic jsou adenokarcinomy obvykle pozitivní, zatímco spinocelulární karcinomy a velkobuněčné karcinomy jsou zřídka pozitivní. Malobuněčné karcinomy (jakéhokoli primárního místa) jsou obvykle pozitivní. TTF1 je více než jen klinický marker plicního adenokarcinomu. Hraje aktivní roli v udržování buněk rakoviny plic s ohledem na experimentální pozorování, že je mutován v rakovině plic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_IS_001</LocID>                               
+		<Text>Jasný výraz nádorového proteinu P63</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_IS_001_DESC</LocID>                   
+		<Text>Nádorový protein p63, obvykle označovaný jako p63, také známý jako protein související s transformací 63, je protein, který je u lidí kódován genem TP63 (také známým jako p63). Imunologické barvení P63 je použitelné pro spinocelulární karcinomy hlavy a krku, rozlišující adenokarcinom prostaty (nejběžnější typ rakoviny prostaty) a benigní prostatickou tkáň. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC3_0_DETECTED</LocID>                               
+		<Text>Adenokarcinom plic (Fáze E) detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC3_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Adenokarcinom plic v brzké fázi.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC3_1_DETECTED</LocID>                               
+		<Text>Adenokarcinom plic (Fáze A) detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC3_1_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Adenokarcinom plic v pokročilé fázi.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERTROPHIC_PO</LocID>                               
+		<Text>Hypertrofická plicní osteoartropatie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERTROPHIC_PO_DESC</LocID>                   
+		<Text>Hypertrofická plicní osteoartropatie (HPO) je vzácný paraneoplastický syndrom, který je často spojován s rakovinou plic. Hypertrofická osteoartropatie (HOA) je klinický syndrom hmatání prstů na rukou a nohou, zvětšování končetin a bolestivé, oteklé klouby. Tento stav je charakterizován symetrickou periostitidou zahrnující poloměr a lýtkovou kost a v menší míře femur, humerus, metakarpy a metatarzály.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD44_BRIGHT</LocID>                               
+		<Text>Jasný výraz antigenu CD44</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD44_BRIGHT_DESC</LocID>                   
+		<Text>Antigen CD44 je buněčný povrchový glykoprotein podílející se na interakcích mezi buňkami, adhezi a migraci buněk. U lidí je antigen CD44 kódován genem CD44 na chromozomu 11. CD44 je receptor adheze na buněčném povrchu, který je vysoce exprimován v mnoha rakovinách a reguluje metastázy prostřednictvím náboru CD44 na buněčný povrch. Jeho interakce s příslušnými ligandy extracelulární matrix podporuje migrační a invazní procesy zapojené do metastáz.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_22</LocID>                               
+		<Text>Nadměrná mutace EGFR</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_22_DESC</LocID>                   
+		<Text>Receptor epidermálního růstového faktoru (EGFR; ErbB-1; HER1 u lidí) je transmembránový protein, který je receptorem pro členy rodiny epidermálního růstového faktoru (rodina EGF) extracelulárních proteinových ligandů. Mutace, které vedou k nadměrné expresi EGFR (známé jako upregulace nebo amplifikace), byly spojeny s řadou rakovin, včetně adenokarcinomu plic (40% případů), análních rakovin, glioblastomu (50%) a epiteliálních nádorů hlavy a krku (80-100%). Tyto somatické mutace zahrnující EGFR vedou k jeho neustálé aktivaci, která produkuje nekontrolované dělení buněk.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC4_0_DETECTED</LocID>                               
+		<Text>Spinocelulární rakovina plic detekována</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC4_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Spinocelulární rakovinu plic.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD274_BRIGHT</LocID>                               
+		<Text>Jasný výraz PD-L1 (CD274)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CM_CD274_BRIGHT_DESC</LocID>                   
+		<Text>Programovaný ligand smrti 1 (PD-L1), známý také jako shluk diferenciace 274 (CD274) nebo B7 homolog 1 (B7-H1), je protein, který je u lidí kódován genem CD274. Programovaný smrtící ligand 1 (PD-L1) je transmembránový protein 40 kDa typu 1, u kterého se předpokládá, že hraje hlavní roli při potlačení adaptivního ramene imunitního systému během konkrétních událostí, jako je těhotenství, tkáňové aloštěpy, autoimunitní onemocnění a další chorobné stavy jako je hepatitida.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_IS_002</LocID>                               
+		<Text>Abnormální výraz nádorového proteinu P53</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_IS_002_DESC</LocID>                   
+		<Text>Nádorový protein p53, také známý jako p53, buněčný nádorový antigen p53 (název UniProt), nádorový supresor p53 je jakákoli izoforma proteinu kódovaného homologními geny v různých organismech, jako jsou TP53 (lidé) a Trp53 (myši). Tento homolog (původně považovaný za jediný protein, o kterém se často mluví jako o jediném proteinu) je zásadní u mnohobuněčných organismů, kde zabraňuje tvorbě rakoviny, a funguje tedy jako tumor supresor. Gen TP53 může být také modifikován mutageny (chemikálie, záření nebo viry), což zvyšuje pravděpodobnost nekontrolovaného dělení buněk.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BL_HISRC</LocID>                               
+		<Text>Morfologie pečetních prstenců</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BL_HISRC_DESC</LocID>                   
+		<Text>V histologii je pečetní prstencová buňka buňkou s velkou vakuolou, maligní typ je patrný převážně u karcinomů. Signetové prstencové buňky jsou nejčastěji spojovány s různými formami rakoviny. Podle definice je u kolorektálního karcinomu vyžadována 50% nebo vyšší (vysoká) signet-ring-buněčná komponenta, aby byl kolorektální karcinom označen jako signet-ring-cell.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_23</LocID>                               
+		<Text>Nestabilita mikrosatelitů vysokého stupně</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_23_DESC</LocID>                   
+		<Text>Mikrosatelitní nestabilita (MSI) je podmínkou genetické hypermutovatelnosti (predispozice k mutaci), která je výsledkem poškození opravy neshody DNA (MMR). Přítomnost MSI představuje fenotypový důkaz, že MMR nefunguje normálně. MMR opravuje chyby, které se spontánně vyskytnou během replikace DNA, jako jsou neshody jedné báze nebo krátké inzerce a delece. Proteiny podílející se na MMR korigují chyby polymerázy vytvořením komplexu, který se váže na neodpovídající část DNA, chybu vyřízne a na její místo vloží správnou sekvenci. Buňky s abnormálně fungujícím MMR nejsou schopny opravit chyby, které se vyskytnou během replikace DNA, a následně hromadit chyby. Nestabilita mikrosatelitů je spojena s mnoha formami rakoviny, ale je nejčastější v souvislosti s rakovinou tlustého střeva.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_008</LocID>                               
+		<Text>Vysoce vyjádřen Mucin 4</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_008_DESC</LocID>                   
+		<Text>Mucin 4 (MUC 4) je mucinový protein, který je u lidí kódován genem MUC4. Stejně jako ostatní muciny je MUC-4 vysokomolekulární glykoprotein. Hlavní složkou hlenu, viskózní sekrecí, která pokrývá epiteliální povrchy, jako jsou povrchy v průdušnici, tlustém střevě a děložním čípku, jsou vysoce glykosylované proteiny zvané muciny. Tyto glykoproteiny hrají důležitou roli při ochraně epiteliálních buněk a byly zapojeny do obnovy a diferenciace epitelu. Bylo zjištěno, že MUC-4 hraje při progresi rakoviny různé role, zejména díky svým signálním a antiadhezivním vlastnostem, které přispívají k rozvoji nádoru a metastázování.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_24</LocID>                               
+		<Text>Nalezeny mutace CDH1 (CD324)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CDF_T_24_DESC</LocID>                   
+		<Text>Kadherin-1 také známý jako CAM 120/80 nebo epiteliální kadherin (E-kadherin) nebo uvomorulin je protein, který je u lidí kódován genem CDH1. CDH1 byl také označen jako CD324 (shluk diferenciace 324). Je to tumor supresorový gen. Ztráta funkce nebo exprese E-kadherinu se podílí na progresi rakoviny a metastázách. Down-regulace E-kadherinu snižuje sílu buněčné adheze ve tkáni, což vede ke zvýšení buněčné motility. To zase může umožnit rakovinným buňkám překročit bazální membránu a napadnout okolní tkáně.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC2_0_DETECTED</LocID>                               
+		<Text>Kolorektální karcinom signativního prstence detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC2_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Kolorektální karcinom signativního prstence.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_COLONOFIND</LocID>                               
+		<Text>Kolonoskopické nálezy</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_COLONOFIND_DESC</LocID>                   
+		<Text>Testování hlásilo neobvyklé nálezy tlustého střeva. Další testy nebo výsledky biopsie pomohou určit, zda jsou nálezy důvodem k obavá.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_010</LocID>                               
+		<Text>Mucin 2 vysoce vyjádřen</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_010_DESC</LocID>                   
+		<Text>Muciny jsou rodinou vysokomolekulárních, silně glykosylovaných proteinů (glykokonjugátů) produkovaných epitelovými tkáněmi u většiny zvířat. Mucin 2, tvořící oligomerní hlenový gel, známý také jako MUC2, je protein, který je u lidí kódován genem MUC2. Mucin 2 je obzvláště prominentní ve střevě, kde je vylučován z pohárkových buněk v epiteliální výstelce do lumen tlustého střeva. V onkologii může nadměrná exprese MUC-2 chránit před protinádorovými imunitními efektory vytvořením slizniční vrstvy, čímž podporuje rozvoj nádoru.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_011</LocID>                               
+		<Text>Mucin 5AC vysoce vyjádřen</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_011_DESC</LocID>                   
+		<Text>Silně glykosylovaný vylučovaný mucin MUC5AC může na základě svých opakování bohatých na cystein vytvářet inter- a intramolekulární disulfidové vazby, což vede ke komplexním polymerům, které zase vytvářejí rámec polymerního hlenového gelu na povrchu epiteliálních buněk. MUC5AC je molekula s mnohostrannými funkčními důsledky, včetně bariérových funkcí pro epitelové buňky, interakce hostitel-patogen, přitahování imunitních buněk k místům premaligních nebo maligních lézí a progrese nádoru kontextově závislým způsobem. Diferenciální exprese, glykosylace a lokalizace MUC5AC byly spojeny s množstvím benigních a maligních patologií.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_012</LocID>                               
+		<Text>Mucin 1 vysoce vyjádřen</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_012_DESC</LocID>                   
+		<Text>Mucin 1, spojený s povrchem buňky (MUC1), nazývaný také polymorfní epiteliální mucin (PEM) nebo antigen epiteliální membrány nebo EMA, je mucin kódovaný genem MUC1 u lidí. MUC1 je glykoprotein s rozsáhlou O-vázanou glykosylací své extracelulární domény. Muciny chrání tělo před infekcí vazbou patogenu na oligosacharidy v extracelulární doméně a brání patogenu v dosažení buněčného povrchu. Nadměrná exprese MUC1 je často spojena s rakovinou tlustého střeva, prsu, vaječníků, plic a pankreatu.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_009</LocID>                               
+		<Text>Mucin 6 vysoce vyjádřen</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_009_DESC</LocID>                   
+		<Text>Mucin 6, oligomerní hlen / gel tvořící, také známý jako MUC6, je lidský gen. V extrahepatálních lézích žlučovodů (biliární IPMN) exprese MUC2 odpovídá stupni změny sloupcových buněk a intestinální diferenciace, zatímco MUC6 je charakteristicky pozitivní u nádorů se vzorem kvádrových buněk a v případech s pylorickou nebo biliární diferenciací. Adenomy pylorické žlázy (žlučníku) jsou trvale pozitivní na MUC6, stejně jako další markery pylorické žlázy, jako je M-GGMC-1.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BL_PMCC</LocID>                               
+		<Text>Čisté mucinózní buňky</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BL_PMCC_DESC</LocID>                   
+		<Text>Mucinózní karcinom se může tvořit vedle jiných typů rakovinných buněk, ale pokud tomu tak není, rakovina se považuje za „čistou“. Čistý mucinózní karcinom se skládá z 90–100% mucinózních buněk.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BL_MMCC</LocID>                               
+		<Text>Smíšené mucinózní buňky</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_BL_MMCC_DESC</LocID>                   
+		<Text>Mucinózní karcinom se může tvořit vedle jiných typů rakovinných buněk, když k tomu dojde, rakovina se označuje jako smíšený mucinózní karcinom..</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC3_0_DETECTED</LocID>                               
+		<Text>Smíšený mucinózní kolorektální adenokarcinom detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC3_0_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Smíšený mucinózní kolorektální adenokarcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC3_1_DETECTED</LocID>                               
+		<Text>Čistý mucinózní kolorektální adenokarcinom detekován</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC3_1_DETECTED_DESC</LocID>                   
+		<Text>Testování odhalilo Čistý mucinózní kolorektální adenokarcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_013</LocID>                               
+		<Text>Napsin vysoce vyjádřený</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SM_P_013_DESC</LocID>                   
+		<Text>Napsin A je funkční aspartátová proteináza, exprimovaná v cytoplazmě zdravého plicního parenchymu. Je homologní s polypeptidem TAO2 a podílí se na zrání biologicky aktivního proteinu povrchově aktivní látky B. Skládá se také z 38 kDa proteinu, jednořetězcového proteinu exprimovaného v pneumocytech typu II, alveolárních makrofágů, renálních tubulů a exokrinních žláz a kanály v pankreatu. Napsin A může být alternativním markerem pro primární rakovinu plic.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13.2.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_ONCO_BREC01_0M_DETECTED</LocID>                               
+		<Text>Duktální karcinom In Situ detekován</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_ONCO_BREC01_1M_DETECTED</LocID>                               
+		<Text>Invazivní Duktální Karcinom detekován</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_ONCO_BREC01_2M_DETECTED</LocID>                               
+		<Text>Metastázující rakovina prsu detekována</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13.3.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_WHITE_STOOLS</LocID>                               
+		<Text>Bílá stolice</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_WHITE_STOOLS_DESC</LocID>                               
+		<Text>Bílá nebo jílovitá stolice je způsobena nedostatkem žluči, což může naznačovat vážný základní problém. Žluč je trávicí tekutina produkovaná játry a uložená v žlučníku. Stolička získává svou normální nahnědlou barvu ze žluči, která se vylučuje do tenkého střeva během trávicího procesu.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_LIV_PRECONDITION</LocID>                               
+		<Text>Předcházející stav jater</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_LIV_PRECONDITION_DESC</LocID>                               
+		<Text>Lékařský záznam pacienta nebo sám pacient dal lékaři vědět, že má nebo měl již existující jaterní onemocnění.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_HEPATIC_ENCE</LocID>                               
+		<Text>Jaterní encefalopatie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_HEPATIC_ENCE_DESC</LocID>                               
+		<Text>Hepatální encefalopatie je pokles funkce mozku, ke kterému dochází v důsledku závažného onemocnění jater. V tomto stavu nemohou játra dostatečně odstraňovat toxiny. To způsobuje hromadění toxinů v krvi, což může vést k poškození mozku.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_HYPERAMMONEMIA</LocID>                               
+		<Text>Hyperamonémie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_HYPERAMMONEMIA_DESC</LocID>                               
+		<Text>Hyperamonémie je metabolická porucha charakterizovaná nadbytkem amoniaku v krvi. Jedná se o nebezpečný stav, který může vést k poranění mozku a smrti. </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_IS_003</LocID>                               
+		<Text>Zvýšené hladiny alfa-fetoproteinu</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_IS_003_DESC</LocID>                               
+		<Text>Alfa-fetoprotein je protein, který je u lidí kódován genem AFP. Gen AFP se nachází na q rameni chromozomu 4. AFP je hlavní plazmatický protein produkovaný žloutkovým vakem a fetální játry během vývoje plodu. AFP se vyskytuje hlavně u rakoviny jater a neseminomatózních nádorů zárodečných buněk, které jsou vzácné. Ty se nacházejí v epifýze v mozku. Někteří lidé s cirhózou nebo chronickou aktivní hepatitidou mají také vyšší hladinu AFP v krvi. Jako každý zvýšený marker tumoru, ani samotný AFP není diagnostický, pouze sugestivní.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_CMA_CAHP1</LocID>                               
+		<Text>Detekován antigen hepatocytového parafinu 1</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_CMA_CAHP1_DESC</LocID>                               
+		<Text>Hepatocytový parafin 1 je monoklonální protilátka, která byla vyvinuta speciálně pro reakci s hepatocyty v rutinních tkáních fixovaných ve formalínu a zalitých v parafinu. Výsledkem je výrazné granulované cytoplazmatické zbarvení hepatocytů, ale nereaguje s žlučovými cestami a neparenchymálními jaterními buňkami. Protilátka zdobí většinu hepatocelulárních karcinomů, včetně fibrolamelárních variant. Nereaguje s celou řadou dalších malignit dospělých, s výjimkou fokálního barvení u několika malignit gastrointestinálního traktu, včetně subpopulace karcinomů žaludku..</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_ONCO_LIV0_0_DETECTED</LocID>                               
+		<Text>Lokalizovaný Hepatocelulární karcinom detekován</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_ONCO_LIV0_0_DETECTED_DESC</LocID>                               
+		<Text>Testování odhalilo lokalizovaný Hepatocelulární karcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_ONCO_LIV0_1_DETECTED</LocID>                               
+		<Text>Regionální Hepatocelulární karcinom detekován</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_ONCO_LIV0_1_DETECTED_DESC</LocID>                               
+		<Text>Testování odhalilo regionální Hepatocelulární karcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_ONCO_LIV0_2_DETECTED</LocID>                               
+		<Text>Kritický Hepatocelulární karcinom detekován</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_ONCO_LIV0_2_DETECTED_DESC</LocID>                               
+		<Text>Testování odhalilo kritický Hepatocelulární karcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_ONCO_LIV0_3_DETECTED</LocID>                               
+		<Text>Metastázující rakovina jater detekována</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_ONCO_LIV0_3_DETECTED_DESC</LocID>                               
+		<Text>Testování odhalilo metastázující rakovinu jater..</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_SLP_AB_LFT</LocID>                               
+		<Text>Abnormální výsledky LFT</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_AB_LFT_DESC</LocID>                               
+		<Text>Test funkce jater u pacienta vrátil abnormální výsledky, je třeba provést další testování, aby se zjistila možná příčina. Abnormální výsledky testů jaterních funkcí ne vždy naznačují onemocnění jater a mohou být místo toho výsledkem řady okolností.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_SLP_ACUTE_LIVER_FAILURE</LocID>                               
+		<Text>Akutní selhání jater</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_ACUTE_LIVER_FAILURE_DESC</LocID>                               
+		<Text>Akutní selhání jater (ALF) je vzácný syndrom definovaný rychlým poklesem jaterních funkcí.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_SLP_CELL_REJECTION</LocID>                               
+		<Text>Odmítnutí buněk</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_CELL_REJECTION_DESC</LocID>                               
+		<Text>K odmítnutí buněk dochází, když krevní buňky těla identifikují transplantovaný orgán jako cizí předmět a začnou shromažďovat armádu buněk, aby na něj zaútočily. Mít odmítnutí neznamená, že pacient přijde o transplantovaný orgán, ale je nesmírně důležité, aby bylo odmítnutí diagnostikováno a léčeno co nejdříve.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_SLP_INTERNAL_BLEEDING</LocID>                               
+		<Text>Vnitřní krvácení</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_INTERNAL_BLEEDING_DESC</LocID>                               
+		<Text>Krvácení uvnitř těla, zejména v hrudní dutině, dutině žaludku nebo ve svalech, které může být způsobeno velkým traumatem, chirurgickým zákrokem nebo neznámou komplikací.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_SLP_HEMO_INSTA</LocID>                               
+		<Text>Hemodynamická nestabilita</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_HEMO_INSTA_DESC</LocID>                               
+		<Text>Hemodynamická nestabilita nastává, když je abnormální nebo nestabilní krevní tlak, který může způsobit nedostatečný průtok krve. Tento příznak může být život ohrožující a může vyžadovat intervenci na JIP.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_SLP_LES_RUPTURE</LocID>                               
+		<Text>Ruptura léze</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_LES_RUPTURE_DESC</LocID>                               
+		<Text>Léze nebo nádor uvnitř pacienta praskl. To je spojeno s život ohrožujícím vnitřním krvácením.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13.4.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC01_0_DETECTED_V2</LocID>                               
+		<Text>Pre-B Buněčná Akutní lymfocytární leukémie detekována</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC01_1_DETECTED_V2</LocID>                               
+		<Text>B-buněčná Akutní lymfocytární leukémie detekována</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC01_2_DETECTED_V2</LocID>                               
+		<Text>T-Buněčná  Akutní lymfocytární leukémie detekována</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC02_A_DETECTED_V2</LocID>                               
+		<Text>Chronická lymfocytární leukémie detekována</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC02_B_DETECTED_V2</LocID>                               
+		<Text>Chronická lymfocytární leukémie detekována</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC03_0_DETECTED_V2</LocID>                               
+		<Text>T-buněčná Velkogranulární Lymfocytická leukemie detekována</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC03_1_DETECTED_V2</LocID>                               
+		<Text>NK-buněčná Velkogranulární Lymfocytická leukemie detekována</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC03_2_DETECTED_V2</LocID>                               
+		<Text>T-buněčná Prolymfocytická leukémie (T-PLL) detekována</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC04_0_DETECTED_V2</LocID>                               
+		<Text>Akutní myeloidní leukémie (AML) detekována</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC05_A_DETECTED_V2</LocID>                               
+		<Text>Chronická myeloidní leukémie (CML) detekována</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC05_B_DETECTED_V2</LocID>                               
+		<Text>Chronická myeloidní leukémie (CML) detekována</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC05_C_DETECTED_V2</LocID>                               
+		<Text>Chronická myeloidní leukémie (CML) detekována</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC08_0_DETECTED_V2</LocID>                               
+		<Text>Folikulární lymfom detekován</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BLC07_0_DETECTED_V2</LocID>                               
+		<Text>Difúzní Velkobuněčný B-Lymfom detekován</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BREC01_1_DETECTED_V2</LocID>                               
+		<Text>Invazivní duktální karcinom (IDC) detekován</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_ONCO_BREC01_1M_DETECTED_V2</LocID>                               
+		<Text>Invazivní duktální karcinom (IDC) detekován</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_MC001_1_DETECTED_V2</LocID>                               
+		<Text>Gastrointestinální neuroendokrinní nádor detekován</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_4_DETECTED_V2</LocID>                               
+		<Text>Melanom detekována</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC4_1_DETECTED_V2</LocID>                               
+		<Text>Byl detekován karcinom Merkelových buněk</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13.4.1 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_ORA001_1_DETECTED</LocID>                               
+		<Text>Mukoepidermoidní karcinom detekován</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_ORA001_1_DETECTED_DESC</LocID>                               
+		<Text>Testování odhalilo Low-Grade Mukoepidermoidní karcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_ORA001_2_DETECTED</LocID>                               
+		<Text>Mukoepidermoidní karcinom detekován</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_ORA001_2_DETECTED_DESC</LocID>                               
+		<Text>Testování odhalilo High-Grade Mukoepidermoidní karcinom.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_FACIAL_NERVE_PARA</LocID>                               
+		<Text>Paralýza nervů obličeje</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_FACIAL_NERVE_PARA_DESC</LocID>                               
+		<Text>Ochrnutí lícního nervu je charakterizováno slabostí obličeje, obvykle pouze na jedné straně obličeje, s dalšími příznaky, které mohou zahrnovat ztrátu chuti, hyperakusi a snížené slinění a vylučování slz..</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_DYSPLASIA</LocID>                               
+		<Text>Dysplazie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_DYSPLASIA_DESC</LocID>                               
+		<Text>Dysplázie (cytologická atypie) přítomnost buněk abnormálního typu v tkáni, což může znamenat fázi předcházející rakovině.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EPI_HIGH1</LocID>                               
+		<Text>Zvýšený počet epidermoidních buněk</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_EPI_HIGH1_DESC</LocID>                               
+		<Text>Testování zjistilo abnormálně vysokou hladinu epidermoidních buněk. To může naznačovat horší prognózu nebo rozvinutější rakovinu. </Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

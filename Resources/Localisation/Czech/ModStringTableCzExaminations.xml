@@ -1,0 +1,437 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+    <GameDBStringTable ID="LOC_CZ_ADDON_ONCOLOGYSL_EXAMINATIONS">
+
+        <LanguageCode>cz</LanguageCode>
+        <LanguageNameLocalized>Czech</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>XiZyno</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+            <!-- Examinations -->
+            <GameDBLocalizedString>      
+			<LocID>EXM_SLP_CCBT</LocID>                                      
+			<Text>Odběr krve z katecholaminu</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CCBT_DESC</LocID>                                      
+			<Text>Katecholaminové krevní testy měří množství katecholaminů ve vašem těle. “Katecholamin” je zastřešující pojem pro hormony dopamin, norepinefrin a epinepfrin. \n\nPožadovaná místnost: Hematologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CCBT_TEST</LocID>                                      
+			<Text>Odběr krve z katecholaminu</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CCBT_TEST_DESC</LocID>                                      
+			<Text>Katecholaminové krevní testy měří množství katecholaminů ve vašem těle. “Katecholamin” je zastřešující pojem pro hormony dopamin, norepinefrin a epinepfrin.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CA</LocID>                                      
+			<Text>Odběr krve - rakovinový antigen</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CA_DESC</LocID>                                      
+			<Text>Odběr krve - rakovinový antigen je test, který pomáhá diagnostikovat a zvládnout určité typy rakoviny. Nádorové markery jsou látky, většinou proteiny, které jsou produkovány tělem v reakci na probíhající růst rakoviny nebo samotnými rakovinnými tkáněmi. Nějaké nádorové markerky jsou specifické pro jeden typ rakoviny, mezitím co ostatní jsou vidět v několika typech rakoviny. Mnoho známých markerů se vyskytuje u nerakovinných stavu i u rakoviny. Nelze je tedy použít k diagnostice rakoviny. \n\nPožadovaná místnost: Hematologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CA_TEST</LocID>                                      
+			<Text>Odběr krve - rakovinový antigen</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CA_TEST_DESC</LocID>                                      
+			<Text>Odběr krve - rakovinový antigen je test, který pomáhá diagnostikovat a zvládnout určité typy rakoviny. Nádorové markery jsou látky, většinou proteiny, které jsou produkovány tělem v reakci na probíhající růst rakoviny nebo samotnými rakovinnými tkáněmi. Nějaké nádorové markerky jsou specifické pro jeden typ rakoviny, mezitím co ostatní jsou vidět v několika typech rakoviny. Mnoho známých markerů se vyskytuje u nerakovinných stavu i u rakoviny. Nelze je tedy použít k diagnostice rakoviny.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY</LocID>                                      
+			<Text>Kolonoskopie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_DESC</LocID>                                      
+			<Text>Kolonoskopie je lékařská procedura prováděná k hledání rakoviny, polypů tlustého střeva nebo jiných abnormalit uvnitř Vašeho střeva. Kolonoskopie je prováděna nástrojem zvaným kolonoskop (typ endoskopu) - dlouhá, tenká a flexibilní trubička obsahující kameru a světlo.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_UAS</LocID>                                      
+			<Text>Odběr vzorků antigenu moči</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_UAS_DESC</LocID>                                      
+			<Text>Test moči pro zkontrolování množství antigenů založených na rakovině v moči. Využitím koncentrace vylučovaného antigenu z různých patogenů v ledvinách pro vylučování močí, lze k získání rychlých výsledků testů použít testování antigenu v moči. \n\nPožadovaná místnost: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_UAS_TEST</LocID>                                      
+			<Text>Odběr vzorků antigenu moči</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_UAS_TEST_DESC</LocID>                                      
+			<Text>Test moči pro zkontrolování množství antigenů založených na rakovině v moči. Využitím koncentrace vylučovaného antigenu z různých patogenů v ledvinách pro vylučování močí, lze k získání rychlých výsledků testů použít testování antigenu v moči.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BONEBIOPSY_SAMPLE</LocID>                                      
+			<Text>Odběr vzorku biopsie kostní dřeně</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BONEBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>Odběr vzorku biopsie kostní dřeně sbírá vzorek válcového jádra, který zachovává strukturu dřeně. Vzorek biopsie je hodnocen odborníkem za účelem stanovení buněčnosti, objem buněk se porovnává s objemem ostatních složek kostní dřeně, zda jsou různé buněčné linie přítomny v dostatečném počtu a zda v kostní dřeni existují abnormální infiltráty. \n\nPožadovaná místnost: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BONEBIOPSY_TEST</LocID>                                      
+			<Text>Odběr vzorku biopsie kostní dřeně</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BONEBIOPSY_TEST_DESC</LocID>                                      
+			<Text>Odběr vzorku biopsie kostní dřeně sbírá vzorek válcového jádra, který zachovává strukturu dřeně. Vzorek biopsie je hodnocen odborníkem za účelem stanovení buněčnosti, objem buněk se porovnává s objemem ostatních složek kostní dřeně, zda jsou různé buněčné linie přítomny v dostatečném počtu a zda v kostní dřeni existují abnormální infiltráty.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FLOWCYT</LocID>                                      
+			<Text>Vzorek průtokové cytometrie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FLOWCYT_DESC</LocID>                                      
+			<Text>Průtoková cytometrie je technika užívaná k detekování a měření fyzické a chemické charakteristiky populace buněk nebo částic. Vzorek obsahující buňky nebo částice se suspenduje v kapalině a vstřikuje se do přístroje průtokového cytometru. \n\nPožadovaná místnost: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FLOWCYT_TEST</LocID>                                      
+			<Text>Vzorek průtokové cytometrie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FLOWCYT_TEST_DESC</LocID>                                      
+			<Text>Průtoková cytometrie je technika užívaná k detekování a měření fyzické a chemické charakteristiky populace buněk nebo částic. Vzorek obsahující buňky nebo částice se suspenduje v kapalině a vstřikuje se do přístroje průtokového cytometru.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CBC_SAMPLING</LocID>                                      
+			<Text>(Onkologie) CBC odběry</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BLOOD_SMEAR_SAMPLE</LocID>                                      
+			<Text>Vzorek krevního nátěru</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BLOOD_SMEAR_SAMPLE_DESC</LocID>                                      
+			<Text>Krevní film — nebo nátěr periferní krve - je tenká vrstva krve rozmazaná na sklíčku mikroskopu a poté obarvena tak, aby umožňovala mikroskopické zkoumání různých buněk. \n\nPožadovaná místnost: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BLOOD_SMEAR_TEST</LocID>                                      
+			<Text>Vzorek krevního nátěru - test</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_BLOOD_SMEAR_TEST_DESC</LocID>                                      
+			<Text>Krevní film — nebo nátěr periferní krve - je tenká vrstva krve rozmazaná na sklíčku mikroskopu a poté obarvena tak, aby umožňovala mikroskopické zkoumání různých buněk.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_FT_SAMPLING</LocID>                                      
+			<Text>Jaterní testy - odběry</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_FT_SAMPLING_DESC</LocID>                                      
+			<Text>Jaterní testy (také značeny LFT) jsou testy, které poskytují informace, jak nám fungují játra. Testy testují hodnoty proteinů a enzymů, které jsou buď vyráběný jaterními buňkami nebo jsou uvolňovány do krve, když jsou jaterní buňky poškozeny. \n\nPožadovaná místnost: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_FT_TEST</LocID>                                      
+			<Text>Jaterní testy - test</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_FT_TEST_DESC</LocID>                                      
+			<Text>Jaterní testy (také značeny LFT) jsou testy, které poskytují informace, jak nám fungují játra. Testy testují hodnoty proteinů a enzymů, které jsou buď vyráběný jaterními buňkami nebo jsou uvolňovány do krve, když jsou jaterní buňky poškozeny.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FISH_SAMPLE</LocID>                                      
+			<Text>F.I.S.H. - odběry</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FISH_SAMPLE_DESC</LocID>                                      
+			<Text>Fluorescenční in situ hybridizace (FISH) je cytogenetická metoda, která používá fluorescenčních sond, které se váží pouze na ty části chromosomu s vysokým stupněm komplementarity. Byla vyvinuta biomedicínskými výzkumníky v raných 80. letech a je užívána pro detekci a lokalizaci přítomnosti nebo absence specifické DNA sekvence na chromosomech. FISH je často užívána pro nalezení specifických DNA vlastností pro účely genetického poradenství, medicíny a identifikaci druhů. FISH lze také použít pro detekci a lokalizaci specifické RNA (mRNA, IncRNA a miRNA) v buňkách, nádorových buňkách a tkáňových vzorcích. \n\nPožadovaná místnost: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FISH_TEST</LocID>                                      
+			<Text>F.I.S.H.  - test</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FISH_TEST_DESC</LocID>                                      
+			<Text>Fluorescenční in situ hybridizace (FISH) je cytogenetická metoda, která používá fluorescenčních sond, které se váží pouze na ty části chromosomu s vysokým stupněm komplementarity. Byla vyvinuta biomedicínskými výzkumníky v raných 80. letech a je užívána pro detekci a lokalizaci přítomnosti nebo absence specifické DNA sekvence na chromosomech. FISH je často užívána pro nalezení specifických DNA vlastností pro účely genetického poradenství, medicíny a identifikaci druhů. FISH lze také použít pro detekci a lokalizaci specifické RNA (mRNA, IncRNA a miRNA) v buňkách, nádorových buňkách a tkáňových vzorcích.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_IV_STAINING_SAMPLE</LocID>                                      
+			<Text>In Vitro barvení - odběry</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_IV_STAINING_SAMPLE_DESC</LocID>                                      
+			<Text>Barvení je technika používaná ke zvýšení kontrastu ve vzorcích, obvykle na mikroskopické úrovni. Skvrny a barviva se často používají v histologii (studium tkáně pod mikroskopem) a v lékařských oborech histopatologie, hematologie a cytopatologie, které se zaměřují na studium a diagnostikují onemocnění na mikroskopické úrovni. Barvy lze použít k definování biologických tkání (zvýraznění například svalových vláken nebo pojivové tkáně), buněčných populací (klasifikace různých krevních buněk) nebo organel v jednotlivých buňkách. \n\nPožadovaná místnost: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_IV_STAINING_TEST</LocID>                                      
+			<Text>In Vitro barvení - testy</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_IV_STAINING_TEST_DESC</LocID>                                      
+			<Text>Barvení je technika používaná ke zvýšení kontrastu ve vzorcích, obvykle na mikroskopické úrovni. Skvrny a barviva se často používají v histologii (studium tkáně pod mikroskopem) a v lékařských oborech histopatologie, hematologie a cytopatologie, které se zaměřují na studium a diagnostikují onemocnění na mikroskopické úrovni. Barvy lze použít k definování biologických tkání (zvýraznění například svalových vláken nebo pojivové tkáně), buněčných populací (klasifikace různých krevních buněk) nebo organel v jednotlivých buňkách.</Text>  
+			</GameDBLocalizedString>
+			
+			<!-- ### ### -->
+			<!-- ######################################## Content for V0.13 Added Below ######################################## -->
+			<!-- ### ### -->
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SL_X_RAY_MAMMOGRAM</LocID>                                      
+			<Text>Mamogram</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SL_X_RAY_MAMMOGRAM_DESC</LocID>                                      
+			<Text>Mamogram je rentgenový snímek prsní tkáně, který může zjistit příliš malé změny, které by nebyly cítit při fyzickém vyšetření. \n\nPožadovaná místnost: X-Ray</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FNA_SAMPLE</LocID>                                      
+			<Text>Aspirace jemnou jehlou - odběry</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FNA_SAMPLE_DESC</LocID>                                      
+			<Text>Aspirace jemnou jehlou je rychlejší, méně bolestivější typ biopsie pro odstranění tkáně, buňky nebo kapaliny za účelem zkoumání. Při aspiraci jemnou jehlou je tenká jehla vložena do podezřelého nádoru a extrahuje se malý vzorek. Stejně jako u jiných typů biopsií může vzorek odebraný během aspirace jemnou jehlou pomoci stanovit diagnózu nebo vyloučit rakovinu. \n\nPožadovaná místnost: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FNA_TEST</LocID>                                      
+			<Text>Aspirace jemnou jehlou - testy</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_FNA_TEST_DESC</LocID>                                      
+			<Text>Aspirace jemnou jehlou je rychlejší, méně bolestivější typ biopsie pro odstranění tkáně, buňky nebo kapaliny za účelem zkoumání. Při aspiraci jemnou jehlou je tenká jehla vložena do podezřelého nádoru a extrahuje se malý vzorek. Stejně jako u jiných typů biopsií může vzorek odebraný během aspirace jemnou jehlou pomoci stanovit diagnózu nebo vyloučit rakovinu.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_EMICRO_SAMPLE</LocID>                                      
+			<Text>Elektronová mikroskopie - odběry</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_EMICRO_SAMPLE_DESC</LocID>                                      
+			<Text>Elektronová mikroskopie se používá jako důležitý diagnostický nástroj k screeningu lidských tkání při vysokém zvětšení (na ultrastrukturální úrovni). Pro diagnostické účely se pevné tkáně připravují pro TEM stejným způsobem jako jiné biologické tkáně, fixují se v glutaraldehydu a oxidu osmičelém, poté se dehydratují a zalijí do epoxidové pryskyřice. \n\nPožadovaná místnost: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_EMICRO_TEST</LocID>                                      
+			<Text>Elektronová mikroskopie - testy</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_EMICRO_TEST_DESC</LocID>                                      
+			<Text>Elektronová mikroskopie se používá jako důležitý diagnostický nástroj k screeningu lidských tkání při vysokém zvětšení (na ultrastrukturální úrovni). Pro diagnostické účely se pevné tkáně připravují pro TEM stejným způsobem jako jiné biologické tkáně, fixují se v glutaraldehydu a oxidu osmičelém, poté se dehydratují a zalijí do epoxidové pryskyřice.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_PELVIC_EXAM</LocID>                                      
+			<Text>Pánevní vyšetření</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_PELVIC_EXAM_DESC</LocID>                                      
+			<Text>Vyšetření pánví je vizuální a fyzikální vyšetření reprodukčních orgánů ženy lékařem. Během vyšetření lékař zkontroluje pochvu, děložní hrdlo, vejcovody, vulvu, vaječníky a dělohu.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_DRE_EXAM</LocID>                                      
+			<Text>Digitální rektální vyšetření (DRE)</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_DRE_EXAM_DESC</LocID>                                      
+			<Text>Digitální rektální vyšetření (DRE) je test pro muže i ženy. Umožňuje lékaři zkontrolovat dolní konečník, pánev a dolní břicho kvůli rakovině a dalším zdravotním problémům, jako je rakovina prostaty.</Text>  
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_MINERALT_SAMPLE</LocID>                                      
+			<Text>Minerální panel - odběry</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_MINERALT_SAMPLE_DESC</LocID>                                      
+			<Text>Komplexní minerální panel zahrnuje testování krve na pět minerálů a slouží k detekci nedostatků nebo nadměrné expozice (toxicity) napříč minerálním spektrem. Tento panel obsahuje úrovně testování následujících pěti minerálů: vápník, měď, hořčík, mangan a zinek. \n\nPožadovaná místnost: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_MINERALT_TEST</LocID>                                      
+			<Text>Minerální panel - testy</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_MINERALT_TEST_DESC</LocID>                                      
+			<Text>Komplexní minerální panel zahrnuje testování krve na pět minerálů a slouží k detekci nedostatků nebo nadměrné expozice (toxicity) napříč minerálním spektrem. Tento panel obsahuje úrovně testování následujících pěti minerálů: vápník, měď, hořčík, mangan a zinek.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LYMPHBIOPSY_SAMPLE</LocID>                                      
+			<Text>Biopsie lymfatické uzliny - odběry</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LYMPHBIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>Biopsie lymfatických uzlin je test, při kterém se lymfatická uzlina nebo část lymfatické uzliny odstraní pro vyšetření pod mikroskopem. Biopsie lymfatických uzlin může pomoci určit, zda má pacient infekci, poruchu imunity nebo rakovinu. \n\nPožadovaná místnost: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LYMPHBIOPSY_TEST</LocID>                                      
+			<Text>Biopsie lymfatické uzliny - testy</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LYMPHBIOPSY_TEST_DESC</LocID>                                      
+			<Text>Biopsie lymfatických uzlin je test, při kterém se lymfatická uzlina nebo část lymfatické uzliny odstraní pro vyšetření pod mikroskopem. Biopsie lymfatických uzlin může pomoci určit, zda má pacient infekci, poruchu imunity nebo rakovinu.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CEA</LocID> <!-- ############# OBSOLETE - ADDED IN FOR CRASH PROTECTION - NO NEED TO TRANSLATE -->                                     
+			<Text>(OBSOLETE) Test Removed</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CEA_DESC</LocID> <!-- ############# OBSOLETE - ADDED IN FOR CRASH PROTECTION -->                                         
+			<Text>This test has been removed from this mod but the code remains to protect players that may have these tests queued.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>       
+			<LocID>EXM_SLP_CEA_TEST</LocID> <!-- ############# OBSOLETE - ADDED IN FOR CRASH PROTECTION -->                                          
+			<Text>(OBSOLETE) Test Removed</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CEA_TEST_DESC</LocID> <!-- ############# OBSOLETE - ADDED IN FOR CRASH PROTECTION -->                                          
+			<Text>This test has been removed from this mod but the code remains to protect players that may have these tests queued.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_5HIAA</LocID> <!-- ############# OBSOLETE - ADDED IN FOR CRASH PROTECTION -->                                     
+			<Text>(OBSOLETE) Test Removed</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_5HIAA_DESC</LocID> <!-- ############# OBSOLETE - ADDED IN FOR CRASH PROTECTION -->                                         
+			<Text>This test has been removed from this mod but the code remains to protect players that may have these tests queued.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>       
+			<LocID>EXM_SLP_5HIAA_TEST</LocID> <!-- ############# OBSOLETE - ADDED IN FOR CRASH PROTECTION -->                                          
+			<Text>(OBSOLETE) Test Removed</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_5HIAA_TEST_DESC</LocID> <!-- ############# OBSOLETE - ADDED IN FOR CRASH PROTECTION -->                                          
+			<Text>This test has been removed from this mod but the code remains to protect players that may have these tests queued.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CHRAB</LocID> <!-- ############# OBSOLETE - ADDED IN FOR CRASH PROTECTION -->                                     
+			<Text>(OBSOLETE) Test Removed</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CHRAB_DESC</LocID> <!-- ############# OBSOLETE - ADDED IN FOR CRASH PROTECTION -->                                         
+			<Text>This test has been removed from this mod but the code remains to protect players that may have these tests queued.</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>       
+			<LocID>EXM_SLP_CHRAB_TEST</LocID> <!-- ############# OBSOLETE - ADDED IN FOR CRASH PROTECTION -->                                          
+			<Text>(OBSOLETE) Test Removed</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_CHRAB_TEST_DESC</LocID> <!-- ############# OBSOLETE - ADDED IN FOR CRASH PROTECTION -->                                          
+			<Text>This test has been removed from this mod but the code remains to protect players that may have these tests queued.</Text>  
+			</GameDBLocalizedString>
+			
+			<!-- ### ### -->
+			<!-- ######################################## Content for V0.13.2.0 Added Below ######################################## -->
+			<!-- ### ### -->
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_SAMPLE</LocID>                                      
+			<Text>Biopsie tlustého střeva - odběry</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>Kolonoskopie je lékařská procedura prováděná k hledání rakoviny, polypů tlustého střeva nebo jiných abnormalit uvnitř Vašeho střeva. Kolonoskopie je prováděna nástrojem zvaným kolonoskop (typ endoskopu) - dlouhá, tenká a flexibilní trubička obsahující kameru a světlo. Během kolonoskopie lékař vloží nástroj přes kolonoskop, aby získal biopsii (malý vzorek výstelky tlustého střeva) k další analýze. \n\nPožadovaná místnost: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_TEST</LocID>                                      
+			<Text>Biopsie tlustého střeva - testy</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_COLONOSCOPY_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>Kolonoskopie je lékařská procedura prováděná k hledání rakoviny, polypů tlustého střeva nebo jiných abnormalit uvnitř Vašeho střeva. Kolonoskopie je prováděna nástrojem zvaným kolonoskop (typ endoskopu) - dlouhá, tenká a flexibilní trubička obsahující kameru a světlo. Během kolonoskopie lékař vloží nástroj přes kolonoskop, aby získal biopsii (malý vzorek výstelky tlustého střeva) k další analýze.</Text>  
+			</GameDBLocalizedString>
+			
+			<!-- ### ### -->
+			<!-- ######################################## Content for V0.13.3.0 Added Below ######################################## -->
+			<!-- ### ### -->
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_BIOPSY_SAMPLE</LocID>                                      
+			<Text>Jaterní biopsie - odběry</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_BIOPSY_SAMPLE_DESC</LocID>                                      
+			<Text>Biopsie jater je postup, při kterém se do jater vloží malá jehla k odběru vzorku tkáně. Tkáň je poté analyzována v laboratoři, aby pomohla lékařům diagnostikovat různé poruchy a nemoci v játrech. \n\nPožadovaná místnost: Histologie</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_BIOPSY_TEST</LocID>                                      
+			<Text>Jaterní biopsie - testy</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_SLP_LIVER_BIOPSY_TEST_DESC</LocID>                                      
+			<Text>Biopsie jater je postup, při kterém se do jater vloží malá jehla k odběru vzorku tkáně. Tkáň je poté analyzována v laboratoři, aby pomohla lékařům diagnostikovat různé poruchy a nemoci v játrech.</Text>  
+			</GameDBLocalizedString>
+
+			<!-- ### ### -->
+			<!-- ######################################## Content for V0.13.4.1 Added Below ######################################## -->
+			<!-- ### ### -->
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>
