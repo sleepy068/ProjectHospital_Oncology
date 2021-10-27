@@ -1,0 +1,13 @@
+To make the report as useful as possible, please try to add all the following:
+
+Clear description of the issue
+Screenshot or a video
+Saved game  (it's usually still possible to save, the game also autosaves twice a day or every hour, so an autosave file from a couple in-game hours earlier can help too)
+- Win: C:\Users\USERNAME\AppData\LocalLow\Oxymoron Games\Project Hospital\maps
+- Linux: /home/USERNAME/.config/unity3d/Oxymoron Games/Project Hospital/maps/
+- Mac:  /Users/USERNAME/Library/Application Support/unity.Oxymoron Games.Project Hospital/maps
+Log - remember to compress/ ZIP gamelog, to be able to upload it to the forum
+- Win: C:\Users\USERNAME\AppData\LocalLow\Oxymoron Games\Project Hospital\output_log.txt
+- If you have problem accessing the hidden AppData folder, try entering %AppData% in windows explorer
+- Linux: /home/USERNAME/.config/unity3d/Oxymoron Games/Project Hospital/Player.log
+- Mac: ~/Library/Logs/Unity/Player.log
