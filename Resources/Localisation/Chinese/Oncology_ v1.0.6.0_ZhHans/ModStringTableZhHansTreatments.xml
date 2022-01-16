@@ -1,0 +1,28 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_ONCOLOGYSL_TREATMENTS">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>1328411791</Name>
+	<Name>Frost</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<!-- ======================================== -->
+	<!-- ============= Core Content ============= -->
+	<!-- ======================================== -->
+	
+	
+	<!-- ============================================== -->
+	<!-- ============= CRP Export Content ============= -->
+	<!-- ============================================== -->
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

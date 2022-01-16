@@ -1,0 +1,89 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+    <GameDBStringTable ID="LOC_ZHHANS_ADDON_ONCOLOGYSL_EXAMINATIONS">
+
+        <LanguageCode>zh-Hans</LanguageCode>
+        <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>1328411791</Name>
+			<Name>Frost</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+		<!-- ### ### -->
+		<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+		<!-- ### ### -->
+		
+		<!-- ======================================== -->
+		<!-- ============= Core Content ============= -->
+		<!-- ======================================== -->
+		
+		
+		<!-- ============================================== -->
+		<!-- ============= CRP Export Content ============= -->
+		<!-- ============================================== -->
+
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</LocID>                               
+			<Text>卵巢活检样本</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE_DESC</LocID>                               
+			<Text>目前没有有效的卵巢癌筛查试验。 当怀疑患者患有卵巢癌时，医生会进行各种检查以发现任何需要活检的异常情况。 确认卵巢癌诊断的唯一方法是采集组织样本（活检）并在显微镜下观察细胞。 \n\n需要实验室：组织学</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_OVARIAN_BIOPSY_TEST</LocID>                               
+			<Text>卵巢活检</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_OVARIAN_BIOPSY_TEST_DESC</LocID>                               
+			<Text>组织学技术人员目前正在处理患者提供的样本。 他们会很快提供结果。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</LocID>                               
+			<Text>阴道活检样本</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE_DESC</LocID>                               
+			<Text>某些体征和症状可能强烈暗示阴道癌，但其中许多可能是由其他问题引起的。 确定它是癌症的唯一方法是进行活检。 在这个过程中，从可疑区域取出一小块组织。 然后，组织学实验室的技术员将在显微镜下查看组织样本，以确认是否存在癌症或癌前病变，如果存在，则分析是什么类型。 \n\n需要实验室：组织学</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_VAGINAL_BIOPSY_TEST</LocID>                               
+			<Text>阴道活检</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_VAGINAL_BIOPSY_TEST_DESC</LocID>                               
+			<Text>组织学技术人员目前正在处理患者提供的样本。 他们会很快提供结果。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</LocID>                               
+			<Text>唾液腺活检样本</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE_DESC</LocID>                               
+			<Text>涎腺活组织检查包括从一个或多个唾液腺中取出细胞或小块组织，以便在实验室中进行检查。\n\n需要实验室:组织学</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</LocID>                               
+			<Text>涎腺活组织检查</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST_DESC</LocID>                               
+			<Text>组织学技术人员目前正在处理患者提供的样本。 他们会很快提供结果。</Text>  
+		</GameDBLocalizedString>
+		
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

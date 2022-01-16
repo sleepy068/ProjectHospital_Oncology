@@ -1,0 +1,139 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_ONCOLOGYSL_SYMPTOMS">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>1328411791</Name>
+	<Name>Frost</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	<!-- ======================================== -->
+	<!-- ============= Core Content ============= -->
+	<!-- ======================================== -->
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NERVE_DAMAGE</LocID>                               
+		<Text>术后神经性疼痛</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NERVE_DAMAGE_DESC</LocID>                   
+		<Text>如果神经在手术过程中受损，则可能会导致术后神经性疼痛（PONP）。 受损的神经无法正确地将信号从身体的各个部位传递到大脑。 相反，这些信号被夸大了，引起了慢性疼痛，这种疼痛可能持续数月甚至数年。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_SLP_LES_RUPTURE</LocID>                               
+		<Text>病变破裂</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_LES_RUPTURE_DESC</LocID>                               
+		<Text>患者体内的病灶已经破裂。这通常会导致致命的内出血。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HEMOPTYSIS2</LocID>                               
+		<Text>严重咯血</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HEMOPTYSIS2_DESC</LocID>                   
+		<Text>咯血是从支气管、喉咙、气管或肺部咳出血液或带血的粘液。 换句话说，就是气道出血。 这可能发生在肺癌、肺结核、支气管炎或肺炎等感染以及某些心血管疾病中。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SPLENOMEGALY</LocID>                               
+		<Text>脾肿大</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SPLENOMEGALY_DESC</LocID>                   
+		<Text>脾肿大是一种重要的病理体征而并非一种疾病。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_RUP_SPLENOMEGALY</LocID>                               
+		<Text>脾脏破裂</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_RUP_SPLENOMEGALY_DESC</LocID>                   
+		<Text>这是一种急诊疾病。临床症状为脾脏以内大出血及血液对腹膜的刺激为主。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERCALCEMIA</LocID>                               
+		<Text> 血钙过多</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERCALCEMIA_DESC</LocID>                   
+		<Text>高钙血症是指血液中的钙含量高于正常水平。高钙血症通常是由颈部的四个小腺体(甲状旁腺)或癌症引起的。血液中多余的钙会影响许多身体系统。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SEVERE_HYPERCALCEMIA</LocID>                               
+		<Text>严重的高钙血症</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_SEVERE_HYPERCALCEMIA_DESC</LocID>                   
+		<Text>严重高钙血症是一种急症，需要紧急治疗。高钙血症是指血液中的钙含量高于正常水平。严重的高钙血症很少会干扰你的心功能，引起心悸和晕厥，心律失常的迹象和其他心脏问题。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+		<LocID>SYM_SLP_ACUTE_LIVER_FAILURE</LocID>                               
+		<Text>急性肝衰竭</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+		<LocID>SYM_SLP_ACUTE_LIVER_FAILURE_DESC</LocID>                               
+		<Text>肝功能迅速下降的罕见综合征。</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	<!-- ======================================== -->
+	<!-- ============= Core Content ============= -->
+	<!-- ======================================== -->
+	
+	
+	
+	<!-- ============================================== -->
+	<!-- ============= CRP Export Content ============= -->
+	<!-- ============================================== -->
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BL_PMCC</LocID>                               
+		<Text>纯粘液细胞</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_BL_PMCC_DESC</LocID>                   
+		<Text>粘液癌可与其他类型的癌细胞一起形成，反之则认为是纯粘液癌。纯粘液癌90%以上由粘液细胞组成。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_CDF_T_25</LocID>                               
+		<Text>p16INK4a 过度表达</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_CDF_T_25_DESC</LocID>                   
+		<Text>p16（也称为 p16INK4a、细胞周期蛋白依赖性激酶抑制剂 2A、CDKN2A、多重肿瘤抑制因子 1 和许多其他同义词）是一种蛋白质，它通过减缓细胞周期从 G1 期到 S 期的进程来减缓细胞分裂， 从而起到抑癌作用。 p16 是妇科病理学中广泛使用的免疫组织化学标志物。 女性生殖道鳞状细胞癌 (SCC) 中 p16 的强而弥散的细胞质和细胞核表达与高危人乳头瘤病毒 (HPV) 感染和宫颈源性肿瘤密切相关。 子宫颈的大多数 SCC 表达 p16。 然而，p16 可以在其他肿瘤和几种正常人体组织中表达。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_CM_CK19_BRIGHT</LocID>                               
+		<Text>细胞角蛋白 19 (CK19) 明亮表达</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_CM_CK19_BRIGHT_DESC</LocID>                   
+		<Text>角蛋白，I 型细胞骨架 19 也称为 cytokeratin-19 (CK-19) 或 keratin-19 (K19) 是一种 40 kDa 的蛋白质，在人类中由 KRT19 基因编码。 在某些癌症中的表达允许 CK19 帮助充当标记物并帮助确定患者可能患有哪种类型的癌症。</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
