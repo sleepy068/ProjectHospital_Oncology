@@ -1965,7 +1965,7 @@
     </GameDBSymptom>
 	
 	<GameDBSymptom ID="SYM_ONCO_CRP_ORA002_1_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_ORA001_2_DETECTED_DESC</DescriptionLocID>
+        <DescriptionLocID>SYM_ONCO_CRP_ORA002_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
@@ -1993,7 +1993,7 @@
     </GameDBSymptom>
 	
 	<GameDBSymptom ID="SYM_ONCO_CRP_ORA002_1F_DETECTED">
-        <DescriptionLocID>SYM_ONCO_CRP_ORA001_2_DETECTED_DESC</DescriptionLocID>
+        <DescriptionLocID>SYM_ONCO_CRP_ORA002_1_DETECTED_DESC</DescriptionLocID>
         <DiscomfortLevel>None</DiscomfortLevel>
         <PatientComplains>false</PatientComplains>
         <Hazard>Medium</Hazard>
