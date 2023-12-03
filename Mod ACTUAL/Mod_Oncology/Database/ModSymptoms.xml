@@ -44,7 +44,7 @@
 		
 		<RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
         <RiskOfCollapseEndHours>4</RiskOfCollapseEndHours>
-        <CollapseSymptomRef>SYM_SLP_INTERNAL_BLEEDING</CollapseSymptomRef>
+        <CollapseSymptomRef>SYM_CRP_INTERNAL_BLEEDING</CollapseSymptomRef>
 		
         <Examinations>
 			<ExaminationRef>EXM_USG</ExaminationRef>
