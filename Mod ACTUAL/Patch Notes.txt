@@ -1,0 +1,16 @@
+Update v1.0.7.0 Build 22/11/23 | Post 
+
+Additions:
+N/A
+
+Changes:
+Removed all old code
+    ^ I've backed it up incase people have problems but if they do, it'll be a seperate 'backup' mod to protect saves.
+    ^ The old code causes problems with players playing with No Hint In Diagnosis, for the better.
+Changed SYM_SLP_LES_RUPTURE to have CRP version of SYM_SLP_INTERNAL_BLEEDING for collapse symptom
+
+Localisation:
+N/A
+
+Bug Fixes:
+N/A
