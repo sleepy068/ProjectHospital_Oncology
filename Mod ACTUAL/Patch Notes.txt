@@ -10,7 +10,7 @@ Removed all old code
 Changed SYM_SLP_LES_RUPTURE to have CRP version of SYM_SLP_INTERNAL_BLEEDING for collapse symptom
 
 Localisation:
-N/A
+Some grammer and spelling mistakes
 
 Bug Fixes:
 N/A
