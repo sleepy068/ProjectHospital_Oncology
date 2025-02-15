@@ -1,0 +1,746 @@
+<Database>
+  <!-- Oncology Mod by Sleepy068 -->
+  <GameDBStringTable ID="LOC_HU_ADDON_ONCO_DIAGNOSES_ONCO">
+    <LanguageCode>hu</LanguageCode>
+    <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+    <Contributors>
+      <Name>Ratox</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC1_1</LocID>
+        <Text>Bazális sejtes karcinóma (1. stádium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC1_1_DESC</LocID>
+        <Text>A bazálissejtes rák a rák leggyakoribb formája az emberben.  Ez a nem-melanómás bőrrák egy fajtája, amely az epidermisz bazális sejtrétegében (a bőr felső rétegében) kezdődik, nagyon lassan növekszik, és ritkán terjed (áttétet képez).
+Az 1. szakaszban a daganat kb.  2 centiméter széles vagy kisebb, és átterjedhetett a dermiszbe.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC1_2</LocID>
+        <Text>Bazális sejtes karcinóma (2. stádium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC1_2_DESC</LocID>
+        <Text>A bazálissejtes rák a rák leggyakoribb formája az emberben.  Ez a nem-melanómás bőrrák egy fajtája, amely az epidermisz bazális sejtrétegében (a bőr felső rétegében) kezdődik, nagyon lassan növekszik, és ritkán terjed (áttéteket ad).
+A 2. szakaszban a daganat nagyobb.  2 centiméternél szélesebb, átterjedhetett a dermiszbe, és magas kockázati jellemzőkkel rendelkezik, mint például a perineurális invázió.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC1_3</LocID>
+        <Text>Bazális sejtes karcinóma (3. stádium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC1_3_DESC</LocID>
+        <Text>A bazálissejtes rák a rák leggyakoribb formája az emberben.  Ez a nem melanómás bőrrák egy fajtája, amely az epidermisz bazális sejtrétegében (a bőr felső rétegében) kezdődik, nagyon lassan növekszik, és ritkán terjed (áttéteket ad).
+A 3. szakaszban a rák már elterjedt.  a bőr alatti területekre, például izomba, csontba, porcba vagy nyirokcsomókba, de csak az eredeti daganat közelében lévőkre.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC1_4</LocID>
+        <Text>Bazális sejtes karcinóma (4. stádium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC1_4_DESC</LocID>
+        <Text>A bazálissejtes rák a rák leggyakoribb formája az emberben.  Ez a nem melanómás bőrrák egy fajtája, amely az epidermisz bazális sejtrétegében (a bőr felső rétegében) kezdődik, nagyon lassan növekszik, és ritkán terjed (áttéteket ad).
+A 4. szakaszban a rák már elterjedt.  a bőrön kívüli területekre, például távoli szervekre, például az agyra vagy a tüdőre, vagy behatolt a csontvázba.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC2_1</LocID>
+        <Text>Laphámsejtes karcinóma (1. stádium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC2_1_DESC</LocID>
+        <Text>A bőr laphámsejtes karcinóma a bőrrák gyakori formája, amely a bőr középső és külső rétegét alkotó laphámsejtekben alakul ki.
+Az 1. szakaszban a daganat nagyjából 2 centiméter széles vagy kisebb, és előfordulhat, hogy  terjed a dermiszben.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC2_2</LocID>
+        <Text>Laphámsejtes karcinóma (2. stádium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC2_2_DESC</LocID>
+        <Text>A bőr laphámsejtes karcinóma a bőrrák gyakori formája, amely a bőr középső és külső rétegét alkotó laphámsejtekben alakul ki.
+A 2. stádiumban a daganat 2 centiméternél nagyobb, terjedhetett.  a dermisbe, és magas kockázatú jellemzői vannak, mint például a perineurális invázió.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC2_3</LocID>
+        <Text>Laphámsejtes karcinóma (3. stádium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC2_3_DESC</LocID>
+        <Text>A bőr laphámsejtes karcinóma a bőrrák gyakori formája, amely a bőr középső és külső rétegét alkotó laphámsejtekben alakul ki.
+A 3. szakaszban a rák a bőr alatti területekre terjedt ki, mint pl.  izomba, csontba, porcba vagy nyirokcsomókba, de csak az eredeti daganat közelében lévőkbe.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC2_4</LocID>
+        <Text>Laphámsejtes karcinóma (4. stádium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC2_4_DESC</LocID>
+        <Text>A bőr laphámsejtes karcinóma a bőrrák gyakori formája, amely a bőr középső és külső rétegét alkotó laphámsejtekben alakul ki.
+A 4. szakaszban a rák a bőrön kívüli területekre is átterjedt, mint pl.  távoli szervekre, például az agyra vagy a tüdőre, vagy behatolt a csontvázba.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC3_1</LocID>
+        <Text>Melanoma (1. stádium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC3_1_DESC</LocID>
+        <Text>A melanoma akkor fordul elő, amikor a bőrben lévő pigmentsejtek (úgynevezett melanociták) mutálódnak, és ellenőrizetlenül növekedni kezdenek.
+Az 1. szakaszban a rák mélyebbre terjedt a bőrben, de nem terjedt át a nyirokcsomókra vagy a test más részeire.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC3_2</LocID>
+        <Text>Melanoma (2. stádium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC3_2_DESC</LocID>
+        <Text>A melanoma akkor fordul elő, amikor a bőrben lévő pigmentsejtek (úgynevezett melanociták) mutálódnak, és ellenőrizetlenül növekedni kezdenek.
+A 2. stádiumú melanoma vastagabb, átnyúlik az epidermiszen, és tovább terjed a dermiszbe, a bőr sűrű belső rétegébe.  Nagyobb az esélye a terjedésre.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC3_3</LocID>
+        <Text>Melanoma (3. szakasz)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC3_3_DESC</LocID>
+        <Text>A melanoma akkor fordul elő, amikor a bőrben lévő pigmentsejtek (úgynevezett melanociták) mutálódnak és kontrollon kívül kezdenek növekedni.
+A 3. szakasz a melanomát írja le, amely lokálisan vagy a nyirokrendszeren keresztül egy regionális nyirokcsomóba terjedt.  Ennek ellenére nem terjedt át távoli nyirokcsomókra vagy szervekre.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC3_4</LocID>
+        <Text>Melanoma (4. stádium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC3_4_DESC</LocID>
+        <Text>A melanoma akkor fordul elő, amikor a bőrben lévő pigmentsejtek (úgynevezett melanociták) mutálódnak, és ellenőrizetlenül növekedni kezdenek.
+A 4. szakasz a véráramon keresztül a test más részeire, például a bőr vagy a lágyrészek távoli helyeire terjedő melanomát írja le.  , távoli nyirokcsomók vagy más szervek.</Text>
+      </GameDBLocalizedString>
+      <!-- Diagnoses - Adrenal Gland Cancer -->
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_AGC1_0</LocID>
+        <Text>Feokromocitóma (lokalizált)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_AGC1_0_DESC</LocID>
+        <Text>A feokromocitóma a mellékvese szövetének ritka daganata.  Túl sok adrenalin és noradrenalin felszabadulását eredményezi, ezek a hormonok, amelyek szabályozzák a szívritmust, az anyagcserét és a vérnyomást.  Lokalizált, a daganatot korai stádiumban észlelik a mellékvese velőjében az egyik vagy mindkét mellékvesében.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_AGC1_1</LocID>
+        <Text>Feokromocitóma (regionális)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_AGC1_1_DESC</LocID>
+        <Text>A feokromocitóma a mellékvese szövetének ritka daganata.  Túl sok adrenalin és noradrenalin felszabadulását eredményezi, ezek a hormonok, amelyek szabályozzák a szívritmust, az anyagcserét és a vérnyomást.  Regionálisan a rák onnan terjedt, ahol a daganat elkezdődött, a környező szövetekre és/vagy nyirokcsomókra.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_AGC1_2</LocID>
+        <Text>Pheochromocytoma (metasztatikus)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_AGC1_2_DESC</LocID>
+        <Text>A feokromocitóma a mellékvese szövetének ritka daganata.  Túl sok adrenalin és noradrenalin felszabadulását eredményezi, ezek a hormonok, amelyek szabályozzák a szívritmust, az anyagcserét és a vérnyomást.  Áttétes, a rák onnan, ahonnan a daganat elkezdődött, a test egy távoli részére terjedt.  A metasztatikus terjedés valószínűségének előrejelzésére számos kritériumot és pontozási rendszert dolgoztak ki kórszövettani vagy klinikai adatok alapján, de egyetlen rendszer sem bizonyult megbízhatónak.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC_0</LocID>
+        <Text>UD NSC tüdőrák (lokalizált)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC_0_DESC</LocID>
+        <Text>A differenciálatlan, nem kissejtes tüdőrák (NSCLC) akkor kezdődik, amikor a tüdő egészséges sejtjei megváltoznak, és kontrollálatlanul nőnek, és daganatnak, elváltozásnak vagy csomónak nevezett tömeget alkotnak.  A tüdődaganat a tüdőben bárhol kezdődhet.  A differenciálatlan kifejezés olyan sejtek vagy szövetek leírására szolgál, amelyek nem rendelkeznek speciális ("érett") szerkezettel vagy funkcióval.  A differenciálatlan rákos sejtek gyakran gyorsan növekednek és terjednek.  Lokalizált, a rák a tüdőben található, de nem fejlődött a nyirokcsomókba vagy a távoli szervekbe.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC_1</LocID>
+        <Text>UD NSC tüdőrák (regionális)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC_1_DESC</LocID>
+        <Text>A differenciálatlan, nem kissejtes tüdőrák (NSCLC) akkor kezdődik, amikor a tüdő egészséges sejtjei megváltoznak, és kontrollálatlanul nőnek, és daganatnak, elváltozásnak vagy csomónak nevezett tömeget alkotnak.  A tüdődaganat a tüdőben bárhol kezdődhet.  A differenciálatlan kifejezés olyan sejtek vagy szövetek leírására szolgál, amelyek nem rendelkeznek speciális ("érett") szerkezettel vagy funkcióval.  A differenciálatlan rákos sejtek gyakran gyorsan növekednek és terjednek.  Regionálisan a rák a tüdőből a közeli nyirokcsomókba fejlődött.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC_2</LocID>
+        <Text>Áttétes tüdőrák</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC_2_DESC</LocID>
+        <Text>A tüdőrák akkor kezdődik, amikor a kóros sejtek kontrollálatlan módon növekednek és szaporodnak az egyik vagy mindkét tüdőben.  Átterjedhet a test más részeire, például a nyirokcsomókra, az agyra, a mellékvesékre, a májra és a csontokra.  Amikor egy daganat növekszik és agresszívebbé válik, több helyet igényel, és elkezd terjedni más területekre.  Ez a szakasz a metasztatikus tüdőrák kezdete.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC1_0</LocID>
+        <Text>SC tüdőrák (korlátozott stádiumú)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC1_0_DESC</LocID>
+        <Text>A kissejtes tüdőrák akkor kezdődik, amikor a tüdő egészséges sejtjei megváltoznak, és kontrollálatlanul növekednek, és daganatnak, elváltozásnak vagy csomónak nevezett tömeget alkotnak.  Az SCLC a tüdő idegsejtjeiben vagy hormontermelő sejtjeiben kezdődik.  A „kis sejt” kifejezés a rákos sejtek mikroszkóp alatti méretére és alakjára utal.  A korlátozott stádium azt jelenti, hogy a rák csak a mellkas egy részében van, és a sugárterápia kezelési lehetőség lehet.  Körülbelül 3 SCLC-ben szenvedő ember közül 1-nek van korlátozott stádiumú betegsége az első diagnosztizáláskor.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC1_1</LocID>
+        <Text>SC tüdőrák (kiterjedt stádium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC1_1_DESC</LocID>
+        <Text>A kissejtes tüdőrák akkor kezdődik, amikor a tüdő egészséges sejtjei megváltoznak, és kontrollálatlanul növekednek, és daganatnak, elváltozásnak vagy csomónak nevezett tömeget alkotnak.  Az SCLC a tüdő idegsejtjeiben vagy hormontermelő sejtjeiben kezdődik.  A „kis sejt” kifejezés a rákos sejtek mikroszkóp alatti méretére és alakjára utal.  A kiterjedt szakaszt az SCLC leírására használják, amely olyan testrészekre terjedt el, mint a másik tüdő, csont, agy vagy csontvelő.  Sok orvos kiterjedt stádiumnak tekinti az SCLC-t, amely a tüdő körüli folyadékba terjedt.  Körülbelül 3, SCLC-ben szenvedő ember közül 2 súlyos betegségben szenved, amikor először észlelik a rákot.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BC1_0</LocID>
+        <Text>Kolorektális adenokarcinóma (lokalizált)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BC1_0_DESC</LocID>
+        <Text>A vastag- és végbél adenokarcinómái az összes vastag- és végbélrákos eset 95 százalékát teszik ki.  A gyomor-bél traktusban a végbél és a vastagbél adenokarcinómái a vastagbél belsejében található nyálkahártya sejtjeiben alakulnak ki.  A vastag- és végbél adenokarcinómái általában polipnak nevezett szövetnövekedésből indulnak ki.  Az adenomának nevezett polip egy bizonyos típusa rákká fejlődhet.  Lokalizáltan a rák a bélfalra korlátozódik, vagy átterjedhet a bélfal külső felületére.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BC1_1</LocID>
+        <Text>Kolorektális adenokarcinóma (regionális)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BC1_1_DESC</LocID>
+        <Text>A vastag- és végbél adenokarcinómái az összes vastag- és végbélrákos eset 95 százalékát teszik ki.  A gyomor-bél traktusban a végbél és a vastagbél adenokarcinómái a vastagbél belsejében található nyálkahártya sejtjeiben alakulnak ki.  A vastag- és végbél adenokarcinómái általában polipnak nevezett szövetnövekedésből indulnak ki.  Az adenomának nevezett polip egy bizonyos típusa rákká fejlődhet.  Regionálisan a rák a bél közelében lévő nyirokcsomókban terjedt el.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BC1_2</LocID>
+        <Text>Áttétes vastag- és végbélrák</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BC1_2_DESC</LocID>
+        <Text>Ha a bélrákot nem észlelik és nem távolítják el korai stádiumban, a daganat egy része leszakadhat a fő béldaganatról, és általában a nyirokrendszeren vagy a véráramon keresztül továbbterjedhet a közeli nyirokcsomókba vagy a test más részeire.  Ha a rák átterjedt a test egy másik részére (például a májra vagy a tüdőre), azt áttétes ráknak vagy másodlagos (előrehaladott) ráknak nevezik.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_AGC2_0</LocID>
+        <Text>Mellékvesekéreg karcinóma (lokalizált)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_AGC2_0_DESC</LocID>
+        <Text>A mellékvesekéreg karcinóma egy ritka betegség, amelyben rosszindulatú (rák) sejtek képződnek a mellékvese külső rétegében.  Lokalizált, a daganat 5 centiméter vagy kisebb, és csak a mellékvesében található.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_AGC2_1</LocID>
+        <Text>Mellékvesekéreg karcinóma (regionális)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_AGC2_1_DESC</LocID>
+        <Text>A mellékvesekéreg karcinóma egy ritka betegség, amelyben rosszindulatú (rák) sejtek képződnek a mellékvese külső rétegében.  Regionális, a daganat bármilyen méretű, és átterjedt a közeli nyirokcsomókra vagy a közeli szövetekre vagy szervekre (vese, rekeszizom, hasnyálmirigy, lép vagy máj) vagy nagy vérerekre (vesevéna vagy vena cava), és átterjedhet a közeli nyirokba.  csomópontok.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_AGC2_2</LocID>
+        <Text>Mellékvesekéreg karcinóma (metasztatikus)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_AGC2_2_DESC</LocID>
+        <Text>A mellékvesekéreg karcinóma egy ritka betegség, amelyben rosszindulatú (rák) sejtek képződnek a mellékvese külső rétegében.  Áttétes, a daganat bármilyen méretű, átterjedhetett a közeli nyirokcsomókra, és átterjedt a test más részeire is, például a tüdőre, a csontra vagy a hashártyára.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_MC001_0</LocID>
+        <Text>Gastrointestinalis NET (LS)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_MC001_0_DESC</LocID>
+        <Text>A neuroendokrin daganatok (NET-ek) olyan neoplazmák, amelyek az endokrin (hormonális) és az idegrendszer sejtjeiből származnak.  Sok jóindulatú, míg néhány rosszindulatú.  Leggyakrabban a bélben fordulnak elő, ahol gyakran karcinoid daganatoknak nevezik őket, de megtalálhatók a hasnyálmirigyben, a tüdőben és a test többi részében is.  Korlátozott stádiumú, a daganat kisebb, mint 4 cm, és egészen a függeléket a hasfallal összekötő membránig nőtt.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_MC001_1</LocID>
+        <Text>Gastrointestinalis NET (ES)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_MC001_1_DESC</LocID>
+        <Text>A neuroendokrin daganatok (NET-ek) olyan neoplazmák, amelyek az endokrin (hormonális) és az idegrendszer sejtjeiből származnak.  Sok jóindulatú, míg néhány rosszindulatú.  Leggyakrabban a bélben fordulnak elő, ahol gyakran karcinoid daganatoknak nevezik őket, de megtalálhatók a hasnyálmirigyben, a tüdőben és a test többi részében is.  Extenzív stádium, a daganat a hashártyán keresztül nőtt, vagy behatolt a közeli szervekbe vagy struktúrákba.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC01_0</LocID>
+        <Text>MINDEN (B-előtti cella)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC01_0_DESC</LocID>
+        <Text>A pre-B-sejtes akut limfocitás leukémia (ALL) (más néven akut limfoblaszt leukémia) a rák egy fajtája, amely a vért és a csontvelőt érinti.  Az ALL-re az éretlen fehérvérsejtek, úgynevezett limfoblasztok vagy leukémiás blasztok túltermelése jellemző.  Mivel a csontvelő nem képes megfelelő számú vörösvértestet, normál fehérvérsejteket és vérlemezkéket előállítani, az ALL-ben szenvedő betegek hajlamosabbak lesznek a vérszegénységre, a visszatérő fertőzésekre, valamint a zúzódásokra és vérzésekre.  A felnőttkori esetek 75-80%-ában az ALL a B-limfocitákban jelentkezik a csontvelő fejlődésének korai szakaszában.  A betegséget ezért prekurzor B-sejt ALL-nek vagy Pre-B-sejtes ALL-nek nevezik.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC01_1</LocID>
+        <Text>ÖSSZES (B cella)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC01_1_DESC</LocID>
+        <Text>A B-sejtes akut limfoblasztos leukémia, más néven Burkitt-típusú akut limfoblasztos leukémia (B-ALL) vagy érett B-sejtes akut limfoblasztos leukémia (ALL) olyan rák, amely befolyásolja a "B-limfocitákat" - a fehérvérsejteket, amelyek a sejtekben szaporodnak.  a csontok lágy közepe, az úgynevezett velő.  Ez a fajta ALL kevésbé gyakori, és az összes felnőttkori eset körülbelül 3-5%-át teszi ki.  Az érett B-sejtes ALL jellemzője a felszíni immunglobulin jelenléte a limfoblasztokon.  Hagyományos sémák alkalmazásával a betegek mindössze 30-40%-a jut teljes remisszióba (CR), és kevés beteg él túl hosszú távon.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC01_2</LocID>
+        <Text>MINDEN (T cella)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC01_2_DESC</LocID>
+        <Text>A T-sejtes akut limfocitás leukémia (T-ALL) az akut leukémia egy fajtája, ami azt jelenti, hogy agresszív és gyorsan fejlődik.  A limfoid sejteket termelő őssejteket érinti, különösen a T-limfocitáknak nevezett fehérvérsejteket, szemben az akut limfoblasztos leukémiával (ALL), amely általában a B-limfocitákat érinti.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC02_A</LocID>
+        <Text>CLL (stabil)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC02_A_DESC</LocID>
+        <Text>A krónikus limfocitás leukémia (CLL) (stabil) a lassan növekvő leukémia egyik fajtája, amely a fejlődő B-limfocitákat érinti.  A B-limfociták (más néven B-sejtek) speciális fehérvérsejtek.  Normál körülmények között immunglobulinokat (más néven antitesteket) termelnek, amelyek segítenek megvédeni szervezetünket a fertőzésektől és betegségektől.  A CLL-ben szenvedő betegeknél a limfociták rosszindulatú (rákos) változáson mennek keresztül, és leukémiás sejtekké válnak.  Fontos hangsúlyozni, hogy sok embernél a CLL hosszú hónapokig és évekig stabil marad, és csekély, ha egyáltalán nincs hatással életmódjukra vagy általános egészségi állapotukra.  A CLL-rel diagnosztizált emberek körülbelül 30-50%-a soha nem igényel kezelést a betegsége miatt, és a diagnózis ellenére sok évig túlélheti.  Mivel a CLL lassan fejlődik ki, sok embernek nincsenek tünetei, különösen a korai stádiumban, és a betegséget a rutin vérvizsgálat során veszik fel.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC02_B</LocID>
+        <Text>CLL (haladó)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC02_B_DESC</LocID>
+        <Text>A krónikus limfocitás leukémia (CLL) (fejlett) (ritka) a lassan növekvő leukémia egyik fajtája, amely a fejlődő B-limfocitákat érinti.  A B-limfociták (más néven B-sejtek) speciális fehérvérsejtek.  Normál körülmények között immunglobulinokat (más néven antitesteket) termelnek, amelyek segítenek megvédeni szervezetünket a fertőzésektől és betegségektől.  A CLL-ben szenvedő betegeknél a limfociták rosszindulatú (rákos) változáson mennek keresztül, és leukémiás sejtekké válnak.  Fontos hangsúlyozni, hogy sok embernél a CLL hosszú hónapokig és évekig stabil marad, és csekély, ha egyáltalán nincs hatással életmódjukra vagy általános egészségi állapotukra.  A CLL-rel diagnosztizált emberek körülbelül 30-50%-a soha nem igényel kezelést a betegsége miatt, és a diagnózis ellenére sok évig túlélheti.  Mivel a CLL lassan fejlődik ki, sok embernek nincsenek tünetei, különösen a korai stádiumban, és a betegséget a rutin vérvizsgálat során veszik fel.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC03_0</LocID>
+        <Text>T-sejtes LGL leukémia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC03_0_DESC</LocID>
+        <Text>A T-sejtes nagy szemcsés limfocita (LGL) leukémia a „limfocitáknak” nevezett fehérvérsejteket érintő krónikus leukémia.  A limfociták a szervezet immunrendszerének részét képezik, és segítenek bizonyos fertőzések leküzdésében.  Az LGL leukémiát megnagyobbodott limfociták jellemzik, amelyek észrevehető szemcséket tartalmaznak, amelyek a vér mikroszkóp alatti vizsgálatakor láthatók.  Az LGL leukémiának két típusa van: T-sejtes (T-LGL) és természetes gyilkos sejt (NK-LGL).  A T-sejtes és NK-sejtes LGL leukémia gyakorisága 2-5 százalék között mozog.  A T-sejtes nagy szemcsés limfocita (LGL) leukémia a citotoxikus T-sejtek klonális proliferációja, amely neutropeniát, vérszegénységet és/vagy thrombocytopeniát okoz.  Ez az állapot gyakran társul autoimmun rendellenességekhez, különösen rheumatoid arthritishez és más limfoproliferatív rendellenességekhez.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC03_1</LocID>
+        <Text>NK-sejtes LGL leukémia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC03_1_DESC</LocID>
+        <Text>Az NK-Cell nagy szemcsés limfocita (LGL) leukémia a krónikus leukémia egyik fajtája, amely a fehérvérsejteket "limfocitáknak" nevezik.  A limfociták a szervezet immunrendszerének részét képezik, és segítenek bizonyos fertőzések leküzdésében.  Az LGL leukémiát megnagyobbodott limfociták jellemzik, amelyek észrevehető szemcséket tartalmaznak, amelyek a vér mikroszkóp alatti vizsgálatakor láthatók.  Az LGL leukémiának két típusa van: T-sejtes (T-LGL) és természetes gyilkos sejt (NK-LGL).  A T-sejtes és NK-sejtes LGL leukémia gyakorisága 2-5 százalék között mozog.  Az NK-sejtes leukémiában szenvedő betegek többsége tünetmentes, de az agresszív variánsban szenvedő betegeknél általában hepatomegalia és splenomegalia, valamint gyakran B-tünetek jelentkeznek.  Körülbelül egyharmadánál lymphadenopathia van, és extranodális érintettség is előfordulhat.  A betegek átlagosan fiatalabbak, mint a T-sejtes LGL leukémiában szenvedők.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC03_2</LocID>
+        <Text>T-sejtes prolimfocita leukémia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC03_2_DESC</LocID>
+        <Text>A T-sejtes prolimfocita leukémia (T-PLL) egy rendkívül ritka és jellemzően agresszív rosszindulatú daganat (rák), amelyet az érett T-sejtek (T-limfociták) kontrollálatlan növekedése jellemez.  A T-sejtek a fehérvérsejtek egy fajtája, amely megvédi a szervezetet a fertőzésektől.  A T-PLL az idősebb felnőtteket érinti, akiknek átlagos életkora 61 év, és gyakoribb férfiaknál, mint nőknél.  A T-sejt génjeiben bekövetkező abnormális változások (mutációk) egy normális, egészséges T-sejtből rákos sejtté válhatnak.  A mutált T-sejt genetikai hibái arra késztetik a sejtet, hogy folytassa a növekedést és az osztódást, amikor egy egészséges sejt általában abbahagyja az osztódást, és végül meghal.  Minden sejt, amely a kezdeti leukémiás sejtből származik, ugyanazzal a mutált DNS-sel rendelkezik.  Ennek eredményeként idővel a leukémiás sejtek száma megszaporodik, és a vérben más helyekre is eljuthat, beleértve a csontvelőt, a lépet, a májat, a nyirokcsomókat és néha a bőrt is.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC04_0</LocID>
+        <Text>Akut mieloid leukémia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC04_0_DESC</LocID>
+        <Text>Az akut mieloid leukémia akkor alakul ki, amikor a szervezet túl sok éretlen fehérvérsejtet termel, amelyeket mieloid blast sejteknek neveznek, amelyeket mieloblasztoknak is neveznek.  A mieloblasztok ellenőrizetlenül szaporodnak, és tovább osztódnak, de soha nem érnek normális sejtekké.  Az abnormális blastsejteket leukémiás sejteknek nevezik.  Mivel a leukémiás sejtek éretlenek és rendellenesek, nem látják el a fehérvérsejtek szokásos fertőzésellenes funkcióját.  Kiszorítják a normál fehérvérsejteket is, amelyek aztán nem tudnak megfelelően működni.  Ez növeli a fertőzések kockázatát.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC05_A</LocID>
+        <Text>CML (krónikus fázis)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC05_A_DESC</LocID>
+        <Text>A krónikus mieloid leukémia (CML) (krónikus fázis) a rák egy fajtája, amely a vért és a csontvelőt érinti.  CML-ben a csontvelő túl sok fehérsejtet, úgynevezett granulocitát termel.  Ezek a sejtek (néha blastoknak vagy leukémiás blasztoknak) fokozatosan feltorlódnak a csontvelőben, megzavarva a normál vérsejttermelést.  A csontvelőből is kifolynak, és a véráramban keringenek a testben.  Mivel nem teljesen érettek, nem képesek megfelelően működni a fertőzések elleni küzdelemben.  Idővel a vörösvértestek és vérlemezkék hiánya vérszegénységet, vérzést és/vagy zúzódásokat okozhat.  Összességében a CML ritka betegség, amely az összes diagnosztizált rák körülbelül 0,03%-át teszi ki.  Sok krónikus mieloid leukémiában (CML) szenvedő embernek nincsenek tünetei.  Krónikus – A fehérvérsejtszám megnövekszik, és kis számú éretlen sejt, úgynevezett blast sejt található a vérben és a csontvelőben.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC05_B</LocID>
+        <Text>CML (gyorsított fázis)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC05_B_DESC</LocID>
+        <Text>A krónikus mieloid leukémia (CML) (akcelerált fázis) a rák egy fajtája, amely a vért és a csontvelőt érinti.  CML-ben a csontvelő túl sok fehérsejtet, úgynevezett granulocitát termel.  Ezek a sejtek (néha blastoknak vagy leukémiás blasztoknak) fokozatosan feltorlódnak a csontvelőben, megzavarva a normál vérsejttermelést.  A csontvelőből is kifolynak, és a véráramban keringenek a testben.  Mivel nem teljesen érettek, nem képesek megfelelően működni a fertőzések elleni küzdelemben.  Idővel a vörösvértestek és vérlemezkék hiánya vérszegénységet, vérzést és/vagy zúzódásokat okozhat.  Összességében a CML ritka betegség, amely az összes diagnosztizált rák körülbelül 0,03%-át teszi ki.  Sok krónikus mieloid leukémiában (CML) szenvedő embernek nincsenek tünetei.  Felgyorsult – A felgyorsult fázisban megemelkedett az éretlen blastsejtek száma, és időnként a Ph kromoszóma mellett új kromoszómális változások is bekövetkeznek.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC05_C</LocID>
+        <Text>CML (robbanásfázis)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC05_C_DESC</LocID>
+        <Text>A krónikus mieloid leukémia (CML) (robbanásfázis) a rák egy fajtája, amely a vért és a csontvelőt érinti.  CML-ben a csontvelő túl sok fehérsejtet, úgynevezett granulocitát termel.  Ezek a sejtek (néha blastoknak vagy leukémiás blasztoknak) fokozatosan feltorlódnak a csontvelőben, megzavarva a normál vérsejttermelést.  A csontvelőből is kifolynak, és a véráramban keringenek a testben.  Mivel nem teljesen érettek, nem képesek megfelelően működni a fertőzések elleni küzdelemben.  Idővel a vörösvértestek és vérlemezkék hiánya vérszegénységet, vérzést és/vagy zúzódásokat okozhat.  Összességében a CML ritka betegség, amely az összes diagnosztizált rák körülbelül 0,03%-át teszi ki.  Sok krónikus mieloid leukémiában (CML) szenvedő embernek nincsenek tünetei.  Robbanásválság – Robbanási fázis (más néven robbanásválság fázis).  A blastos fázis úgy jelenik meg, és úgy viselkedik, mint a mieloid leukémia akut formája.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC06_0</LocID>
+        <Text>Szőrös sejtes leukémia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC06_0_DESC</LocID>
+        <Text>A hajsejtes leukémia (HCL) a limfoid rendszer krónikus leukémiájának egy ritka típusa, amelyben abnormális B-limfociták halmozódnak fel a csontvelőben, a májban és a lépben.  Mikroszkóp alatt ezeknek a sejteknek a felszínén apró szőrszerű kiemelkedések láthatók, innen ered a nevük „szőrös sejt”.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC06_1</LocID>
+        <Text>Szőrös sejtes leukémia változat</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC06_1_DESC</LocID>
+        <Text>A hajasejtes leukémia variánst (HCL-V) a kis, érett B-sejtes leukémia ritka és indolens formájaként határozzák meg, amelyet splenomegalia, emelkedett fehérvérsejtszám (WBC) és hipersejtes csontvelő jellemez.  A HCL-V agresszívebb és ellenállóbb a terápiával szemben, mint a klasszikus HCL.  A HCL-változatot korábban a HCL altípusának tartották, de 2008-ban az Egészségügyi Világszervezet arra a következtetésre jutott, hogy a HCL-től elkülönülő és biológiailag különálló entitás.  A HCL-változat ritkább, mint a HCL, és eltérő klinikai lefolyású.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BREC1_0</LocID>
+        <Text>Ductal Carcinoma In Situ</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BREC1_0M</LocID>
+        <Text>Ductal Carcinoma In Situ</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BREC1_0_DESC</LocID>
+        <Text>A ductal carcinoma in situ (DCIS) nem invazív emlőrák.  A duktális azt jelenti, hogy a rák a tejcsatornákon belül kezdődik, a karcinóma minden olyan rákra utal, amely a bőrben vagy más szövetekben (beleértve a mellszövetet) kezdődik, amely borítja vagy béleli a belső szerveket, az in situ pedig "eredeti helyén".  A DCIS-t "nem invazívnak" nevezik, mert nem terjedt el a tejcsatornán túl a normál környező emlőszövetekbe.  A DCIS nem életveszélyes, de a DCIS később növelheti az invazív emlőrák kialakulásának kockázatát.  A ductalis carcinoma in situ (DCIS) azt jelenti, hogy túl sok sejt van, és rákos jellemzőkkel bírnak, de még mindig a csatorna belsejében vannak.  Bár ritka, férfiaknál is kialakulhat mellrák.
+A DCIS-nek általában nincsenek jelei vagy tünetei.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BREC1_1</LocID>
+        <Text>Invazív duktális karcinóma (IDC)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BREC1_1M</LocID>
+        <Text>Invazív duktális karcinóma (IDC)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BREC1_1_DESC</LocID>
+        <Text>Az invazív duktális karcinóma (IDC), amelyet néha infiltráló duktális karcinómának is neveznek, a mellrák leggyakoribb típusa.  Az összes emlőrák körülbelül 80%-a invazív ductalis karcinóma.  Az invazív azt jelenti, hogy a rák „behatolt” vagy átterjedt a környező emlőszövetekre.  A duktális azt jelenti, hogy a rák a tejcsatornákban kezdődött, amelyek a tejet a tejtermelő lebenyekből a mellbimbóba szállítják.  A karcinóma minden olyan rákra utal, amely a bőrben vagy más, a belső szerveket lefedő szövetekben kezdődik – például a mellszövetben.  Összességében az „invazív duktális karcinóma” olyan rákra utal, amely áttörte a tejcsatorna falát, és elkezdett behatolni a mell szöveteibe.  Idővel az invazív duktális karcinóma átterjedhet a nyirokcsomókra és esetleg a test más területeire is.  Bár ritka, férfiaknál is kialakulhat mellrák.
+Először előfordulhat, hogy az invazív ductalis karcinóma nem okoz tüneteket.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BREC1_2</LocID>
+        <Text>Áttétes emlőrák</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BREC1_2M</LocID>
+        <Text>Áttétes emlőrák</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BREC1_2_DESC</LocID>
+        <Text>A metasztatikus emlőrák (más néven IV. stádium) olyan emlőrák, amely a test másik részébe, leggyakrabban a májba, az agyba, a csontokba vagy a tüdőbe terjedt.  A rákos sejtek elszakadhatnak az emlőben lévő eredeti daganattól, és a véráramon vagy a nyirokrendszeren keresztül eljuthatnak a test más részeire, amely csomópontok és erek nagy hálózata, amely a baktériumok, vírusok és sejthulladékok eltávolítására szolgál.  Az emlőrák az eredeti diagnózis és kezelés után hónapokkal vagy évekkel visszatérhet a test másik részébe.  A korai stádiumú emlőrákban diagnosztizált nők közel 30%-ánál áttétes betegség alakul ki.  Bár ritka, férfiaknál is kialakulhat mellrák.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_OVAC1_0F</LocID>
+        <Text>Magas fokú savós karcinóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_OVAC1_0F_DESC</LocID>
+        <Text>A magas fokozatú savós petefészekkarcinóma (HGSC) egyfajta daganat, amely a hasi kismedencei üreg savós epiteliális rétegéből származik, és főként a petefészekben található.  A HGSC-k teszik ki a petefészekrákos esetek többségét[1], és ezek a legalacsonyabb túlélési arányok.  A HGSC különbözik az alacsony fokú savós karcinómától (LGSC), amely a petefészekszövetből származik, és kevésbé agresszív.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_OVAC1_1F</LocID>
+        <Text>Alacsony fokú savós karcinóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_OVAC1_1F_DESC</LocID>
+        <Text>Az alacsony fokú savós petefészekrák ritka betegség, amely a petefészekrákos esetek kevesebb mint 10%-át teszi ki.  A petefészek alacsony fokú savós karcinóma (LGSC) kevésbé gyakori és agresszív, mint a magas fokú petefészekrák, de sokféle kemoterápiának ellenáll.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_OVAC1_2F</LocID>
+        <Text>Áttétes petefészekrák</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_OVAC1_2F_DESC</LocID>
+        <Text>Az áttétes petefészekrák egy előrehaladott stádiumú rosszindulatú daganat, amely a petefészkekben lévő sejtekből a test távoli területeire terjed.  Ez a fajta rák nagy valószínűséggel a májra, a tüdő körüli folyadékra, a lépre, a belekre, az agyra, a bőrre vagy a hason kívüli nyirokcsomókra terjed.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_PROC1_0M</LocID>
+        <Text>Prosztatarák (1. stádium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_PROC1_0M_DESC</LocID>
+        <Text>A prosztatarák olyan rák, amely a prosztatában fordul elő, egy kis dió alakú férfimirigyben, amely a spermiumokat tápláló és szállító magfolyadékot termeli.  A prosztatarák az egyik leggyakoribb rákfajta a férfiaknál.  Általában a prosztatarák lassan növekszik, és kezdetben a prosztata mirigyére korlátozódik, ahol nem okozhat komoly károkat.  Míg azonban a prosztatarák bizonyos típusai lassan nőnek, és minimális kezelést igényelhetnek, vagy egyáltalán nem igényelnek kezelést, más típusok agresszívek és gyorsan terjedhetnek.
+Az 1. szakaszban a rák a prosztatára korlátozódik.  Az 1. szakasz nem észlelhető digitális rektális vizsgálat során.  Általában lassú növekedésre számítanak.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_PROC1_1M</LocID>
+        <Text>Prosztatarák (2. szakasz)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_PROC1_1M_DESC</LocID>
+        <Text>A prosztatarák olyan rák, amely a prosztatában fordul elő, egy kis dió alakú férfimirigyben, amely a spermiumokat tápláló és szállító magfolyadékot termeli.  A prosztatarák az egyik leggyakoribb rákfajta a férfiaknál.  Általában a prosztatarák lassan növekszik, és kezdetben a prosztata mirigyére korlátozódik, ahol nem okozhat komoly károkat.  Míg azonban a prosztatarák bizonyos típusai lassan nőnek, és minimális kezelést igényelhetnek, vagy egyáltalán nem igényelnek kezelést, más típusok agresszívek és gyorsan terjedhetnek.
+A 2. szakaszban a rák egy digitális végbélvizsgálat során észlelhető.  A betegség továbbra is a prosztatára korlátozódik, de a sejtek rendellenesek lehetnek, és gyorsabban növekedhetnek.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_PROC1_2M</LocID>
+        <Text>Prosztatarák (3. szakasz)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_PROC1_2M_DESC</LocID>
+        <Text>A prosztatarák olyan rák, amely a prosztatában fordul elő, egy kis dió alakú férfimirigyben, amely a spermiumokat tápláló és szállító magfolyadékot termeli.  A prosztatarák az egyik leggyakoribb rákfajta a férfiaknál.  Általában a prosztatarák lassan növekszik, és kezdetben a prosztata mirigyére korlátozódik, ahol nem okozhat komoly károkat.  Míg azonban a prosztatarák bizonyos típusai lassan nőnek, és minimális kezelést igényelhetnek, vagy egyáltalán nem igényelnek kezelést, más típusok agresszívek és gyorsan terjedhetnek.
+A 3. stádiumú prosztatarák esetében a rák a prosztata közelében lévő szövetekben található.  Lehet, hogy elérte az ondóhólyagokat is.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_PROC1_3M</LocID>
+        <Text>Prosztatarák (4. szakasz)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_PROC1_3M_DESC</LocID>
+        <Text>A prosztatarák olyan rák, amely a prosztatában fordul elő, egy kis dió alakú férfimirigyben, amely a spermiumokat tápláló és szállító magfolyadékot termeli.  A prosztatarák az egyik leggyakoribb rákfajta a férfiaknál.  Általában a prosztatarák lassan növekszik, és kezdetben a prosztata mirigyére korlátozódik, ahol nem okozhat komoly károkat.  Míg azonban a prosztatarák bizonyos típusai lassan nőnek, és minimális kezelést igényelhetnek, vagy egyáltalán nem igényelnek kezelést, más típusok agresszívek és gyorsan terjedhetnek.
+A 4. stádiumú prosztatarák azt jelenti, hogy a rák behatolt a test más részeibe, például a végbélbe, a közeli nyirokcsomókba vagy a csontba.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC07_0</LocID>
+        <Text>Diffúz nagy B-sejtes (NOS) limfóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC07_0_DESC</LocID>
+        <Text>A diffúz nagy B-sejtes limfóma (másként nem specifikált) (DLBCL) a non-Hodgkin limfóma agresszív típusa, amely a nyirokrendszer B-sejtjéből fejlődik ki.  A mikroszkóp alatt nagy malignus limfociták láthatók diffúz módon a mintában.  A DLBCL a non-Hodgkin limfóma leggyakoribb altípusa, amely az esetek 30-40%-át teszi ki.  A DLBCL-nek többféle típusa létezik, a legtöbb embernél a DLBCL „másképpen nem meghatározott” altípust diagnosztizálják.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC08_0</LocID>
+        <Text>Follikuláris limfóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC08_0_DESC</LocID>
+        <Text>A follikuláris limfóma az indolens (lassan növekvő) NHL (non-Hodgkin limfóma) leggyakoribb altípusa, amely az összes NHL 20-30%-át teszi ki.  A follikuláris limfóma jellemzően középkorú vagy idősebb felnőtteket érint.  A legtöbb indolens limfómához hasonlóan a follikuláris limfómával diagnosztizált embereknek általában a test számos részén limfómája van a diagnózis idején.  Az FL-ben szenvedők kis százalékának limfómája idővel az NHL agresszívabb formájává, általában DLBC-vé alakulhat át.  Ha korai stádiumban diagnosztizálják, előfordulhat, hogy nem adnak kezelést (Figyelj és várj).</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC4_0</LocID>
+        <Text>Merkel-sejtes karcinóma (helyi)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC4_0_DESC</LocID>
+        <Text>A Merkel-sejtes karcinóma (ritka) a bőrrák ritka típusa, amely általában hússzínű vagy kékes-vörös csomóként jelenik meg, gyakran az arcon, a fejen vagy a nyakon.  A Merkel-sejtes karcinómát neuroendokrin bőrkarcinómának is nevezik.  A Merkel-sejtes karcinóma hajlamos gyorsan növekedni, és korai stádiumban áttétet képez (terjed).  Általában először a közeli nyirokcsomókra terjed, majd a test távoli részein lévő nyirokcsomókra vagy bőrre, tüdőre, agyra, csontokra vagy más szervekre.  A Merkel-sejtes karcinóma a bőrrák halálozásának második leggyakoribb oka a melanoma után.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC4_1</LocID>
+        <Text>Merkel-sejtes karcinóma (áttétes)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC4_1_DESC</LocID>
+        <Text>A Merkel-sejtes karcinóma (ritka) a bőrrák ritka típusa, amely általában hússzínű vagy kékes-vörös csomóként jelenik meg, gyakran az arcon, a fejen vagy a nyakon.  A Merkel-sejtes karcinómát neuroendokrin bőrkarcinómának is nevezik.  A Merkel-sejtes karcinóma hajlamos gyorsan növekedni, és korai stádiumban áttétet képez (terjed).  Általában először a közeli nyirokcsomókra terjed, majd a test távoli részein lévő nyirokcsomókra vagy bőrre, tüdőre, agyra, csontokra vagy más szervekre.  A Merkel-sejtes karcinóma a bőrrák halálozásának második leggyakoribb oka a melanoma után.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC09_0</LocID>
+        <Text>Köpenysejtes limfóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC09_0_DESC</LocID>
+        <Text>A köpenysejtes limfóma a limfóma viszonylag ritka típusa, amely az összes non-Hodgkin limfóma körülbelül 5-10%-át teszi ki.  A nyirokcsomó tüszőjében lévő B-sejtek külső szélét (köpenyzónát) érinti.  Az esetek 85%-ában abnormalitás akkor következik be, amikor két kromoszóma (11. és 14.) eltörik és összekapcsolódik egymással.  Ezt „transzlokációnak” nevezik, és a B-sejtek túlzottan termelik a ciklin D1 nevű fehérjét.  Szokásos mennyiségben a Cyclin D1 elősegíti a normál sejtnövekedést, a túlzott mennyiség pedig a köpenyzóna sejtek ellenőrizetlen növekedését eredményezi, ami MCL-hez vezethet.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC2_0</LocID>
+        <Text>Nagysejtes tüdőkarcinóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC2_0_DESC</LocID>
+        <Text>A tüdő nagysejtes karcinóma a nem kissejtes tüdőrák egyik formája.  A nem kissejtes tüdőrákok a tüdőrákok 80 százalékát teszik ki, és ezeknek nagyjából 10 százaléka a tüdő nagysejtes karcinóma.  Ellentétben egyes tüdőrákokkal, amelyek gyakrabban jelentkeznek köhögéssel vagy tüdőfertőzéssel, a korai tünetek gyakran magukban foglalják a légszomj és a fáradtság homályos érzését.  A nagysejtes karcinómákat nagysejtes tüdőráknak is nevezik.  A mikroszkóp alatti vizsgálat során nagy, kerek sejtek megjelenéséről kapták a nevüket, bár maguk a daganatok is nagyok, ha diagnosztizálják őket.  A nagysejtes karcinómák gyakran a tüdő külső régióiban fordulnak elő, és hajlamosak gyorsan növekedni és gyorsabban terjedni, mint a nem kissejtes tüdőrák más formái.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC3_0</LocID>
+        <Text>Tüdő adenokarcinóma (korai)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC3_0_DESC</LocID>
+        <Text>A tüdő adenokarcinóma a tüdőrák leggyakoribb típusa, és a tüdőrák más formáihoz hasonlóan ezt is eltérő sejtes és molekuláris jellemzők jellemzik.  A számos nem-kissejtes tüdőrák (NSCLC) közé sorolják, hogy megkülönböztessék a kissejtes tüdőráktól, amelynek eltérő viselkedése és prognózisa van.  A tüdőrák jellemzően nem okoz jeleket és tüneteket a legkorábbi stádiumban.  A tüdőrák jelei és tünetei általában csak akkor jelentkeznek, ha a betegség előrehaladott.
+A korán felismert rák esetén a rákot általában csak abban a szövetben vagy szervben találják meg, ahol elkezdődött, és nem terjedt át a közeli nyirokcsomókra vagy a test más részeire.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC3_1</LocID>
+        <Text>Tüdő adenokarcinóma (haladó)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC3_1_DESC</LocID>
+        <Text>A tüdő adenokarcinóma a tüdőrák leggyakoribb típusa, és a tüdőrák más formáihoz hasonlóan ezt is eltérő sejtes és molekuláris jellemzők jellemzik.  A számos nem-kissejtes tüdőrák (NSCLC) közé sorolják, hogy megkülönböztessék a kissejtes tüdőráktól, amelynek eltérő viselkedése és prognózisa van.  A tüdőrák jellemzően nem okoz jeleket és tüneteket a legkorábbi stádiumban.  A tüdőrák jelei és tünetei általában csak akkor jelentkeznek, ha a betegség előrehaladott.
+Előrehaladott rák esetén a daganatok bármilyen méretűek lehetnek, és nagy valószínűséggel átterjedtek a mellkas másik oldalán, a kulcscsont közelében lévő nyirokcsomókra, vagy behatoltak a mellkas egyéb struktúráiba, például a szívbe vagy a nyelőcsőbe.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC4_0</LocID>
+        <Text>Laphámsejtes tüdőrák</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LC4_0_DESC</LocID>
+        <Text>A tüdő laphámsejtes karcinóma, más néven epidermoid karcinóma, a nem kissejtes tüdőrák egyik fajtája, amely jellemzően a tüdő egyik légjáratában vagy hörgőjében alakul ki.  Ez a nem-kissejtes tüdőrák második leggyakoribb típusa, és az összes tüdőrákos eset nagyjából 30 százalékát teszi ki.  Ez a fajta rák általában lassan növekszik, de végül átterjedhet a test más területeire is.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BC2_0</LocID>
+        <Text>Signet gyűrűsejtes kolorektális karcinóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BC2_0_DESC</LocID>
+        <Text>A Signet gyűrűsejtes karcinóma (SRCC) (ritka) az erősen rosszindulatú adenokarcinóma ritka formája, amely mucint termel.  Ez egy epiteliális rosszindulatú daganat, amelyet a pecsétgyűrűs sejtek szövettani megjelenése jellemez.  Az elsődleges SRCC daganatok leggyakrabban a gyomor mirigysejtjeiben találhatók (az SRCC a betegek 90 százalékában a gyomorból származik), ritkábban az emlőben, az epehólyagban, a húgyhólyagban és a hasnyálmirigyben.  Az SRCC-k általában nem képződnek a tüdőben.  A vastagbélrákok körében az SRCC prevalenciája kevesebb, mint egy százalék.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BC3_0</LocID>
+        <Text>Mucinosus vastag- és végbélrák (vegyes)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BC3_0_DESC</LocID>
+        <Text>A mucinosus colorectalis carcinoma a colorectalis rák (CRC) különálló altípusa, amelyet bőséges extracelluláris mucin jelenléte jellemez, amely a daganat térfogatának legalább 50%-át teszi ki.  Mucinosus colorectalis adenocarcinoma a CRC-s betegek 10–20%-ában fordul elő.  Mucinosus karcinóma más típusú rákos sejtek mellett is kialakulhat, amikor ez megtörténik, a rákot kevert mucinosus karcinómának nevezik.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BC3_1</LocID>
+        <Text>Mucinosus vastag- és végbélrák (Prue)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BC3_1_DESC</LocID>
+        <Text>A mucinosus colorectalis carcinoma a colorectalis rák (CRC) különálló altípusa, amelyet bőséges extracelluláris mucin jelenléte jellemez, amely a daganat térfogatának legalább 50%-át teszi ki.  Mucinosus colorectalis adenocarcinoma a CRC-s betegek 10–20%-ában fordul elő.  Mucinosus karcinóma kialakulhat más típusú rákos sejtek mellett, de ha nem, akkor a rák „tisztának” minősül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LIV0_0</LocID>
+        <Text>Hepatocelluláris karcinóma (helyi)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LIV0_0_DESC</LocID>
+        <Text>A hepatocelluláris karcinóma (HCC) a máj elsődleges rosszindulatú daganata, amely elsősorban krónikus májbetegségben és cirrhosisban szenvedő betegeknél fordul elő.  A betegek legfeljebb 25%-ának azonban nem szerepel cirrózisa vagy annak kockázati tényezői.  A tünetek gyakran nem jelentkeznek a rák korai szakaszában.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LIV0_1</LocID>
+        <Text>Hepatocelluláris karcinóma (regionális)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LIV0_1_DESC</LocID>
+        <Text>A hepatocelluláris karcinóma (HCC) a máj elsődleges rosszindulatú daganata, amely elsősorban krónikus májbetegségben és cirrhosisban szenvedő betegeknél fordul elő.  A betegek legfeljebb 25%-ának azonban nem szerepel cirrózisa vagy annak kockázati tényezői.  A tünetek gyakran nem jelentkeznek a rák korai szakaszában.
+Regionálisan a rák a májból a közeli nyirokcsomókba fejlődött.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LIV0_2</LocID>
+        <Text>Hepatocelluláris karcinóma (kritikus)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LIV0_2_DESC</LocID>
+        <Text>A hepatocelluláris karcinóma (HCC) a máj elsődleges rosszindulatú daganata, amely elsősorban krónikus májbetegségben és cirrhosisban szenvedő betegeknél fordul elő.  A betegek legfeljebb 25%-ának azonban nem szerepel cirrózisa vagy annak kockázati tényezői.
+Kritikus állapotban a hepatocelluláris karcinóma (HCC) spontán szakadása potenciálisan életveszélyes szövődmény.  A diagnózis nehéz lehet, különösen ismert májcirrhosis vagy daganat hiányában.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LIV0_3</LocID>
+        <Text>Áttétes májrák</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_LIV0_3_DESC</LocID>
+        <Text>A májmetasztázis olyan rákos daganat, amely a szervezet egy másik helyéről indult rákból terjedt át a májra.  Másodlagos májráknak is nevezik.  Az elsődleges májrák a májból származik, és leggyakrabban olyan egyéneket érint, akiknek olyan kockázati tényezői vannak, mint a hepatitis vagy cirrhosis.  Ha áttétes, ez azt jelenti, hogy a rák behatolt a test más részeibe, például más szervekbe, közeli nyirokcsomókba vagy csontba.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC01_0_V2</LocID>
+        <Text>MINDEN (B-előtti cella)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC01_1_V2</LocID>
+        <Text>ÖSSZES (B cella)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC01_2_V2</LocID>
+        <Text>MINDEN (T cella)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC02_A_V2</LocID>
+        <Text>CLL (stabil)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC02_B_V2</LocID>
+        <Text>CLL (haladó)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC03_0_V2</LocID>
+        <Text>T-sejtes LGL leukémia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC03_1_V2</LocID>
+        <Text>NK-sejtes LGL leukémia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC03_2_V2</LocID>
+        <Text>T-sejtes prolimfocita leukémia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC04_0_V2</LocID>
+        <Text>Akut mieloid leukémia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC05_A_V2</LocID>
+        <Text>CML (krónikus fázis)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC05_B_V2</LocID>
+        <Text>CML (gyorsított fázis)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC05_C_V2</LocID>
+        <Text>CML (robbanásfázis)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC08_0_V2</LocID>
+        <Text>Follikuláris limfóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BLC07_0_V2</LocID>
+        <Text>Diffúz nagy B-sejtes (NOS) limfóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BREC1_1_V2</LocID>
+        <Text>Invazív duktális karcinóma (IDC)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BREC1_1M_V2</LocID>
+        <Text>Invazív duktális karcinóma (IDC)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_MC001_1_V2</LocID>
+        <Text>Gastrointestinalis NET (ES)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC3_4_V2</LocID>
+        <Text>Melanoma (4. stádium)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_SC4_1_V2</LocID>
+        <Text>Merkel-sejtes karcinóma (áttétes)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_ORA001_1</LocID>
+        <Text>Mucoepidermoid karcinóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_ORA001_1_DESC</LocID>
+        <Text>Merkel-sejtes karcinóma (áttétes)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_ORA001_1</LocID>
+        <Text>Mucoepidermoid karcinóma (alacsony fokú)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_ORA001_1_DESC</LocID>
+        <Text>A mucoepidermoid karcinómák a nyálmirigyrák leggyakoribb típusa.  A legtöbb a parotis mirigyekben kezdődik.  Ritkábban alakulnak ki a submandibularis mirigyekben vagy a szájon belüli kisebb nyálmirigyekben.  Ezek a rákos megbetegedések általában alacsony fokúak és viszonylag kevésbé súlyos veszélyt jelentenek.  A túlélés fő meghatározói a szövettan és a klinikai stádium.  A rossz prognosztikai tényezők közé tartozik a magas fokú, idegi érintettség, lokálisan előrehaladott betegség, előrehaladott életkor, kapcsolódó fájdalom, regionális nyirokcsomó-metasztázisok, távoli metasztázisok és a p53 vagy c-erbB2 onkoproteinek felhalmozódása.  A mucoepidermoid karcinóma más szervekben is megtalálható, mint például a hörgőkben, a könnyzsákban és a pajzsmirigyben.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_ORA001_2</LocID>
+        <Text>Mucoepidermoid karcinóma (magas fokú)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_ORA001_2_DESC</LocID>
+        <Text>A mucoepidermoid karcinómák a nyálmirigyrák leggyakoribb típusa.  A legtöbb a parotis mirigyekben kezdődik.  Ritkábban alakulnak ki a submandibularis mirigyekben vagy a szájon belüli kisebb nyálmirigyekben.  Az arcidegbénulásban szenvedő betegek körülbelül 80%-ánál a diagnózis idején csomóponti áttétek vannak.  Ezeknek a betegeknek az átlagos túlélési aránya sokkal alacsonyabb, mint az alacsony fokú daganatokban.  A túlélés fő meghatározói a szövettan és a klinikai stádium.  A rossz prognosztikai tényezők közé tartozik a magas fokú, idegi érintettség, lokálisan előrehaladott betegség, előrehaladott életkor, kapcsolódó fájdalom, regionális nyirokcsomó-metasztázisok, távoli metasztázisok és a p53 vagy c-erbB2 onkoproteinek felhalmozódása.  A mucoepidermoid karcinóma más szervekben is megtalálható, mint például a hörgőkben, a könnyzsákban és a pajzsmirigyben.</Text>
+      </GameDBLocalizedString>
+      <!-- ### ### -->
+      <!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+      <!-- ### ### -->
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_VAGC1_0F</LocID>
+        <Text>Vaginális intraepiteliális neoplázia (alacsony kockázat)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_VAGC1_0F_DESC</LocID>
+        <Text>A vaginális intraepiteliális neoplázia, más néven VAIN, egy olyan állapot, amely a hüvely sejtváltozásával jár.  Néha in situ carcinomának nevezik.  A VAIN nem rák, de fennáll annak az esélye, hogy rákká alakulhat, ha nem kezelik.  A VAIN ritkán okoz tüneteket, és általában azért észlelik, mert egy nőt potenciálisan veszélyeztetettnek tekintenek.  Az alacsony fokú VAIN sok esete magától elmúlik, ezért egyes orvosok úgy döntenek, hogy a kezelés megkezdése nélkül szorosan figyelemmel kísérik őket.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_VAGC1_1F</LocID>
+        <Text>Hüvelyi intraepiteliális neoplázia (nagy kockázatú)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_VAGC1_1F_DESC</LocID>
+        <Text>A vaginális intraepiteliális neoplázia, más néven VAIN, egy olyan állapot, amely a hüvely sejtváltozásával jár.  Néha in situ carcinomának nevezik.  A VAIN nem rák, de fennáll annak az esélye, hogy rákká alakulhat, ha nem kezelik.  A VAIN ritkán okoz tüneteket, és általában azért észlelik, mert egy nőt potenciálisan veszélyeztetettnek tekintenek.  A magas kockázatú VAIN kevésbé valószínű, hogy magától elmúlik, ezért a kezelés azonnal megkezdhető.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_VAGC2_0F</LocID>
+        <Text>Hüvelyi laphámsejtes karcinóma (helyi)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_VAGC2_0F_DESC</LocID>
+        <Text>A hüvelyrák egy ritka rák, amely a páciens hüvelyében – a méhet a külső nemi szervekkel összekötő izmos csőben – fordul elő.  A hüvelyrák 10 esetéből csaknem 9 laphámsejtes karcinóma.  Ezek a rákos megbetegedések a hüvely hámrétegét alkotó laphámsejtekben kezdődnek.  Leggyakrabban a hüvely felső részén, a méhnyak közelében fordulnak elő.  Lokalizáltan a rák csak a hüvely falában található.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_VAGC2_1F</LocID>
+        <Text>Hüvelyi laphámsejtes karcinóma (regionális)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_VAGC2_1F_DESC</LocID>
+        <Text>A hüvelyrák egy ritka rák, amely a páciens hüvelyében – a méhet a külső nemi szervekkel összekötő izmos csőben – fordul elő.  A hüvelyrák 10 esetéből csaknem 9 laphámsejtes karcinóma.  Ezek a rákos megbetegedések a hüvely hámrétegét alkotó laphámsejtekben kezdődnek.  Leggyakrabban a hüvely felső részén, a méhnyak közelében fordulnak elő.  Regionálisan a rák átterjedt a hüvely falán a hüvely körüli szövetekre.  Lehet, hogy átterjedt a medence falára, de nem is.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_VAGC2_2F</LocID>
+        <Text>Áttétes hüvelyrák</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_VAGC2_2F_DESC</LocID>
+        <Text>A hüvelyrák egy ritka rák, amely a páciens hüvelyében – a méhet a külső nemi szervekkel összekötő izmos csőben – fordul elő.  Ha áttétes, a rák átterjedt a test olyan részeire, amelyek nincsenek közel a hüvelyhez, például a tüdőre, a májra vagy a csontokra.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_ORA002_1</LocID>
+        <Text>Nyálcsatorna karcinóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_ORA002_1F</LocID>
+        <Text>Nyálcsatorna karcinóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_ORA002_1_DESC</LocID>
+        <Text>A nyálcsatorna karcinóma (SDC) egy agresszív, elsődleges nyál rosszindulatú daganat, amely mikroszkopikusan hasonlít az emlő magas fokú duktális karcinómájára, mind in situ, mind invazív mintázatokkal.  Jellemzően idősebb férfiakban fordul elő, leggyakrabban a fültőmirigyben.</Text>
+      </GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

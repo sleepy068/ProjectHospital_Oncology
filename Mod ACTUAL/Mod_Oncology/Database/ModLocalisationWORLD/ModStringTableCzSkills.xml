@@ -1,0 +1,46 @@
+<Database>
+<GameDBStringTable ID="LOC_CZ_ADDON_ONCOLOGY_SKILLS">
+ 
+<LanguageCode>cz</LanguageCode>
+<LanguageNameLocalized>Czech</LanguageNameLocalized>
+	<Contributors>
+<Name>josiffilip</Name>
+</Contributors>
+ 
+<LocalizedStrings>
+ 
+<!-- ### Dovednosti ### -->
+ 
+<GameDBLocalizedString>
+<LocID>DPT_ONCOLOGY</LocID>
+<Text>Onkologie</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SKILL_DOC_SPEC_ONCO</LocID>
+<Text>Onkologie</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SKILL_DOC_SPEC_ONCO_DESCR</LocID>
+<Text>Onkologie umožňuje přístup ke specializovaným postupům pro detekci, diagnostiku a léčbu různých forem rakoviny.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SKILL_DOC_SPEC_ONCO_SURGERY</LocID>
+<Text>Chirurgická onkologie</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SKILL_DOC_SPEC_ONCO_SURG_DESCR</LocID>
+<Text>Chirurgická onkologie umožňuje lékaři působit jako hlavní chirurg na onkologickém oddělení a ovlivňuje, jak často budou operace končit komplikacemi.</Text>
+</GameDBLocalizedString>
+
+<!-- ### ### -->
+<!-- ######################################## Vx.xxx Níže ## ###################################### -->
+<!-- ### ### -->
+ 
+</LocalizedStrings>	
+
+</GameDBStringTable>
+</Database>

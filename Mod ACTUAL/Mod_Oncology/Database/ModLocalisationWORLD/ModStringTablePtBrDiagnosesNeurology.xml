@@ -1,0 +1,54 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_EN_ADDON_ONCOLOGYSL_DIAGNOSES_NEURO">
+	<LanguageCode>ptbr</LanguageCode>
+	<LanguageNameLocalized>Português do Brasil</LanguageNameLocalized>
+	<Contributors>
+	<Name>Sleepy068</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+    <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_0_V2</LocID>                         
+		<Text>Astrocioma Pilocítico</Text>	
+	</GameDBLocalizedString>
+		
+    <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_0_DESC</LocID>             
+		<Text>Os astrocitomas de grau I também são chamados de astrocitomas pilocíticos. Esses tumores ocorrem em crianças e adultos jovens. Eles são menos invasivos do que outros graus e têm um prognóstico relativamente bom. Eles geralmente surgem no cerebelo, perto do tronco cerebral, na região hipotalâmica ou no quiasma óptico, mas podem ocorrer em qualquer área onde os astrócitos estão presentes, incluindo os hemisférios cerebrais e a medula espinhal. Esses tumores geralmente crescem lentamente e são benignos.</Text>	
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_1_V2</LocID>                         
+		<Text>Astrocioma Difuso</Text>	
+	</GameDBLocalizedString>
+		
+    <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_1_DESC</LocID>             
+		<Text>Os astrocitomas difusos, também chamados de astrocitomas infiltrativos de baixo grau, são designados como tumores WHO II do cérebro. O termo infiltrante difuso significa que não há uma borda identificável entre o tumor e o tecido cerebral normal, mesmo que as bordas possam parecer bem delineadas na imagem.</Text>	
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_2_V2</LocID>                         
+		<Text>Astrocioma Anaplásico</Text>	
+	</GameDBLocalizedString>
+		
+    <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_2_DESC</LocID>             
+		<Text>O astrocitoma anaplásico é um tumor cerebral maligno raro. Os astrocitomas são tumores que se desenvolvem a partir de certas células cerebrais em forma de estrela chamadas astrócitos. Astrócitos e células semelhantes formam tecido que envolve e protege outras células nervosas encontradas dentro do cérebro e da medula espinhal.</Text>	
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_3_V2</LocID>                         
+		<Text>Glioblastoma</Text>	
+	</GameDBLocalizedString>
+		
+    <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_3_DESC</LocID>             
+		<Text>O glioblastoma, também conhecido como glioblastoma multiforme (GBM), é o câncer mais agressivo que se inicia dentro do cérebro. Inicialmente, os sinais e sintomas do glioblastoma são inespecíficos. Eles podem incluir dores de cabeça, mudanças de personalidade, náuseas e sintomas semelhantes aos de um acidente vascular cerebral.</Text>	
+	</GameDBLocalizedString>
+</LocalizedStrings>
+
+	</GameDBStringTable>
+</Database>
+

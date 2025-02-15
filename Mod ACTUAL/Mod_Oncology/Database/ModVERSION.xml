@@ -1,18 +1,26 @@
 <Database>
 <!--
-Update v1.0.8.0
+Update v1.0.8.0 Build 22/11/23 | Post 16/02/25
 
 Additions:
+N/A
 
 Changes:
-Remove outdated Icon Asset code for old Exams and Treatments that are now in CRP (Might reduce the mods overhead a little)
+Removed all old code
+    ^ I've backed it up incase people have problems but if they do, it'll be a seperate 'backup' mod to protect saves.
+    ^ The old code causes problems with players playing with No Hint In Diagnosis, for the better.
+Changed SYM_SLP_LES_RUPTURE to have CRP version of SYM_SLP_INTERNAL_BLEEDING for collapse symptom
 
 Localisation:
+Some grammer and spelling mistakes
 
+Updated German Localisation (Thank you niofb271 & TheDibbuK)
+Updated Czech Localisation (Thank you josiffilip)
+Updated Brazilian Portuguese Localisation (Thank you Alice&Gui)
+Updated Hungarian Localisation (Thank you Kythrea)
 
 Bug Fixes:
-Fixed a LOC issue with SYM_ONCO_CRP_ORA002_1_DETECTED_DESC (Thanks neoxes)
-
+N/A
 -->
 
 </Database>

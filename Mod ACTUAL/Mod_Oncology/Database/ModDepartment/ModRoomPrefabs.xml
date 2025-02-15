@@ -1,0 +1,50 @@
+﻿<Database>
+
+         <!-- ################################################################## -->
+<!-- =============================== OTORHINOLARYNGOLOGY =============================== -->
+         <!-- ################################################################## -->
+
+
+         <!-- =============================== CLINIC =========================== -->
+
+    <GameDBPrefabObject ID="SLP_MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_SMALL">
+        <AbbreviationLocID>SLP_MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_SMALL_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_INPATIENT_ONCO_OFFICE_SMALL</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>4</DisplayedSizeY>
+        <Cost>5000</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_ONCO_OFFICE_SMALL</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_oncology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+
+    <GameDBPrefabObject ID="SLP_MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_LARGE">
+        <AbbreviationLocID>SLP_MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_LARGE_ABBR</AbbreviationLocID>
+        <PrefabAssetRef>ASSET_PREFAB_OT_INPATIENT_ONCO_OFFICE_LARGE</PrefabAssetRef>
+        <DisplayedSizeX>6</DisplayedSizeX>
+        <DisplayedSizeY>6</DisplayedSizeY>
+        <Cost>6000</Cost>
+
+        <IconIndex>-1</IconIndex>
+        <CustomIconAssetRef>ASSET_OR_PREFAB_ONCO_OFFICE_LARGE</CustomIconAssetRef>
+
+        <Tags>
+            <Tag>ui_prefab_oncology</Tag>
+        </Tags>
+
+        <LayerFloors>true</LayerFloors>
+        <LayerWalls>true</LayerWalls>
+        <LayerDoors>true</LayerDoors>
+        <LayerObjects>true</LayerObjects>
+    </GameDBPrefabObject>
+	
+</Database>

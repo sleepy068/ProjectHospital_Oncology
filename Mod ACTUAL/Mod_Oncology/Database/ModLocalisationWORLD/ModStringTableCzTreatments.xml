@@ -1,0 +1,27 @@
+<Database>
+<!-- Oncology Mod od Sleepy068 -->
+<GameDBStringTable ID="LOC_CZ_ADDON_ONCOLOGYSL_TREATMENTS">
+<LanguageCode>cz</LanguageCode>
+<LanguageNameLocalized>Czech</LanguageNameLocalized>
+	<Contributors>
+<Name>josiffilip</Name>
+</Contributors>
+
+<LocalizedStrings>
+<!-- ### ### -->
+<!-- ####################################### Obsah pro V0.15.0. 0 Přidáno níže ######################################## -->
+<!-- ### ### -->
+ 
+<!-- ========================================= -->
+<!-- ============= Základní obsah ============= -->
+<!-- ========================================= -->
+ 
+ 
+<!-- ================================================ -->
+<!-- ============= Obsah exportu CRP ============= -->
+<!-- ================================================ -->
+ 
+ 
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

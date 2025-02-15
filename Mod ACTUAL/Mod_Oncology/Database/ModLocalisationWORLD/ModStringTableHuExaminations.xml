@@ -1,0 +1,72 @@
+<Database>
+  <!-- Oncology Mod by Sleepy068 -->
+  <GameDBStringTable ID="LOC_EN_ADDON_ONCOLOGYSL_EXAMINATIONS">
+    <LanguageCode>hu</LanguageCode>
+    <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+    <Contributors>
+      <Name>Ratox</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <!-- ### ### -->
+      <!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+      <!-- ### ### -->
+      <!-- ======================================== -->
+      <!-- ============= Core Content ============= -->
+      <!-- ======================================== -->
+      <!-- ============================================== -->
+      <!-- ============= CRP Export Content ============= -->
+      <!-- ============================================== -->
+      <GameDBLocalizedString>
+        <LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</LocID>
+        <Text>Petefészek biopsziás minta</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE_DESC</LocID>
+        <Text>Jelenleg nincs hatékony szűrővizsgálat a petefészekrákra.  Ha egy betegnél petefészekrák gyanúja merül fel, az orvos különféle vizsgálatokat végez, hogy megtalálja azokat a rendellenességeket, amelyeket biopsziával kell követni.  A petefészekrák diagnózisának egyetlen módja az, hogy szövetmintát (biopsziát) veszünk, és mikroszkóp alatt megvizsgáljuk a sejteket.
+Szükséges labor: Szövettan</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_CRP_OVARIAN_BIOPSY_TEST</LocID>
+        <Text>Petefészek biopsziás teszt</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_CRP_OVARIAN_BIOPSY_TEST_DESC</LocID>
+        <Text>A szövettani technikusok jelenleg a páciens által biztosított mintával dolgoznak.  Hamarosan vissza kell adniuk eredményeiket.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</LocID>
+        <Text>Hüvelyi biopsziás minta</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE_DESC</LocID>
+        <Text>Bizonyos jelek és tünetek erősen utalhatnak hüvelyrákra, de sokukat más problémák is okozhatják.  Az egyetlen módja annak, hogy megbizonyosodjunk arról, hogy rákról van szó, ha biopsziát készítünk.  Ebben az eljárásban egy kis szövetdarabot távolítanak el a gyanús területről.  A betegségek laboratóriumi vizsgálatokkal történő diagnosztizálására szakosodott technikus (Szövettani labortechnikus) ezután mikroszkóp alatt megvizsgálja a szövetmintát, hogy megállapítsa, van-e rák vagy rák előtti állapot, és ha igen, milyen típusú.
+Szükséges labor: Szövettan</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_CRP_VAGINAL_BIOPSY_TEST</LocID>
+        <Text>Hüvelyi biopszia teszt</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_CRP_VAGINAL_BIOPSY_TEST_DESC</LocID>
+        <Text>A szövettani technikusok jelenleg a páciens által biztosított mintával dolgoznak.  Hamarosan vissza kell adniuk eredményeiket.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</LocID>
+        <Text>Nyálmirigy biopsziás minta</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE_DESC</LocID>
+        <Text>A nyálmirigy biopszia magában foglalja a sejtek vagy kis szövetdarabok eltávolítását egy vagy több nyálmirigyből a laboratóriumi vizsgálat céljából.
+Szükséges labor: Szövettan</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</LocID>
+        <Text>Nyálmirigy biopszia teszt</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST_DESC</LocID>
+        <Text>A szövettani technikusok jelenleg a páciens által biztosított mintával dolgoznak.  Hamarosan vissza kell adniuk eredményeiket.</Text>
+      </GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

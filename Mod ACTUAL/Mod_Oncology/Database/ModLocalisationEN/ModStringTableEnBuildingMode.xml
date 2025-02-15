@@ -231,6 +231,21 @@
 	<!-- ### ### -->
 	<!-- ######################################## Content for V0.14.0.2 Added Below ######################################## -->
 	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+	<LocID>TOOLTIP_BUILDING_PREFAB_ONCOLOGY</LocID>                       	
+	<Text>Oncology</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SLP_MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_SMALL_ABBR</LocID>                       	
+	<Text>Oncology Office</Text>  
+	</GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+	<LocID>SLP_MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_LARGE_ABBR</LocID>                       	
+	<Text>Oncology Office</Text>  
+	</GameDBLocalizedString>
 
 </LocalizedStrings>
 </GameDBStringTable>

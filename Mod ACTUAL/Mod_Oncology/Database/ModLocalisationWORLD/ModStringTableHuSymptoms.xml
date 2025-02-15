@@ -1,0 +1,112 @@
+<Database>
+  <!-- Oncology Mod by Sleepy068 -->
+  <GameDBStringTable ID="LOC_HU_ADDON_ONCO_SYMPTOMS">
+    <LanguageCode>hu</LanguageCode>
+    <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+    <Contributors>
+      <Name>Ratox</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <!-- ======================================== -->
+      <!-- ============= Core Content ============= -->
+      <!-- ======================================== -->
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_NERVE_DAMAGE</LocID>
+        <Text>Posztoperatív neuropátiás fájdalom</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_NERVE_DAMAGE_DESC</LocID>
+        <Text>Posztoperatív neuropátiás fájdalom (PONP) alakulhat ki, ha a műtét során az idegek sérültek.  A sérült idegek nem tudják megfelelően továbbítani a jeleket a test különböző részeiről az agyba.  Ehelyett ezek a jelek eltúlzódnak, krónikus fájdalmat okozva, amely hónapokig vagy akár évekig is fennállhat.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_LES_RUPTURE</LocID>
+        <Text>Elváltozás szakadása</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_LES_RUPTURE_DESC</LocID>
+        <Text>A beteg belsejében lévő elváltozás vagy daganat felszakadt.  Ez életveszélyes belső vérzéssel jár.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HEMOPTYSIS2</LocID>
+        <Text>Súlyos hemoptysis</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HEMOPTYSIS2_DESC</LocID>
+        <Text>A hemoptysis vér vagy vérrel festett nyálka köhögése a hörgőkből, a gégeből, a légcsőből vagy a tüdőből.  Más szóval, ez a légúti vérzés.  Ez tüdőrák, fertőzések, például tuberkulózis, hörghurut vagy tüdőgyulladás, valamint bizonyos szív- és érrendszeri betegségek esetén fordulhat elő.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SPLENOMEGALY</LocID>
+        <Text>Splenomegalia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SPLENOMEGALY_DESC</LocID>
+        <Text>A splenomegalia olyan állapot, amely akkor fordul elő, amikor a lép megnagyobbodik.  Általában megnagyobbodott lépnek vagy lép megnagyobbodásnak is nevezik.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_RUP_SPLENOMEGALY</LocID>
+        <Text>Megrepedt lép</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_RUP_SPLENOMEGALY_DESC</LocID>
+        <Text>A léprepedés olyan sürgősségi egészségügyi állapot, amely akkor következik be, amikor a lép kapszulaszerű borítása felszakad, és vért önt a hasi területre.  A szakadás nagyságától függően nagymértékű belső vérzés léphet fel.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPERCALCEMIA</LocID>
+        <Text>Hiperkalcémia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_HYPERCALCEMIA_DESC</LocID>
+        <Text>A hiperkalcémia olyan állapot, amelyben a vér kalciumszintje a normál felett van.  A hiperkalcémiát leggyakrabban a nyak négy apró mirigyének túlműködése (mellékpajzsmirigy) vagy rák okozza.  A vérben lévő többlet kalcium számos testrendszert érint.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SEVERE_HYPERCALCEMIA</LocID>
+        <Text>Súlyos hiperkalcémia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_SEVERE_HYPERCALCEMIA_DESC</LocID>
+        <Text>A súlyos hiperkalcémia olyan egészségügyi vészhelyzet, amely sürgős kezelést igényel.  A hiperkalcémia olyan állapot, amelyben a vér kalciumszintje a normál felett van.  Ritkán a súlyos hiperkalcémia zavarhatja a szívműködést, szívdobogásérzést és ájulást, szívritmuszavarra utaló jeleket és egyéb szívproblémákat okozhat.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ACUTE_LIVER_FAILURE</LocID>
+        <Text>Akut májelégtelenség</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_SLP_ACUTE_LIVER_FAILURE_DESC</LocID>
+        <Text>Az akut májelégtelenség (ALF) egy ritka szindróma, amelyet a májfunkció gyors hanyatlása határoz meg.</Text>
+      </GameDBLocalizedString>
+      <!-- ### ### -->
+      <!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+      <!-- ### ### -->
+      <!-- ======================================== -->
+      <!-- ============= Core Content ============= -->
+      <!-- ======================================== -->
+      <!-- ============================================== -->
+      <!-- ============= CRP Export Content ============= -->
+      <!-- ============================================== -->
+      <GameDBLocalizedString>
+        <LocID>SYM_CRP_BL_PMCC</LocID>
+        <Text>Tiszta nyákos sejtek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_CRP_BL_PMCC_DESC</LocID>
+        <Text>Mucinosus karcinóma kialakulhat más típusú rákos sejtek mellett, de ha nem, akkor a rák „tisztának” minősül.  A tiszta mucinosus karcinóma 90-100%-ban mucinosus sejtekből áll.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_CRP_CDF_T_25</LocID>
+        <Text>p16INK4a Túlexpresszió</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_CRP_CDF_T_25_DESC</LocID>
+        <Text>A p16 (más néven p16INK4a, ciklin-dependens kináz inhibitor 2A, CDKN2A, többszörös tumorszuppresszor 1 és számos más szinonimája) egy olyan fehérje, amely lassítja a sejtosztódást azáltal, hogy lassítja a sejtciklus előrehaladását a G1 fázisból az S fázisba,  ezáltal tumorszuppresszorként működik.  A p16 széles körben alkalmazott immunhisztokémiai marker a nőgyógyászati ​​patológiákban.  A p16 erős és diffúz citoplazmatikus és nukleáris expressziója a női nemi traktus laphámsejtes karcinómáiban (SCC) erősen összefügg a magas kockázatú humán papillomavírus (HPV) fertőzéssel és a méhnyak eredetű daganatokkal.  A méhnyak SCC-inek többsége p16-ot expresszál.  A p16 azonban más daganatokban és számos normál emberi szövetben is expresszálható.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_CRP_CM_CK19_BRIGHT</LocID>
+        <Text>Citokeratin 19 (CK19) Fényesen expresszálódik</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_CRP_CM_CK19_BRIGHT_DESC</LocID>
+        <Text>A keratin, az I. típusú citoszkeletális 19, más néven citokeratin-19 (CK-19) vagy keratin-19 (K19) egy 40 kDa-os fehérje, amelyet emberben a KRT19 gén kódol.  Bizonyos rákos megbetegedések esetén a CK19 kifejeződése lehetővé teszi, hogy markerként működjön, és segít meghatározni, hogy a páciens milyen típusú rákja lehet.</Text>
+      </GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

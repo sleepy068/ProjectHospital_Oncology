@@ -176,9 +176,14 @@
 		<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 	</PatientRounds>
-
+	
+	<ShowInPrefabs>true</ShowInPrefabs>
+    <PrefabsTag>ui_prefab_oncology</PrefabsTag>
+    <PrefabsTooltipId>TOOLTIP_BUILDING_PREFAB_ONCOLOGY</PrefabsTooltipId>
+	<!--
 	<PrefabTag>ui_prefab_emergency</PrefabTag>
 	<PrefabButtonIndex>1</PrefabButtonIndex>
+	-->
 
 	<PrestigeModifierStaff>1.0</PrestigeModifierStaff>
 	<PrestigeModifierPatients>1.0</PrestigeModifierPatients>

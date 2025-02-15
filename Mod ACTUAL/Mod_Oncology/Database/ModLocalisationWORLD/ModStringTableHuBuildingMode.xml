@@ -1,23 +1,203 @@
 <Database>
-
-<GameDBStringTable ID="LOC_HU_ADDON_ONCO_BUILDING_MODE">
-<LanguageCode>hu</LanguageCode>
-<LanguageNameLocalized>Magyar</LanguageNameLocalized>
-<Contributors>
-<Name>GaborBartal</Name>
-</Contributors>
-
-<LocalizedStrings>
-	<GameDBLocalizedString>      
-		<LocID>ROOM_TYPE_ONCO_OFFICE</LocID>                          	
-		<Text>Onkológiai rendelő</Text>   
-	</GameDBLocalizedString>
-	<GameDBLocalizedString>      
-		<LocID>ROOM_TYPE_ONCO_OFFICE_DESCRIPTION</LocID>              	
-		<Text>Onkológiai szakorvosi rendelő. Min. Személyzet:\n1x Orvos</Text>  
-	</GameDBLocalizedString>
-
-
-</LocalizedStrings>
-</GameDBStringTable>
+  <GameDBStringTable ID="LOC_HU_ADDON_ONCO_BUILDING_MODE">
+    <LanguageCode>hu</LanguageCode>
+    <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+    <Contributors>
+      <Name>Ratox</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_ONCO_OFFICE</LocID>
+        <Text>Onkológiai Rendelő</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_ONCO_OFFICE_DESCRIPTION</LocID>
+        <Text>Onkológiára szakosodott orvosi rendelő.  Személyzeti követelmények:1x Orvos</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>OBJECT_DECAL_MOD_ONCO</LocID>
+        <Text>Onkológia A</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>OBJECT_DECAL_ONCO_DESC</LocID>
+        <Text>Fali matrica</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>OBJECT_DECAL_MOD_ONCO1</LocID>
+        <Text>Onkológia B</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>OBJECT_DECAL_MOD_ONCO2</LocID>
+        <Text>Onkológia C</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>OBJECT_DECAL_MOD_ONCO3</LocID>
+        <Text>Onkológia D</Text>
+      </GameDBLocalizedString>
+      <!-- ### ### -->
+      <!-- ######################################## V0.13 Below ######################################## -->
+      <!-- ### ### -->
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_INPATIENT_ONCO_OFFICE</LocID>
+        <Text>Diagnosztikai részleg</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_INPATIENT_ONCO_OFFICE_DESC</LocID>
+        <Text>Az Onkológiai Osztály diagnosztikai részlege a kórházi betegek vizsgálatát és kezelését végzi. Min.  Személyzeti követelmények: 1x Orvos (Az ügyeleti szobában dolgozó személyzet)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_ONCO_NEURODIAGNOSTIC_UNIT_NE</LocID>
+        <!-- Not used at the moment -->
+        <Text>Onkológiai Neuroexam Részleg</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_ONCO_NEURODIAGNOSTIC_UNIT_NE_DESC</LocID>
+        <!-- Not used at the moment -->
+        <Text>A Neuroexam osztály speciális neurológiai vizsgálatokat végez az onkológiai támogatás érdekében.
+Min.  Személyzeti követelmények:
+1x technológus – neurológus</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_ONCO</LocID>
+        <Text>Ultrahangos vizsgáló</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_ONCO_DESCRIPTION</LocID>
+        <Text>Az ultrahangos osztály speciális ultrahang alapú vizsgálatokat és kezeléseket végez.
+Min.  Személyzeti követelmények:
+1x technológus – USG</Text>
+      </GameDBLocalizedString>
+      <!-- ### ### -->
+      <!-- ######################################## V0.13.2.0 Below ######################################## -->
+      <!-- ### ### -->
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_PICT01</LocID>
+        <Text>Onkológia A kép</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_PICT01_DESC</LocID>
+        <Text>Egy bekeretezett kép, amely emlékezteti a betegeket, hogy soha ne adják fel a reményt.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_PICT02</LocID>
+        <Text>Onkológia B kép</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_PICT02_DESC</LocID>
+        <Text>Egy bekeretezett kép, amely emlékezteti a betegeket, hogy soha ne adják fel a reményt.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE1</LocID>
+        <Text>Négy kocka egység A-E</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE1_DESC</LocID>
+        <Text>Egy üres négy kocka egység.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE2</LocID>
+        <Text>Négy kocka egység B-E</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE2_DESC</LocID>
+        <Text>Egy üres négy kocka egység.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_PLANT01</LocID>
+        <Text>Cserepes növény</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_PLANT01_DESC</LocID>
+        <Text>Szép cserepes növény.</Text>
+      </GameDBLocalizedString>
+      <!-- ### ### -->
+      <!-- ######################################## V0.13.2.3 Below ######################################## -->
+      <!-- ### ### -->
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE3</LocID>
+        <Text>Négy kocka egység A-B</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE3_DESC</LocID>
+        <Text>Négy kockás egység nagy könyvekkel.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE4</LocID>
+        <Text>Négy kocka egység B-B</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_CUBE4_DESC</LocID>
+        <Text>Négy kockás egység nagy könyvekkel.</Text>
+      </GameDBLocalizedString>
+      <!-- ### ### -->
+      <!-- ######################################## V0.13.3.0 Below ######################################## -->
+      <!-- ### ### -->
+      <GameDBLocalizedString>
+        <!-- Not used at the moment -->
+        <LocID>ROOM_TYPE_ONCO_OBSERVATION_ROOM</LocID>
+        <Text>Onkológiai megfigyelő szoba</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <!-- Not used at the moment -->
+        <LocID>ROOM_TYPE_ONCO_OBSERVATION_ROOM_DESC</LocID>
+        <Text>Az onkológia néha sok különböző vizsgálatot igényel a betegeknél, amelyek jelentős időt vehetnek igénybe.  A megfigyelés több időt hagy a kórháznak ezen tesztek elvégzésére, és a beteg kényelmesebbé válik, miközben megfelelő orvosi felügyelet alatt marad.  Segíthet a Klinika orvosainak felszabadításában is nehéz esetekben.
+Min.  Személyzeti követelmények:
+1x Orvos
+(Az ügyeleti szobában dolgozó személyzet)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST01</LocID>
+        <Text>Plakát - ONCO A</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST01_DESC</LocID>
+        <Text>Infografika a hasnyálmirigyről.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST02</LocID>
+        <Text>Plakát - ONCO B</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST02_DESC</LocID>
+        <Text>Egy plakát, amely emlékezteti a betegeket, hogy nincsenek egyedül ebben a küzdelemben.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST03</LocID>
+        <Text>Plakát - ONCO C</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST03_DESC</LocID>
+        <Text>Infografika a véralapú rákokról.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST04</LocID>
+        <Text>Plakát - ONCO D</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST04_DESC</LocID>
+        <Text>Infografika a tüdőrákról.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST05</LocID>
+        <Text>Plakát - ONCO E</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>MOD_ONCO_OBJECT_POST05_DESC</LocID>
+        <Text>Egy plakát, amely emlékezteti a betegeket, hogy soha ne adják fel a reményt.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_ONCO</LocID>
+        <Text>Kardiográfiás vizsgáló</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_ONOC_DESC</LocID>
+        <Text>A kardiográfiás diagnosztikai szoba az emberi szív- és érrendszerrel kapcsolatos különféle vizsgálati módszereket és teszteket kínál.
+Min.  Személyzeti követelmények:
+1x technológus – kardiológus</Text>
+      </GameDBLocalizedString>
+      <!-- ### ### -->
+      <!-- ######################################## Content for V0.14.0.2 Added Below ######################################## -->
+      <!-- ### ### -->
+    </LocalizedStrings>
+  </GameDBStringTable>
 </Database>

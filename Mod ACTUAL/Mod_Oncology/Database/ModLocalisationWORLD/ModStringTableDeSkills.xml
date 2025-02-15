@@ -2,9 +2,11 @@
 	<GameDBStringTable ID="LOC_DE_ADDON_ONCOLOGY_SKILLS">
 	
 	<LanguageCode>de</LanguageCode>
-	<LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+	<LanguageNameLocalized>German</LanguageNameLocalized>
 	<Contributors>
+		<Name>Gego</Name>
 		<Name>Bowelas</Name>
+		<Name>niofb271</Name>
 	</Contributors>
         
 	<LocalizedStrings>
@@ -36,6 +38,9 @@
 		<Text>Die chirurgische Onkologie ermöglicht es dem Arzt, als Hauptchirurg in der Onkologie-Abteilung zu fungieren, und beeinflusst, wie oft Operationen mit Komplikationen enden.</Text>  
 	</GameDBLocalizedString>
 
+	<!-- ### ### -->
+	<!-- ######################################## Vx.x.x.x Below ######################################## -->
+	<!-- ### ### -->
 	
 	</LocalizedStrings>	
 	</GameDBStringTable>

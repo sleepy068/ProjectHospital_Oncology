@@ -1,0 +1,56 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_DE_ADDON_ONCOLOGYSL_DIAGNOSES_NEURO">
+	<LanguageCode>de</LanguageCode>
+	<LanguageNameLocalized>German</LanguageNameLocalized>
+	<Contributors>
+		<Name>Gego</Name>
+		<Name>Sonic1305</Name>
+		<Name>Bowelas</Name>
+		<Name>niofb271</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_0_V2</LocID>                         
+		<Text>Pilozytisches Astrozytom</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_0_DESC</LocID>             
+		<Text>Astrozytome 1. Grades werden auch als pilozytische Astrozytome bezeichnet. Diese Tumore treten bei Kindern und jungen Erwachsenen auf. Sie sind weniger invasiv als andere Typen und haben eine relativ gute Prognose. Sie entstehen normalerweise im Kleinhirn, in der Nähe des Hirnstamms, im hypothalamischen Bereich oder im Chiasma opticum. Sie können jedoch in allen Bereichen auftreten, in denen Astrozyten vorhanden sind, einschließlich der Gehirnhälften und des Rückenmarks. Diese Tumore wachsen normalerweise langsam und sind gutartig.</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_1_V2</LocID>                         
+		<Text>Diffuses Astrozytom</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_1_DESC</LocID>             
+		<Text>Diffuse Astrozytome, auch als niedriggradige infiltrative Astrozytome bezeichnet, werden als WHO-II-Tumoren des Gehirns bezeichnet. Der Begriff diffuse Infiltration bedeutet, dass es keine erkennbare Grenze zwischen dem Tumor und normalem Hirngewebe gibt, auch wenn die Ränder bei der Bildgebung gut voneinander abgegrenzt erscheinen.</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_2_V2</LocID>                         
+		<Text>Anaplastisches Astrozytom</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_2_DESC</LocID>             
+		<Text>Das anaplastische Astrozytom ist ein seltener bösartiger Hirntumor. Astrozytome sind Tumoren, die sich aus bestimmten sternförmigen Gehirnzellen entwickeln, die als Astrozyten bezeichnet werden. Astrozyten und ähnliche Zellen bilden Gewebe, das andere Nervenzellen im Gehirn und Rückenmark umgibt und schützt.</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_3_V2</LocID>                         
+		<Text>Glioblastom</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BRAC1_3_DESC</LocID>             
+		<Text>Das Glioblastom, auch als Glioblastoma multiforme (GBM) bekannt, ist der aggressivste Krebs, der im Gehirn beginnt. Anzeichen und Symptome eines Glioblastoms sind zunächst unspezifisch. Sie können Kopfschmerzen, Persönlichkeitsveränderungen, Übelkeit und ähnliche Symptome wie bei einem Schlaganfall umfassen.</Text>	
+		</GameDBLocalizedString>
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+

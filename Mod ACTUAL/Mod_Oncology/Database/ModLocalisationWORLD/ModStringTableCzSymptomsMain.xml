@@ -1,0 +1,943 @@
+<Database>
+	<!-- Oncology Mod od Sleepy068 -->
+	<GameDBStringTable ID="LOC_CZ_ADDON_ONCOLOGYSL_SYMPTOMSMAIN">
+		<LanguageCode>cz</LanguageCode>
+		<LanguageNameLocalized>Czech</LanguageNameLocalized>
+		<Contributors>
+			<Name>josiffilip</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC1_1_DETECTED</LocID>
+				<Text>Zjištěn bazaliom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC1_1_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo bazaliom bez známek metastázy.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC1_2_DETECTED</LocID>
+				<Text>Zjištěn bazaliom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC1_2_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo bazaliom bez známek metastázy.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC1_3_DETECTED</LocID>
+				<Text>Zjištěn bazaliom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC1_3_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo bazaliom se známkami, že se rozšířil do blízkých lymfatických uzlin a okolní tkáně.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC1_4_DETECTED</LocID>
+				<Text>Zjištěn bazaliom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC1_4_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo bazaliom se známkami, že je metastatický.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC2_1_DETECTED</LocID>
+				<Text>Zjištěn spinocelulární karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC2_1_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo spinocelulární karcinom bez známek metastáz.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC2_2_DETECTED</LocID>
+				<Text>Zjištěn spinocelulární karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC2_2_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo spinocelulární karcinom bez známek metastáz.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC2_3_DETECTED</LocID>
+				<Text>Zjištěn spinocelulární karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC2_3_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo spinocelulární karcinom se známkami, že se rozšířil do blízkých lymfatických uzlin a okolní tkáně.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC2_4_DETECTED</LocID>
+				<Text>Zjištěn spinocelulární karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC2_4_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo spinocelulární karcinom se známkami, že je metastatický.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC3_1_DETECTED</LocID>
+				<Text>Zjištěn melanom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC3_1_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo melanom bez důkazů, že se rozšířil do lymfatických tkání, lymfatických uzlin nebo tělesných orgánů. Zdá se, že je lokálně omezený bez ulcerace.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC3_2_DETECTED</LocID>
+				<Text>Zjištěn melanom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC3_2_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo melanom s důkazy, že přesahuje epidermis (úplnou vnější vrstvu kůže) do silnější vrstvy dermis kůže. Neexistují žádné známky toho, že je metastatický.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC3_3_DETECTED</LocID>
+				<Text>Zjištěn melanom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC3_3_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo melanom se známkami, že se rozšířil do blízkých lymfatických uzlin a okolní tkáně.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC3_4_DETECTED</LocID>
+				<Text>Zjištěn melanom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC3_4_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo melanom se známkami, že je metastatický</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_AGC1_0_DETECTED</LocID>
+				<Text>Zjištěn feochromocytom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_AGC1_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo feochromocytom s důkazy, že je pouze lokalizovaný.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_AGC1_1_DETECTED</LocID>
+				<Text>Zjištěn feochromocytom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_AGC1_1_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo feochromocytom s důkazy, že je regionální.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_AGC1_2_DETECTED</LocID>
+				<Text>Zjištěn feochromocytom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_AGC1_2_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo feochromocytom s důkazy, že je metastatický.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC_0_DETECTED</LocID>
+				<Text>Zjištěna nemalobuněčná rakovina plic (NSCLC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo nemalobuněčný karcinom plic s důkazy, že je pouze lokalizovaný.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC_1_DETECTED</LocID>
+				<Text>Zjištěna nemalobuněčná rakovina plic (NSCLC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC_1_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo nemalobuněčný karcinom plic s důkazy, že je regionální.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC_2_DETECTED</LocID>
+				<Text>Zjištěna nemalobuněčná rakovina plic (NSCLC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC_2_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo nemalobuněčný karcinom plic s důkazy, že je metastatický.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC1_0_DETECTED</LocID>
+				<Text>Byl zjištěn malobuněčný karcinom plic (SCLC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC1_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo malobuněčný karcinom plic s důkazy, že je v omezeném stavu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC1_1_DETECTED</LocID>
+				<Text>Byl zjištěn malobuněčný karcinom plic (SCLC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC1_1_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo malobuněčný karcinom plic s důkazy, že je v rozsáhlém stavu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BC1_0_DETECTED</LocID>
+				<Text>Zjištěn kolorektální adenokarcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BC1_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo kolorektální adenokarcinom s důkazy, že je pouze lokalizovaný.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BC1_1_DETECTED</LocID>
+				<Text>Zjištěn kolorektální adenokarcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BC1_1_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo kolorektální adenokarcinom s důkazy, že je regionální.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BC1_2_DETECTED</LocID>
+				<Text>Zjištěn kolorektální adenokarcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BC1_2_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo kolorektální adenokarcinom s důkazy, že je metastatický.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_AGC2_0_DETECTED</LocID>
+				<Text>Zjištěn adrenokortikální karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_AGC2_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo adrenokortikální karcinom s důkazy, že je pouze lokalizovaný.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_AGC2_1_DETECTED</LocID>
+				<Text>Zjištěn adrenokortikální karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_AGC2_1_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo adrenokortikální karcinom s důkazy, že je regionální.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_AGC2_2_DETECTED</LocID>
+				<Text>Zjištěn adrenokortikální karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_AGC2_2_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo adrenokortikální karcinom s důkazy, že je metastatický.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_MC001_0_DETECTED</LocID>
+				<Text>Gastrointestinal NET Detected</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_MC001_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo gastrointestinální neuroendokrinní nádor s důkazy, že je v omezeném stavu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_MC001_1_DETECTED</LocID>
+				<Text>Gastrointestinal NET Detected</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_MC001_1_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo gastrointestinální neuroendokrinní nádor s důkazy, že je v rozsáhlém stavu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC01_0_DETECTED</LocID>
+				<Text>Zjištěna akutní lymfocytární leukémie před B lymfocyty</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC01_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo pre-B buněčnou lymfocytární leukémii s důkazem, že je akutní.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC01_1_DETECTED</LocID>
+				<Text>Zjištěna akutní lymfocytární leukémie B buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC01_1_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo B lymfocytární leukémii s důkazem, že je akutní.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC02_A_DETECTED</LocID>
+				<Text>Byla zjištěna chronická lymfocytární leukémie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC02_A_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo lymfocytární leukémii s důkazy, že je chronická, ale stabilní.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC02_B_DETECTED</LocID>
+				<Text>Byla zjištěna chronická lymfocytární leukémie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC02_B_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo lymfocytární leukémii s důkazy, že je chronická a v pokročilém stavu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC01_2_DETECTED</LocID>
+				<Text>Zjištěna akutní lymfocytární leukémie T buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC01_2_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo T lymfocytární leukémii s důkazem, že je akutní.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC01_3_DETECTED</LocID>
+				<Text>Zjištěna akutní lymfocytární leukémie T buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC01_3_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo T lymfocytární leukémii s důkazem, že je akutní.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC03_0_DETECTED</LocID>
+				<Text>Zjištěna leukémie z velkých granulárních lymfocytů T-buněk (LGL)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC03_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo lymfocytární leukémii s důkazem, že jde o podtyp leukémie z velkých granulárních lymfocytů T-buněk (LGL).</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC03_1_DETECTED</LocID>
+				<Text>Zjištěna leukémie z velkých granulárních lymfocytů (LGL) z NK buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC03_1_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo lymfocytární leukémii s důkazem, že jde o podtyp, NK-buněčnou leukémii velkých granulárních lymfocytů (LGL).</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC03_2_DETECTED</LocID>
+				<Text>Zjištěna T-buněčná prolymfocytární leukémie (T-PLL)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC03_2_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo lymfocytární leukémii s důkazy, že jde o vzácný podtyp, T-buněčná prolymfocytární leukémie.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC04_0_DETECTED</LocID>
+				<Text>Zjištěna akutní myeloidní leukémie (AML)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC04_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo myeloidní leukémii s důkazem, že je akutní.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC05_A_DETECTED</LocID>
+				<Text>Byla zjištěna chronická myeloidní leukémie (CML)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC05_A_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo myeloidní leukémii s důkazy, že je v chronické fázi.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC05_B_DETECTED</LocID>
+				<Text>Byla zjištěna chronická myeloidní leukémie (CML)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC05_B_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo myeloidní leukémii s důkazy, že je ve své akcelerované fázi.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC05_C_DETECTED</LocID>
+				<Text>Byla zjištěna chronická myeloidní leukémie (CML)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC05_C_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo myeloidní leukémii s důkazy, že je ve fázi výbuchové krize.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC06_0_DETECTED</LocID>
+				<Text>Zjištěna vlasová leukémie (HCL)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC06_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo vlasatobuněčnou leukémii.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC06_1_DETECTED</LocID>
+				<Text>Byla zjištěna varianta vlasové leukémie (HCL-V)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC06_1_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo vlasatobuněčnou leukémii s důkazy, že jde o vzácnou variantu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BREC01_0_DETECTED</LocID>
+				<Text>Zjištěn duktální karcinom in situ</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BREC01_0_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo duktální karcinom s důkazy, že je in situ (na původním místě a nerozšířil se).</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BREC01_1_DETECTED</LocID>
+				<Text>Zjištěn invazivní duktální karcinom (IDC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BREC01_1_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo duktální karcinom s důkazy, že je invazivní, protože napadl okolní tkáně.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BREC01_2_DETECTED</LocID>
+				<Text>Zjištěn metastatický karcinom prsu</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BREC01_2_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo rakovinu prsu s důkazy, že je metastázující.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BRAC01_0_DETECTED</LocID>
+				<Text>Zjištěn pilocytární astrocytom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BRAC01_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo u pacienta pilocytický astrocytom.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BRAC01_1_DETECTED</LocID>
+				<Text>Zjištěn difuzní astrocytom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BRAC01_1_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo u pacienta difuzní astrocytom.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BRAC01_2_DETECTED</LocID>
+				<Text>Zjištěn anaplastický astrocytom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BRAC01_2_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo u pacienta anaplastický astrocytom.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_OVAC1_0F_DETECTED</LocID>
+				<Text>Byl zjištěn serózní karcinom vysokého stupně (HGSC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_OVAC1_0F_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo u pacienta serózní karcinom vysokého stupně.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_OVAC1_1F_DETECTED</LocID>
+				<Text>Byl zjištěn serózní karcinom nízkého stupně (LGSC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_OVAC1_1F_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo u pacienta serózní karcinom nízkého stupně.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BRAC01_3_DETECTED</LocID>
+				<Text>Zjištěn glioblastom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BRAC01_3_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo u pacienta glioblastom.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_PROC1_0M_DETECTED</LocID>
+				<Text>Zjištěna rakovina prostaty (1. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_PROC1_0M_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo u pacienta rakovinu prostaty (1. fáze).</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_PROC1_1M_DETECTED</LocID>
+				<Text>Zjištěna rakovina prostaty (2. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_PROC1_1M_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo u pacienta rakovinu prostaty (2. fáze).</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_PROC1_2M_DETECTED</LocID>
+				<Text>Zjištěna rakovina prostaty (3. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_PROC1_2M_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo u pacienta rakovinu prostaty (fáze 3).</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_PROC1_3M_DETECTED</LocID>
+				<Text>Zjištěna rakovina prostaty (4. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_PROC1_3M_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo u pacienta rakovinu prostaty (4. fáze).</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_OVAC1_2F_DETECTED</LocID>
+				<Text>Zjištěna metastatická rakovina vaječníků</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_OVAC1_2F_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo u pacientky metastatický karcinom vaječníků.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC07_0_DETECTED</LocID>
+				<Text>Detekován difuzní velký B-buněčný lymfom (NOS)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC07_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo difuzní velký B-lymfom (NOS).</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC08_0_DETECTED</LocID>
+				<Text>Byl zjištěn folikulární lymfom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC08_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo folikulární lymfom.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC4_0_DETECTED</LocID>
+				<Text>Zjištěn karcinom z Merkelových buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC4_0_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo karcinom z Merkelových buněk s důkazy, že je pouze lokální.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC4_1_DETECTED</LocID>
+				<Text>Zjištěn karcinom z Merkelových buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC4_1_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo karcinom z Merkelových buněk s důkazy, že je metastatický.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC09_0_DETECTED</LocID>
+				<Text>Byl zjištěn lymfom z plášťových buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC09_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo lymfom z plášťových buněk.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC2_0_DETECTED</LocID>
+				<Text>Zjištěn velkobuněčný karcinom plic</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC2_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo velkobuněčný karcinom plic.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC3_0_DETECTED</LocID>
+				<Text>Zjištěn adenokarcinom plic (stadium E)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC3_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo adenokarcinom plic s důkazy, že je v raném stádiu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC3_1_DETECTED</LocID>
+				<Text>Zjištěn adenokarcinom plic (stadium A)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC3_1_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo adenokarcinom plic s důkazy, že je v pokročilém stádiu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC4_0_DETECTED</LocID>
+				<Text>Zjištěna spinocelulární rakovina plic</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LC4_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo spinocelulární karcinom plic.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BC2_0_DETECTED</LocID>
+				<Text>Zjištěn kolorektální karcinom z prstencových prstenců</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BC2_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo Signet Ring Cell Carcinom of the Colon.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BC3_0_DETECTED</LocID>
+				<Text>Zjištěn mucinózní kolorektální adenokarcinom (smíšený)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BC3_0_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo mucinózní adenokarcinom tlustého střeva s důkazy, že je ve smíšeném rakovinovém stavu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BC3_1_DETECTED</LocID>
+				<Text>Zjištěn mucinózní kolorektální adenokarcinom (čistý)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BC3_1_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo mucinózní adenokarcinom tlustého střeva s důkazy, že je ve stavu čistého karcinomu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BREC01_0M_DETECTED</LocID>
+				<Text>Zjištěn duktální karcinom in situ</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BREC01_1M_DETECTED</LocID>
+				<Text>Zjištěn invazivní duktální karcinom (IDC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BREC01_2M_DETECTED</LocID>
+				<Text>Zjištěn metastatický karcinom prsu</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LIV0_0_DETECTED</LocID>
+				<Text>Zjištěn hepatocelulární karcinom (lokalizovaný)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LIV0_0_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo hepatocelulární karcinom s důkazy, že je lokalizován.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LIV0_1_DETECTED</LocID>
+				<Text>Zjištěn hepatocelulární karcinom (regionální)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LIV0_1_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo hepatocelulární karcinom s důkazy, že je regionální.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LIV0_2_DETECTED</LocID>
+				<Text>Zjištěn hepatocelulární karcinom (kritický)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LIV0_2_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo hepatocelulární karcinom s důkazy, že je v kritickém stavu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LIV0_3_DETECTED</LocID>
+				<Text>Zjištěna metastatická rakovina jater</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_LIV0_3_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo rakovinu jater s důkazy, že je metastázující.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC01_0_DETECTED_V2</LocID>
+				<Text>Zjištěna akutní lymfocytární leukémie před B lymfocyty</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC01_1_DETECTED_V2</LocID>
+				<Text>Zjištěna akutní lymfocytární leukémie B buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC01_2_DETECTED_V2</LocID>
+				<Text>Zjištěna akutní lymfocytární leukémie T buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC02_A_DETECTED_V2</LocID>
+				<Text>Byla zjištěna chronická lymfocytární leukémie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC02_B_DETECTED_V2</LocID>
+				<Text>Byla zjištěna chronická lymfocytární leukémie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC03_0_DETECTED_V2</LocID>
+				<Text>Zjištěna leukémie z velkých granulárních lymfocytů T-buněk (LGL)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC03_1_DETECTED_V2</LocID>
+				<Text>Zjištěna leukémie z velkých granulárních lymfocytů (LGL) z NK buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC03_2_DETECTED_V2</LocID>
+				<Text>Zjištěna T-buněčná prolymfocytární leukémie (T-PLL)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC04_0_DETECTED_V2</LocID>
+				<Text>Zjištěna akutní myeloidní leukémie (AML)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC05_A_DETECTED_V2</LocID>
+				<Text>Byla zjištěna chronická myeloidní leukémie (CML)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC05_B_DETECTED_V2</LocID>
+				<Text>Byla zjištěna chronická myeloidní leukémie (CML)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC05_C_DETECTED_V2</LocID>
+				<Text>Byla zjištěna chronická myeloidní leukémie (CML)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC08_0_DETECTED_V2</LocID>
+				<Text>Byl zjištěn folikulární lymfom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BLC07_0_DETECTED_V2</LocID>
+				<Text>Detekován difuzní velký B-buněčný lymfom (NOS)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BREC01_1_DETECTED_V2</LocID>
+				<Text>Zjištěn invazivní duktální karcinom (IDC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_BREC01_1M_DETECTED_V2</LocID>
+				<Text>Zjištěn invazivní duktální karcinom (IDC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_MC001_1_DETECTED_V2</LocID>
+				<Text>Gastrointestinal NET Detected</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC3_4_DETECTED_V2</LocID>
+				<Text>Zjištěn melanom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_SC4_1_DETECTED_V2</LocID>
+				<Text>Zjištěn karcinom z Merkelových buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_ORA001_1_DETECTED</LocID>
+				<Text>Zjištěn mukoepidermoidní karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_ORA001_1_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo mukoepidermoidní karcinom s důkazy, že je ve stavu nízkého stupně.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_ORA001_2_DETECTED</LocID>
+				<Text>Zjištěn mukoepidermoidní karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_ORA001_2_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo mukoepidermoidní karcinom s důkazy, že je ve vysokém stupni.</Text>
+			</GameDBLocalizedString>
+
+			<!-- ### ### -->
+			<!-- ####################################### Obsah pro V0.15.0. 0 Přidáno níže ######################################## -->
+			<!-- ### ### -->
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED</LocID>
+				<Text>Zjištěna vaginální intraepiteliální neoplazie (VAIN)(LR)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo vaginální intraepiteliální neoplazii (VAIN), ale důkazy naznačují, že jde o nízké riziko.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED</LocID>
+				<Text>Zjištěna vaginální intraepiteliální neoplazie (VAIN)(HR)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo vaginální intraepiteliální neoplazii (VAIN) a důkazy naznačují, že jde o vysoké riziko.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED</LocID>
+				<Text>Zjištěn vaginální spinocelulární karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo vaginální spinocelulární karcinom s důkazy, že je lokalizován.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED</LocID>
+				<Text>Zjištěn vaginální spinocelulární karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED_DESC</LocID>
+				<Text>Testování detekovalo vaginální spinocelulární karcinom s důkazem, že je regionální.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED</LocID>
+				<Text>Byl zjištěn metastatický vaginální karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo rakovinu pochvy s důkazy, že je metastázující a šíří se po těle.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_ORA002_1_DETECTED</LocID>
+				<Text>Zjištěn karcinom slinných kanálků</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_ORA002_1F_DETECTED</LocID>
+				<Text>Zjištěn karcinom slinných kanálků</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_ONCO_CRP_ORA002_1_DETECTED_DESC</LocID>
+				<Text>Testování odhalilo karcinom slinných kanálků.</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+
+	</GameDBStringTable>
+</Database>

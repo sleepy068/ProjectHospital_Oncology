@@ -1,0 +1,53 @@
+<Database>
+	<!-- Oncology Mod od Sleepy068 -->
+	<GameDBStringTable ID="LOC_CZ_ADDON_ONCOLOGYSL_DIAGNOSES_NEURO">
+		<LanguageCode>cz</LanguageCode>
+		<LanguageNameLocalized>Czech</LanguageNameLocalized>
+		<Contributors>
+			<Name>josiffilip</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BRAC1_0_V2</LocID>
+				<Text>Pilocytární astrocytom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BRAC1_0_DESC</LocID>
+				<Text>Astrocytomy I. stupně se také nazývají pilocytární astrocytomy. Tyto nádory se vyskytují u dětí a mladých dospělých. Jsou méně invazivní než jiné stupně a mají relativně dobrou prognózu. Obvykle vznikají v mozečku, v blízkosti mozkového kmene, v oblasti hypotalamu nebo optického chiasmatu, ale mohou se vyskytovat v jakékoli oblasti, kde jsou přítomny astrocyty, včetně mozkových hemisfér a míchy. Tyto nádory jsou obvykle pomalu rostoucí a benigní.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BRAC1_1_V2</LocID>
+				<Text>Difúzní astrocytom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BRAC1_1_DESC</LocID>
+				<Text>Difúzní astrocytomy, také označované jako infiltrativní astrocytomy nízkého stupně, jsou označovány jako WHO II nádory mozku. Termín difuzní infiltrace znamená, že mezi nádorem a normální mozkovou tkání není žádná identifikovatelná hranice, i když se hranice mohou na zobrazení jevit jako dobře ohraničené.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BRAC1_2_V2</LocID>
+				<Text>Anaplastický astrocytom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BRAC1_2_DESC</LocID>
+				<Text>Anaplastický astrocytom je vzácný maligní nádor mozku. Astrocytomy jsou nádory, které se vyvíjejí z určitých mozkových buněk ve tvaru hvězdy nazývaných astrocyty. Astrocyty a podobné buňky tvoří tkáň, která obklopuje a chrání další nervové buňky nacházející se v mozku a míše.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BRAC1_3_V2</LocID>
+				<Text>Glioblastom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BRAC1_3_DESC</LocID>
+				<Text>Glioblastom, také známý jako glioblastoma multiforme (GBM), je nejagresivnější rakovina, která začíná v mozku. Zpočátku jsou známky a příznaky glioblastomu nespecifické. Mohou zahrnovat bolesti hlavy, změny osobnosti, nevolnost a příznaky podobné mrtvici.</Text>
+			</GameDBLocalizedString>
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+

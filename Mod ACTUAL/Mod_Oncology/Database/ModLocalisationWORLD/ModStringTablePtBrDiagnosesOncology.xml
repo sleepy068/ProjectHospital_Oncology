@@ -1,0 +1,873 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_EN_ADDON_ONCOLOGYSL_DIAGNOSES_ONCO">
+	<LanguageCode>ptbr</LanguageCode>
+	<LanguageNameLocalized>Português do Brasil</LanguageNameLocalized>
+	<Contributors>
+	<Name>Sleepy068</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC1_1</LocID>                         
+    <Text>Carcinoma Basocelular (Estágio 1)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC1_1_DESC</LocID>             
+    <Text>O câncer de células basais é a forma mais comum de câncer em humanos. É um tipo de câncer de pele não melanoma que começa na camada de células basais da epiderme (a camada superior da pele), cresce muito lentamente e raramente se espalha (metastatiza).\n\nNo Estágio 1, o tumor tem aproximadamente 2 centímetros de largura ou menos e pode ter se espalhado para a derme.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC1_2</LocID>                         
+    <Text>Carcinoma Basocelular (Estágio 2)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC1_2_DESC</LocID>             
+    <Text>O câncer de células basais é a forma mais comum de câncer em humanos. É um tipo de câncer de pele não melanoma que começa na camada de células basais da epiderme (a camada superior da pele), cresce muito lentamente e raramente se espalha (metastatiza).\n\nNo Estágio 2, o tumor tem mais de 2 centímetros de largura, pode ter se espalhado para a derme e apresenta características de alto risco, como invasão perineural.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC1_3</LocID>                         
+    <Text>Carcinoma Basocelular (Estágio 3)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC1_3_DESC</LocID>             
+    <Text>O câncer de células basais é a forma mais comum de câncer em humanos. É um tipo de câncer de pele não melanoma que começa na camada de células basais da epiderme (a camada superior da pele), cresce muito lentamente e raramente se espalha (metastatiza).\n\nNo Estágio 3, o câncer se espalhou para áreas abaixo da pele, como músculo, osso, cartilagem ou linfonodos, mas apenas aqueles próximos ao tumor original.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC1_4</LocID>                         
+    <Text>Carcinoma Basocelular (Estágio 4)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC1_4_DESC</LocID>             
+    <Text>O câncer de células basais é a forma mais comum de câncer em humanos. É um tipo de câncer de pele não melanoma que começa na camada de células basais da epiderme (a camada superior da pele), cresce muito lentamente e raramente se espalha (metastatiza).\n\nNo Estágio 4, o câncer se espalhou para áreas fora da pele, como órgãos distantes como o cérebro ou pulmões, ou invadiu o esqueleto.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC2_1</LocID>                         
+    <Text>Carcinoma de Células Escamosas (Estágio 1)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC2_1_DESC</LocID>             
+    <Text>O carcinoma de células escamosas da pele é uma forma comum de câncer de pele que se desenvolve nas células escamosas que compõem as camadas média e externa da pele.\n\nNo Estágio 1, o tumor tem aproximadamente 2 centímetros de largura ou menos e pode ter se espalhado para a derme.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC2_2</LocID>                         
+    <Text>Carcinoma de Células Escamosas (Estágio 2)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC2_2_DESC</LocID>             
+    <Text>O carcinoma de células escamosas da pele é uma forma comum de câncer de pele que se desenvolve nas células escamosas que compõem as camadas média e externa da pele.\n\nNo Estágio 2, o tumor tem mais de 2 centímetros de largura, pode ter se espalhado para a derme e apresenta características de alto risco, como invasão perineural.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC2_3</LocID>                         
+    <Text>Carcinoma de Células Escamosas (Estágio 3)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC2_3_DESC</LocID>             
+    <Text>O carcinoma de células escamosas da pele é uma forma comum de câncer de pele que se desenvolve nas células escamosas que compõem as camadas média e externa da pele.\n\nNo Estágio 3, o câncer se espalhou para áreas abaixo da pele, como músculo, osso, cartilagem ou linfonodos, mas apenas aqueles próximos ao tumor original.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC2_4</LocID>                         
+    <Text>Carcinoma de Células Escamosas (Estágio 4)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC2_4_DESC</LocID>             
+    <Text>O carcinoma de células escamosas da pele é uma forma comum de câncer de pele que se desenvolve nas células escamosas que compõem as camadas média e externa da pele.\n\nNo Estágio 4, o câncer se espalhou para áreas fora da pele, como órgãos distantes como o cérebro ou pulmões, ou invadiu o esqueleto.</Text>	
+</GameDBLocalizedString>
+
+
+	<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC3_1</LocID>                         
+    <Text>Melanoma (Estágio 1)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC3_1_DESC</LocID>             
+    <Text>O melanoma ocorre quando as células de pigmento na pele (chamadas de melanócitos) sofrem mutação e começam a crescer fora de controle.\n\nNo Estágio 1, o câncer se espalhou mais profundamente na pele, mas não se espalhou para os gânglios linfáticos ou outras partes do corpo.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC3_2</LocID>                         
+    <Text>Melanoma (Estágio 2)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC3_2_DESC</LocID>             
+    <Text>O melanoma ocorre quando as células de pigmento na pele (chamadas de melanócitos) sofrem mutação e começam a crescer fora de controle.\n\nO melanoma no estágio 2 é mais espesso, estendendo-se através da epiderme e mais para dentro da derme, a camada interna densa da pele. Ele tem uma chance maior de se espalhar.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC3_3</LocID>                         
+    <Text>Melanoma (Estágio 3)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC3_3_DESC</LocID>             
+    <Text>O melanoma ocorre quando as células de pigmento na pele (chamadas de melanócitos) sofrem mutação e começam a crescer fora de controle.\n\nO estágio 3 descreve o melanoma que se espalhou localmente ou através do sistema linfático para um nódulo linfático regional. Ainda não se espalhou para nódulos linfáticos distantes ou órgãos.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC3_4</LocID>                         
+    <Text>Melanoma (Estágio 4)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_SC3_4_DESC</LocID>             
+    <Text>O melanoma ocorre quando as células de pigmento na pele (chamadas de melanócitos) sofrem mutação e começam a crescer fora de controle.\n\nO estágio 4 descreve o melanoma que se espalhou através da corrente sanguínea para outras partes do corpo, como locais distantes na pele ou tecido mole, nódulos linfáticos distantes ou outros órgãos.</Text>	
+</GameDBLocalizedString>
+
+<!-- Diagnósticos - Câncer de Glândula Adrenal -->
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_AGC1_0</LocID>                         
+    <Text>Feocromocitoma (Localizado)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_AGC1_0_DESC</LocID>             
+    <Text>O feocromocitoma é um tumor raro do tecido da glândula adrenal. Isso resulta na liberação de muita epinefrina e norepinefrina, hormônios que controlam a frequência cardíaca, o metabolismo e a pressão sanguínea. Localizado, o tumor é detectado em estágio inicial na medula adrenal em uma ou ambas as glândulas adrenais.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_AGC1_1</LocID>                         
+    <Text>Feocromocitoma (Regional)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_AGC1_1_DESC</LocID>             
+    <Text>O feocromocitoma é um tumor raro do tecido da glândula adrenal. Isso resulta na liberação de muita epinefrina e norepinefrina, hormônios que controlam a frequência cardíaca, o metabolismo e a pressão sanguínea. Regional, o câncer se espalhou de onde o tumor começou para os tecidos ao redor na área onde o tumor começou.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_AGC1_2</LocID>                         
+    <Text>Feocromocitoma (Distantes)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_AGC1_2_DESC</LocID>             
+    <Text>O feocromocitoma é um tumor raro do tecido da glândula adrenal. Isso resulta na liberação de muita epinefrina e norepinefrina, hormônios que controlam a frequência cardíaca, o metabolismo e a pressão sanguínea. Distantes, o câncer se espalhou das glândulas adrenais para outras partes do corpo.</Text>	
+</GameDBLocalizedString>
+
+
+		<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_LC_0</LocID>                         
+    <Text>Câncer de Pulmão de Células Não Pequenas Indiferenciado (Localizado)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_LC_0_DESC</LocID>             
+    <Text>O câncer de pulmão de células não pequenas indiferenciado (NSCLC) começa quando células saudáveis no pulmão sofrem alterações e crescem descontroladamente, formando uma massa chamada tumor, lesão ou nódulo. Um tumor pulmonar pode começar em qualquer parte do pulmão. Indiferenciado é usado para descrever células ou tecidos que não têm estruturas ou funções especializadas ("maduras"). Células de câncer indiferenciadas frequentemente crescem e se espalham rapidamente. Localizado, o câncer é encontrado no pulmão, mas não se espalhou para os linfonodos ou órgãos distantes.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_LC_1</LocID>                         
+    <Text>Câncer de Pulmão de Células Não Pequenas Indiferenciado (Regional)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_LC_1_DESC</LocID>             
+    <Text>O câncer de pulmão de células não pequenas indiferenciado (NSCLC) começa quando células saudáveis no pulmão sofrem alterações e crescem descontroladamente, formando uma massa chamada tumor, lesão ou nódulo. Um tumor pulmonar pode começar em qualquer parte do pulmão. Indiferenciado é usado para descrever células ou tecidos que não têm estruturas ou funções especializadas ("maduras"). Células de câncer indiferenciadas frequentemente crescem e se espalham rapidamente. Regional, o câncer progrediu dos pulmões para os linfonodos próximos.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_LC_2</LocID>                         
+    <Text>Câncer de Pulmão Metastático</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_LC_2_DESC</LocID>             
+    <Text>O câncer de pulmão começa quando células anormais crescem e se multiplicam de forma descontrolada em um ou ambos os pulmões. Pode se espalhar para outras partes do corpo, como os linfonodos, cérebro, glândulas adrenais, fígado e ossos. Quando um tumor cresce e se torna mais agressivo, ele precisa de mais espaço e começa a se espalhar para outras áreas. Esta fase é o início do câncer de pulmão metastático.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_LC1_0</LocID>                         
+    <Text>Câncer de Pulmão de Pequenas Células (Estágio Limitado)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_LC1_0_DESC</LocID>             
+    <Text>O câncer de pulmão de pequenas células começa quando células saudáveis no pulmão sofrem alterações e crescem descontroladamente, formando uma massa chamada tumor, lesão ou nódulo. O SCLC começa nas células nervosas ou células produtoras de hormônios do pulmão. O termo "célula pequena" refere-se ao tamanho e forma das células cancerosas quando vistas sob um microscópio. Estágio limitado significa que o câncer está apenas em 1 parte do tórax e a radioterapia pode ser uma opção de tratamento. Cerca de 1 em cada 3 pessoas com SCLC têm doença em estágio limitado quando diagnosticadas pela primeira vez.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_LC1_1</LocID>                         
+    <Text>Câncer de Pulmão de Pequenas Células (Estágio Extensivo)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_LC1_1_DESC</LocID>             
+    <Text>O câncer de pulmão de pequenas células começa quando células saudáveis no pulmão sofrem alterações e crescem descontroladamente, formando uma massa chamada tumor, lesão ou nódulo. O SCLC começa nas células nervosas ou células produtoras de hormônios do pulmão. O termo "célula pequena" refere-se ao tamanho e forma das células cancerosas quando vistas sob um microscópio. Estágio extensivo é usado para descrever o SCLC que se espalhou para partes do corpo, como o outro pulmão, osso, cérebro ou medula óssea. Muitos médicos consideram que o SCLC que se espalhou para o fluido ao redor do pulmão também está em estágio extensivo. Cerca de 2 em cada 3 pessoas com SCLC têm doença extensiva quando o câncer é encontrado pela primeira vez.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BC1_0</LocID>                         
+    <Text>Adenocarcinoma Colorretal (Localizado)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BC1_0_DESC</LocID>             
+    <Text>Os adenocarcinomas do cólon e reto representam 95 por cento de todos os casos de câncer colorretal. No trato gastrointestinal, os adenocarcinomas retal e colônico se desenvolvem nas células do revestimento dentro do intestino grosso. Os adenocarcinomas do cólon e reto geralmente começam como um crescimento de tecido chamado pólipo. Um tipo particular de pólipo chamado adenoma pode se transformar em câncer. Localizado, o câncer está confinado à parede do intestino ou pode ter se espalhado para a superfície externa da parede do intestino.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BC1_1</LocID>                         
+    <Text>Adenocarcinoma Colorretal (Regional)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BC1_1_DESC</LocID>             
+    <Text>Os adenocarcinomas do cólon e reto representam 95 por cento de todos os casos de câncer colorretal. No trato gastrointestinal, os adenocarcinomas retal e colônico se desenvolvem nas células do revestimento dentro do intestino grosso. Os adenocarcinomas do cólon e reto geralmente começam como um crescimento de tecido chamado pólipo. Um tipo particular de pólipo chamado adenoma pode se transformar em câncer. Regional, o câncer se espalhou nos linfonodos próximos ao intestino grosso.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BC1_2</LocID>                         
+    <Text>Câncer Colorretal Metastático</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BC1_2_DESC</LocID>             
+    <Text>Se o câncer no intestino não for detectado e removido em estágio inicial, parte do tumor pode se soltar do tumor principal no intestino e se espalhar, geralmente através do sistema linfático ou corrente sanguínea, para os linfonodos próximos ou outras partes do corpo. Se o câncer se espalhou para outra parte do corpo (por exemplo, o fígado ou pulmões), é chamado de câncer metastático ou secundário (avançado).</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_AGC2_0</LocID>                         
+    <Text>Carcinoma Adrenocortical (Localizado)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_AGC2_0_DESC</LocID>             
+    <Text>O carcinoma adrenocortical é uma doença rara na qual células malignas (câncer) se formam na camada externa da glândula adrenal. Localizado, o tumor tem 5 centímetros ou menos e é encontrado apenas na glândula adrenal.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_AGC2_1</LocID>                         
+    <Text>Carcinoma Adrenocortical (Regional)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_AGC2_1_DESC</LocID>             
+    <Text>O carcinoma adrenocortical é uma doença rara na qual células malignas (câncer) se formam na camada externa da glândula adrenal. Regional, o tumor pode ter qualquer tamanho e se espalhou para os linfonodos próximos ou para tecidos ou órgãos próximos (rim, diafragma, pâncreas, baço ou fígado) ou para grandes vasos sanguíneos (veia renal ou veia cava) e pode ter se espalhado para os linfonodos próximos.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_AGC2_2</LocID>                         
+    <Text>Carcinoma Adrenocortical (Metastático)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_AGC2_2_DESC</LocID>             
+    <Text>O carcinoma adrenocortical é uma doença rara na qual células malignas (câncer) se formam na camada externa da glândula adrenal. Metastático, o tumor pode ter qualquer tamanho, pode ter se espalhado para os linfonodos próximos e se espalhou para outras partes do corpo, como pulmão, osso ou peritônio.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_MC001_0</LocID>                         
+    <Text>NET Gastrointestinal (LS)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_MC001_0_DESC</LocID>             
+    <Text>Os tumores neuroendócrinos (NETs) são neoplasias que surgem de células do sistema endócrino (hormonal) e nervoso. Muitos são benignos, enquanto alguns são malignos. Eles ocorrem mais comumente no intestino, onde são frequentemente chamados de tumores carcinoide, mas também são encontrados no pâncreas, pulmão e no resto do corpo. Estágio limitado, o tumor é menor que 4 cm e cresceu até a membrana que conecta o apêndice à parede abdominal.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_MC001_1</LocID>                         
+    <Text>NET Gastrointestinal (ES)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_MC001_1_DESC</LocID>             
+    <Text>Os tumores neuroendócrinos (NETs) são neoplasias que surgem de células do sistema endócrino (hormonal) e nervoso. Muitos são benignos, enquanto alguns são malignos. Eles ocorrem mais comumente no intestino, onde são frequentemente chamados de tumores carcinoide, mas também são encontrados no pâncreas, pulmão e no resto do corpo. Estágio extenso, o tumor cresceu através do peritônio ou invadiu órgãos ou estruturas próximos.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BLC01_0</LocID>                         
+    <Text>LLA (Pre-B)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BLC01_0_DESC</LocID>             
+    <Text>La leucemia linfoblástica aguda (LLA) de células precursoras B é um tipo de câncer que afeta o sangue e a medula óssea. A LLA é caracterizada por uma superprodução de glóbulos brancos imaturos, chamados linfoblastos ou blastos leucêmicos. Como a medula óssea não é capaz de produzir um número adequado de células vermelhas, células brancas normais e plaquetas, as pessoas com LLA tornam-se mais susceptíveis à anemia, infecções recorrentes, bem como a hematomas e sangramentos com facilidade. Entre 75-80% dos casos em adultos, a LLA surge nos linfócitos B nas fases iniciais de desenvolvimento na medula óssea. Portanto, a doença é chamada de LLA de células B precursoras ou LLA de células B pré-B.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BLC01_1</LocID>                         
+    <Text>LLA (B)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BLC01_1_DESC</LocID>             
+    <Text>A leucemia linfoblástica aguda de células B, também conhecida como leucemia linfoblástica aguda do tipo Burkitt (B-ALL) ou leucemia linfoblástica aguda de células B maduras (LLA), é um câncer que afeta suas "linfócitos B" -- glóbulos brancos que crescem no centro macio dos seus ossos, chamada medula óssea. Este tipo de LLA é menos comum, representando cerca de 3-5% de todos os casos adultos. A marca registrada da LLA de células B maduras é a presença de imunoglobulina de superfície nos linfoblastos. Usando regimes convencionais, apenas 30-40% dos pacientes entram em remissão completa (CR) e poucos pacientes sobrevivem a longo prazo.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BLC01_2</LocID>                         
+    <Text>LLA (T)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BLC01_2_DESC</LocID>             
+    <Text>A leucemia linfoblástica aguda de células T (T-LLA) é um tipo de leucemia aguda, o que significa que é agressiva e progride rapidamente. Afeta as células-tronco que produzem células linfoides, em particular um tipo de glóbulo branco chamado linfócitos T, ao contrário da leucemia linfoblástica aguda (LLA), que geralmente afeta os linfócitos B.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BLC02_A</LocID>                         
+    <Text>Linfocítica Crônica Leucemia (Estável)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BLC02_A_DESC</LocID>             
+    <Text>A leucemia linfocítica crônica (LLC)(Estável) é um tipo de leucemia de crescimento lento que afeta os linfócitos B em desenvolvimento. Linfócitos B (também conhecidos como células B) são glóbulos brancos especializados. Em condições normais, eles produzem imunoglobulinas (também chamadas de anticorpos) que ajudam a proteger nossos corpos contra infecções e doenças. Em pessoas com LLC, os linfócitos sofrem uma mudança maligna (cancerosa) e se tornam células leucêmicas. É importante enfatizar que para muitas pessoas a LLC permanece estável por muitos meses e anos e tem pouco ou nenhum impacto em seu estilo de vida ou saúde geral. Cerca de 30-50% das pessoas diagnosticadas com LLC nunca precisam de tratamento para sua doença e podem sobreviver por muitos anos apesar de seu diagnóstico. Como a LLC se desenvolve lentamente, muitas pessoas não têm sintomas, especialmente nos estágios iniciais, e a doença é detectada durante um exame de sangue de rotina.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BLC02_B</LocID>                         
+    <Text>Linfocítica Crônica Leucemia (Avançada)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_BLC02_B_DESC</LocID>             
+    <Text>A leucemia linfocítica crônica (LLC)(Avançada)(Rara) é um tipo de leucemia de crescimento lento que afeta os linfócitos B em desenvolvimento. Linfócitos B (também conhecidos como células B) são glóbulos brancos especializados. Em condições normais, eles produzem imunoglobulinas (também chamadas de anticorpos) que ajudam a proteger nossos corpos contra infecções e doenças. Em pessoas com LLC, os linfócitos sofrem uma mudança maligna (cancerosa) e se tornam células leucêmicas. É importante enfatizar que para muitas pessoas a LLC permanece estável por muitos meses e anos e tem pouco ou nenhum impacto em seu estilo de vida ou saúde geral. Cerca de 30-50% das pessoas diagnosticadas com LLC nunca precisam de tratamento para sua doença e podem sobreviver por muitos anos apesar de seu diagnóstico. Como a LLC se desenvolve lentamente, muitas pessoas não têm sintomas, especialmente nos estágios iniciais, e a doença é detectada durante um exame de sangue de rotina.</Text>	
+</GameDBLocalizedString>
+
+		
+		<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC03_0</LocID>                         
+	<Text>Leucemia de Linfócitos T de Granularidade Grande (LGL)</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC03_0_DESC</LocID>             
+	<Text>A leucemia linfocítica granular grande (LGL) de células T é um tipo de leucemia crônica que afeta os glóbulos brancos chamados "linfócitos". Os linfócitos fazem parte do sistema imunológico do corpo e ajudam a combater certas infecções. A leucemia LGL é caracterizada por linfócitos aumentados, contendo grânulos perceptíveis, que podem ser vistos quando o sangue é examinado ao microscópio. Existem dois tipos de leucemia LGL: de células T (T-LGL) e de células natural killer (NK-LGL). A frequência da leucemia LGL de células T e NK varia de 2 a 5 por cento. A leucemia linfocítica de células T de granularidade grande é uma proliferação clonal de células T citotóxicas, que causa neutropenia, anemia e/ou trombocitopenia. Esta condição muitas vezes está associada a distúrbios autoimunes, especialmente artrite reumatoide, e outros distúrbios linfoproliferativos.</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC03_1</LocID>                         
+	<Text>Leucemia de Linfócitos Natural Killer (NK-LGL)</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC03_1_DESC</LocID>             
+	<Text>A leucemia linfocítica granular grande (LGL) de células natural killer (NK-LGL) é um tipo de leucemia crônica que afeta os glóbulos brancos chamados "linfócitos". Os linfócitos fazem parte do sistema imunológico do corpo e ajudam a combater certas infecções. A leucemia LGL é caracterizada por linfócitos aumentados, contendo grânulos perceptíveis, que podem ser vistos quando o sangue é examinado ao microscópio. Existem dois tipos de leucemia LGL: de células T (T-LGL) e de células natural killer (NK-LGL). A frequência da leucemia LGL de células T e NK varia de 2 a 5 por cento. A maioria dos pacientes com leucemia de células NK é assintomática, mas os pacientes com uma variante agressiva geralmente apresentam hepatomegalia e esplenomegalia e frequentemente têm sintomas B. Cerca de um terço tem linfadenopatia e envolvimento extranodal também pode ocorrer. Em média, os pacientes são mais jovens do que aqueles com leucemia de células T LGL.</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC03_2</LocID>                         
+	<Text>Leucemia Prolinfocítica de Células T</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC03_2_DESC</LocID>             
+	<Text>A leucemia prolinfocítica de células T (T-PLL) é uma malignidade (câncer) extremamente rara e tipicamente agressiva que é caracterizada pelo crescimento descontrolado de células T maduras (linfócitos T). As células T são um tipo de glóbulo branco que protege o corpo contra infecções. O T-PLL afeta adultos mais velhos com uma idade média ao diagnóstico de 61 anos, e é mais comum em homens do que em mulheres. Alterações anormais (mutações) nos genes de uma célula T podem fazer com que uma célula T normal e saudável se torne uma célula cancerosa. Esses erros genéticos na célula T mutada dizem à célula para continuar crescendo e se dividindo quando uma célula saudável normalmente pararia de se dividir e eventualmente morreria. Cada célula que surge da célula inicial da leucemia também possui o mesmo DNA mutado. Como resultado, ao longo do tempo, o número de células de leucemia se multiplica e pode viajar no sangue para outros locais, incluindo a medula óssea, baço, fígado, gânglios linfáticos e às vezes a pele.</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC04_0</LocID>                         
+	<Text>Leucemia Mieloide Aguda</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC04_0_DESC</LocID>             
+	<Text>A leucemia mieloide aguda se desenvolve quando o corpo produz muitos glóbulos brancos imaturos conhecidos como células blastos mieloides, também chamados de mieloblastos. Os mieloblastos se multiplicam descontroladamente e continuam a se dividir, mas nunca amadurecem em células normais. As células blastos anormais são conhecidas como células de leucemia. Como as células de leucemia são imaturas e anormais, elas não realizam a função habitual de combate à infecção dos glóbulos brancos. Elas também ocupam o lugar dos glóbulos brancos normais, que então não podem funcionar adequadamente. Isso aumenta o risco de infecções.</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC05_A</LocID>                         
+	<Text>Leucemia Mieloide Crônica (Fase Crônica)</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC05_A_DESC</LocID>             
+	<Text>A leucemia mieloide crônica (LMC) (Fase Crônica) é um tipo de câncer que afeta o sangue e a medula óssea. Na LMC, a medula óssea produz muitos glóbulos brancos, chamados granulócitos. Essas células (às vezes chamadas de blastos ou blastos leucêmicos) gradualmente ocupam a medula óssea, interferindo na produção normal de células sanguíneas. Elas também se espalham pela medula óssea e circulam pelo corpo na corrente sanguínea. Por não estarem totalmente maduras, elas são incapazes de funcionar corretamente para combater infecções. Com o tempo, a falta de glóbulos vermelhos e plaquetas pode causar anemia, sangramento e/ou hematomas. No geral, a LMC é uma doença rara, representando cerca de 0,03% de todos os cânceres diagnosticados. Muitas pessoas com leucemia mieloide crônica (LMC) não apresentam sintomas. Crônica - O número de glóbulos brancos está aumentado e um pequeno número de células imaturas chamadas blastos é encontrado no sangue e na medula óssea.</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC05_B</LocID>                         
+	<Text>Leucemia Mieloide Crônica (Fase Acelerada)</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC05_B_DESC</LocID>             
+	<Text>A leucemia mieloide crônica (LMC) (Fase Acelerada) é um tipo de câncer que afeta o sangue e a medula óssea. Na LMC, a medula óssea produz muitos glóbulos brancos, chamados granulócitos. Essas células (às vezes chamadas de blastos ou blastos leucêmicos) gradualmente ocupam a medula óssea, interferindo na produção normal de células sanguíneas. Elas também se espalham pela medula óssea e circulam pelo corpo na corrente sanguínea. Por não estarem totalmente maduras, elas são incapazes de funcionar corretamente para combater infecções. Com o tempo, a falta de glóbulos vermelhos e plaquetas pode causar anemia, sangramento e/ou hematomas. No geral, a LMC é uma doença rara, representando cerca de 0,03% de todos os cânceres diagnosticados. Muitas pessoas com leucemia mieloide crônica (LMC) não apresentam sintomas. Acelerada - Na fase acelerada, o número de blastos imaturos aumentou e, às vezes, novas alterações cromossômicas, além do cromossomo Ph, ocorrerão.</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC05_C</LocID>                         
+	<Text>Leucemia Mieloide Crônica (Fase de Blastos)</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC05_C_DESC</LocID>             
+	<Text>A leucemia mieloide crônica (LMC) (Fase de Blastos) é um tipo de câncer que afeta o sangue e a medula óssea. Na LMC, a medula óssea produz muitos glóbulos brancos, chamados granulócitos. Essas células (às vezes chamadas de blastos ou blastos leucêmicos) gradualmente ocupam a medula óssea, interferindo na produção normal de células sanguíneas. Elas também se espalham pela medula óssea e circulam pelo corpo na corrente sanguínea. Por não estarem totalmente maduras, elas são incapazes de funcionar corretamente para combater infecções. Com o tempo, a falta de glóbulos vermelhos e plaquetas pode causar anemia, sangramento e/ou hematomas. No geral, a LMC é uma doença rara, representando cerca de 0,03% de todos os cânceres diagnosticados. Muitas pessoas com leucemia mieloide crônica (LMC) não apresentam sintomas. Crise de Blastos - Fase de Blastos (Também Chamada de "Fase de Crise de Blastos"). A fase de blastos aparece e se comporta como a forma aguda de leucemia mieloide.</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC06_0</LocID>                         
+	<Text>Leucemia de Células Pilosas</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC06_0_DESC</LocID>             
+	<Text>A leucemia de células pilosas (LCP) é um tipo raro de leucemia crônica do sistema linfóide, no qual os linfócitos B anormais se acumulam na medula óssea, fígado e baço. Ao microscópio, essas células são vistas com pequenas projeções semelhantes a cabelos em sua superfície, daí o nome "célula pilosa".</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC06_1</LocID>                         
+	<Text>Variação da Leucemia de Células Pilosas</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC06_1_DESC</LocID>             
+	<Text>A variante da leucemia de células pilosas (LCP-V) é definida como uma forma rara e indolente de leucemia linfocítica B pequena e madura, caracterizada por esplenomegalia, um aumento do número de glóbulos brancos (GB) e medula óssea hiperplásica. A LCP-V é mais agressiva e resistente à terapia do que a LCP clássica. A variante da LCP foi anteriormente considerada um subtipo da LCP, mas em 2008, a Organização Mundial da Saúde concluiu que era uma entidade separada da LCP e biologicamente distinta. A variante da LCP é mais rara que a LCP e tem um curso clínico diferente.</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BREC1_0</LocID>                         
+	<Text>Carcinoma Ductal In Situ</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BREC1_0M</LocID>                         
+	<Text>Carcinoma Ductal In Situ</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BREC1_0_DESC</LocID>             
+	<Text>O carcinoma ductal in situ (CDIS) é um câncer de mama não invasivo. Ductal significa que o câncer começa dentro dos ductos mamários, carcinoma refere-se a qualquer câncer que começa na pele ou em outros tecidos (incluindo tecido mamário) que cobrem ou revestem os órgãos internos, e in situ significa "em seu local original". O CDIS é chamado de "não invasivo" porque não se espalhou além do ducto mamário para nenhum tecido mamário normal circundante. O CDIS não é ameaçador à vida, mas ter CDIS pode aumentar o risco de desenvolver um câncer de mama invasivo mais tarde. Carcinoma ductal in situ (CDIS) significa que há muitas células e elas têm as características do câncer, mas ainda estão confinadas ao interior do ducto. Embora seja raro, os homens podem desenvolver câncer de mama. O CDIS geralmente não apresenta sinais ou sintomas.</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BREC1_1</LocID>                         
+	<Text>Carcinoma Ductal Invasivo</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BREC1_1M</LocID>                         
+	<Text>Carcinoma Ductal Invasivo</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BREC1_1_DESC</LocID>             
+	<Text>O carcinoma ductal invasivo (CDI), às vezes chamado de carcinoma ductal infiltrante, é o tipo mais comum de câncer de mama. Cerca de 80% de todos os cânceres de mama são carcinomas ductais invasivos. Invasivo significa que o câncer "invadiu" ou se espalhou para os tecidos circundantes da mama. Ductal significa que o câncer começou nos ductos mamários, que são os "tubos" que transportam o leite dos lóbulos produtores de leite para o mamilo. Carcinoma refere-se a qualquer câncer que começa na pele ou em outros tecidos que cobrem órgãos internos - como tecido mamário. No geral, "carcinoma ductal invasivo" refere-se a câncer que rompeu a parede do ducto mamário e começou a invadir os tecidos da mama. Com o tempo, o carcinoma ductal invasivo pode se espalhar para os gânglios linfáticos e possivelmente para outras áreas do corpo. Embora seja raro, os homens podem desenvolver câncer de mama. No início, o carcinoma ductal invasivo pode não causar sintomas.</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BREC1_2</LocID>                         
+	<Text>Câncer de Mama Metastático</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BREC1_2M</LocID>                         
+	<Text>Câncer de Mama Metastático</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BREC1_2_DESC</LocID>             
+	<Text>O câncer de mama metastático (também chamado de estágio IV) é o câncer de mama que se espalhou para outra parte do corpo, mais comumente o fígado, cérebro, ossos ou pulmões. As células cancerosas podem se desprender do tumor original na mama e viajar para outras partes do corpo através da corrente sanguínea ou do sistema linfático, que é uma grande rede de nós e vasos que trabalha para remover bactérias, vírus e resíduos celulares. O câncer de mama pode retornar em outra parte do corpo meses ou anos após o diagnóstico e tratamento originais. Quase 30% das mulheres diagnosticadas com câncer de mama em estágio inicial desenvolverão doença metastática. Embora seja raro, os homens podem desenvolver câncer de mama.</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_OVAC1_0F</LocID>                         
+	<Text>Carcinoma Seroso de Alto Grau</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_OVAC1_0F_DESC</LocID>             
+	<Text>O carcinoma seroso ovariano de alto grau (CSAG) é um tipo de tumor que surge da camada epitelial serosa na cavidade abdominopélvica e é encontrado principalmente no ovário. Os CSAGs compõem a maioria dos casos de câncer de ovário[1] e têm as taxas de sobrevivência mais baixas. Os CSAG são distintos do carcinoma seroso de baixo grau (CSBG), que surge do tecido ovariano e é menos agressivo.</Text>
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_OVAC1_1F</LocID>                         
+	<Text>Carcinoma Seroso de Baixo Grau</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_OVAC1_1F_DESC</LocID>             
+	<Text>O câncer ovariano seroso de baixo grau é uma doença rara, representando menos de 10% dos casos de câncer de ovário. O carcinoma seroso de baixo grau do ovário (CSBG) é menos comum e agressivo do que os tipos de câncer de ovário de alto grau, mas resiste a muitos tipos de quimioterapia.</Text>
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_OVAC1_2F</LocID>                         
+	<Text>Câncer de Ovário Metastático</Text>	
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_OVAC1_2F_DESC</LocID>             
+	<Text>O câncer de ovário metastático é o câncer que se espalhou para o ovário a partir de outra parte do corpo. A metástase para o ovário pode ocorrer por disseminação hematogênica, linfática ou transperitoneal. O carcinoma seroso é um dos tipos mais comuns de câncer de ovário metastático. O câncer de ovário metastático é tratado de maneira diferente do câncer de ovário primário.</Text>
+</GameDBLocalizedString>
+		
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_PROC1_0M</LocID>                         
+	<Text>Câncer de Próstata (Estágio 1)</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_PROC1_0M_DESC</LocID>             
+	<Text>O câncer de próstata é um câncer que ocorre na próstata, uma pequena glândula em forma de noz nos homens que produz o fluido seminal que nutre e transporta o esperma. O câncer de próstata é um dos tipos mais comuns de câncer em homens. Normalmente, o câncer de próstata cresce lentamente e inicialmente está confinado à glândula da próstata, onde pode não causar danos graves. No entanto, enquanto alguns tipos de câncer de próstata crescem lentamente e podem precisar de tratamento mínimo ou até mesmo nenhum, outros tipos são agressivos e podem se espalhar rapidamente. \n\nNo Estágio 1, o câncer está confinado à próstata. O Estágio 1 não pode ser detectado durante um exame retal digital. Geralmente, espera-se que seja de crescimento lento.</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_PROC1_1M</LocID>                         
+	<Text>Câncer de Próstata (Estágio 2)</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_PROC1_1M_DESC</LocID>             
+	<Text>O câncer de próstata é um câncer que ocorre na próstata, uma pequena glândula em forma de noz nos homens que produz o fluido seminal que nutre e transporta o esperma. O câncer de próstata é um dos tipos mais comuns de câncer em homens. Normalmente, o câncer de próstata cresce lentamente e inicialmente está confinado à glândula da próstata, onde pode não causar danos graves. No entanto, enquanto alguns tipos de câncer de próstata crescem lentamente e podem precisar de tratamento mínimo ou até mesmo nenhum, outros tipos são agressivos e podem se espalhar rapidamente. \n\nCom o Estágio 2, o câncer pode ser detectado durante um exame retal digital. A doença ainda está confinada à próstata, mas as células podem ser anormais e podem crescer mais rápido.</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_PROC1_2M</LocID>                         
+	<Text>Câncer de Próstata (Estágio 3)</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_PROC1_2M_DESC</LocID>             
+	<Text>O câncer de próstata é um câncer que ocorre na próstata, uma pequena glândula em forma de noz nos homens que produz o fluido seminal que nutre e transporta o esperma. O câncer de próstata é um dos tipos mais comuns de câncer em homens. Normalmente, o câncer de próstata cresce lentamente e inicialmente está confinado à glândula da próstata, onde pode não causar danos graves. No entanto, enquanto alguns tipos de câncer de próstata crescem lentamente e podem precisar de tratamento mínimo ou até mesmo nenhum, outros tipos são agressivos e podem se espalhar rapidamente. \n\nCom o câncer de próstata no Estágio 3, o câncer está em tecidos próximos à próstata. Também pode ter alcançado as vesículas seminais.</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_PROC1_3M</LocID>                         
+	<Text>Câncer de Próstata (Estágio 4)</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_PROC1_3M_DESC</LocID>             
+	<Text>O câncer de próstata é um câncer que ocorre na próstata, uma pequena glândula em forma de noz nos homens que produz o fluido seminal que nutre e transporta o esperma. O câncer de próstata é um dos tipos mais comuns de câncer em homens. Normalmente, o câncer de próstata cresce lentamente e inicialmente está confinado à glândula da próstata, onde pode não causar danos graves. No entanto, enquanto alguns tipos de câncer de próstata crescem lentamente e podem precisar de tratamento mínimo ou até mesmo nenhum, outros tipos são agressivos e podem se espalhar rapidamente. \n\nO câncer de próstata no estágio 4 significa que o câncer invadiu outras partes do corpo, como o reto, os gânglios linfáticos próximos ou os ossos.</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC07_0</LocID>                         
+	<Text>Linfoma Difuso de Grandes Células B (NOS)</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC07_0_DESC</LocID>             
+	<Text>O linfoma difuso de grandes células B (Não Especificado) (DLBCL) é um tipo agressivo de linfoma não Hodgkin que se desenvolve a partir das células B no sistema linfático. Sob o microscópio, linfócitos malignos grandes são vistos difusamente em toda a amostra. DLBCL é o subtipo mais comum de linfoma não Hodgkin, representando 30% -40% de todos os casos. Existem vários tipos de DLBCL, sendo que a maioria das pessoas é diagnosticada com o subtipo conhecido como DLBCL 'não especificado'.</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC08_0</LocID>                         
+	<Text>Linfoma Folicular</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC08_0_DESC</LocID>             
+	<Text>O linfoma folicular é o subtipo mais comum de linfoma não Hodgkin indolente (de crescimento lento), compreendendo 20% a 30% de todos os linfomas não Hodgkin. O linfoma folicular geralmente afeta adultos de meia-idade ou mais velhos. Como a maioria dos linfomas indolentes, as pessoas diagnosticadas com linfoma folicular geralmente têm linfoma em muitas partes do corpo no momento do diagnóstico. Uma pequena porcentagem de pessoas com LF pode ter seu linfoma se transformando em uma forma mais agressiva de linfoma não Hodgkin, geralmente um DLBC ao longo do tempo. Se diagnosticado em estágio inicial, pode não ser dado nenhum tratamento (Observar e Esperar).</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_SC4_0</LocID>                         
+	<Text>Carcinoma de Células de Merkel (Local)</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_SC4_0_DESC</LocID>             
+	<Text>O carcinoma de células de Merkel (Raro) é um tipo raro de câncer de pele que geralmente aparece como um nódulo de cor carne ou vermelho-azulado, muitas vezes no rosto, cabeça ou pescoço. O carcinoma de células de Merkel também é chamado de carcinoma neuroendócrino da pele. O carcinoma de células de Merkel tende a crescer rapidamente e a metastatizar (espalhar-se) em estágio inicial. Geralmente se espalha primeiro para os gânglios linfáticos próximos e depois pode se espalhar para linfonodos ou pele em partes distantes do corpo, pulmões, cérebro, ossos ou outros órgãos. O carcinoma de células de Merkel é a segunda causa mais comum de morte por câncer de pele após o melanoma.</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_SC4_1</LocID>                         
+	<Text>Carcinoma de Células de Merkel (Metastático)</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_SC4_1_DESC</LocID>             
+	<Text>O carcinoma de células de Merkel (Raro) é um tipo raro de câncer de pele que geralmente aparece como um nódulo de cor carne ou vermelho-azulado, muitas vezes no rosto, cabeça ou pescoço. O carcinoma de células de Merkel também é chamado de carcinoma neuroendócrino da pele. O carcinoma de células de Merkel tende a crescer rapidamente e a metastatizar (espalhar-se) em estágio inicial. Geralmente se espalha primeiro para os gânglios linfáticos próximos e depois pode se espalhar para linfonodos ou pele em partes distantes do corpo, pulmões, cérebro, ossos ou outros órgãos. O carcinoma de células de Merkel é a segunda causa mais comum de morte por câncer de pele após o melanoma.</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC09_0</LocID>                         
+	<Text>Linfoma do Manto</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC09_0_DESC</LocID>             
+	<Text>O linfoma do manto é um tipo relativamente incomum de linfoma, representando aproximadamente 5% a 10% de todos os linfomas não Hodgkin. Afeta a borda externa (zona do manto) das células B no folículo do linfonodo. Em 85% dos casos, ocorre uma anormalidade quando dois cromossomos (11 e 14) se quebram e se juntam um ao outro. Isso é chamado de 'translocação' e faz com que as células B produzam em excesso uma proteína chamada ciclina D1. Em quantidades normais, a ciclina D1 ajuda a promover o crescimento celular normal, com quantidades excessivas resultando no crescimento descontrolado das células da zona do manto, o que pode levar ao MCL.</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LC2_0</LocID>                         
+	<Text>Carcinoma de Células Grandes do Pulmão</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LC2_0_DESC</LocID>             
+	<Text>O carcinoma de células grandes dos pulmões é uma forma de câncer de pulmão de células não pequenas. Os cânceres de pulmão de células não pequenas representam 80 por cento dos cânceres de pulmão, e destes, aproximadamente 10 por cento são carcinomas de células grandes do pulmão. Diferentemente de alguns cânceres de pulmão que se apresentam mais comumente com tosse ou infecções pulmonares, os sintomas iniciais muitas vezes incluem uma sensação vaga de falta de ar e fadiga. Os carcinomas de células grandes também são chamados de carcinomas de células grandes do pulmão. Eles são nomeados pela aparência de grandes células redondas quando examinados sob o microscópio, embora os tumores em si tendam a ser grandes também quando diagnosticados. Os carcinomas de células grandes frequentemente ocorrem nas regiões externas dos pulmões e tendem a crescer rapidamente e a se espalhar mais rapidamente do que algumas outras formas de câncer de pulmão de células não pequenas.</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LC3_0</LocID>                         
+	<Text>Adenocarcinoma de Pulmão (Inicial)</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LC3_0_DESC</LocID>             
+	<Text>O adenocarcinoma do pulmão é o tipo mais comum de câncer de pulmão e, como outras formas de câncer de pulmão, é caracterizado por características celulares e moleculares distintas. É classificado como um dos vários cânceres de pulmão de células não pequenas (CPNPC), para distingui-lo do câncer de pulmão de pequenas células, que tem um comportamento e prognóstico diferentes. O câncer de pulmão geralmente não causa sinais e sintomas em seus estágios iniciais. Sinais e sintomas de câncer de pulmão geralmente ocorrem apenas quando a doença está avançada. \n\nCom câncer detectado precocemente, o câncer geralmente é encontrado apenas no tecido ou órgão onde começou e não se espalhou para os gânglios linfáticos próximos ou para outras partes do corpo.</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LC3_1</LocID>                         
+	<Text>Adenocarcinoma de Pulmão (Avançado)</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LC3_1_DESC</LocID>             
+	<Text>O adenocarcinoma do pulmão é o tipo mais comum de câncer de pulmão e, como outras formas de câncer de pulmão, é caracterizado por características celulares e moleculares distintas. É classificado como um dos vários cânceres de pulmão de células não pequenas (CPNPC), para distingui-lo do câncer de pulmão de pequenas células, que tem um comportamento e prognóstico diferentes. O câncer de pulmão geralmente não causa sinais e sintomas em seus estágios iniciais. Sinais e sintomas de câncer de pulmão geralmente ocorrem apenas quando a doença está avançada. \n\nCom câncer avançado, os tumores podem ter qualquer tamanho e muito provavelmente se espalharam para os gânglios linfáticos do outro lado do tórax, perto da clavícula, ou invadiram outras estruturas no tórax, como o coração ou esôfago.</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LC4_0</LocID>                         
+	<Text>Câncer de Pulmão de Células Escamosas</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LC4_0_DESC</LocID>             
+	<Text>O carcinoma de células escamosas dos pulmões, também chamado de carcinoma epidermoide, é um tipo de câncer de pulmão de células não pequenas que geralmente se desenvolve em uma das vias aéreas, ou brônquios, dos pulmões. É o segundo tipo mais comum de câncer de pulmão de células não pequenas e representa aproximadamente 30% de todos os casos de câncer de pulmão. Este tipo de câncer geralmente é de crescimento lento, mas eventualmente pode se espalhar para outras áreas do corpo.</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BC2_0</LocID>                         
+	<Text>Carcinoma Colorretal de Células em Anel de Sinete</Text>	
+	</GameDBLocalizedString>
+		
+       <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC2_0_DESC</LocID>             
+		<Text>O carcinoma de células em anel de sinete (SRCC)(Raro) é uma forma rara de adenocarcinoma altamente maligno que produz mucina. É uma malignidade epitelial caracterizada pela aparência histológica de células em anel de sinete. Os tumores primários de SRCC são mais frequentemente encontrados nas células glandulares do estômago (SRCC se origina no estômago em 90 por cento dos pacientes), e menos frequentemente na mama, vesícula biliar, bexiga urinária e pâncreas. SRCCs não se formam normalmente nos pulmões. Entre os cânceres colorretais, a prevalência de SRCC é inferior a um por cento.</Text>
+		</GameDBLocalizedString>
+		
+			<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BC3_0</LocID>                         
+	<Text>Carcinoma Colorretal Mucinoso (Misto)</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BC3_0_DESC</LocID>             
+	<Text>O carcinoma colorretal mucinoso é um subtipo distinto de câncer colorretal (CCR) caracterizado pela presença de mucina extracelular abundante que representa pelo menos 50% do volume do tumor. O adenocarcinoma colorretal mucinoso é encontrado em 10%-20% dos pacientes com CCR. O carcinoma mucinoso pode se formar ao lado de outros tipos de células cancerígenas, quando isso acontece, o câncer é referido como carcinoma mucinoso misto.</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BC3_1</LocID>                         
+	<Text>Carcinoma Colorretal Mucinoso (Puro)</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BC3_1_DESC</LocID>             
+	<Text>O carcinoma colorretal mucinoso é um subtipo distinto de câncer colorretal (CCR) caracterizado pela presença de mucina extracelular abundante que representa pelo menos 50% do volume do tumor. O adenocarcinoma colorretal mucinoso é encontrado em 10%-20% dos pacientes com CCR. O carcinoma mucinoso pode se formar ao lado de outros tipos de células cancerígenas, mas quando isso não acontece, o câncer é considerado 'puro'.</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LIV0_0</LocID>                         
+	<Text>Carcinoma Hepatocelular (Local)</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LIV0_0_DESC</LocID>             
+	<Text>O carcinoma hepatocelular (HCC) é uma malignidade primária do fígado que ocorre predominantemente em pacientes com doença hepática crônica subjacente e cirrose. No entanto, até 25% dos pacientes não têm histórico de cirrose ou fatores de risco para ela. Os sintomas muitas vezes não aparecem nos estágios iniciais do câncer.</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LIV0_1</LocID>                         
+	<Text>Carcinoma Hepatocelular (Regional)</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LIV0_1_DESC</LocID>             
+	<Text>O carcinoma hepatocelular (HCC) é uma malignidade primária do fígado que ocorre predominantemente em pacientes com doença hepática crônica subjacente e cirrose. No entanto, até 25% dos pacientes não têm histórico de cirrose ou fatores de risco para ela. Os sintomas muitas vezes não aparecem nos estágios iniciais do câncer. \n\nRegionalmente, o câncer progrediu do fígado para os gânglios linfáticos próximos.</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LIV0_2</LocID>                         
+	<Text>Carcinoma Hepatocelular (Crítico)</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LIV0_2_DESC</LocID>             
+	<Text>O carcinoma hepatocelular (HCC) é uma malignidade primária do fígado que ocorre predominantemente em pacientes com doença hepática crônica subjacente e cirrose. No entanto, até 25% dos pacientes não têm histórico de cirrose ou fatores de risco para ela. \n\nEm um estado crítico, a ruptura espontânea do carcinoma hepatocelular (HCC) é uma complicação potencialmente ameaçadora à vida. O diagnóstico pode ser difícil, principalmente na ausência de cirrose hepática conhecida ou tumor.</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LIV0_3</LocID>                         
+	<Text>Câncer de Fígado Metastático</Text>	
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_LIV0_3_DESC</LocID>             
+	<Text>Uma metástase hepática é um tumor cancerígeno que se espalhou para o fígado a partir de um câncer que começou em outro lugar do corpo. Também é chamado de câncer de fígado secundário. O câncer primário de fígado se origina no fígado e afeta mais comumente indivíduos que têm fatores de risco como hepatite ou cirrose. Quando metastático, significa que o câncer invadiu outras partes do corpo, como outros órgãos, gânglios linfáticos próximos ou ossos.</Text>
+	</GameDBLocalizedString>
+
+
+		<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC01_1_V2</LocID>                         
+	<Text>LMA (Célula B)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC01_2_V2</LocID>                         
+	<Text>LMA (Célula T)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC02_A_V2</LocID>                         
+	<Text>LLC (Estável)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC02_B_V2</LocID>                         
+	<Text>LLC (Avançada)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC03_0_V2</LocID>                         
+	<Text>Leucemia Linfocítica Granular de Células T</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC03_1_V2</LocID>                         
+	<Text>Leucemia Linfocítica Granular de Células NK</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC03_2_V2</LocID>                         
+	<Text>Leucemia Prolinfocítica de Células T</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC04_0_V2</LocID>                         
+	<Text>Leucemia Mieloide Aguda</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC05_A_V2</LocID>                         
+	<Text>LCP (Fase Crônica)</Text>	
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC05_B_V2</LocID>                         
+	<Text>LCP (Fase Acelerada)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC05_C_V2</LocID>                         
+	<Text>LCP (Fase de Blastos)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC08_0_V2</LocID>                         
+	<Text>Linfoma Folicular</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BLC07_0_V2</LocID>                         
+	<Text>Linfoma Difuso de Grandes Células B (NOS)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BREC1_1_V2</LocID>                         
+	<Text>Carcinoma Ductal Invasivo (CDI)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_BREC1_1M_V2</LocID>                         
+	<Text>Carcinoma Ductal Invasivo (CDI)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_MC001_1_V2</LocID>                         
+	<Text>TNE Gastrointestinal (ES)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_SC3_4_V2</LocID>                         
+	<Text>Melanoma (Estágio 4)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_SC4_1_V2</LocID>                         
+	<Text>Carcinoma de Células de Merkel (Metastático)</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_ORA001_1</LocID>                         
+	<Text>Carcinoma Mucoepidermoide</Text>	
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_ORA001_1_DESC</LocID>                         
+	<Text>Carcinoma de Células de Merkel (Metastático)</Text>	
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>DIA_ONCO_CRP_ORA001_1</LocID>                         
+	<Text>Carcinoma Mucoepidermoide (Baixo Grau)</Text>	
+	</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_ORA001_1_DESC</LocID>                         
+    <Text>Os carcinomas mucoepidermoides são o tipo mais comum de câncer de glândula salivar. A maioria começa nas glândulas parótidas. Eles se desenvolvem menos frequentemente nas glândulas submandibulares ou nas glândulas salivares menores dentro da boca. Esses cânceres geralmente são de baixo grau e representam uma ameaça relativamente menor. Os principais determinantes da sobrevida são a histologia e o estágio clínico. Fatores prognósticos ruins incluem grau alto, envolvimento neural, doença localmente avançada, idade avançada, dor associada, metástases linfonodais regionais, metástases à distância e acúmulo de oncoproteínas p53 ou c-erbB2. O carcinoma mucoepidermoide também pode ser encontrado em outros órgãos, como brônquios, saco lacrimal e glândula tireoide.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_ORA001_2</LocID>                         
+    <Text>Carcinoma Mucoepidermoide (Alto Grau)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_ORA001_2_DESC</LocID>                         
+    <Text>Os carcinomas mucoepidermoides são o tipo mais comum de câncer de glândula salivar. A maioria começa nas glândulas parótidas. Eles se desenvolvem menos frequentemente nas glândulas submandibulares ou nas glândulas salivares menores dentro da boca. Aproximadamente 80% dos pacientes com paralisia do nervo facial têm metástase nodal no momento do diagnóstico. Esses pacientes têm uma taxa de sobrevida média muito menor em comparação com tumores de baixo grau. Os principais determinantes da sobrevida são a histologia e o estágio clínico. Fatores prognósticos ruins incluem grau alto, envolvimento neural, doença localmente avançada, idade avançada, dor associada, metástases linfonodais regionais, metástases à distância e acúmulo de oncoproteínas p53 ou c-erbB2. O carcinoma mucoepidermoide também pode ser encontrado em outros órgãos, como brônquios, saco lacrimal e glândula tireoide.</Text>	
+</GameDBLocalizedString>
+
+<!-- ### ### -->
+<!-- ######################################## Conteúdo adicionado para V0.15.0.0 Abaixo ######################################## -->
+<!-- ### ### -->
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_VAGC1_0F</LocID>                         
+    <Text>Neoplasia Intraepitelial Vaginal (Baixo Risco)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_VAGC1_0F_DESC</LocID>                         
+    <Text>A neoplasia intraepitelial vaginal, também conhecida como VAIN, é uma condição que envolve alterações celulares na vagina. Às vezes é referido como carcinoma in situ. O VAIN não é câncer, mas há chance de se transformar em câncer se não for tratado. O VAIN raramente causa sintomas e geralmente é detectado porque uma mulher é considerada potencialmente em risco. Muitos casos de VAIN de baixo grau desaparecerão por conta própria, então alguns médicos optarão por observá-los de perto sem iniciar o tratamento.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_VAGC1_1F</LocID>                         
+    <Text>Neoplasia Intraepitelial Vaginal (Alto Risco)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_VAGC1_1F_DESC</LocID>                         
+    <Text>A neoplasia intraepitelial vaginal, também conhecida como VAIN, é uma condição que envolve alterações celulares na vagina. Às vezes é referido como carcinoma in situ. O VAIN não é câncer, mas há chance de se transformar em câncer se não for tratado. O VAIN de Alto Risco é menos propenso a desaparecer por conta própria, então o tratamento pode ser iniciado imediatamente.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_VAGC2_0F</LocID>                         
+    <Text>Carcinoma Escamoso Vaginal (Local)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_VAGC2_0F_DESC</LocID>                         
+    <Text>O câncer vaginal é um câncer raro que ocorre na vagina do paciente — o tubo muscular que conecta o útero aos genitais externos. Quase 9 em cada 10 casos de câncer vaginal são carcinomas de células escamosas. Esses cânceres começam nas células escamosas que compõem o revestimento epitelial da vagina. Eles são mais comuns na parte superior da vagina, perto do colo do útero. Localizado, o câncer é encontrado apenas na parede vaginal.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_VAGC2_1F</LocID>                         
+    <Text>Carcinoma Escamoso Vaginal (Regional)</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_VAGC2_1F_DESC</LocID>                         
+    <Text>O câncer vaginal é um câncer raro que ocorre na vagina do paciente — o tubo muscular que conecta o útero aos genitais externos. Quase 9 em cada 10 casos de câncer vaginal são carcinomas de células escamosas. Esses cânceres começam nas células escamosas que compõem o revestimento epitelial da vagina. Eles são mais comuns na parte superior da vagina, perto do colo do útero. Regional, o câncer se espalhou pela parede vaginal para o tecido ao redor da vagina. Pode ou não ter se espalhado para a parede da pelve.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_VAGC2_2F</LocID>                         
+    <Text>Câncer Vaginal Metastático</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_VAGC2_2F_DESC</LocID>                         
+    <Text>O câncer vaginal é um câncer raro que ocorre na vagina do paciente — o tubo muscular que conecta o útero aos genitais externos. Quando Metastático, o câncer se espalhou para partes do corpo que não estão próximas da vagina, como pulmões, fígado ou osso.</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_ORA002_1</LocID>                         
+    <Text>Carcinoma Ductal Salivar</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_ORA002_1F</LocID>                         
+    <Text>Carcinoma Ductal Salivar</Text>	
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>DIA_ONCO_CRP_ORA002_1_DESC</LocID>                         
+    <Text>O carcinoma ductal salivar (CDS) é uma malignidade salivar primária agressiva que se assemelha microscopicamente ao carcinoma ductal de alto grau da mama, com padrões tanto in situ quanto invasivos. Geralmente é encontrado em homens mais velhos, mais frequentemente na glândula parótida.</Text>	
+</GameDBLocalizedString>
+
+		
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+

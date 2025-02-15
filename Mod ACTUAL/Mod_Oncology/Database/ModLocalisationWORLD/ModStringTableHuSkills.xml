@@ -1,0 +1,35 @@
+<Database>
+  <GameDBStringTable ID="LOC_EN_ADDON_ONCOLOGY_SKILLS">
+    <LanguageCode>Hu</LanguageCode>
+    <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+    <Contributors>
+      <Name>Ratox</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <!-- ### Skills ### -->
+      <GameDBLocalizedString>
+        <LocID>DPT_ONCOLOGY</LocID>
+        <Text>Onkológia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ONCO</LocID>
+        <Text>Onkológia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ONCO_DESCR</LocID>
+        <Text>Az onkológia hozzáférést biztosít speciális eljárásokhoz a rák különböző formáinak kimutatására, diagnosztizálására és kezelésére.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ONCO_SURGERY</LocID>
+        <Text>Sebészeti onkológia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SKILL_DOC_SPEC_ONCO_SURG_DESCR</LocID>
+        <Text>A sebészeti onkológia lehetővé teszi, hogy az orvos fő sebészként működjön az Onkológiai osztályon, és befolyásolja, hogy a műtétek milyen gyakran végződnek szövődményekkel.</Text>
+      </GameDBLocalizedString>
+      <!-- ### ### -->
+      <!-- ######################################## Vx.x.x.x Below ######################################## -->
+      <!-- ### ### -->
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

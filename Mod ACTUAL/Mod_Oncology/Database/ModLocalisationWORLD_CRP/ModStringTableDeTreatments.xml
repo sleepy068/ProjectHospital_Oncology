@@ -1,0 +1,308 @@
+<Database>
+	<!-- CRP Mod with Sleepy068 -->
+	<GameDBStringTable ID="LOC_DE_ADDON_CRP_SLEEPY_TREATMENTS">
+	<LanguageCode>de</LanguageCode>
+	<LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+	<Contributors>
+	<Name>TheDibbuK</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_IMIQUIMOD_CREAM</LocID>
+    <Text>Imiquimod Creme</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_IMIQUIMOD_CREAM_DESC</LocID>
+    <Text>Imiquimod ist eine verschreibungspflichtige Creme, die als Immunantwortmodifikator wirkt und zur Behandlung des oberflächlichen Basalzellkarzinoms und der aktinischen Keratose verwendet wird. \n\nBenötigter Raum: Jedes Büro</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_PHOTODYNAMIC_THERAPY</LocID>
+    <Text>Photodynamische Therapie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_PHOTODYNAMIC_THERAPY_DESC</LocID>
+    <Text>Die photodynamische Therapie ist eine Behandlung, bei der bestimmte Arzneimittel, sogenannte photosensibilisierende Substanzen, zusammen mit besonderem Licht eingesetzt werden, um Krebszellen abzutöten. \n\nBenötigter Raum: Jedes Büro</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_DOCTORS_ADVICE</LocID>
+    <Text>Oncology Patientenberatung</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_DOCTORS_ADVICE_DESC</LocID>
+    <Text>Der Arzt gibt dem Patienten Ratschläge, wie er mit seiner Situation umgehen kann, hilft dem Patienten, seine Optionen besser zu verstehen, wie z. B. palliative Versorgung, und tut alles, um sicherzustellen, dass der Patient während dieser Zeit die bestmögliche Lebensqualität hat. \n\nBenötigter Raum: Jedes Büro</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_TARGETED_THERAPY</LocID>
+    <Text>Gezielte Therapie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_TARGETED_THERAPY_DESC</LocID>
+    <Text>Gezielte Therapien sind Medikamente oder andere Substanzen, die das Wachstum und die Ausbreitung von Krebs durch Eingriffe in spezifische Moleküle blockieren. Gezielte Therapien unterscheiden sich von der herkömmlichen Chemotherapie, da sie darauf ausgelegt sind, auf spezifische molekulare Ziele einzufwirken und Krebszellen anzugreifen, ohne gesunde Zellen zu schädigen. \n\nBenötigter Raum: Jedes Büro</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_CHEMOTHERAPY</LocID>
+    <Text>Chemotherapie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_CHEMOTHERAPY_DESC</LocID>
+    <Text>Die Chemotherapie ist eine Art der Krebsbehandlung, bei der eines oder mehrere Anti-Krebs-Medikamente als Teil eines standardisierten Chemotherapie-Regimes eingesetzt werden. Die Chemotherapie kann mit Heilungsabsicht verabreicht werden oder darauf abzielen, das Leben zu verlängern oder Symptome zu lindern. \n\nBenötigter Raum: Regelmäßige Hospitalisierung in der Onkologie.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_IMMUNOTHERAPY_DRUGS</LocID>
+    <Text>Immuntherapie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_IMMUNOTHERAPY_DRUGS_DESC</LocID>
+    <Text>Die Immuntherapie ist eine Art der Krebsbehandlung, bei der das Immunsystem des Körpers dazu angeregt wird, gegen den Krebs zu kämpfen. \n\nBenötigter Raum: Jedes Büro</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_EPIPEN</LocID>
+    <Text>Epinephrin-Autoinjektor</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_EPIPEN_DESC</LocID>
+    <Text>Ein Epinephrin-Autoinjektor ist ein medizinisches Gerät zur Injektion einer gemessenen Dosis oder mehrerer Dosen Epinephrin mittels Autoinjektortechnologie. Er wird am häufigsten zur Behandlung von Anaphylaxie eingesetzt. \n\nBenötigter Raum: Jedes Büro</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_MITOTANE</LocID>
+    <Text>Mitotan</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_MITOTANE_DESC</LocID>
+    <Text>Mitotan, verkauft unter dem Markennamen Lysodren, ist ein Steroidogenese-Inhibitor und zytostatisches Antineoplastikum, das zur Behandlung des adrenokortikalen Karzinoms und des Cushing-Syndroms verwendet wird. \n\nBenötigter Raum: Jedes Büro</Text>
+</GameDBLocalizedString>
+	
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_SPIRONOLACTONE</LocID>
+    <Text>Spironolacton</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_SPIRONOLACTONE_DESC</LocID>
+    <Text>Spironolacton ist ein kaliumsparendes Diuretikum (Wassertablette), das verhindert, dass Ihr Körper zu viel Salz aufnimmt und Ihre Kaliumwerte nicht zu niedrig werden. Spironolacton wird zur Behandlung von Herzinsuffizienz, Bluthochdruck (Hypertonie) oder Hypokaliämie (niedrige Kaliumwerte im Blut) eingesetzt. \n\nBenötigter Raum: Jedes Büro</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_OCTREOTIDE_INJECTION</LocID>
+    <Text>Octreotid-Injektion</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_OCTREOTIDE_INJECTION_DESC</LocID>
+    <Text>Octreotid wird zur Behandlung von Wachstumshormon produzierenden Tumoren (Akromegalie und Gigantismus) eingesetzt und kann bei der Stabilisierung eines Patienten, der unter einer Karzinoidkrise leidet, helfen. \n\nBenötigter Raum: Jedes Büro</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_ACTIVE_MONITOR</LocID>
+    <Text>Aktive Überwachung</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_ACTIVE_MONITOR_DESC</LocID>
+    <Text>Aktive Überwachung erfolgt, wenn der Onkologe keine Behandlung empfiehlt, sondern die Gesundheit des Patienten mit regelmäßigen Untersuchungen und Bluttests überwacht. Dies wird manchmal "sorgfältige Überwachung" oder "beobachten und abwarten" genannt. \n\nBenötigter Raum: Jedes Onkologie-Büro</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_HYPER_CVAD</LocID>
+    <Text>Intensive Hyper-CVAD-Therapie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_HYPER_CVAD_DESC</LocID>
+    <Text>Der Begriff "hyper" bezieht sich auf die hyperfraktionierte Natur der Chemotherapie, die in kleineren Dosen häufiger verabreicht wird, um Nebenwirkungen zu minimieren. "CVAD" ist das Akronym der in Kurs A verwendeten Medikamente: Cyclophosphamid, Vincristin, Doxorubicin (auch bekannt unter dem Handelsnamen Adriamycin) und Dexamethason. Kurzzeitintensive Therapien zeigen verbesserte Ergebnisse. \n\nBenötigter Raum: Hochpriorisierte Hospitalisierung in der Onkologie.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_G_CSF</LocID>
+    <Text>G-CSF-Medikamente</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_G_CSF_DESC</LocID>
+    <Text>G-CSF-Medikamente, auch als Colony-stimulierender Faktor 3 bekannt, sind Glykoproteine, die das Knochenmark stimulieren, Granulozyten und Stammzellen produzieren und sie in den Blutkreislauf freisetzen. \n\nBenötigter Raum: Jedes Büro.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_METHOTREXATE</LocID>
+    <Text>Methotrexat IV</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_METHOTREXATE_DESC</LocID>
+    <Text>Methotrexat, früher als Amethopterin bekannt, ist ein Chemotherapie-Medikament und Immunsuppressivum. Es wird zur Behandlung von Krebs, Autoimmunerkrankungen, Eileiterschwangerschaft und medizinischen Schwangerschaftsabbrüchen eingesetzt. Zu den Krebsarten, bei denen es eingesetzt wird, gehören Brustkrebs, Leukämie, Lungenkrebs, Lymphom und Osteosarkom. \n\nBenötigter Raum: Regelmäßige Hospitalisierung in der Onkologie.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_ALEMTUZUMAB</LocID>
+    <Text>Alemtuzumab IV</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_ALEMTUZUMAB_DESC</LocID>
+    <Text>Alemtuzumab ist ein Medikament zur Behandlung der chronischen lymphatischen Leukämie und der multiplen Sklerose. Bei CLL wurde Alemtuzumab sowohl als Erst- als auch als Zweitlinienbehandlung eingesetzt. Bei MS wird es in der Regel nur empfohlen, wenn andere Behandlungen nicht gewirkt haben. Es wird intravenös verabreicht. \n\nBenötigter Raum: Regelmäßige Hospitalisierung in der Onkologie.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_BRAF_INH</LocID>
+    <Text>BRAF-Inhibitoren</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_BRAF_INH_DESC</LocID>
+    <Text>BRAF-Inhibitoren helfen, die BRAF-V600E-Genmutation zu blockieren. In klinischen Studien erhöhte B-Raf die Überlebenschance von Patienten mit metastasierendem Melanom. Trotz der hohen Wirksamkeit des Medikaments entwickeln 20% der Tumoren immer noch eine Resistenz gegen die Behandlung. \n\nBenötigter Raum: Jedes Büro.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_TAMOXIFEN</LocID>
+    <Text>Tamoxifen</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_TAMOXIFEN_DESC</LocID>
+    <Text>Tamoxifen ist eine Hormontherapie für Brustkrebs bei Frauen und Männern. Es senkt das Risiko, dass früh auftretender Brustkrebs nach einer Operation zurückkehrt oder sich in der anderen Brust entwickelt. Es kann auch fortgeschrittenen Brustkrebs für einige Zeit kontrollieren. \n\nBenötigter Raum: Jedes Büro.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_HYPERSALINE</LocID>
+    <Text>Hypertonische Kochsalzlösung</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_HYPERSALINE_DESC</LocID>
+    <Text>Die hyperosmolare Therapie mit hypertoner Kochsalzlösung oder Mannitol kann den intrakraniellen Druck schnell reduzieren und möglicherweise Leben und Gehirnzellen retten. Hypertonische Kochsalzlösung ist wirksam, weil sie die Blut-Hirn-Schranke (weitgehend) nicht überwindet und somit Hirn-Rückenmarksflüssigkeit aus dem Schädel und Flüssigkeit aus dem verletzten Gehirn zieht, um den Druck und weitere Verletzungen zu reduzieren. \n\nBenötigter Raum: Jedes Büro.</Text>
+</GameDBLocalizedString>
+	
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_INCISION_AND_DRAINAGE</LocID>
+    <Text>Inzision und Drainage</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_INCISION_AND_DRAINAGE_DESC</LocID>
+    <Text>Inzision und Drainage sowie klinisches Einschneiden sind kleine chirurgische Verfahren zur Freisetzung von Flüssigkeit oder Druck, der sich unter der Haut aufgebaut hat. \n\nBenötigter Raum: Onkologische Diagnostikeinheit / Onkologie-Arztpraxis / Intensivstation / Beobachtungsraum</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_ESTRADIOL_CREAM</LocID>
+    <Text>Estradiol-Creme</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_ESTRADIOL_CREAM_DESC</LocID>
+    <Text>Estradiol-Creme ist eine Zubereitung von Östrogen, einem weiblichen Hormon, zur topischen Anwendung im Vaginalbereich, um bestimmte Symptome der Menopause wie Trockenheit, Brennen und Juckreiz im Vaginalbereich sowie Dringlichkeit oder Reizung beim Wasserlassen zu behandeln. \n\nBenötigter Raum: Jedes Büro.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_HORMONE_THERAPY</LocID>
+    <Text>Hormontherapie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_HORMONE_THERAPY_DESC</LocID>
+    <Text>Die Hormontherapie oder hormonelle Therapie ist die Verwendung von Hormonen in der medizinischen Behandlung. \n\nBenötigter Raum: Jedes Büro.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_RCHOP</LocID>
+    <Text>R-CHOP-Chemotherapie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_RCHOP_DESC</LocID>
+    <Text>R-CHOP ist eine Kombinationsbehandlung zur Behandlung des Non-Hodgkin-Lymphoms (NHL). R-CHOP umfasst fünf Chemotherapie-Medikamente: Rituximab (Rituxan), Cyclophosphamid, Doxorubicinhydrochlorid, Vincristin und Prednisolon. \n\nBenötigter Raum: Regelmäßige Hospitalisierung in der Onkologie.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_RITUXIMAB</LocID>
+    <Text>Rituximab</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_RITUXIMAB_DESC</LocID>
+    <Text>Rituximab, verkauft unter dem Markennamen Rituxan und anderen, ist ein Medikament zur Behandlung bestimmter Autoimmunerkrankungen und Krebsarten. Rituximab ist ein chimärer monoklonaler Antikörper gegen das Protein CD20, das hauptsächlich auf der Oberfläche von B-Zellen des Immunsystems vorkommt. Wenn es an dieses Protein bindet, löst es den Zelltod aus. \n\nBenötigter Raum: Regelmäßige Hospitalisierung in der Onkologie.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_GEMCITABINE</LocID>
+    <Text>Gemcitabin</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_GEMCITABINE_DESC</LocID>
+    <Text>Gemcitabin, verkauft unter dem Markennamen Gemzar und anderen, ist ein Chemotherapiemedikament, das zur Behandlung verschiedener Krebsarten eingesetzt wird. Dazu gehören Brustkrebs, Eierstockkrebs, nicht-kleinzelliger Lungenkrebs, Bauchspeicheldrüsenkrebs und Blasenkrebs. Es wird langsam intravenös verabreicht. \n\nBenötigter Raum: Regelmäßige Hospitalisierung in der Onkologie.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_POCT</LocID>
+    <Text>POC Kombinationsbehandlung</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_POCT_DESC</LocID>
+    <Text>Kombinationsbehandlung mit Pamidronat und Octreotid. Einzelberichte deuten darauf hin, dass Pamidronat und Octreotid bei der Linderung von Knochenschmerzen in einigen Fällen helfen und bei der Behandlung der hypertrophen pulmonalen Osteoarthropathie (HPOA) unterstützen können. Die Behandlung des zugrunde liegenden Problems ist erforderlich, um das Problem zu lösen. \n\nBenötigter Raum: Jedes Büro.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_FEP</LocID>
+    <Text>FEP Kombinationsbehandlung</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_FEP_DESC</LocID>
+    <Text>Kombinationsbehandlung mit 5-Fluoruracil (5-FU), Cisplatin und Etoposid (FEP). Die Chemotherapie hat in bestimmten Krebsarten wie dem Signetringzellkarzinom (SRCC) eine relativ geringe Heilungseffizienz, und die Überlebensraten der Patienten sind im Vergleich zu Patienten mit typischeren Krebspathologien niedriger. Diese Krebsarten werden normalerweise in den späten Stadien der Krankheit diagnostiziert, sodass die Tumoren im Allgemeinen aggressiver als nicht-signetische Krebsarten wachsen und die Behandlung daher herausfordernd ist. Die meisten aktiven Behandlungsregime umfassen jedoch 5-Fluoruracil (5-FU), Cisplatin und/oder Etoposid. Die FEP-Kombinationschemotherapie scheint eine wirksame Behandlungsregimen für Magenkrebs als Rettungschemotherapie zu sein. \n\nBenötigter Raum: Regelmäßige Hospitalisierung in der Onkologie.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_AMMONUL</LocID>
+    <Text>Ammonul</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_AMMONUL_DESC</LocID>
+    <Text>Ammonul (Kombination von Natriumbenzoat und Natriumphenylacetat) wird zur Behandlung eines Zustands verwendet, der durch zu viel Ammoniak im Blut (Hyperammonämie) verursacht wird. \n\nBenötigter Raum: Regelmäßige Hospitalisierung in der Onkologie.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_LACTULOSE</LocID>
+    <Text>Lactulose</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_LACTULOSE_DESC</LocID>
+    <Text>Lactulose ist ein verschreibungspflichtiges Medikament, das oral oder rektal zur Behandlung oder Vorbeugung von Komplikationen bei Lebererkrankungen (hepatische Enzephalopathie) verwendet wird. Es heilt das Problem nicht, kann aber dazu beitragen, den geistigen Zustand zu verbessern. Lactulose ist ein kolonischer Azidifikator, der durch Verringerung der Menge an Ammoniak im Blut wirkt. \n\nBenötigter Raum: Jedes Büro.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_IMMUNOSUS_DRUGS</LocID>
+    <Text>Immunosuppressive Medikamente</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>TRT_CRP_IMMUNOSUS_DRUGS_DESC</LocID>
+    <Text>Immunosuppressive Medikamente sind eine Klasse von Medikamenten, die die Stärke des körpereigenen Immunsystems unterdrücken oder reduzieren. Einige dieser Medikamente werden eingesetzt, um den Körper weniger wahrscheinlich abstoßen zu lassen, wie beispielsweise eine transplantierte Leber, ein Herz oder eine Niere. \n\nBenötigter Raum: Operationssaal in der Onkologie.</Text>
+</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

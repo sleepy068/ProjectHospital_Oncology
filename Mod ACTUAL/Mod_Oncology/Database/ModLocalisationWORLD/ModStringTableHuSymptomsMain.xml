@@ -1,0 +1,755 @@
+<Database>
+  <!-- Oncology Mod by Sleepy068 -->
+  <GameDBStringTable ID="LOC_HU_ADDON_ONCOLOGYSL_SYMPTOMSMAIN">
+    <LanguageCode>hu</LanguageCode>
+    <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+    <Contributors>
+      <Name>Ratox</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC1_1_DETECTED</LocID>
+        <Text>Bazális sejtes karcinóma észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC1_1_DETECTED_DESC</LocID>
+        <Text>A tesztelés során bazálissejtes karcinómát észleltek metasztázisra utaló jelek nélkül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC1_2_DETECTED</LocID>
+        <Text>Bazális sejtes karcinóma észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC1_2_DETECTED_DESC</LocID>
+        <Text>A tesztelés során bazálissejtes karcinómát észleltek metasztázisra utaló jelek nélkül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC1_3_DETECTED</LocID>
+        <Text>Bazális sejtes karcinóma észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC1_3_DETECTED_DESC</LocID>
+        <Text>A tesztelés során bazálissejtes karcinómát mutattak ki, és annak jelei szerint átterjedt a közeli nyirokcsomókra és a környező szövetekre.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC1_4_DETECTED</LocID>
+        <Text>Bazális sejtes karcinóma észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC1_4_DETECTED_DESC</LocID>
+        <Text>A tesztelés során basalsejtes karcinómát mutattak ki metasztatikus jelekkel.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC2_1_DETECTED</LocID>
+        <Text>Laphámsejtes karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC2_1_DETECTED_DESC</LocID>
+        <Text>A vizsgálatok laphámrákot mutattak ki metasztázisra utaló jelek nélkül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC2_2_DETECTED</LocID>
+        <Text>Laphámsejtes karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC2_2_DETECTED_DESC</LocID>
+        <Text>A vizsgálatok laphámrákot mutattak ki metasztázisra utaló jelek nélkül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC2_3_DETECTED</LocID>
+        <Text>Laphámsejtes karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC2_3_DETECTED_DESC</LocID>
+        <Text>A tesztelés laphámrákot mutatott ki, annak jeleivel, hogy átterjedt a közeli nyirokcsomókra és a környező szövetekre.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC2_4_DETECTED</LocID>
+        <Text>Laphámsejtes karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC2_4_DETECTED_DESC</LocID>
+        <Text>A vizsgálat során laphámsejtes karcinómát észleltek metasztázisra utaló jelekkel.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC3_1_DETECTED</LocID>
+        <Text>Melanoma észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC3_1_DETECTED_DESC</LocID>
+        <Text>A tesztelés során melanomát észleltek, és nincs bizonyíték arra, hogy a nyirokszövetekre, nyirokcsomókra vagy testszervekre terjedt volna.  Lokálisan bezártnak tűnik, fekélyek nélkül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC3_2_DETECTED</LocID>
+        <Text>Melanoma észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC3_2_DETECTED_DESC</LocID>
+        <Text>A vizsgálatok kimutatták, hogy a melanoma túlnyúlik az epidermiszen (a bőr nagyon külső rétegén) a bőr vastagabb irharétegébe.  Nincs jele annak, hogy áttétes lenne.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC3_3_DETECTED</LocID>
+        <Text>Melanoma észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC3_3_DETECTED_DESC</LocID>
+        <Text>A tesztelés melanomát mutatott ki, amelynek jelei szerint átterjedt a közeli nyirokcsomókra és a környező szövetekre.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC3_4_DETECTED</LocID>
+        <Text>Melanoma észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC3_4_DETECTED_DESC</LocID>
+        <Text>A tesztelés során a melanomát metasztázisra utaló jelekkel mutatták ki</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_AGC1_0_DETECTED</LocID>
+        <Text>Feokromocitómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_AGC1_0_DETECTED_DESC</LocID>
+        <Text>A tesztek kimutatták a feokromocitómát, amely bizonyíték csak lokalizált.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_AGC1_1_DETECTED</LocID>
+        <Text>Feokromocitómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_AGC1_1_DETECTED_DESC</LocID>
+        <Text>A tesztek kimutatták a pheochromocytomát, és bizonyítottan regionális.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_AGC1_2_DETECTED</LocID>
+        <Text>Feokromocitómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_AGC1_2_DETECTED_DESC</LocID>
+        <Text>A tesztelés kimutatta a pheochromocytomát, amely áttétesnek bizonyult.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC_0_DETECTED</LocID>
+        <Text>Nem kissejtes tüdőrák (NSCLC) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC_0_DETECTED_DESC</LocID>
+        <Text>A tesztelés során kimutatták a nem kissejtes tüdőrákot, amely bizonyíték csak lokalizált.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC_1_DETECTED</LocID>
+        <Text>Nem kissejtes tüdőrák (NSCLC) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC_1_DETECTED_DESC</LocID>
+        <Text>A tesztelés során kimutatták a nem kissejtes tüdőrákot, amely bizonyítottan regionális.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC_2_DETECTED</LocID>
+        <Text>Nem kissejtes tüdőrák (NSCLC) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC_2_DETECTED_DESC</LocID>
+        <Text>A tesztelés során kimutatták a nem kissejtes tüdőrákot, amely metasztatikusra utal.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC1_0_DETECTED</LocID>
+        <Text>Kissejtes tüdőrákot (SCLC) észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC1_0_DETECTED_DESC</LocID>
+        <Text>A tesztelés kissejtes tüdőrákot mutatott ki, és bizonyítottan korlátozott állapotban van.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC1_1_DETECTED</LocID>
+        <Text>Kissejtes tüdőrákot (SCLC) észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC1_1_DETECTED_DESC</LocID>
+        <Text>A tesztelés során kimutatták a kissejtes tüdőrákot, és bizonyítottan kiterjedt állapotban van.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BC1_0_DETECTED</LocID>
+        <Text>Kolorektális adenokarcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BC1_0_DETECTED_DESC</LocID>
+        <Text>A tesztek kimutatták a vastag- és végbél adenokarcinómát, amely csak lokalizált.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BC1_1_DETECTED</LocID>
+        <Text>Kolorektális adenokarcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BC1_1_DETECTED_DESC</LocID>
+        <Text>A tesztek kimutatták a colorectalis adenocarcinomát, amely bizonyítottan regionális.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BC1_2_DETECTED</LocID>
+        <Text>Kolorektális adenokarcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BC1_2_DETECTED_DESC</LocID>
+        <Text>A vizsgálatok során kimutatták a vastag- és végbél adenokarcinómát, amely metasztatikusra utal.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_AGC2_0_DETECTED</LocID>
+        <Text>Mellékvesekéreg karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_AGC2_0_DETECTED_DESC</LocID>
+        <Text>A tesztek mellékvesekéreg-karcinómát mutattak ki, amely bizonyíték csak lokalizált.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_AGC2_1_DETECTED</LocID>
+        <Text>Mellékvesekéreg karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_AGC2_1_DETECTED_DESC</LocID>
+        <Text>A tesztek kimutatták a mellékvesekéreg-karcinómát, amely bizonyítottan regionális.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_AGC2_2_DETECTED</LocID>
+        <Text>Mellékvesekéreg karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_AGC2_2_DETECTED_DESC</LocID>
+        <Text>A tesztek mellékvesekéreg-karcinómát mutattak ki, amely metasztatikusra utal.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_MC001_0_DETECTED</LocID>
+        <Text>Gastrointestinalis NET észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_MC001_0_DETECTED_DESC</LocID>
+        <Text>A tesztelés gasztrointesztinális neuroendokrin daganatot mutatott ki, és bizonyítottan korlátozott állapotban van.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_MC001_1_DETECTED</LocID>
+        <Text>Gastrointestinalis NET észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_MC001_1_DETECTED_DESC</LocID>
+        <Text>A tesztelés során gasztrointesztinális neuroendokrin daganatot mutattak ki, amely bizonyíték arra utal, hogy kiterjedt állapotban van.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC01_0_DETECTED</LocID>
+        <Text>Pre-B-sejtes akut limfocitás leukémia észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC01_0_DETECTED_DESC</LocID>
+        <Text>A tesztek kimutatták a pre-B-sejtes limfocitás leukémiát, amely bizonyíték akutra utal.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC01_1_DETECTED</LocID>
+        <Text>B-sejtes akut limfocitás leukémia észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC01_1_DETECTED_DESC</LocID>
+        <Text>A tesztelés kimutatta a B-sejtes limfocitás leukémiát, amely bizonyíték akutra utal.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC02_A_DETECTED</LocID>
+        <Text>Krónikus limfocitás leukémiát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC02_A_DETECTED_DESC</LocID>
+        <Text>A tesztek limfocitás leukémiát mutattak ki, amely bizonyítékokkal rendelkezik, hogy krónikus, de stabil.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC02_B_DETECTED</LocID>
+        <Text>Krónikus limfocitás leukémiát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC02_B_DETECTED_DESC</LocID>
+        <Text>A tesztek limfocitás leukémiát mutattak ki, amely bizonyítékokkal rendelkezik, hogy krónikus és előrehaladott állapotban van.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC01_2_DETECTED</LocID>
+        <Text>T-sejtes akut limfocitás leukémia észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC01_2_DETECTED_DESC</LocID>
+        <Text>A teszt T-sejtes limfocitás leukémiát mutatott ki, amely bizonyíték akutra utal.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC01_3_DETECTED</LocID>
+        <Text>T-sejtes akut limfocitás leukémia észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC01_3_DETECTED_DESC</LocID>
+        <Text>A teszt T-sejtes limfocitás leukémiát mutatott ki, amely bizonyíték akutra utal.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC03_0_DETECTED</LocID>
+        <Text>T-sejtes nagy szemcsés limfocita (LGL) leukémia észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC03_0_DETECTED_DESC</LocID>
+        <Text>A tesztelés során kimutatták a limfocitás leukémiát, és ez egy altípus, a T-sejtes nagy szemcsés limfocita (LGL) leukémia.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC03_1_DETECTED</LocID>
+        <Text>NK-sejtes nagy szemcsés limfocita (LGL) leukémia észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC03_1_DETECTED_DESC</LocID>
+        <Text>A tesztelés során kimutatták a limfocitás leukémiát, és ez egy altípus, az NK-Cell Large Granular Lymphocyte (LGL) leukémia.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC03_2_DETECTED</LocID>
+        <Text>T-sejtes prolimfocita leukémia (T-PLL) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC03_2_DETECTED_DESC</LocID>
+        <Text>A tesztelés során kimutatták a limfocitás leukémiát, és bizonyítottan ritka altípusról van szó, a T-sejtes prolimfocitás leukémiáról.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC04_0_DETECTED</LocID>
+        <Text>Akut myeloid leukémia (AML) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC04_0_DETECTED_DESC</LocID>
+        <Text>A tesztek mieloid leukémiát mutattak ki, amely bizonyíték akutra utal.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC05_A_DETECTED</LocID>
+        <Text>Krónikus mieloid leukémia (CML) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC05_A_DETECTED_DESC</LocID>
+        <Text>A tesztelés kimutatta a mieloid leukémiát, amely bizonyítékokkal a krónikus fázisban van.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC05_B_DETECTED</LocID>
+        <Text>Krónikus mieloid leukémia (CML) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC05_B_DETECTED_DESC</LocID>
+        <Text>A tesztelés kimutatta a mieloid leukémiát, bizonyítékkal, hogy felgyorsult fázisában van.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC05_C_DETECTED</LocID>
+        <Text>Krónikus mieloid leukémia (CML) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC05_C_DETECTED_DESC</LocID>
+        <Text>A tesztelés kimutatta a mieloid leukémiát, amely bizonyítékok szerint a robbanásválság fázisában van.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC06_0_DETECTED</LocID>
+        <Text>Szőrös sejtes leukémia (HCL) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC06_0_DETECTED_DESC</LocID>
+        <Text>A tesztek szőrös sejtes leukémiát mutattak ki.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC06_1_DETECTED</LocID>
+        <Text>Szőrös sejtes leukémia variáns (HCL-V) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC06_1_DETECTED_DESC</LocID>
+        <Text>A vizsgálatok kimutatták, hogy a szőrös sejtes leukémia ritka változata.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BREC01_0_DETECTED</LocID>
+        <Text>Ductal carcinoma In Situ észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BREC01_0_DETECTED_DESC</LocID>
+        <Text>A tesztelés során Ductal Carcinomát mutattak ki, bizonyítékkal, hogy In Situ (eredeti helyen van, és nem terjedt el).</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BREC01_1_DETECTED</LocID>
+        <Text>Invazív duktális karcinóma (IDC) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BREC01_1_DETECTED_DESC</LocID>
+        <Text>A tesztelés során Ductal Carcinomát mutattak ki, amely bizonyítottan invazív, mivel behatolt a környező szövetekbe.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BREC01_2_DETECTED</LocID>
+        <Text>Áttétes emlőrákot észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BREC01_2_DETECTED_DESC</LocID>
+        <Text>A tesztek kimutatták a mellrákot, és bizonyítékot adtak arra, hogy metasztatikus.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BRAC01_0_DETECTED</LocID>
+        <Text>Pilocytikus asztrocitóma észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BRAC01_0_DETECTED_DESC</LocID>
+        <Text>A tesztelés Pilocytic Astrocytomát mutatott ki a páciensen belül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BRAC01_1_DETECTED</LocID>
+        <Text>Diffúz asztrocitóma észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BRAC01_1_DETECTED_DESC</LocID>
+        <Text>A tesztelés diffúz asztrocitómát mutatott ki a betegen belül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BRAC01_2_DETECTED</LocID>
+        <Text>Anaplasztikus asztrocitómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BRAC01_2_DETECTED_DESC</LocID>
+        <Text>A vizsgálat anaplasztikus asztrocitómát mutatott ki a páciensben.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_OVAC1_0F_DETECTED</LocID>
+        <Text>Magas fokú savós karcinómát (HGSC) észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_OVAC1_0F_DETECTED_DESC</LocID>
+        <Text>A tesztelés magas fokú savós karcinómát mutatott ki a páciensen belül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_OVAC1_1F_DETECTED</LocID>
+        <Text>Alacsony fokú savós karcinómát (LGSC) észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_OVAC1_1F_DETECTED_DESC</LocID>
+        <Text>A tesztelés alacsony fokú savós karcinómát mutatott ki a páciensen belül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BRAC01_3_DETECTED</LocID>
+        <Text>Glioblasztóma észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BRAC01_3_DETECTED_DESC</LocID>
+        <Text>A vizsgálat során glioblasztómát észleltek a páciensben.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_PROC1_0M_DETECTED</LocID>
+        <Text>Prosztatarák (1. stádium) Felfedezték</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_PROC1_0M_DETECTED_DESC</LocID>
+        <Text>A tesztelés prosztatarákot (1. stádium) mutatott ki a páciensen belül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_PROC1_1M_DETECTED</LocID>
+        <Text>Prosztatarák (2. stádium) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_PROC1_1M_DETECTED_DESC</LocID>
+        <Text>A tesztelés prosztatarákot (2. stádium) mutatott ki a páciensen belül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_PROC1_2M_DETECTED</LocID>
+        <Text>Prosztatarák (3. stádium) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_PROC1_2M_DETECTED_DESC</LocID>
+        <Text>A tesztelés prosztatarákot (3. stádium) mutatott ki a páciensen belül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_PROC1_3M_DETECTED</LocID>
+        <Text>Prosztatarák (4. stádium) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_PROC1_3M_DETECTED_DESC</LocID>
+        <Text>A tesztelés prosztatarákot (4. stádium) mutatott ki a páciensen belül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_OVAC1_2F_DETECTED</LocID>
+        <Text>Áttétes petefészekrákot észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_OVAC1_2F_DETECTED_DESC</LocID>
+        <Text>A vizsgálat során metasztatikus petefészekrákot észleltek a páciensen belül.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC07_0_DETECTED</LocID>
+        <Text>Diffúz nagy B-sejtes (NOS) limfóma észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC07_0_DETECTED_DESC</LocID>
+        <Text>A tesztelés diffúz nagy B-sejtes (NOS) limfómát mutatott ki.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC08_0_DETECTED</LocID>
+        <Text>Follikuláris limfómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC08_0_DETECTED_DESC</LocID>
+        <Text>A vizsgálat follikuláris limfómát mutatott ki.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC4_0_DETECTED</LocID>
+        <Text>Merkel sejtes karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC4_0_DETECTED_DESC</LocID>
+        <Text>A tesztelés Merkel-sejtes karcinómát mutatott ki, és ez csak helyi eredetű.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC4_1_DETECTED</LocID>
+        <Text>Merkel sejtes karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC4_1_DETECTED_DESC</LocID>
+        <Text>A tesztelés során a Merkel-sejtes karcinómát mutatták ki, amely bizonyítékkal metasztatikus.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC09_0_DETECTED</LocID>
+        <Text>Köpenysejtes limfómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC09_0_DETECTED_DESC</LocID>
+        <Text>A tesztelés köpenysejtes limfómát mutatott ki.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC2_0_DETECTED</LocID>
+        <Text>Nagysejtes tüdőkarcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC2_0_DETECTED_DESC</LocID>
+        <Text>A vizsgálatok nagysejtes tüdőkarcinómát mutattak ki.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC3_0_DETECTED</LocID>
+        <Text>Tüdő adenokarcinómát (E stádium) észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC3_0_DETECTED_DESC</LocID>
+        <Text>A tesztek kimutatták a tüdő adenokarcinómáját, amely bizonyítékokkal korai stádiumban van.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC3_1_DETECTED</LocID>
+        <Text>Tüdő adenokarcinómát (A stádium) észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC3_1_DETECTED_DESC</LocID>
+        <Text>A tesztek tüdőadenokarcinómát mutattak ki, amely bizonyítékokkal előrehaladott stádiumban van.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC4_0_DETECTED</LocID>
+        <Text>Laphámsejtes tüdőrákot észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LC4_0_DETECTED_DESC</LocID>
+        <Text>A vizsgálat laphámrákot mutatott ki.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BC2_0_DETECTED</LocID>
+        <Text>Signet gyűrűsejtes vastag- és végbélrák észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BC2_0_DETECTED_DESC</LocID>
+        <Text>A tesztelés a vastagbél Signet gyűrűsejtes karcinómáját mutatta ki.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BC3_0_DETECTED</LocID>
+        <Text>Mucinosus colorectalis adenocarcinoma (vegyes) kimutatva</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BC3_0_DETECTED_DESC</LocID>
+        <Text>A tesztek kimutatták a vastagbél nyálkahártya-adenokarcinómáját, amely bizonyítottan vegyes rákos állapotban van.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BC3_1_DETECTED</LocID>
+        <Text>Mucinosus colorectalis adenocarcinoma (tiszta) kimutatva</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BC3_1_DETECTED_DESC</LocID>
+        <Text>A tesztek kimutatták a vastagbél nyálkahártya-adenokarcinómáját, amely bizonyítottan tiszta rákos állapotban van.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BREC01_0M_DETECTED</LocID>
+        <Text>Ductal carcinoma In Situ észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BREC01_1M_DETECTED</LocID>
+        <Text>Invazív duktális karcinóma (IDC) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BREC01_2M_DETECTED</LocID>
+        <Text>Áttétes emlőrákot észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LIV0_0_DETECTED</LocID>
+        <Text>Hepatocelluláris karcinóma (lokalizált) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LIV0_0_DETECTED_DESC</LocID>
+        <Text>A tesztek kimutatták a hepatocelluláris karcinómát, és kimutatták, hogy lokalizálódik.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LIV0_1_DETECTED</LocID>
+        <Text>Hepatocelluláris karcinóma (regionális) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LIV0_1_DETECTED_DESC</LocID>
+        <Text>A vizsgálatok kimutatták a hepatocelluláris karcinómát, amely bizonyítottan regionális.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LIV0_2_DETECTED</LocID>
+        <Text>Hepatocelluláris karcinóma (kritikus) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LIV0_2_DETECTED_DESC</LocID>
+        <Text>A tesztek kimutatták a hepatocelluláris karcinómát, amely kritikus állapotban van.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LIV0_3_DETECTED</LocID>
+        <Text>Áttétes májrákot észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_LIV0_3_DETECTED_DESC</LocID>
+        <Text>A tesztelés kimutatta a májrákot, amely bizonyítékkal metasztatikus.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC01_0_DETECTED_V2</LocID>
+        <Text>Pre-B-sejtes akut limfocitás leukémia észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC01_1_DETECTED_V2</LocID>
+        <Text>B-sejtes akut limfocitás leukémia észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC01_2_DETECTED_V2</LocID>
+        <Text>T-sejtes akut limfocitás leukémia észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC02_A_DETECTED_V2</LocID>
+        <Text>Krónikus limfocitás leukémiát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC02_B_DETECTED_V2</LocID>
+        <Text>Krónikus limfocitás leukémiát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC03_0_DETECTED_V2</LocID>
+        <Text>T-sejtes nagy szemcsés limfocita (LGL) leukémia észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC03_1_DETECTED_V2</LocID>
+        <Text>NK-sejtes nagy szemcsés limfocita (LGL) leukémia észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC03_2_DETECTED_V2</LocID>
+        <Text>T-sejtes prolimfocita leukémia (T-PLL) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC04_0_DETECTED_V2</LocID>
+        <Text>Akut myeloid leukémia (AML) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC05_A_DETECTED_V2</LocID>
+        <Text>Krónikus mieloid leukémia (CML) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC05_B_DETECTED_V2</LocID>
+        <Text>Krónikus mieloid leukémia (CML) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC05_C_DETECTED_V2</LocID>
+        <Text>Krónikus mieloid leukémia (CML) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC08_0_DETECTED_V2</LocID>
+        <Text>Follikuláris limfómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BLC07_0_DETECTED_V2</LocID>
+        <Text>Diffúz nagy B-sejtes (NOS) limfóma észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BREC01_1_DETECTED_V2</LocID>
+        <Text>Invazív duktális karcinóma (IDC) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_BREC01_1M_DETECTED_V2</LocID>
+        <Text>Invazív duktális karcinóma (IDC) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_MC001_1_DETECTED_V2</LocID>
+        <Text>Gastrointestinalis NET észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC3_4_DETECTED_V2</LocID>
+        <Text>Melanoma észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_SC4_1_DETECTED_V2</LocID>
+        <Text>Merkel sejtes karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_ORA001_1_DETECTED</LocID>
+        <Text>Mucoepidermoid karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_ORA001_1_DETECTED_DESC</LocID>
+        <Text>A tesztelés kimutatta a mucoepidermoid karcinómát, amely bizonyítékokkal alátámasztja, hogy alacsony minőségű.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_ORA001_2_DETECTED</LocID>
+        <Text>Mucoepidermoid karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_ORA001_2_DETECTED_DESC</LocID>
+        <Text>A tesztek kimutatták a mucoepidermoid karcinómát, amely bizonyítékokkal rendelkezik, hogy kiváló állapotban van.</Text>
+      </GameDBLocalizedString>
+      <!-- ### ### -->
+      <!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+      <!-- ### ### -->
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED</LocID>
+        <Text>Vaginális intraepiteliális neoplázia (VAIN) (LR) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED_DESC</LocID>
+        <Text>A vizsgálatok kimutatták a vaginális intraepiteliális neopláziát (VAIN), de a bizonyítékok arra utalnak, hogy alacsony a kockázata.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED</LocID>
+        <Text>Vaginális intraepiteliális neoplázia (VAIN) (HR) észlelve</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED_DESC</LocID>
+        <Text>A vizsgálatok kimutatták a vaginális intraepiteliális neopláziát (VAIN), és a bizonyítékok arra utalnak, hogy ez magas kockázatú.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED</LocID>
+        <Text>Hüvelyi laphámsejtes karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED_DESC</LocID>
+        <Text>A vizsgálatok hüvelyi laphámsejtes karcinómát mutattak ki, és kimutatták, hogy lokalizálódik.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED</LocID>
+        <Text>Hüvelyi laphámsejtes karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED_DESC</LocID>
+        <Text>A vizsgálat során hüvelyi laphámsejtes karcinómát mutattak ki, amely bizonyíték regionális eredetű.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED</LocID>
+        <Text>Áttétes hüvelyrákot észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED_DESC</LocID>
+        <Text>A tesztelés során kimutatták a hüvelyrákot, amely áttétes és a szervezetben terjed.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_ORA002_1_DETECTED</LocID>
+        <Text>Nyálcsatorna karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_ORA002_1F_DETECTED</LocID>
+        <Text>Nyálcsatorna karcinómát észleltek</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SYM_ONCO_CRP_ORA002_1_DETECTED_DESC</LocID>
+        <Text>A vizsgálat nyálcsatorna karcinómát mutatott ki.</Text>
+      </GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

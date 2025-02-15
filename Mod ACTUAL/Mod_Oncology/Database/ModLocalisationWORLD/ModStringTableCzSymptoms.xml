@@ -1,0 +1,138 @@
+<Database>
+<!-- Oncology Mod od Sleepy068 -->
+<GameDBStringTable ID="LOC_CZ_ADDON_ONCOLOGYSL_SYMPTOMS">
+<LanguageCode>cz</LanguageCode>
+<LanguageNameLocalized>Czech</LanguageNameLocalized>
+	<Contributors>
+<Name>josiffilip</Name>
+</Contributors>
+
+<LocalizedStrings>
+<!-- ========================================= -->
+<!-- ============= Základní obsah ============= -->
+<!-- ========================================= -->
+<GameDBLocalizedString>
+<LocID>SYM_SLP_NERVE_DAMAGE</LocID>
+<Text>Pooperační neuropatická bolest</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_NERVE_DAMAGE_DESC</LocID>
+<Text>Pooperační neuropatická bolest (PONP) se může vyvinout, pokud byly během operace poškozeny nervy. Poškozené nervy nemohou správně přenášet signály z různých částí těla do mozku. Místo toho jsou tyto signály přehnané a způsobují chronickou bolest, která může přetrvávat měsíce nebo dokonce roky.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_LES_RUPTURE</LocID>
+<Text>Ruptura léze</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_LES_RUPTURE_DESC</LocID>
+<Text>Léze nebo nádor uvnitř pacienta praskly. To je spojeno s život ohrožujícím vnitřním krvácením.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_HEMOPTYSIS2</LocID>
+<Text>Těžká hemoptýza</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_HEMOPTYSIS2_DESC</LocID>
+<Text>Hemoptýza je vykašlávání krve nebo krví zbarveného hlenu z průdušek, hrtanu, průdušnice nebo plic. Jinými slovy, je to krvácení z dýchacích cest. K tomu může dojít u rakoviny plic, infekcí, jako je tuberkulóza, bronchitida nebo zápal plic, a určitých kardiovaskulárních onemocnění.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_SPLENOMEGALY</LocID>
+<Text>Splenomegalie</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_SPLENOMEGALY_DESC</LocID>
+<Text>Splenomegalie je stav, ke kterému dochází, když se vaše slezina zvětší. Běžně se tomu také říká zvětšená slezina nebo zvětšení sleziny.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_RUP_SPLENOMEGALY</LocID>
+<Text>Ruptura sleziny</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_RUP_SPLENOMEGALY_DESC</LocID>
+<Text>Prasknutí sleziny je nouzový zdravotní stav, ke kterému dochází, když se obal sleziny podobný pouzdru rozlomí a vylije krev do břišní oblasti. V závislosti na velikosti ruptury může dojít k velkému množství vnitřního krvácení.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_HYPERCALCEMIA</LocID>
+<Text>Hyperkalcémie</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_HYPERCALCEMIA_DESC</LocID>
+<Text>Hyperkalcémie je stav, při kterém je hladina vápníku v krvi nad normou. Hyperkalcémie je nejčastěji způsobena nadměrnou aktivitou čtyř drobných žlázek na krku (příštítná tělíska) nebo rakovinou. Extra vápník v krvi ovlivňuje mnoho tělesných systémů.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_SEVERE_HYPERCALCEMIA</LocID>
+<Text>Závažná hyperkalcémie</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_SEVERE_HYPERCALCEMIA_DESC</LocID>
+<Text>Těžká hyperkalcémie je lékařská pohotovost vyžadující naléhavou léčbu. Hyperkalcémie je stav, kdy je hladina vápníku ve vaší krvi nad normou. Vzácně může těžká hyperkalcémie narušit vaši srdeční funkci, způsobit bušení srdce a mdloby, známky srdeční arytmie a další srdeční problémy.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_ACUTE_LIVER_FAILURE</LocID>
+<Text>Akutní jaterní selhání</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_SLP_ACUTE_LIVER_FAILURE_DESC</LocID>
+<Text>Akutní jaterní selhání (ALF) je vzácný syndrom definovaný rychlým poklesem jaterních funkcí.</Text>
+</GameDBLocalizedString>
+ 
+<!-- ### ### -->
+<!-- ####################################### Obsah pro V0.15.0. 0 Přidáno níže ######################################## -->
+<!-- ### ### -->
+<!-- ========================================= -->
+<!-- ============= Základní obsah ============= -->
+<!-- ========================================= -->
+ 
+ 
+ 
+<!-- ================================================ -->
+<!-- ============= Obsah exportu CRP ============= -->
+<!-- ================================================ -->
+<GameDBLocalizedString>
+<LocID>SYM_CRP_BL_PMCC</LocID>
+<Text>Čisté mucinózní buňky</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_CRP_BL_PMCC_DESC</LocID>
+<Text>Mucinózní karcinom se může tvořit vedle jiných typů rakovinných buněk, ale pokud tomu tak není, je rakovina považována za „čistou“. Čistý mucinózní karcinom se skládá z 90–100 % mucinózních buněk.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_CRP_CDF_T_25</LocID>
+<Text>Nadměrná exprese p16INK4a</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_CRP_CDF_T_25_DESC</LocID>
+<Text>p16 (také známý jako p16INK4a, inhibitor cyklin-dependentní kinázy 2A, CDKN2A, mnohočetný nádorový supresor 1 a řada dalších synonym), je protein, který zpomaluje buněčné dělení zpomalením progrese buněčného cyklu z fáze G1 do fáze G1. S fázi, čímž působí jako nádorový supresor. p16 je široce používaný imunohistochemický marker v gynekologické patologii. Silná a difúzní cytoplazmatická a jaderná exprese p16 u spinocelulárních karcinomů (SCC) ženského genitálního traktu je silně spojena s vysoce rizikovou infekcí lidským papilomavirem (HPV) a novotvary cervikálního původu. Většina SCC děložního čípku exprimuje p16. Nicméně p16 může být exprimován v jiných novotvarech a v několika normálních lidských tkáních.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_CRP_CM_CK19_BRIGHT</LocID>
+<Text>Cytokeratin 19 (CK19) jasně vyjádřený</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SYM_CRP_CM_CK19_BRIGHT_DESC</LocID>  
+<Text>Keratin, cytoskeletální typ I 19 také známý jako cytokeratin-19 (CK-19) nebo keratin-19 (K19) je 40 kDa protein, který je u lidí kódován genem KRT19. Exprese u některých druhů rakoviny umožňuje CK19 působit jako marker a pomoci určit, jaký typ rakoviny může pacient mít.</Text>
+</GameDBLocalizedString>
+ 
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

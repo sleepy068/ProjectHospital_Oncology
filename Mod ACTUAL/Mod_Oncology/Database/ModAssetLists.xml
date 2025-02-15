@@ -2604,4 +2604,28 @@ This section handles adding my custom diagonsis icons to the game. -->
 	<File>MOD_ROOT/sym_sl_highcellc1b.png</File> 
 </GameDBAsset>
 
+<!-- 
+### Prefabs layout ### 
+This section handles adding my custom prefab layouts to the game. -->
+
+<GameDBAsset ID="ASSET_PREFAB_OT_INPATIENT_ONCO_OFFICE_SMALL">         
+    <Type>PREFAB</Type>       
+    <File>MOD_ROOT/room_inpatient_onco_office.xml</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_OR_PREFAB_ONCO_OFFICE_SMALL">   
+	<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>               
+	<File>MOD_ROOT/mod_prefab_or_onco_office_small.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_PREFAB_OT_INPATIENT_ONCO_OFFICE_LARGE">         
+    <Type>PREFAB</Type>       
+    <File>MOD_ROOT/room_inpatient_onco_office_small.xml</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_OR_PREFAB_ONCO_OFFICE_LARGE">   
+	<Type>TEXTURE_CUSTOM_PREFAB_SPRITE</Type>               
+	<File>MOD_ROOT/mod_prefab_or_onco_office_large.png</File> 
+</GameDBAsset>
+
 </Database>

@@ -1,0 +1,933 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_EN_ADDON_ONCOLOGYSL_SYMPTOMSMAIN">
+	<LanguageCode>ptbr</LanguageCode>
+	<LanguageNameLocalized>Português do Brasil</LanguageNameLocalized>
+	<Contributors>
+	<Name>Sleepy068</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC1_1_DETECTED</LocID>                               
+    <Text>Carcinoma Basocelular Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC1_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Basocelular sem sinais de metástase.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC1_2_DETECTED</LocID>                               
+    <Text>Carcinoma Basocelular Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC1_2_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Basocelular sem sinais de metástase.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC1_3_DETECTED</LocID>                               
+    <Text>Carcinoma Basocelular Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC1_3_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Basocelular com sinais de disseminação para os gânglios linfáticos próximos e tecido circundante.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC1_4_DETECTED</LocID>                               
+    <Text>Carcinoma Basocelular Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC1_4_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Basocelular com sinais de metástase.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC2_1_DETECTED</LocID>                               
+    <Text>Carcinoma Espinocelular Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC2_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Espinocelular sem sinais de metástase.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC2_2_DETECTED</LocID>                               
+    <Text>Carcinoma Espinocelular Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC2_2_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Espinocelular sem sinais de metástase.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC2_3_DETECTED</LocID>                               
+    <Text>Carcinoma Espinocelular Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC2_3_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Espinocelular com sinais de disseminação para os gânglios linfáticos próximos e tecido circundante.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC2_4_DETECTED</LocID>                               
+    <Text>Carcinoma Espinocelular Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC2_4_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Espinocelular com sinais de metástase.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC3_1_DETECTED</LocID>                               
+    <Text>Melanoma Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC3_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Melanoma sem evidências de que tenha se espalhado para os tecidos linfáticos, linfonodos ou órgãos do corpo. Parece estar localmente confinado sem ulceração.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC3_2_DETECTED</LocID>                               
+    <Text>Melanoma Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC3_2_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Melanoma com evidências de que se estende além da epiderme (camada externa da pele) para a camada mais espessa da derme da pele. Não há sinais de que seja metastático.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC3_3_DETECTED</LocID>                               
+    <Text>Melanoma Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC3_3_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Melanoma com sinais de disseminação para os gânglios linfáticos próximos e tecido circundante.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC3_4_DETECTED</LocID>                               
+    <Text>Melanoma Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC3_4_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Melanoma com sinais de metástase.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_AGC1_0_DETECTED</LocID>                               
+    <Text>Feocromocitoma Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_AGC1_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Feocromocitoma com evidências de que está apenas localizado.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_AGC1_1_DETECTED</LocID>                               
+    <Text>Feocromocitoma Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_AGC1_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Feocromocitoma com evidências de que está regionalizado.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_AGC1_2_DETECTED</LocID>                               
+    <Text>Feocromocitoma Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_AGC1_2_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Feocromocitoma com evidências de que está metastático.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC_0_DETECTED</LocID>                               
+    <Text>Câncer de Pulmão de Células Não Pequenas (CPCNP) Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Câncer de Pulmão de Células Não Pequenas com evidências de que está apenas localizado.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC_1_DETECTED</LocID>                               
+    <Text>Câncer de Pulmão de Células Não Pequenas (CPCNP) Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Câncer de Pulmão de Células Não Pequenas com evidências de que está regionalizado.</Text>  
+</GameDBLocalizedString>
+
+	
+	<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC_2_DETECTED</LocID>                               
+    <Text>Câncer de Pulmão de Células Não Pequenas (CPCNP) Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC_2_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Câncer de Pulmão de Células Não Pequenas com evidências de que está metastático.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC1_0_DETECTED</LocID>                               
+    <Text>Câncer de Pulmão de Pequenas Células (CPPC) Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC1_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Câncer de Pulmão de Pequenas Células com evidências de que está em estágio limitado.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC1_1_DETECTED</LocID>                               
+    <Text>Câncer de Pulmão de Pequenas Células (CPPC) Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC1_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Câncer de Pulmão de Pequenas Células com evidências de que está em estágio extensivo.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BC1_0_DETECTED</LocID>                               
+    <Text>Adenocarcinoma Colorretal Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BC1_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Adenocarcinoma Colorretal com evidências de que está apenas localizado.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BC1_1_DETECTED</LocID>                               
+    <Text>Adenocarcinoma Colorretal Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BC1_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Adenocarcinoma Colorretal com evidências de que está regionalizado.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BC1_2_DETECTED</LocID>                               
+    <Text>Adenocarcinoma Colorretal Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BC1_2_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Adenocarcinoma Colorretal com evidências de que está metastático.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_AGC2_0_DETECTED</LocID>                               
+    <Text>Carcinoma Adrenocortical Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_AGC2_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Adrenocortical com evidências de que está apenas localizado.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_AGC2_1_DETECTED</LocID>                               
+    <Text>Carcinoma Adrenocortical Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_AGC2_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Adrenocortical com evidências de que está regionalizado.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_AGC2_2_DETECTED</LocID>                               
+    <Text>Carcinoma Adrenocortical Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_AGC2_2_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Adrenocortical com evidências de que está metastático.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_MC001_0_DETECTED</LocID>                               
+    <Text>Tumor Neuroendócrino Gastrointestinal Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_MC001_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram um Tumor Neuroendócrino Gastrointestinal com evidências de que está em estado limitado.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_MC001_1_DETECTED</LocID>                               
+    <Text>Tumor Neuroendócrino Gastrointestinal Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_MC001_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram um Tumor Neuroendócrino Gastrointestinal com evidências de que está em estado extensivo.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC01_0_DETECTED</LocID>                               
+    <Text>Leucemia Linfocítica Aguda de Células Pré-B Detectada</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC01_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Leucemia Linfocítica de Células Pré-B com evidências de que está Aguda.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC01_1_DETECTED</LocID>                               
+    <Text>Leucemia Linfocítica Aguda de Células B Detectada</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC01_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Leucemia Linfocítica de Células B com evidências de que está Aguda.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC02_A_DETECTED</LocID>                               
+    <Text>Leucemia Linfocítica Crônica de Células B Detectada</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC02_A_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Leucemia Linfocítica com evidências de que está Crônica mas Estável.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC02_B_DETECTED</LocID>                               
+    <Text>Leucemia Linfocítica Crônica de Células B Detectada</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC02_B_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Leucemia Linfocítica com evidências de que está Crônica e em um estado Avançado.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC02_C_DETECTED</LocID>                               
+    <Text>Leucemia Linfocítica Crônica de Células B Detectada</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC02_C_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Leucemia Linfocítica com evidências de que está em sua fase de Crise Blástica.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC03_0_DETECTED</LocID>                               
+    <Text>Leucemia Linfocítica de Linfócitos Granulares Grandes (LGL-T) Detectada</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC03_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Leucemia Linfocítica com evidências de que é um subtipo, Leucemia de Linfócitos Granulares Grandes (LGL-T).</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC03_1_DETECTED</LocID>                               
+    <Text>Leucemia Linfocítica de Linfócitos Granulares Grandes (LGL-NK) Detectada</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC03_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Leucemia Linfocítica com evidências de que é um subtipo, Leucemia de Linfócitos Granulares Grandes (LGL-NK).</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC03_2_DETECTED</LocID>                               
+    <Text>Leucemia Prolinfocítica de Linfócitos T (T-PLL) Detectada</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC03_2_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Leucemia Linfocítica com evidências de que é um subtipo raro, Leucemia Prolinfocítica de Linfócitos T (T-PLL).</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC04_0_DETECTED</LocID>                               
+    <Text>Leucemia Mieloide Aguda (LMA) Detectada</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC04_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Leucemia Mieloide com evidências de que é Aguda.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC05_A_DETECTED</LocID>                               
+    <Text>Leucemia Mieloide Crônica (LMC) Detectada</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC05_A_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Leucemia Mieloide com evidências de que está em sua fase Crônica.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC05_B_DETECTED</LocID>                               
+    <Text>Leucemia Mieloide Crônica (LMC) Detectada</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC05_B_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Leucemia Mieloide com evidências de que está em sua fase Acelerada.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC05_C_DETECTED</LocID>                               
+    <Text>Leucemia Mieloide Crônica (LMC) Detectada</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC05_C_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Leucemia Mieloide com evidências de que está em sua fase de Crise Blástica.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC06_0_DETECTED</LocID>                               
+    <Text>Leucemia de Células Pilosas (LCP) Detectada</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC06_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Leucemia de Células Pilosas.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC06_1_DETECTED</LocID>                               
+    <Text>Variant de Leucemia de Células Pilosas (LCP-V) Detectada</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC06_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Leucemia de Células Pilosas com evidências de que é uma variante rara.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BREC01_0_DETECTED</LocID>                               
+    <Text>Carcinoma Ductal In Situ Detectado</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BREC01_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Ductal com evidências de que está In Situ (no lugar original e não se espalhou).</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BREC01_1_DETECTED</LocID>                               
+    <Text>Carcinoma Ductal Invasivo (CDI) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BREC01_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Ductal com evidências de ser invasivo, tendo invadido os tecidos circundantes.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BREC01_2_DETECTED</LocID>                               
+    <Text>Câncer de Mama Metastático Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BREC01_2_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Câncer de Mama com evidências de ser metastático.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BRAC01_0_DETECTED</LocID>                               
+    <Text>Astrocioma Pilocítico Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BRAC01_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Astrocioma Pilocítico no paciente.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BRAC01_1_DETECTED</LocID>                               
+    <Text>Astrocioma Difuso Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BRAC01_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Astrocioma Difuso no paciente.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BRAC01_2_DETECTED</LocID>                               
+    <Text>Astrocioma Anaplásico Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BRAC01_2_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Astrocioma Anaplásico no paciente.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_OVAC1_0F_DETECTED</LocID>                               
+    <Text>Carcinoma Seroso de Alto Grau (CSAG) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_OVAC1_0F_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Seroso de Alto Grau no paciente.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_OVAC1_1F_DETECTED</LocID>                               
+    <Text>Carcinoma Seroso de Baixo Grau (CSBG) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_OVAC1_1F_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Seroso de Baixo Grau no paciente.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BRAC01_3_DETECTED</LocID>                               
+    <Text>Glioblastoma Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BRAC01_3_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Glioblastoma no paciente.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_PROC1_0M_DETECTED</LocID>                               
+    <Text>Câncer de Próstata (Estágio 1) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_PROC1_0M_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Câncer de Próstata (Estágio 1) no paciente.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_PROC1_1M_DETECTED</LocID>                               
+    <Text>Câncer de Próstata (Estágio 2) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_PROC1_1M_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Câncer de Próstata (Estágio 2) no paciente.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_PROC1_2M_DETECTED</LocID>                               
+    <Text>Câncer de Próstata (Estágio 3) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_PROC1_2M_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Câncer de Próstata (Estágio 3) no paciente.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_PROC1_3M_DETECTED</LocID>                               
+    <Text>Câncer de Próstata (Estágio 4) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_PROC1_3M_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Câncer de Próstata (Estágio 4) no paciente.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_OVAC1_2F_DETECTED</LocID>                               
+    <Text>Câncer de Ovário Metastático Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_OVAC1_2F_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Câncer de Ovário Metastático no paciente.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC07_0_DETECTED</LocID>                               
+    <Text>Linfoma de Células B Grandes Difuso (NOS) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC07_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Linfoma de Células B Grandes Difuso (NOS).</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC08_0_DETECTED</LocID>                               
+    <Text>Linfoma Folicular Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC08_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Linfoma Folicular.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC4_0_DETECTED</LocID>                               
+    <Text>Carcinoma de Células de Merkel Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC4_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma de Células de Merkel com evidências de ser apenas local.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC4_1_DETECTED</LocID>                               
+    <Text>Carcinoma de Células de Merkel Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC4_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma de Células de Merkel com evidências de ser metastático.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC09_0_DETECTED</LocID>                               
+    <Text>Linfoma de Células do Manto Detectado</Text>  
+</GameDBLocalizedString>
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC09_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Linfoma de Células do Manto.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC2_0_DETECTED</LocID>                               
+    <Text>Carcinoma Pulmonar de Células Grandes Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC2_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma Pulmonar de Células Grandes.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC3_0_DETECTED</LocID>                               
+    <Text>Adenocarcinoma Pulmonar (Estágio E) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC3_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Adenocarcinoma Pulmonar com evidências de estar em um estágio inicial.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC3_1_DETECTED</LocID>                               
+    <Text>Adenocarcinoma Pulmonar (Estágio A) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC3_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Adenocarcinoma Pulmonar com evidências de estar em um estágio avançado.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC4_0_DETECTED</LocID>                               
+    <Text>Câncer de Pulmão de Células Escamosas Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_LC4_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Câncer de Pulmão de Células Escamosas.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BC2_0_DETECTED</LocID>                               
+    <Text>Carcinoma Colorretal de Células em Anel de Sinete Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BC2_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Carcinoma de Células em Anel de Sinete do Cólon.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BC3_0_DETECTED</LocID>                               
+    <Text>Adenocarcinoma Colorretal Mucinoso (Misto) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BC3_0_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Adenocarcinoma Mucinoso do Cólon com evidências de estar em um estado de câncer misto.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BC3_1_DETECTED</LocID>                               
+    <Text>Adenocarcinoma Colorretal Mucinoso (Puro) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BC3_1_DETECTED_DESC</LocID>                   
+    <Text>Os testes detectaram Adenocarcinoma Mucinoso do Cólon com evidências de estar em um estado de câncer puro.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>    
+    <LocID>SYM_ONCO_CRP_BREC01_0M_DETECTED</LocID>                               
+    <Text>Carcinoma Ductal In Situ Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>     
+    <LocID>SYM_ONCO_CRP_BREC01_1M_DETECTED</LocID>                               
+    <Text>Carcinoma Ductal Invasivo (CDI) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>     
+    <LocID>SYM_ONCO_CRP_BREC01_2M_DETECTED</LocID>                               
+    <Text>Câncer de Mama Metastático Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>    
+    <LocID>SYM_ONCO_CRP_LIV0_0_DETECTED</LocID>                               
+    <Text>Carcinoma Hepatocelular (Localizado) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>     
+    <LocID>SYM_ONCO_CRP_LIV0_0_DETECTED_DESC</LocID>                               
+    <Text>Os testes detectaram Carcinoma Hepatocelular com evidências de estar localizado.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>    
+    <LocID>SYM_ONCO_CRP_LIV0_1_DETECTED</LocID>                               
+    <Text>Carcinoma Hepatocelular (Regional) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>     
+    <LocID>SYM_ONCO_CRP_LIV0_1_DETECTED_DESC</LocID>                               
+    <Text>Os testes detectaram Carcinoma Hepatocelular com evidências de estar regional.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>    
+    <LocID>SYM_ONCO_CRP_LIV0_2_DETECTED</LocID>                               
+    <Text>Carcinoma Hepatocelular (Crítico) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>     
+    <LocID>SYM_ONCO_CRP_LIV0_2_DETECTED_DESC</LocID>                               
+    <Text>Os testes detectaram Carcinoma Hepatocelular com evidências de estar em um estado crítico.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>    
+    <LocID>SYM_ONCO_CRP_LIV0_3_DETECTED</LocID>                               
+    <Text>Câncer de Fígado Metastático Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>     
+    <LocID>SYM_ONCO_CRP_LIV0_3_DETECTED_DESC</LocID>                               
+    <Text>Os testes detectaram Câncer de Fígado com evidências de estar Metastático.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC01_0_DETECTED_V2</LocID>                               
+    <Text>Leucemia Linfoblástica Aguda de Pré-Células B Detectada</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC01_1_DETECTED_V2</LocID>                               
+    <Text>Leucemia Linfoblástica Aguda de Células B Detectada</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC01_2_DETECTED_V2</LocID>                               
+    <Text>Leucemia Linfoblástica Aguda de Células T Detectada</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC02_A_DETECTED_V2</LocID>                               
+    <Text>Leucemia Linfocítica Crônica Detectada</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC02_B_DETECTED_V2</LocID>                               
+    <Text>Leucemia Linfocítica Crônica Detectada</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC03_0_DETECTED_V2</LocID>                               
+    <Text>Leucemia de Linfócitos Grandes Granulares T (LGL) Detectada</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC03_1_DETECTED_V2</LocID>                               
+    <Text>Leucemia de Linfócitos Grandes Granulares NK (LGL) Detectada</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC03_2_DETECTED_V2</LocID>                               
+    <Text>Leucemia Prolinfocítica de Células T (T-PLL) Detectada</Text>  
+</GameDBLocalizedString>
+	
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC04_0_DETECTED_V2</LocID>                               
+    <Text>Leucemia Mieloide Aguda (AML) Detectada</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC05_A_DETECTED_V2</LocID>                               
+    <Text>Leucemia Mieloide Crônica (CML) Detectada</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC05_B_DETECTED_V2</LocID>                               
+    <Text>Leucemia Mieloide Crônica (CML) Detectada</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC05_C_DETECTED_V2</LocID>                               
+    <Text>Leucemia Mieloide Crônica (CML) Detectada</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC08_0_DETECTED_V2</LocID>                               
+    <Text>Linfoma Folicular Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BLC07_0_DETECTED_V2</LocID>                               
+    <Text>Linfoma de Grandes Células B Difuso (NOS) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_BREC01_1_DETECTED_V2</LocID>                               
+    <Text>Carcinoma Ductal Invasivo (CDI) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>     
+    <LocID>SYM_ONCO_CRP_BREC01_1M_DETECTED_V2</LocID>                               
+    <Text>Carcinoma Ductal Invasivo (CDI) Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_MC001_1_DETECTED_V2</LocID>                               
+    <Text>Tumor Neuroendócrino Gastrointestinal Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC3_4_DETECTED_V2</LocID>                               
+    <Text>Melanoma Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_SC4_1_DETECTED_V2</LocID>                               
+    <Text>Carcinoma de Células de Merkel Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_ORA001_1_DETECTED</LocID>                               
+    <Text>Carcinoma Mucoepidermoide Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_ORA001_1_DETECTED_DESC</LocID>                               
+    <Text>Os testes detectaram Carcinoma Mucoepidermoide com evidências de estar em um estado de baixo grau.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_ORA001_2_DETECTED</LocID>                               
+    <Text>Carcinoma Mucoepidermoide Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_ORA001_2_DETECTED_DESC</LocID>                               
+    <Text>Os testes detectaram Carcinoma Mucoepidermoide com evidências de estar em um estado de alto grau.</Text>  
+</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED</LocID>                               
+    <Text>Neoplasia Intraepitelial Vaginal (NIV)(LR) Detectada</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED_DESC</LocID>                               
+    <Text>Os testes detectaram Neoplasia Intraepitelial Vaginal (NIV) mas evidências sugerem que é de baixo risco.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED</LocID>                               
+    <Text>Neoplasia Intraepitelial Vaginal (NIV)(HR) Detectada</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED_DESC</LocID>                               
+    <Text>Os testes detectaram Neoplasia Intraepitelial Vaginal (NIV) e evidências sugerem que é de alto risco.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED</LocID>                               
+    <Text>Carcinoma Espinocelular Vaginal Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED_DESC</LocID>                               
+    <Text>Os testes detectaram Carcinoma Espinocelular Vaginal com evidências de que está localizado.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED</LocID>                               
+    <Text>Carcinoma Espinocelular Vaginal Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED_DESC</LocID>                               
+    <Text>Os testes detectaram Carcinoma Espinocelular Vaginal com evidências de que está regionalizado.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED</LocID>                               
+    <Text>Câncer Vaginal Metastático Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED_DESC</LocID>                               
+    <Text>Os testes detectaram Câncer Vaginal com evidências de que está metastático e se espalhou pelo corpo.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_ORA002_1_DETECTED</LocID>                               
+    <Text>Carcinoma do Duto Salivar Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_ORA002_1F_DETECTED</LocID>                               
+    <Text>Carcinoma do Duto Salivar Detectado</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_ONCO_CRP_ORA002_1_DETECTED_DESC</LocID>                               
+    <Text>Os testes detectaram Carcinoma do Duto Salivar.</Text>  
+</GameDBLocalizedString>
+
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

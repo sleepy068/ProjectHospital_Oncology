@@ -1,0 +1,88 @@
+<Database>
+<!-- Oncology Mod od Sleepy068 -->
+<GameDBStringTable ID="LOC_CZ_ADDON_ONCOLOGYSL_EXAMINATIONS">
+
+<LanguageCode>cz</LanguageCode>
+<LanguageNameLocalized>Czech</LanguageNameLocalized>
+
+	<Contributors>
+<Name>josiffilip</Name>
+</Contributors>
+
+<LocalizedStrings>
+<!-- ### ### -->
+<!-- ####################################### Obsah pro V0.15.0. 0 Přidáno níže ######################################## -->
+<!-- ### ### -->
+ 
+<!-- ========================================= -->
+<!-- ============= Základní obsah ============= -->
+<!-- ========================================= -->
+ 
+ 
+<!-- ================================================ -->
+<!-- ============= Obsah exportu CRP ============= -->
+<!-- ================================================ -->
+
+<GameDBLocalizedString>
+<LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</LocID>
+<Text>Vzorek biopsie vaječníků</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE_DESC</LocID>
+<Text>V současnosti neexistuje žádný účinný screeningový test na rakovinu vaječníků. Když je u pacientky podezření na rakovinu vaječníků, lékař provede různé testy, aby zjistil jakékoli abnormality, které je třeba sledovat biopsií. Jediný způsob, jak potvrdit diagnózu rakoviny vaječníků, je odebrat vzorek tkáně (biopsie) a podívat se na buňky pod mikroskopem. \n\nPožadovaná laboratoř: Histologie</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>EXM_CRP_OVARIAN_BIOPSY_TEST</LocID>
+<Text>Test biopsie vaječníků</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>EXM_CRP_OVARIAN_BIOPSY_TEST_DESC</LocID>
+<Text>Histologové v současné době pracují se vzorkem poskytnutým pacientem. Brzy by měli vrátit své výsledky.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</LocID>
+<Text>Vzorek vaginální biopsie</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE_DESC</LocID>
+<Text>Některé příznaky a symptomy mohou silně naznačovat rakovinu pochvy, ale mnohé z nich mohou být způsobeny jinými problémy. Jediný způsob, jak si být jistý, že jde o rakovinu, je provést biopsii. Při tomto postupu se odstraní malý kousek tkáně z podezřelé oblasti. Technik specializující se na diagnostiku nemocí pomocí laboratorních testů (Histology Lab Technician) se poté podívá na vzorek tkáně pod mikroskopem, aby zjistil, zda je přítomna rakovina nebo předrakovinný stav, a pokud ano, o jaký typ se jedná. \n\nPožadovaná laboratoř: Histologie</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>EXM_CRP_VAGINAL_BIOPSY_TEST</LocID>
+<Text>Test vaginální biopsie</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>EXM_CRP_VAGINAL_BIOPSY_TEST_DESC</LocID>
+<Text>Histologové v současné době pracují se vzorkem poskytnutým pacientem. Brzy by měli vrátit své výsledky.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</LocID>
+<Text>Vzorek biopsie slinných žláz</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE_DESC</LocID>
+<Text>Biopsie slinných žláz zahrnuje odstranění buněk nebo malých kousků tkáně z jedné nebo více slinných žláz, aby mohly být vyšetřeny v laboratoři. \n\nPožadovaná laboratoř: Histologie</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</LocID>
+<Text>Bioptický test slinných žláz</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST_DESC</LocID>
+<Text>Histologové v současné době pracují se vzorkem poskytnutým pacientem. Brzy by měli vrátit své výsledky.</Text>
+</GameDBLocalizedString>
+ 
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

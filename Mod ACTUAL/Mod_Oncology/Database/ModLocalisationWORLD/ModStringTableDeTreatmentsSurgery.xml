@@ -1,0 +1,227 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_DE_ADDON_ONCOLOGYSL_TREATMENTSSURGERY">
+	<LanguageCode>de</LanguageCode>
+	<LanguageNameLocalized>German</LanguageNameLocalized>
+	<Contributors>
+	<Name>Gego</Name>
+	<Name>niofb271</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_WIDELOCALEXCISION</LocID>                               
+	<Text>Breite lokale Exzision (WLE)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_WIDELOCALEXCISION_DESC</LocID>                   
+	<Text>Eine breite lokale Exzision (WLE) ist ein chirurgischer Eingriff, bei dem ein kleiner Bereich von erkranktem oder problematischem Gewebe mit einem Rand von normalem Gewebe entfernt wird. Dieses Verfahren wird üblicherweise an der Brust und bei Hautläsionen durchgeführt, kann aber an jedem Bereich des Körpers angewendet werden. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LAPAROSCOPIC_SURGERY</LocID>                                    	
+	<Text>Laparoskopie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LAPAROSCOPIC_SURGERY_DESC</LocID>                        	
+	<Text>Die laparoskopische oder „minimal-invasive“ Chirurgie ist eine spezialisierte Technik zur Durchführung von Operationen. Es ist ein risikoarmes, minimal-invasives Verfahren, das nur kleine Schnitte erfordert. Die Laparoskopie verwendet ein Instrument namens Laparoskop, um die Bauchorgane zu betrachten. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LOBECTOMY_SURGERY</LocID>                                    	
+	<Text>Pulmonale Lobektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LOBECTOMY_SURGERY_DESC</LocID>                        	
+	<Text>Die pulmonale Lobektomie der Lunge ist ein chirurgischer Eingriff, bei dem ein Lungenlappen entfernt wird. Es wird durchgeführt, um einen Teil der erkrankten Lunge zu entfernen, z. B. bei Lungenkrebs im Frühstadium. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ENDOVASCULAR_EMBOLISATION</LocID>                                    	
+	<Text>Endovaskuläre Embolisation</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>                        	
+	<Text>Die endovaskuläre Embolisation (EE) ist ein invasiver chirurgischer Eingriff. Es wird verwendet, um anormale Blutgefäße in Ihrem Gehirn sowie in anderen Bereichen Ihres Körpers zu behandeln. Dieses Verfahren ist eine Alternative zur offenen Operation. Es blockiert Blutgefäße, um den Blutfluss zu einem betroffenen Bereich zu unterbrechen. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ONCO_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>Rekonstruktive Nervenchirurgie</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ONCO_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>Nervenrekonstruktive Chirurgie oder chirurgische Nervenreparatur beinhaltet die Untersuchung des verletzten Nervs und die Entfernung von verletztem Gewebe oder Narben von den Nervenenden. Danach kann ein Nerv direkt wieder verbunden werden, wenn die Enden ausreichend lang sind, um eine qualitativ hochwertige Reparatur ohne Spannung zu ermöglichen. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Neurologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_POLYPECTOMY</LocID>                                    	
+	<Text>Polypektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_POLYPECTOMY_DESC</LocID>                        	
+	<Text>Eine Polypektomie ist ein Verfahren zur Entfernung von Polypen aus dem Inneren des Dickdarms, auch Dickdarm genannt. Ein Polyp ist eine abnorme Ansammlung von Gewebe. Das Verfahren ist relativ nichtinvasiv. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PARTIAL_COLECTOMY</LocID>                                    	
+	<Text>Kolektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PARTIAL_COLECTOMY_DESC</LocID>                        	
+	<Text>Eine Kolektomie ist eine Darmresektion des Dickdarms. Es besteht aus der chirurgischen Entfernung jeglicher Ausdehnung des Dickdarms, in der Regel einer segmentalen Resektion. Im Extremfall wird der gesamte Dickdarm entfernt. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ADRENALECTOMY</LocID>                                    	
+	<Text>Nebennierenentfernung</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_ADRENALECTOMY_DESC</LocID>                        	
+	<Text>Adrenalektomie ist die chirurgische Entfernung einer oder beider Nebennieren. Es wird normalerweise für Patienten mit Nebennierentumoren empfohlen. Der Eingriff kann in offener Inzisions- oder laparoskopischer Technik durchgeführt werden. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>SUR_SLP_SPLENECTOMY</LocID>                                    	
+	<Text>Splenektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SPLENECTOMY_DESC</LocID>                        	
+	<Text>Die Splenektomie ist ein chirurgischer Eingriff zur Entfernung Ihrer Milz. Die Milz ist ein Organ, das unter Ihrem Brustkorb auf der oberen linken Seite Ihres Bauches sitzt. Es hilft bei der Bekämpfung von Infektionen und filtert unnötiges Material wie alte oder beschädigte Blutzellen aus Ihrem Blut. Der häufigste Grund für eine Splenektomie ist die Behandlung einer Milzruptur, die oft durch eine Bauchverletzung verursacht wird. Die Splenektomie kann zur Behandlung anderer Erkrankungen eingesetzt werden, einschließlich einer vergrößerten Milz, die Beschwerden verursacht (Splenomegalie), einiger Bluterkrankungen, bestimmter Krebsarten, Infektionen und gutartiger Zysten oder Tumoren. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SEG_MASTECTOMY</LocID>                                    	
+	<Text>Partielle Mastektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SEG_MASTECTOMY_DESC</LocID>                        	
+	<Text>Eine Operation zur Entfernung des Krebses und einiger normaler Gewebe um ihn herum, aber nicht der Brust selbst. Einige Lymphknoten unter dem Arm können für eine Biopsie entfernt werden. Ein Teil der Brustwandauskleidung kann auch entfernt werden, wenn der Krebs in der Nähe ist. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_DEBULKING</LocID>                                    	
+	<Text>Chirurgisches Debulking</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_DEBULKING_DESC</LocID>                        	
+	<Text>Das chirurgische Debulking von Tumoren ist ein Verfahren, bei dem ein chirurgisch nicht heilbarer bösartiger Tumor ohne kurative Absicht teilweise entfernt wird, um eine anschließende Therapie mit Medikamenten, Bestrahlung oder anderen begleitenden Maßnahmen effektiver zu gestalten und dadurch die Überlebensdauer zu verlängern. Der Arzt muss mit dem Patienten Nachbehandlungstermine vereinbaren, um zu versuchen, den Krebs in Remission zu bringen. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Neurologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_GTR</LocID>                                    	
+	<Text>Kraniotomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_GTR_DESC</LocID>                        	
+	<Text>Die grobe Totalresektion ist eine vollständige Entfernung des im Magnetresonanztomogramm (MRT) sichtbaren Tumorgewebes. Die supratotale Resektion wird als grobe Totalresektion mit Exzision der im MRT sichtbaren Tumorgewebegrenzen in das nicht betroffene Hirngewebe durchgeführt. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Neurologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_UNI_SALOOPH</LocID>                                    	
+	<Text>Einseitige Salpingo-Oophorektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_UNI_SALOOPH_DESC</LocID>                        	
+	<Text>Eine einseitige Salpingo-Oophorektomie ist die chirurgische Entfernung eines Eierstocks und eines Eileiters, die sich beide auf derselben Körperseite befinden und eine gemeinsame Blutversorgung haben (im Gegensatz dazu beinhaltet ein bilateraler Eingriff die Entfernung beider Eierstöcke und Eileiter Rohre). Die einseitige Salpingo-Oophorektomie sollte als erste Wahl der fruchtbarkeitserhaltenden Behandlung für Frauen in Betracht gezogen werden, die die Fruchtbarkeit erhalten möchten. Obwohl ein höheres Risiko für lokale Rezidive gefunden wird, ist es nicht mit einem verringerten Gesamtüberleben verbunden. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_RAD_PROS</LocID>                                    	
+	<Text>Radikale Prostatektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_RAD_PROS_DESC</LocID>                        	
+	<Text>Die radikale Prostatektomie ist eine Operation zur Entfernung der Prostata und des sie umgebenden Gewebes. Dazu gehören normalerweise die Samenbläschen und einige nahegelegene Lymphknoten. Radikale Prostatektomie kann Prostatakrebs bei Männern heilen, deren Krebs auf die Prostata beschränkt ist. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PARATHY</LocID>                                    	
+	<Text>Parathyreoidektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PARATHY_DESC</LocID>                        	
+	<Text>Die Parathyreoidektomie ist eine Operation zur Entfernung der Nebenschilddrüsen oder Nebenschilddrüsentumoren. Die Nebenschilddrüsen sind direkt hinter Ihrer Schilddrüse in Ihrem Hals. Diese Drüsen helfen Ihrem Körper, den Kalziumspiegel im Blut zu kontrollieren. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SEGMENTECTOMY</LocID>                                    	
+	<Text>Segmentektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_SEGMENTECTOMY_DESC</LocID>                        	
+	<Text>Die Segmentresektion ist ein chirurgischer Eingriff zur Entfernung eines Teils eines Organs oder einer Drüse als Unterart einer Resektion, bei der möglicherweise der gesamte Körperteil entfernt wird. Es kann auch verwendet werden, um einen Tumor und normales Gewebe um ihn herum zu entfernen. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_HEPATECTOMY</LocID>                                    	
+	<Text>Hepatektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_HEPATECTOMY_DESC</LocID>                        	
+	<Text>Hepatektomie is the surgical resection (removal of all or part) of the liver. \n\nRequired room: Operating room at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LIVER_TRANSPL</LocID>                                    	
+	<Text>Lebertransplantationschirurgie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_LIVER_TRANSPL_DESC</LocID>                        	
+	<Text>Eine Lebertransplantation ist ein chirurgischer Eingriff, bei dem eine Leber, die nicht mehr richtig funktioniert (Leberversagen), entfernt und durch eine gesunde Leber eines verstorbenen Spenders oder einen Teil einer gesunden Leber eines lebenden Spenders ersetzt wird. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PAROTIDECTOMY</LocID>                                    	
+	<Text>Parotidektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_PAROTIDECTOMY_DESC</LocID>                        	
+	<Text>Eine Parotidektomie ist die chirurgische Entfernung der Ohrspeicheldrüse, der wichtigsten und größten der Speicheldrüsen. Das Verfahren wird am häufigsten aufgrund von Neoplasmen durchgeführt, bei denen es sich um Wucherungen von sich schnell und abnormal teilenden Zellen handelt. Neubildungen können gutartig oder bösartig sein. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_VAGINECTOMY</LocID>                                    	
+	<Text>Vaginektomie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_VAGINECTOMY_DESC</LocID>                        	
+	<Text>Die Vaginektomie ist eine Operation, bei der die gesamte oder ein Teil der Vagina entfernt wird. Es wird normalerweise zur Behandlung von Vaginalkrebs eingesetzt. Wenn die Gebärmutter und die Eierstöcke intakt bleiben sollen, hinterlässt die Vaginektomie einen Kanal und eine Öffnung, die zum Ableiten des Menstruationsausflusses geeignet sind. Andernfalls muss eine Hysterektomie durchgeführt werden, um die Gefahr zu vermeiden, dass der Menstruationsfluss im Körper zurückgehalten wird. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_BRACHYTHERAPY</LocID>                                    	
+	<Text>Brachytherapie</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SUR_SLP_BRACHYTHERAPY_DESC</LocID>                        	
+	<Text>Brachytherapie ist ein Verfahren, bei dem radioaktives Material in den Körper des Patienten eingebracht wird. Die Brachytherapie ist eine Art der Strahlentherapie, die zur Behandlung von Krebs eingesetzt wird. Brachytherapie wird manchmal als interne Bestrahlung bezeichnet. Die Brachytherapie ermöglicht es Ärzten, im Vergleich zur herkömmlichen Form der Strahlentherapie (externe Bestrahlung), bei der Strahlung von einem Gerät außerhalb Ihres Körpers projiziert wird, höhere Strahlendosen an spezifischere Bereiche des Körpers abzugeben. Die Brachytherapie kann weniger Nebenwirkungen verursachen als die externe Bestrahlung, und die Gesamtbehandlungszeit ist normalerweise kürzer. \n\nErforderlicher Raum: Operationssaal in der Abteilung für Onkologie.</Text>  
+	</GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

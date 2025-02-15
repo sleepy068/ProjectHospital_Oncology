@@ -1,0 +1,905 @@
+<Database>
+	<!-- Oncology Mod od Sleepy068 -->
+	<GameDBStringTable ID="LOC_CZ_ADDON_ONCOLOGYSL_DIAGNOSES_ONCO">
+		<LanguageCode>cz</LanguageCode>
+		<LanguageNameLocalized>Czech</LanguageNameLocalized>
+		<Contributors>
+			<Name>josiffilip</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC1_1</LocID>
+				<Text>Bazaliom (1. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC1_1_DESC</LocID>
+				<Text>Bazocelulární karcinom je nejčastější formou rakoviny u lidí. Je to typ nemelanomové rakoviny kůže, která začíná v bazocelulární vrstvě epidermis (svrchní vrstva kůže), roste velmi pomalu a zřídka se šíří (metastázuje).\n\nV 1. stadiu je nádor zhruba 2 centimetry široké nebo menší a může se rozšířit do dermis.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC1_2</LocID>
+				<Text>Bazaliom (2. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC1_2_DESC</LocID>
+				<Text>Bazocelulární karcinom je nejčastější formou rakoviny u lidí. Je to typ nemelanomové rakoviny kůže, která začíná v bazocelulární vrstvě epidermis (svrchní vrstva kůže), roste velmi pomalu a zřídka se šíří (metastázuje).\n\nVe 2. stadiu je nádor větší širší než 2 centimetry, může se rozšířit do dermis a má vysoce rizikové rysy, jako je perineurální invaze.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC1_3</LocID>
+				<Text>Bazaliom (3. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC1_3_DESC</LocID>
+				<Text>Bazocelulární karcinom je nejčastější formou rakoviny u lidí. Je to typ nemelanomové rakoviny kůže, která začíná v bazocelulární vrstvě epidermis (svrchní vrstva kůže), roste velmi pomalu a zřídka se šíří (metastázuje).\n\nVe 3. fázi se rakovina rozšířila do oblastí pod kůží, například do svalů, kostí, chrupavek nebo lymfatických uzlin, ale pouze do oblastí v blízkosti původního nádoru.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC1_4</LocID>
+				<Text>Bazaliom (stadium 4)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC1_4_DESC</LocID>
+				<Text>Bazocelulární karcinom je nejčastější formou rakoviny u lidí. Je to typ nemelanomové rakoviny kůže, která začíná v bazocelulární vrstvě epidermis (svrchní vrstva kůže), roste velmi pomalu a zřídka se šíří (metastázuje).\n\nVe 4. fázi se rakovina rozšířila do oblastí mimo kůži, jako jsou vzdálené orgány, jako je mozek nebo plíce, nebo napadl kostru.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC2_1</LocID>
+				<Text>Skvamocelulární karcinom (1. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC2_1_DESC</LocID>
+				<Text>Skvamocelulární karcinom kůže je běžná forma rakoviny kůže, která se vyvíjí v dlaždicových buňkách, které tvoří střední a vnější vrstvu kůže.\n\nV 1. fázi je nádor široký zhruba 2 centimetry nebo menší a mohl se rozšířit do dermis.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC2_2</LocID>
+				<Text>Skvamocelulární karcinom (2. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC2_2_DESC</LocID>
+				<Text>Skvamocelulární karcinom kůže je běžná forma rakoviny kůže, která se vyvíjí v dlaždicových buňkách, které tvoří střední a vnější vrstvu kůže.\n\nVe 2. fázi je nádor širší než 2 centimetry, se může rozšířit do dermis a má vysoce rizikové rysy, jako je perineurální invaze.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC2_3</LocID>
+				<Text>Skvamocelulární karcinom (3. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC2_3_DESC</LocID>
+				<Text>Skvamocelulární karcinom kůže je běžná forma rakoviny kůže, která se vyvíjí v dlaždicových buňkách, které tvoří střední a vnější vrstvu kůže.\n\nVe 3. fázi se rakovina rozšířila do oblastí pod kůží například do svalů, kostí, chrupavek nebo lymfatických uzlin, ale pouze do těch v blízkosti původního nádoru.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC2_4</LocID>
+				<Text>Skvamocelulární karcinom (stadium 4)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC2_4_DESC</LocID>
+				<Text>Skvamocelulární karcinom kůže je běžná forma rakoviny kůže, která se vyvíjí v dlaždicových buňkách, které tvoří střední a vnější vrstvu kůže.\n\nVe 4. fázi se rakovina rozšířila do oblastí mimo kůži , jako jsou vzdálené orgány, jako je mozek nebo plíce, nebo napadl kostru.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC3_1</LocID>
+				<Text>Melanom (1. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC3_1_DESC</LocID>
+				<Text>Melanom nastane, když pigmentové buňky v kůži (tzv. melanocyty) mutují a začnou nekontrolovaně růst.\n\nV 1. fázi se rakovina rozšířila hlouběji do kůže, ale nerozšířila se do lymfatických uzlin nebo jiných částí kůže tělo.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC3_2</LocID>
+				<Text>Melanom (2. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC3_2_DESC</LocID>
+				<Text>Melanom nastane, když pigmentové buňky v kůži (nazývané melanocyty) mutují a začnou nekontrolovaně růst.\n\nMelanom 2. stádia je tlustší, zasahuje přes epidermis a dále do dermis, husté vnitřní vrstvy kůže. Má vyšší šanci na šíření.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC3_3</LocID>
+				<Text>Melanom (3. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC3_3_DESC</LocID>
+				<Text>Melanom nastane, když pigmentové buňky v kůži (nazývané melanocyty) mutují a začnou nekontrolovaně růst.\n\nFáze 3 popisuje melanom, který se rozšířil lokálně nebo lymfatickým systémem do regionální lymfatické uzliny. Nerozšířil se však do vzdálených lymfatických uzlin nebo orgánů.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC3_4</LocID>
+				<Text>Melanom (fáze 4)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC3_4_DESC</LocID>
+				<Text>Melanom nastane, když pigmentové buňky v kůži (tzv. melanocyty) mutují a začnou nekontrolovaně růst.\n\nFáze 4 popisuje melanom, který se rozšířil krevním řečištěm do jiných částí těla, jako jsou vzdálená místa na kůži nebo měkké tkáně, vzdálené lymfatické uzliny nebo jiné orgány.</Text>
+			</GameDBLocalizedString>
+
+			<!-- Diagnózy - Rakovina nadledvinek -->
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_AGC1_0</LocID>
+				<Text>Feochromocytom (lokalizovaný)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_AGC1_0_DESC</LocID>
+				<Text>Feochromocytom je vzácný nádor tkáně nadledvin. Výsledkem je uvolnění příliš velkého množství epinefrinu a norepinefrinu, hormonů, které řídí srdeční frekvenci, metabolismus a krevní tlak. Lokalizovaný nádor je detekován v časném stadiu v dřeni nadledvin v jedné nebo obou nadledvinách.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_AGC1_1</LocID>
+				<Text>Feochromocytom (regionální)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_AGC1_1_DESC</LocID>
+				<Text>Feochromocytom je vzácný nádor tkáně nadledvin. Výsledkem je uvolnění příliš velkého množství epinefrinu a norepinefrinu, hormonů, které řídí srdeční frekvenci, metabolismus a krevní tlak. Regionálně se rakovina rozšířila z místa, kde nádor začal, do blízkých okolních tkání a/nebo lymfatických uzlin.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_AGC1_2</LocID>
+				<Text>Feochromocytom (metastatický)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_AGC1_2_DESC</LocID>
+				<Text>Feochromocytom je vzácný nádor tkáně nadledvin. Výsledkem je uvolnění příliš velkého množství epinefrinu a norepinefrinu, hormonů, které řídí srdeční frekvenci, metabolismus a krevní tlak. Metastatický, rakovina se rozšířila z místa, kde nádor začal, do vzdálené části těla. K předpovědi pravděpodobnosti metastatického šíření bylo vyvinuto několik kritérií a skórovacích systémů na základě histopatologických nebo klinických údajů, ale žádný systém se neprokázal jako spolehlivý.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC_0</LocID>
+				<Text>UD NSC rakovina plic (lokalizovaná)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC_0_DESC</LocID>
+				<Text>Nediferencovaný nemalobuněčný karcinom plic (NSCLC) začíná, když se zdravé buňky v plicích změní a vymknou se kontrole a vytvoří masu nazývanou nádor, léze nebo uzlík. Nádor plic může začít kdekoli v plicích. Nediferencovaný se používá k popisu buněk nebo tkání, které nemají specializované („zralé“) struktury nebo funkce. Nediferencované rakovinné buňky často rostou a šíří se rychle. Lokalizovaná rakovina se nachází v plicích, ale nepokročila do lymfatických uzlin nebo vzdálených orgánů.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC_1</LocID>
+				<Text>UD NSC rakovina plic (regionální)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC_1_DESC</LocID>
+				<Text>Nediferencovaný nemalobuněčný karcinom plic (NSCLC) začíná, když se zdravé buňky v plicích změní a vymknou se kontrole a vytvoří masu nazývanou nádor, léze nebo uzlík. Nádor plic může začít kdekoli v plicích. Nediferencovaný se používá k popisu buněk nebo tkání, které nemají specializované („zralé“) struktury nebo funkce. Nediferencované rakovinné buňky často rostou a šíří se rychle. Regionálně rakovina postupovala z plic do blízkých lymfatických uzlin.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC_2</LocID>
+				<Text>Metastatická rakovina plic</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC_2_DESC</LocID>
+				<Text>Rakovina plic začíná, když abnormální buňky rostou a množí se nekontrolovaným způsobem v jedné nebo obou plicích. Může se rozšířit do dalších částí těla, jako jsou lymfatické uzliny, mozek, nadledvinky, játra a kosti. Když nádor roste a stává se agresivnějším, vyžaduje více prostoru a začíná se šířit do dalších oblastí. Tato fáze je začátkem metastatického karcinomu plic.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC1_0</LocID>
+				<Text>SC rakovina plic (omezené stadium)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC1_0_DESC</LocID>
+				<Text>Malobuněčný karcinom plic začíná, když se zdravé buňky v plicích mění a nekontrolovaně rostou a tvoří hmotu nazývanou nádor, léze nebo uzlík. SCLC začíná v nervových buňkách nebo buňkách plic produkujících hormony. Pojem „malá buňka“ označuje velikost a tvar rakovinných buněk, jak je vidět pod mikroskopem. Omezené stadium znamená, že rakovina je pouze v 1 části hrudníku a léčebnou možností by mohla být radiační terapie. Přibližně 1 ze 3 lidí se SCLC má při první diagnóze onemocnění v omezeném stádiu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC1_1</LocID>
+				<Text>SC rakovina plic (rozsáhlé stadium)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC1_1_DESC</LocID>
+				<Text>Malobuněčný karcinom plic začíná, když se zdravé buňky v plicích mění a nekontrolovaně rostou a tvoří hmotu nazývanou nádor, léze nebo uzlík. SCLC začíná v nervových buňkách nebo buňkách plic produkujících hormony. Pojem „malá buňka“ označuje velikost a tvar rakovinných buněk, jak je vidět pod mikroskopem. Rozsáhlé stadium se používá k popisu SCLC, které se rozšířilo do částí těla, jako jsou další plíce, kost, mozek nebo kostní dřeň. Mnoho lékařů považuje SCLC, které se rozšířilo do tekutiny kolem plic, také za rozsáhlé stadium. Asi 2 ze 3 lidí se SCLC mají rozsáhlé onemocnění, když je rakovina poprvé nalezena.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BC1_0</LocID>
+				<Text>Kolorektální adenokarcinom (lokalizovaný)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BC1_0_DESC</LocID>
+				<Text>Adenokarcinomy tlustého střeva a konečníku tvoří 95 procent všech případů kolorektálního karcinomu. V gastrointestinálním traktu se v buňkách výstelky uvnitř tlustého střeva vyvíjejí adenokarcinomy konečníku a tlustého střeva. Adenokarcinomy tlustého střeva a konečníku obvykle začínají růstem tkáně zvané polyp. Určitý typ polypu nazývaný adenom se může vyvinout v rakovinu. Lokalizovaná rakovina je omezena na stěnu střeva nebo se může rozšířit na vnější povrch stěny střeva.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BC1_1</LocID>
+				<Text>Kolorektální adenokarcinom (regionální)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BC1_1_DESC</LocID>
+				<Text>Adenokarcinomy tlustého střeva a konečníku tvoří 95 procent všech případů kolorektálního karcinomu. V gastrointestinálním traktu se v buňkách výstelky uvnitř tlustého střeva vyvíjejí adenokarcinomy konečníku a tlustého střeva. Adenokarcinomy tlustého střeva a konečníku obvykle začínají růstem tkáně zvané polyp. Určitý typ polypu nazývaný adenom se může vyvinout v rakovinu. Regionálně se rakovina rozšířila v lymfatických uzlinách blízko střeva.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BC1_2</LocID>
+				<Text>Metastatický kolorektální karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BC1_2_DESC</LocID>
+				<Text>Pokud není rakovina ve střevě detekována a odstraněna v rané fázi, může se část nádoru oddělit od hlavního střevního nádoru a rozšířit se, obvykle lymfatickým systémem nebo krevním řečištěm, do blízkých lymfatických uzlin nebo jiných částí tělo. Pokud se rakovina rozšířila do jiné části těla (například do jater nebo plic), nazývá se metastatická rakovina nebo sekundární (pokročilá) rakovina.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_AGC2_0</LocID>
+				<Text>Adrenokortikální karcinom (lokalizovaný)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_AGC2_0_DESC</LocID>
+				<Text>Adrenokortikální karcinom je vzácné onemocnění, při kterém se ve vnější vrstvě nadledvin tvoří maligní (rakovinové) buňky. Lokalizovaný nádor je 5 centimetrů nebo menší a nachází se pouze v nadledvince.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_AGC2_1</LocID>
+				<Text>Adrenokortikální karcinom (regionální)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_AGC2_1_DESC</LocID>
+				<Text>Adrenokortikální karcinom je vzácné onemocnění, při kterém se ve vnější vrstvě nadledvin tvoří maligní (rakovinové) buňky. Regionální, nádor je jakékoli velikosti a rozšířil se do blízkých lymfatických uzlin nebo blízkých tkání nebo orgánů (ledviny, bránice, slinivka, slezina nebo játra) nebo do velkých krevních cév (ledvinová žíla nebo dutá žíla) a mohl se rozšířit do blízké lymfy. uzly.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_AGC2_2</LocID>
+				<Text>Adrenokortikální karcinom (metastatický)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_AGC2_2_DESC</LocID>
+				<Text>Adrenokortikální karcinom je vzácné onemocnění, při kterém se ve vnější vrstvě nadledvin tvoří maligní (rakovinové) buňky. Metastatický, nádor je jakékoli velikosti, může se rozšířit do blízkých lymfatických uzlin a rozšířit se do dalších částí těla, jako jsou plíce, kosti nebo pobřišnice.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_MC001_0</LocID>
+				<Text>Gastrointestinální NET (LS)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_MC001_0_DESC</LocID>
+				<Text>Neuroendokrinní nádory (NET) jsou novotvary, které vznikají z buněk endokrinního (hormonálního) a nervového systému. Mnohé jsou benigní, zatímco některé jsou maligní. Nejčastěji se vyskytují ve střevě, kde se často nazývají karcinoidní nádory, ale nacházejí se také ve slinivce, plicích a zbytku těla. Omezené stadium, nádor je menší než 4 cm a dorostl až k membráně, která spojuje apendix se stěnou břicha.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_MC001_1</LocID>
+				<Text>Gastrointestinal NET (ES)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_MC001_1_DESC</LocID>
+				<Text>Neuroendokrinní nádory (NET) jsou novotvary, které vznikají z buněk endokrinního (hormonálního) a nervového systému. Mnohé jsou benigní, zatímco některé jsou maligní. Nejčastěji se vyskytují ve střevě, kde se často nazývají karcinoidní nádory, ale nacházejí se také ve slinivce, plicích a zbytku těla. Rozsáhlé stadium, nádor prorostl pobřišnicí nebo napadl blízké orgány nebo struktury.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC01_0</LocID>
+				<Text>VŠECHNY (buňka před B)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC01_0_DESC</LocID>
+				<Text>Pre-B buněčná akutní lymfocytární leukémie (ALL) (také známá jako akutní lymfoblastická leukémie) je typ rakoviny, která postihuje krev a kostní dřeň. ALL je charakterizována nadprodukcí nezralých bílých krvinek, nazývaných lymfoblasty nebo leukemické blasty. Protože kostní dřeň není schopna vytvářet dostatečné množství červených krvinek, normálních bílých krvinek a krevních destiček, lidé s ALL se stávají náchylnějšími k anémii, opakujícím se infekcím a snadněji ke vzniku modřin a krvácení. U 75-80 % dospělých případů vzniká ALL v B-lymfocytech v raných stádiích vývoje v kostní dřeni. Onemocnění se proto nazývá prekurzorová B-buněčná ALL nebo Pre-B-buněčná ALL.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC01_1</LocID>
+				<Text>VŠECHNY (buňka B)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC01_1_DESC</LocID>
+				<Text>B-buněčná akutní lymfoblastická leukémie, také známá jako akutní lymfoblastická leukémie Burkittova typu (B-ALL) nebo zralá B-buněčná akutní lymfoblastická leukémie (ALL) je rakovina, která postihuje vaše „B lymfocyty“ – bílé krvinky které rostou v měkkém středu vašich kostí, nazývané dřeň. Tento typ ALL je méně častý a představuje přibližně 3–5 % všech případů dospělých. Charakteristickým znakem ALL zralých B-buněk je přítomnost povrchového imunoglobulinu na lymfoblastech. Při použití konvenčních režimů pouze 30–40 % pacientů vstoupí do kompletní remise (CR) a jen málo pacientů přežije dlouhodobě.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC01_2</LocID>
+				<Text>VŠECHNY (T buňka)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC01_2_DESC</LocID>
+				<Text>Akutní lymfocytární leukémie T-buněk (T-ALL) je typem akutní leukémie, což znamená, že je agresivní a rychle postupuje. Ovlivňuje kmenové buňky produkující lymfoidní buňky, konkrétně typ bílých krvinek nazývaných T lymfocyty, na rozdíl od akutní lymfoblastické leukémie (ALL), která běžně postihuje B lymfocyty.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC02_A</LocID>
+				<Text>CLL (stabilní)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC02_A_DESC</LocID>
+				<Text>Chronická lymfocytární leukémie (CLL)(stabilní) je typ pomalu rostoucí leukémie, která postihuje vyvíjející se B-lymfocyty. B-lymfocyty (známé také jako B-buňky) jsou specializované bílé krvinky. Za normálních podmínek produkují imunoglobuliny (nazývané také protilátky), které pomáhají chránit naše tělo před infekcemi a nemocemi. U lidí s CLL procházejí lymfocyty maligní (nádorovou) změnou a stávají se leukemickými buňkami. Je důležité zdůraznit, že u mnoha lidí zůstává CLL po mnoho měsíců a let stabilní a má jen malý nebo žádný vliv na jejich životní styl nebo celkový zdravotní stav. Přibližně 30-50 % lidí s diagnózou CLL nikdy nepotřebuje žádnou léčbu svého onemocnění a mohou navzdory své diagnóze přežívat mnoho let. Protože se CLL vyvíjí pomalu, mnoho lidí nemá žádné příznaky, zejména v počátečních stádiích, a onemocnění je zachyceno při běžném vyšetření krve.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC02_B</LocID>
+				<Text>CLL (pokročilé)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC02_B_DESC</LocID>
+				<Text>Chronická lymfocytární leukémie (CLL)(pokročilá)(vzácná) je typ pomalu rostoucí leukémie, která postihuje vyvíjející se B-lymfocyty. B-lymfocyty (známé také jako B-buňky) jsou specializované bílé krvinky. Za normálních podmínek produkují imunoglobuliny (nazývané také protilátky), které pomáhají chránit naše tělo před infekcemi a nemocemi. U lidí s CLL procházejí lymfocyty maligní (nádorovou) změnou a stávají se leukemickými buňkami. Je důležité zdůraznit, že u mnoha lidí zůstává CLL po mnoho měsíců a let stabilní a má jen malý nebo žádný vliv na jejich životní styl nebo celkový zdravotní stav. Přibližně 30-50 % lidí s diagnózou CLL nikdy nepotřebuje žádnou léčbu svého onemocnění a mohou navzdory své diagnóze přežívat mnoho let. Protože se CLL vyvíjí pomalu, mnoho lidí nemá žádné příznaky, zejména v počátečních stádiích, a onemocnění je zachyceno při běžném vyšetření krve.</Text>.
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC03_0</LocID>
+				<Text>Leukémie T-buněk LGL</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC03_0_DESC</LocID>
+				<Text>T-buněčná velkobuněčná lymfocytární leukémie (LGL) je typ chronické leukémie postihující bílé krvinky zvané "lymfocyty". Lymfocyty jsou součástí imunitního systému těla a pomáhají bojovat proti některým infekcím. Pro leukémii LGL jsou charakteristické zvětšené lymfocyty obsahující nápadná zrníčka, která lze vidět při vyšetření krve pod mikroskopem. Existují dva typy leukémie LGL: T-buňky (T-LGL) a přirozené zabíječské buňky (NK-LGL). Četnost výskytu T-buněčné a NK-buněčné LGL leukemie se pohybuje mezi 2 a 5 procenty. T-buněčná leukemie velkých granulárních lymfocytů (LGL) je klonální proliferace cytotoxických T-buněk, která způsobuje neutropenii, anémii a/nebo trombocytopenii. Toto onemocnění je často spojeno s autoimunitními poruchami, zejména revmatoidní artritidou, a dalšími lymfoproliferativními poruchami.</Text>.
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC03_1</LocID>
+				<Text>Leukémie LGL z NK buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC03_1_DESC</LocID>
+				<Text>NK-buněčná velkobuněčná lymfocytární leukémie (LGL) je typ chronické leukémie postihující bílé krvinky zvané "lymfocyty". Lymfocyty jsou součástí imunitního systému těla a pomáhají bojovat proti některým infekcím. Pro leukémii LGL jsou charakteristické zvětšené lymfocyty obsahující nápadná zrníčka, která lze vidět při vyšetření krve pod mikroskopem. Existují dva typy leukémie LGL: T-buňky (T-LGL) a přirozené zabíječské buňky (NK-LGL). Četnost výskytu T-buněčné a NK-buněčné LGL leukemie se pohybuje mezi 2 a 5 procenty. Většina pacientů s NK-buněčnou leukémií je asymptomatická, ale pacienti s agresivní variantou mají obvykle hepatomegalii a splenomegalii a často mají B symptomy. Přibližně třetina má lymfadenopatii a může se vyskytnout i extranodální postižení. Pacienti jsou v průměru mladší než pacienti s T-buněčnou leukémií LGL.</Text>.
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC03_2</LocID>
+				<Text>T-buněčná prolymfocytární leukémie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC03_2_DESC</LocID>
+				<Text>T-buněčná prolymfocytární leukémie (T-PLL) je extrémně vzácné a typicky agresivní zhoubné onemocnění (rakovina), které je charakterizováno nekontrolovaným růstem zralých T-buněk (T-lymfocytů). T-lymfocyty jsou typem bílých krvinek, které chrání tělo před infekcemi. T-PLL postihuje starší dospělé s mediánem věku v době diagnózy 61 let a častěji se vyskytuje u mužů než u žen. Abnormální změny (mutace) v genech T-buněk mohou způsobit, že se z normální, zdravé T-buňky stane buňka nádorová. Tyto genetické chyby ve zmutované T-buňce buňce říkají, aby pokračovala v růstu a dělení, zatímco zdravá buňka by se obvykle přestala dělit a nakonec zemřela. Každá buňka, která vznikne z původní leukemické buňky, má také stejnou zmutovanou DNA. V důsledku toho se časem počet leukemických buněk zmnoží a mohou se v krvi dostat do dalších míst včetně kostní dřeně, sleziny, jater, lymfatických uzlin a někdy i kůže.</Text>.
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC04_0</LocID>
+				<Text>Akutní myeloidní leukémie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC04_0_DESC</LocID>
+				<Text>Akutní myeloidní leukémie se vyvíjí, když tělo vytváří příliš mnoho nezralých bílých krvinek známých jako myeloidní blastové buňky, nazývané také myeloblasty. Myeloblasty se nekontrolovaně množí a pokračují v dělení, ale nikdy nedozrávají na normální buňky. Abnormální blastové buňky jsou známé jako leukemické buňky. Protože jsou leukemické buňky nezralé a abnormální, neplní obvyklou funkci bílých krvinek v boji proti infekci. Vytlačují také normální bílé krvinky, které pak nemohou správně fungovat. To zvyšuje riziko infekcí.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC05_A</LocID>
+				<Text>CML (chronická fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC05_A_DESC</LocID>
+				<Text>Chronická myeloidní leukémie (CML)(chronická fáze) je typ rakoviny, která postihuje krev a kostní dřeň. Při CML produkuje kostní dřeň příliš mnoho bílých krvinek, tzv. granulocytů. Tyto buňky (někdy nazývané blasty nebo leukemické blasty) postupně přeplňují kostní dřeň a narušují normální tvorbu krvinek. Rovněž se vylévají z kostní dřeně a kolují po těle v krevním řečišti. Protože nejsou plně vyzrálé, nejsou schopny správně fungovat v boji proti infekcím. Nedostatek červených krvinek a krevních destiček může časem způsobit anémii, krvácení a/nebo tvorbu modřin. Celkově je CML vzácné onemocnění, které představuje přibližně 0,03 % všech diagnostikovaných nádorových onemocnění. Mnoho lidí s chronickou myeloidní leukémií (CML) nemá žádné příznaky. Chronická - Počet bílých krvinek je zvýšený a v krvi a kostní dřeni se nachází malé množství nezralých buněk, tzv. blastických buněk.</Text>.
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC05_B</LocID>
+				<Text>CML (Accelerated Phase)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC05_B_DESC</LocID>
+				<Text>Chronická myeloidní leukémie (CML)(akcelerovaná fáze) je typ rakoviny, která postihuje krev a kostní dřeň. Při CML produkuje kostní dřeň příliš mnoho bílých krvinek, tzv. granulocytů. Tyto buňky (někdy nazývané blasty nebo leukemické blasty) postupně přeplňují kostní dřeň a narušují normální tvorbu krvinek. Také se rozlévají z kostní dřeně a kolují po těle v krevním řečišti. Protože nejsou plně vyzrálé, nejsou schopny správně fungovat v boji proti infekcím. Nedostatek červených krvinek a krevních destiček může časem způsobit anémii, krvácení a/nebo tvorbu modřin. Celkově je CML vzácné onemocnění, které představuje přibližně 0,03 % všech diagnostikovaných nádorových onemocnění. Mnoho lidí s chronickou myeloidní leukémií (CML) nemá žádné příznaky. Akcelerovaná - V akcelerované fázi se zvýšil počet nezralých blastických buněk a někdy se kromě Ph chromozomu objeví i nové chromozomální změny </Text>.
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC05_C</LocID>
+				<Text>CML (Blast Phase)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC05_C_DESC</LocID>
+				<Text>Chronická myeloidní leukémie (CML) (blastická fáze) je typ rakoviny, která postihuje krev a kostní dřeň. Při CML produkuje kostní dřeň příliš mnoho bílých krvinek, tzv. granulocytů. Tyto buňky (někdy nazývané blasty nebo leukemické blasty) postupně přeplňují kostní dřeň a narušují normální tvorbu krvinek. Rovněž se vylévají z kostní dřeně a kolují po těle v krevním řečišti. Protože nejsou plně vyzrálé, nejsou schopny správně fungovat v boji proti infekcím. Nedostatek červených krvinek a krevních destiček může časem způsobit anémii, krvácení a/nebo tvorbu modřin. Celkově je CML vzácné onemocnění, které představuje přibližně 0,03 % všech diagnostikovaných nádorových onemocnění. Mnoho lidí s chronickou myeloidní leukémií (CML) nemá žádné příznaky. Blastická krize - fáze blastické krize (nazývaná také "fáze blastické krize"). Blastická fáze se objevuje a chová jako akutní forma myeloidní leukémie.</Text>.
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC06_0</LocID>
+				<Text>Leukémie z vlasatých buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC06_0_DESC</LocID>
+				<Text>Leukémie z vlasatých buněk (HCL) je vzácný typ chronické leukémie lymfoidního systému, při které se abnormální B-lymfocyty hromadí v kostní dřeni, játrech a slezině. Pod mikroskopem je vidět, že tyto buňky mají na svém povrchu drobné výběžky podobné vlasům, odtud jejich název „vlasatá buňka“.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC06_1</LocID>
+				<Text>Varianta vlasatobuněčné leukémie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC06_1_DESC</LocID>
+				<Text>Varianta vlasové leukémie (HCL-V) je definována jako vzácná a indolentní forma malé, zralé leukémie B-buněk charakterizovaná splenomegalií, zvýšeným počtem bílých krvinek (WBC) a hypercelulární kostní dření. HCL-V je agresivnější a odolnější vůči terapii než klasická HCL. HCL varianta byla dříve považována za podtyp HCL, ale v roce 2008 Světová zdravotnická organizace dospěla k závěru, že jde o samostatnou entitu od HCL a biologicky odlišnou. Varianta HCL je vzácnější než HCL a má odlišný klinický průběh.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BREC1_0</LocID>
+				<Text>Duktální karcinom in situ</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BREC1_0M</LocID>
+				<Text>Duktální karcinom in situ</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BREC1_0_DESC</LocID>
+				<Text>Duktální karcinom in situ (DCIS) je neinvazivní karcinom prsu. Duktální znamená, že rakovina začíná uvnitř mléčných kanálků, karcinomem se rozumí jakákoli rakovina, která začíná v kůži nebo jiných tkáních (včetně prsní tkáně), které pokrývají nebo vystýlají vnitřní orgány, a in situ znamená „na svém původním místě“. DCIS se nazývá „neinvazivní“, protože se nerozšířil za mlékovod do žádné normální okolní prsní tkáně. DCIS není život ohrožující, ale DCIS může zvýšit riziko pozdějšího rozvoje invazivní rakoviny prsu. Duktální karcinom in situ (DCIS) znamená, že existuje příliš mnoho buněk a mají rysy rakoviny, ale stále jsou omezeny na vnitřek potrubí. Ačkoli je to vzácné, muži mohou vyvinout rakovinu prsu. \n\nDCIS obecně nemá žádné známky nebo příznaky.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BREC1_1</LocID>
+				<Text>Invazivní duktální karcinom (IDC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BREC1_1M</LocID>
+				<Text>Invazivní duktální karcinom (IDC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BREC1_1_DESC</LocID>
+				<Text>Invazivní duktální karcinom (IDC), někdy nazývaný infiltrující duktální karcinom, je nejčastějším typem rakoviny prsu. Asi 80 % všech karcinomů prsu jsou invazivní duktální karcinomy. Invazivní znamená, že rakovina „napadla“ nebo se rozšířila do okolních tkání prsu. Duktální znamená, že rakovina začala v mléčných kanálcích, což jsou „potrubí“, které vedou mléko z lalůčků produkujících mléko do bradavky. Karcinom se týká jakékoli rakoviny, která začíná v kůži nebo jiných tkáních, které pokrývají vnitřní orgány - jako je tkáň prsu. Celkově „invazivní duktální karcinom“ označuje rakovinu, která prorazila stěnu mlékovodu a začala napadat tkáně prsu. Postupem času se invazivní duktální karcinom může rozšířit do lymfatických uzlin a možná i do jiných oblastí těla. I když je to vzácné, u mužů se může vyvinout rakovina prsu. \n\nZpočátku nemusí invazivní duktální karcinom způsobovat žádné příznaky.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BREC1_2</LocID>
+				<Text>Metastatický karcinom prsu</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BREC1_2M</LocID>
+				<Text>Metastatický karcinom prsu</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BREC1_2_DESC</LocID>
+				<Text>Metastatická rakovina prsu (také nazývaná stádium IV) je rakovina prsu, která se rozšířila do jiné části těla, nejčastěji do jater, mozku, kostí nebo plic. Rakovinné buňky se mohou oddělit od původního nádoru v prsu a cestovat do jiných částí těla krevním řečištěm nebo lymfatickým systémem, což je rozsáhlá síť uzlů a cév, která pracuje na odstraňování bakterií, virů a buněčných odpadních produktů. Rakovina prsu se může vrátit v jiné části těla měsíce nebo roky po původní diagnóze a léčbě. Téměř u 30 % žen s diagnostikovanou rakovinou prsu v časném stadiu se rozvine metastatické onemocnění. Ačkoli je to vzácné, muži mohou vyvinout rakovinu prsu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_OVAC1_0F</LocID>
+				<Text>Serózní karcinom vysokého stupně</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_OVAC1_0F_DESC</LocID>
+				<Text>High-Grade serous ovarial carcinoma (HGSC) je typ nádoru, který vzniká ze serózní epiteliální vrstvy v abdominopelvické dutině a nachází se hlavně ve vaječnících. HGSC tvoří většinu případů rakoviny vaječníků[1] a mají nejnižší míru přežití. HGSC se liší od serózního karcinomu nízkého stupně (LGSC), který vzniká z ovariální tkáně a je méně agresivní.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_OVAC1_1F</LocID>
+				<Text>Serózní karcinom nízkého stupně</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_OVAC1_1F_DESC</LocID>
+				<Text>Serózní rakovina vaječníků nízkého stupně je vzácné onemocnění, které představuje méně než 10 % případů rakoviny vaječníků. Nízkostupňový serózní karcinom vaječníků (LGSC) je méně častý a agresivní než vysoký stupeň rakoviny vaječníků, ale odolává mnoha druhům chemoterapie.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_OVAC1_2F</LocID>
+				<Text>Metastatická rakovina vaječníků</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_OVAC1_2F_DESC</LocID>
+				<Text>Metastatická rakovina vaječníků je pokročilé stadium malignity, která se rozšířila z buněk ve vaječnících do vzdálených oblastí těla. Tento typ rakoviny se s největší pravděpodobností rozšíří do jater, tekutiny kolem plic, sleziny, střev, mozku, kůže nebo lymfatických uzlin mimo břicho.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_PROC1_0M</LocID>
+				<Text>Rakovina prostaty (1. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_PROC1_0M_DESC</LocID>
+				<Text>Rakovina prostaty je rakovina, která se vyskytuje v prostatě, malé žláze ve tvaru vlašského ořechu u mužů, která produkuje semennou tekutinu, která vyživuje a transportuje spermie. Rakovina prostaty je jedním z nejčastějších typů rakoviny u mužů. Rakovina prostaty obvykle roste pomalu a je zpočátku omezena na prostatu, kde nemusí způsobit vážné poškození. Avšak zatímco některé typy rakoviny prostaty rostou pomalu a mohou vyžadovat minimální nebo dokonce žádnou léčbu, jiné typy jsou agresivní a mohou se rychle šířit. \n\nVe fázi 1 je rakovina omezena na prostatu. Fáze 1 nelze detekovat během digitálního rektálního vyšetření. Obvykle se očekává, že bude růst pomalu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_PROC1_1M</LocID>
+				<Text>Rakovina prostaty (2. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_PROC1_1M_DESC</LocID>
+				<Text>Rakovina prostaty je rakovina, která se vyskytuje v prostatě, malé žláze ve tvaru vlašského ořechu u mužů, která produkuje semennou tekutinu, která vyživuje a transportuje spermie. Rakovina prostaty je jedním z nejčastějších typů rakoviny u mužů. Rakovina prostaty obvykle roste pomalu a je zpočátku omezena na prostatu, kde nemusí způsobit vážné poškození. Avšak zatímco některé typy rakoviny prostaty rostou pomalu a mohou vyžadovat minimální nebo dokonce žádnou léčbu, jiné typy jsou agresivní a mohou se rychle šířit. \n\nVe fázi 2 může být rakovina detekována během digitálního rektálního vyšetření. Nemoc je stále omezena na prostatu, ale buňky mohou být abnormální a mohou růst rychleji.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_PROC1_2M</LocID>
+				<Text>Rakovina prostaty (3. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_PROC1_2M_DESC</LocID>
+				<Text>Rakovina prostaty je rakovina, která se vyskytuje v prostatě, malé žláze ve tvaru vlašského ořechu u mužů, která produkuje semennou tekutinu, která vyživuje a transportuje spermie. Rakovina prostaty je jedním z nejčastějších typů rakoviny u mužů. Rakovina prostaty obvykle roste pomalu a je zpočátku omezena na prostatu, kde nemusí způsobit vážné poškození. Avšak zatímco některé typy rakoviny prostaty rostou pomalu a mohou vyžadovat minimální nebo dokonce žádnou léčbu, jiné typy jsou agresivní a mohou se rychle šířit. \n\nU 3. fáze rakoviny prostaty je rakovina v tkáních blízko prostaty. Může také dosáhnout semenných váčků.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_PROC1_3M</LocID>
+				<Text>Rakovina prostaty (4. fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_PROC1_3M_DESC</LocID>
+				<Text>Rakovina prostaty je rakovina, která se vyskytuje v prostatě, malé žláze ve tvaru vlašského ořechu u mužů, která produkuje semennou tekutinu, která vyživuje a transportuje spermie. Rakovina prostaty je jedním z nejčastějších typů rakoviny u mužů. Rakovina prostaty obvykle roste pomalu a je zpočátku omezena na prostatu, kde nemusí způsobit vážné poškození. Avšak zatímco některé typy rakoviny prostaty rostou pomalu a mohou vyžadovat minimální nebo dokonce žádnou léčbu, jiné typy jsou agresivní a mohou se rychle šířit. \n\nStádium 4 rakoviny prostaty znamená, že rakovina napadla další části těla, jako je konečník, blízké lymfatické uzliny nebo kost.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC07_0</LocID>
+				<Text>Difúzní velký B-buněčný (NOS) lymfom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC07_0_DESC</LocID>
+				<Text>Difuzní velkobuněčný B-lymfom (jinak není specifikován) (DLBCL) je agresivní typ nehodgkinského lymfomu, který se vyvíjí z B-buněk v lymfatickém systému. Pod mikroskopem jsou velké maligní lymfocyty vidět difuzně v celém vzorku. DLBCL je nejběžnějším podtypem nehodgkinského lymfomu, který představuje 30 až 40 % všech případů. Existuje několik typů DLBCL, přičemž většina lidí je diagnostikována s podtypem známým jako DLBCL 'jinak nespecifikováno'.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC08_0</LocID>
+				<Text>Folikulární lymfom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC08_0_DESC</LocID>
+				<Text>Folikulární lymfom je nejběžnějším podtypem indolentního (pomalu rostoucího) NHL (Non-Hodgkinův lymfom), který tvoří 20 až 30 % všech NHL. Folikulární lymfom typicky postihuje dospělého středního nebo staršího věku. Stejně jako většina indolentních lymfomů mají lidé s diagnózou folikulárního lymfomu v době diagnózy obvykle lymfom v mnoha částech těla. U malého procenta lidí s FL se může lymfom transformovat do agresivnější formy NHL, obvykle DLBC v průběhu času. Pokud je diagnostikována v rané fázi, nemusí být podána žádná léčba (Sledujte a čekejte).</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC4_0</LocID>
+				<Text>Karcinom z Merkelových buněk (lokální)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC4_0_DESC</LocID>
+				<Text>Karcinom z Merkelových buněk (vzácné) je vzácný typ rakoviny kůže, který se obvykle objevuje jako masově zbarvený nebo modročervený uzlík, často na obličeji, hlavě nebo krku. Karcinom z Merkelových buněk se také nazývá neuroendokrinní karcinom kůže. Karcinom z Merkelových buněk má tendenci rychle růst a metastázovat (šířit se) v rané fázi. Obvykle se nejprve šíří do blízkých lymfatických uzlin a poté se může rozšířit do lymfatických uzlin nebo kůže ve vzdálených částech těla, plic, mozku, kostí nebo jiných orgánů. Karcinom z Merkelových buněk je po melanomu druhou nejčastější příčinou úmrtí na rakovinu kůže.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC4_1</LocID>
+				<Text>Karcinom z Merkelových buněk (metastatický)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC4_1_DESC</LocID>
+				<Text>Karcinom z Merkelových buněk (vzácné) je vzácný typ rakoviny kůže, který se obvykle objevuje jako masově zbarvený nebo modročervený uzlík, často na obličeji, hlavě nebo krku. Karcinom z Merkelových buněk se také nazývá neuroendokrinní karcinom kůže. Karcinom z Merkelových buněk má tendenci rychle růst a metastázovat (šířit se) v rané fázi. Obvykle se nejprve šíří do blízkých lymfatických uzlin a poté se může rozšířit do lymfatických uzlin nebo kůže ve vzdálených částech těla, plic, mozku, kostí nebo jiných orgánů. Karcinom z Merkelových buněk je po melanomu druhou nejčastější příčinou úmrtí na rakovinu kůže.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC09_0</LocID>
+				<Text>Lymfom z plášťových buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC09_0_DESC</LocID>
+				<Text>Lymfom z plášťových buněk je relativně neobvyklým typem lymfomu, který představuje přibližně 5 % až 10 % všech nehodgkinských lymfomů. Ovlivňuje vnější okraj (plášťovou zónu) B-buněk ve folikulu lymfatické uzliny. V 85 % případů dochází k abnormalitě, když se dva chromozomy (11 a 14) zlomí a vzájemně se spojí. To se nazývá „translokace“ a způsobuje, že B-buňky nadměrně produkují protein zvaný cyklin D1. V obvyklém množství pomáhá Cyclin D1 podporovat normální růst buněk, přičemž nadměrné množství vede k nekontrolovanému růstu buněk plášťové zóny, což může vést k MCL.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC2_0</LocID>
+				<Text>Velkobuněčný karcinom plic</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC2_0_DESC</LocID>
+				<Text>Velkobuněčný karcinom plic je forma nemalobuněčného karcinomu plic. Nemalobuněčné karcinomy plic tvoří 80 procent karcinomů plic a z nich je zhruba 10 procent velkobuněčný karcinom plic. Na rozdíl od některých rakovin plic, které se častěji projevují kašlem nebo plicními infekcemi, časné příznaky často zahrnují vágní pocit dušnosti a únavy. Velkobuněčné karcinomy se také nazývají velkobuněčné karcinomy plic. Jsou pojmenovány podle vzhledu velkých kulatých buněk při zkoumání pod mikroskopem, ačkoli nádory samotné bývají při diagnostikování také velké. Velkobuněčné karcinomy se často vyskytují ve vnějších oblastech plic a mají tendenci rychle růst a šířit se rychleji než některé jiné formy nemalobuněčného karcinomu plic.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC3_0</LocID>
+				<Text>Adenokarcinom plic (časný)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC3_0_DESC</LocID>
+				<Text>Adenokarcinom plic je nejběžnějším typem rakoviny plic a stejně jako jiné formy rakoviny plic se vyznačuje odlišnými buněčnými a molekulárními rysy. Je klasifikován jako jeden z několika nemalobuněčných karcinomů plic (NSCLC), aby se odlišil od malobuněčného karcinomu plic, který má odlišné chování a prognózu. Rakovina plic obvykle nezpůsobuje známky a příznaky ve svých nejranějších fázích. Známky a příznaky rakoviny plic se obvykle objevují pouze tehdy, když je onemocnění pokročilé. \n\nU rakoviny, která je odhalena včas, se rakovina obvykle nachází pouze v tkáni nebo orgánu, kde začala, a nerozšířila se do blízkých lymfatických uzlin nebo do jiných částí těla.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC3_1</LocID>
+				<Text>Adenokarcinom plic (pokročilý)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC3_1_DESC</LocID>
+				<Text>Adenokarcinom plic je nejčastějším typem rakoviny plic a stejně jako ostatní formy rakoviny plic se vyznačuje odlišnými buněčnými a molekulárními znaky. Je klasifikován jako jeden z několika nemalobuněčných karcinomů plic (NSCLC), aby se odlišil od malobuněčného karcinomu plic, který má jiné chování a prognózu. Rakovina plic obvykle v nejranějších stadiích nevyvolává žádné příznaky. Příznaky a symptomy rakoviny plic se obvykle objevují až v pokročilém stadiu onemocnění. \Při pokročilé rakovině může mít nádor jakoukoli velikost a velmi pravděpodobně se rozšířil do lymfatických uzlin na druhé straně hrudníku, v blízkosti klíční kosti nebo zasáhl jiné struktury v hrudníku, například srdce nebo jícen.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC4_0</LocID>
+				<Text>Skvamózní rakovina plic</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LC4_0_DESC</LocID>
+				<Text>Skvamocelulární karcinom plic, nazývaný také epidermoidní karcinom, je typem nemalobuněčného karcinomu plic, který se typicky vyvíjí v jednom z dýchacích cest neboli průdušek v plicích. Je to druhý nejčastější typ nemalobuněčného karcinomu plic a představuje zhruba 30 procent všech případů rakoviny plic. Tento typ rakoviny obecně roste pomalu, ale nakonec se může rozšířit do jiných oblastí těla.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BC2_0</LocID>
+				<Text>Kolorektální karcinom z prstencových magnetických buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BC2_0_DESC</LocID>
+				<Text>Karcinom ze signálních prstenců (SRCC) (vzácné) je vzácná forma vysoce maligního adenokarcinomu, který produkuje mucin. Je to epiteliální malignita charakterizovaná histologickým výskytem buněk pečetního prstence. Primární nádory SRCC se nejčastěji nacházejí ve žlázových buňkách žaludku (SRCC vzniká v žaludku u 90 procent pacientů), méně často v prsu, žlučníku, močovém měchýři a slinivce. SRCC se normálně v plicích netvoří. Mezi kolorektálním karcinomem je prevalence SRCC méně než jedno procento.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BC3_0</LocID>
+				<Text>Mucinózní kolorektální karcinom (smíšený)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BC3_0_DESC</LocID>
+				<Text>Mucinózní kolorektální karcinom je odlišný podtyp kolorektálního karcinomu (CRC) charakterizovaný přítomností hojného extracelulárního mucinu, který tvoří alespoň 50 % objemu nádoru. Mucinózní kolorektální adenokarcinom se vyskytuje u 10–20 % pacientů s CRC. Mucinózní karcinom se může tvořit spolu s jinými typy rakovinných buněk, když k tomu dojde, rakovina se nazývá smíšený mucinózní karcinom.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BC3_1</LocID>
+				<Text>Mucinózní kolorektální karcinom (Prue)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BC3_1_DESC</LocID>
+				<Text>Mucinózní kolorektální karcinom je odlišný podtyp kolorektálního karcinomu (CRC) charakterizovaný přítomností hojného extracelulárního mucinu, který tvoří alespoň 50 % objemu nádoru. Mucinózní kolorektální adenokarcinom se vyskytuje u 10–20 % pacientů s CRC. Mucinózní karcinom se může tvořit spolu s jinými typy rakovinných buněk, ale pokud tomu tak není, je rakovina považována za „čistou“.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LIV0_0</LocID>
+				<Text>Hepatocelulární karcinom (lokální)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LIV0_0_DESC</LocID>
+				<Text>Hepatocelulární karcinom (HCC) je primární malignita jater, která se vyskytuje převážně u pacientů se základním chronickým onemocněním jater a cirhózou. Až 25 % pacientů však nemá v anamnéze cirhózu ani rizikové faktory pro ni. Příznaky se často neobjevují v raných stádiích rakoviny.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LIV0_1</LocID>
+				<Text>Hepatocelulární karcinom (regionální)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LIV0_1_DESC</LocID>
+				<Text>Hepatocelulární karcinom (HCC) je primární malignita jater, která se vyskytuje převážně u pacientů se základním chronickým onemocněním jater a cirhózou. Až 25 % pacientů však nemá v anamnéze cirhózu ani rizikové faktory pro ni. Příznaky se často neobjevují v raných stádiích rakoviny. \n\nRegionálně rakovina postoupila z jater do blízkých lymfatických uzlin.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LIV0_2</LocID>
+				<Text>Hepatocelulární karcinom (kritický)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LIV0_2_DESC</LocID>
+				<Text>Hepatocelulární karcinom (HCC) je primární malignita jater, která se vyskytuje převážně u pacientů se základním chronickým onemocněním jater a cirhózou. Až 25 % pacientů však nemá v anamnéze cirhózu ani rizikové faktory pro ni. \n\nV kritickém stavu je spontánní ruptura hepatocelulárního karcinomu (HCC) potenciálně život ohrožující komplikací. Diagnóza může být obtížná, zvláště při absenci známé jaterní cirhózy nebo nádoru.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LIV0_3</LocID>
+				<Text>Metastatická rakovina jater</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_LIV0_3_DESC</LocID>
+				<Text>Jaterní metastáza je zhoubný nádor, který se rozšířil do jater z rakoviny, která začala na jiném místě v těle. Říká se tomu také sekundární rakovina jater. Primární rakovina jater pochází z jater a nejčastěji postihuje jedince, kteří mají rizikové faktory, jako je hepatitida nebo cirhóza. Když metastázuje, znamená to, že rakovina napadla jiné části těla, jako jsou jiné orgány, blízké lymfatické uzliny nebo kosti.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC01_0_V2</LocID>
+				<Text>VŠECHNY (buňka před B)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC01_1_V2</LocID>
+				<Text>VŠECHNY (buňka B)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC01_2_V2</LocID>
+				<Text>VŠECHNY (T buňka)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC02_A_V2</LocID>
+				<Text>CLL (stabilní)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC02_B_V2</LocID>
+				<Text>CLL (pokročilé)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC03_0_V2</LocID>
+				<Text>Leukémie T-buněk LGL</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC03_1_V2</LocID>
+				<Text>Leukémie LGL z NK buněk</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC03_2_V2</LocID>
+				<Text>T-buněčná prolymfocytární leukémie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC04_0_V2</LocID>
+				<Text>Akutní myeloidní leukémie</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC05_A_V2</LocID>
+				<Text>CML (chronická fáze)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC05_B_V2</LocID>
+				<Text>CML (Accelerated Phase)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC05_C_V2</LocID>
+				<Text>CML (Blast Phase)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC08_0_V2</LocID>
+				<Text>Folikulární lymfom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BLC07_0_V2</LocID>
+				<Text>Difúzní velký B-buněčný (NOS) lymfom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BREC1_1_V2</LocID>
+				<Text>Invazivní duktální karcinom (IDC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_BREC1_1M_V2</LocID>
+				<Text>Invazivní duktální karcinom (IDC)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_MC001_1_V2</LocID>
+				<Text>Gastrointestinal NET (ES)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC3_4_V2</LocID>
+				<Text>Melanom (fáze 4)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_SC4_1_V2</LocID>
+				<Text>Karcinom z Merkelových buněk (metastatický)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_ORA001_1</LocID>
+				<Text>Mukoepidermoidní karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_ORA001_1_DESC</LocID>
+				<Text>Karcinom z Merkelových buněk (metastatický)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_ORA001_1</LocID>
+				<Text>Mukoepidermoidní karcinom (nízkého stupně)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_ORA001_1_DESC</LocID>
+				<Text>Mukoepidermoidní karcinomy jsou nejčastějším typem rakoviny slinných žláz. Většina začíná v příušních žlázách. Méně často se vyvíjejí v podčelistních žlázách nebo v malých slinných žlázách uvnitř úst. Tyto rakoviny jsou obvykle nízkého stupně a představují relativně méně závažnou hrozbu. Hlavními determinanty přežití jsou histologie a klinické stadium. Špatné prognostické faktory zahrnují vysoký stupeň, neurální postižení, lokálně pokročilé onemocnění, pokročilý věk, související bolest, metastázy do regionálních lymfatických uzlin, vzdálené metastázy a akumulaci onkoproteinů p53 nebo c-erbB2. Mukoepidermoidní karcinom lze nalézt i v jiných orgánech, jako jsou průdušky, slzný vak a štítná žláza.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_ORA001_2</LocID>
+				<Text>Mukoepidermoidní karcinom (vysokého stupně)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_ORA001_2_DESC</LocID>
+				<Text>Mukoepidermoidní karcinomy jsou nejčastějším typem rakoviny slinných žláz. Většina začíná v příušních žlázách. Méně často se vyvíjejí v podčelistních žlázách nebo v malých slinných žlázách uvnitř úst. Přibližně 80 % pacientů s paralýzou lícního nervu má v době diagnózy uzlinové metastázy. Tito pacienti mají mnohem nižší průměrnou míru přežití ve srovnání s nádory nízkého stupně. Hlavními determinanty přežití jsou histologie a klinické stadium. Špatné prognostické faktory zahrnují vysoký stupeň, neurální postižení, lokálně pokročilé onemocnění, pokročilý věk, související bolest, metastázy do regionálních lymfatických uzlin, vzdálené metastázy a akumulaci onkoproteinů p53 nebo c-erbB2. Mukoepidermoidní karcinom lze nalézt i v jiných orgánech, jako jsou průdušky, slzný vak a štítná žláza.</Text>
+			</GameDBLocalizedString>
+
+			<!-- ### ### -->
+			<!-- ####################################### Obsah pro V0.15.0. 0 Přidáno níže ######################################## -->
+			<!-- ### ### -->
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_VAGC1_0F</LocID>
+				<Text>Vaginální intraepiteliální neoplazie (nízké riziko)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_VAGC1_0F_DESC</LocID>
+				<Text>Vaginální intraepiteliální neoplazie, také známá jako VAIN, je stav zahrnující buněčné změny v pochvě. Někdy se označuje jako karcinom in-situ. VAIN není rakovina, ale existuje možnost, že se z ní vyvine rakovina, pokud se neléčí. VAIN zřídka způsobuje příznaky a je obvykle detekován, protože žena je považována za potenciálně rizikovou. Mnoho případů VAIN nízkého stupně odezní samo, takže se někteří lékaři rozhodnou je pozorně sledovat, aniž by zahájili léčbu.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_VAGC1_1F</LocID>
+				<Text>Vaginální intraepiteliální neoplazie (vysoké riziko)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_VAGC1_1F_DESC</LocID>
+				<Text>Vaginální intraepiteliální neoplazie, také známá jako VAIN, je stav zahrnující buněčné změny v pochvě. Někdy se označuje jako karcinom in-situ. VAIN není rakovina, ale existuje možnost, že se z ní vyvine rakovina, pokud se neléčí. VAIN zřídka způsobuje příznaky a je obvykle detekován, protože žena je považována za potenciálně rizikovou. High Risk VAIN je méně pravděpodobné, že zmizí sám o sobě, takže léčba může být zahájena okamžitě.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_VAGC2_0F</LocID>
+				<Text>Vaginální spinocelulární karcinom (lokální)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_VAGC2_0F_DESC</LocID>
+				<Text>Vaginální rakovina je vzácná rakovina, která se vyskytuje v pochvě pacientky – ve svalové trubici, která spojuje dělohu s vnějšími genitáliemi. Téměř 9 z 10 případů rakoviny pochvy jsou spinocelulární karcinomy. Tyto rakoviny začínají v dlaždicových buňkách, které tvoří epiteliální výstelku pochvy. Nejčastěji se vyskytují v horní části pochvy poblíž děložního čípku. Lokalizovaná rakovina se nachází pouze ve vaginální stěně. </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_VAGC2_1F</LocID>
+				<Text>Vaginální spinocelulární karcinom (regionální)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_VAGC2_1F_DESC</LocID>
+				<Text>Vaginální rakovina je vzácná rakovina, která se vyskytuje v pochvě pacientky – ve svalové trubici, která spojuje dělohu s vnějšími genitáliemi. Téměř 9 z 10 případů rakoviny pochvy jsou spinocelulární karcinomy. Tyto rakoviny začínají v dlaždicových buňkách, které tvoří epiteliální výstelku pochvy. Nejčastěji se vyskytují v horní části pochvy poblíž děložního čípku. Regionálně se rakovina rozšířila přes stěnu pochvy do tkáně kolem pochvy. Může nebo nemusí se rozšířit na stěnu pánve.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_VAGC2_2F</LocID>
+				<Text>Metastatický vaginální karcinom</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_VAGC2_2F_DESC</LocID>
+				<Text>Vaginální rakovina je vzácná rakovina, která se vyskytuje v pochvě pacientky – ve svalové trubici, která spojuje dělohu s vnějšími genitáliemi. Když metastatický, rakovina se rozšířila do částí těla, které nejsou blízko pochvy, jako jsou plíce, játra nebo kosti.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_ORA002_1</LocID>
+				<Text>Karcinom slinných kanálků</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_ORA002_1F</LocID>
+				<Text>Karcinom slinných kanálků</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_ONCO_CRP_ORA002_1_DESC</LocID>
+				<Text>Karcinom slinných kanálků (SDC) je agresivní primární slinná malignita, která mikroskopicky připomíná vysoce kvalitní duktální karcinom prsu s in situ i invazivními vzory. Typicky se vyskytuje u starších mužů, nejčastěji v příušní žláze.</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+

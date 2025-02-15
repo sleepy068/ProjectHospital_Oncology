@@ -1,0 +1,2056 @@
+<Database>
+	<GameDBStringTable ID="LOC_DE_ADDON_CRP_SLEEPY_SYMPTOMS">
+	<LanguageCode>de</LanguageCode>
+	<LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+	<Contributors>
+	<Name>TheDibbuK</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_ACTINIC_KERATOSIS</LocID>
+        <Text>Aktinische Keratose</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_ACTINIC_KERATOSIS_DESC</LocID>
+        <Text>Aktinische Keratose ist ein rauer, schuppiger Fleck auf der Haut, der sich über Jahre durch Sonneneinstrahlung entwickelt.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_NODULE_SKIN</LocID>
+        <Text>Knoten auf der Haut</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_NODULE_SKIN_DESC</LocID>
+        <Text>Ein kleiner, glänzender Buckel oder Knoten auf der Haut.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_PERINEURAL_INVASION</LocID>
+        <Text>Perineurale Invasion</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_PERINEURAL_INVASION_DESC</LocID>
+        <Text>Perineurale Invasion, abgekürzt PNI, bezieht sich auf das Eindringen von Krebs in den Raum um einen Nerv.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_METASTASIZED_CANCER</LocID>
+        <Text>Metastasierter Krebs</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_METASTASIZED_CANCER_DESC</LocID>
+        <Text>Metastasierter Krebs ist Krebs, der sich von seinem Ursprungsort zu einem anderen Teil des Körpers ausgebreitet hat.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_CHRONIC_WOUND</LocID>
+        <Text>Chronische Wunde</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_CHRONIC_WOUND_DESC</LocID>
+        <Text>Chronische Wunden sind Geschwüre, die innerhalb von etwa drei Monaten nicht heilen. Sie können klein anfangen und sich immer wieder verkrusten, verbessern sich jedoch nicht.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_ABNORMAL_MOLE</LocID>
+        <Text>Abnormales Muttermal</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_ABNORMAL_MOLE_DESC</LocID>
+        <Text>Ein Muttermal mit unregelmäßigem Rand, ungewöhnlicher Farbe oder Veränderung im Wachstum.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_HIGH_EPLVL</LocID>
+        <Text>Hohe Epinephrinspiegel</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_HIGH_EPLVL_DESC</LocID>
+        <Text>Der Patient hat erhöhte Blutspiegel von Epinephrin (Adrenalin). Adrenalin wird normalerweise von den Nebennieren und einer kleinen Anzahl von Neuronen im verlängerten Mark produziert.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_HIGH_NEPLVL</LocID>
+        <Text>Hohe Noradrenalinspiegel</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_HIGH_NEPLVL_DESC</LocID>
+        <Text>Der Patient hat erhöhte Blutspiegel von Noradrenalin. Noradrenalin ist eine natürliche Chemikalie im Körper, die sowohl als Stresshormon als auch als Neurotransmitter wirkt.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_SEIZURES</LocID>
+        <Text>Krampfanfälle</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_SEIZURES_DESC</LocID>
+        <Text>Ein Anfall ist eine plötzliche, unkontrollierte elektrische Störung im Gehirn. Er kann Veränderungen im Verhalten, Bewegungen oder Gefühlen und im Bewusstseinsgrad verursachen.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_HEMOPTYSIS1</LocID>
+        <Text>Leichte Hämoptoe</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_HEMOPTYSIS1_DESC</LocID>
+        <Text>Hämoptoe ist das Aushusten von Blut oder blutigem Schleim aus den Bronchien, dem Kehlkopf, der Luftröhre oder den Lungen. Mit anderen Worten, es handelt sich um Blutungen in den Atemwegen.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_NERVE_DAMAGE</LocID>
+        <Text>Postoperative neuropathische Schmerzen</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_NERVE_DAMAGE_DESC</LocID>
+        <Text>Postoperative neuropathische Schmerzen (PONP) können auftreten, wenn Nerven während einer Operation geschädigt wurden. Geschädigte Nerven können Signale aus verschiedenen Teilen des Körpers nicht korrekt an das Gehirn übertragen.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_HIGH_CEALVL</LocID>
+        <Text>Hohe Spiegel des karzinoembryonalen Antigens</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_HIGH_CEALVL_DESC</LocID>
+        <Text>Der Patient hat erhöhte Blutspiegel des karzinoembryonalen Antigens. Ein hoher CEA-Spiegel kann auf bestimmte Krebsarten hinweisen.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_POLYPS</LocID>
+        <Text>Kolonpolyp</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_POLYPS_DESC</LocID>
+        <Text>Ein Polyp ist ein Gewebewachstum an der Auskleidung des Dickdarms und des Mastdarms, das in den Darm hineinragt.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>SYM_CRP_HYPONATREMIA</LocID>
+        <Text>Hyponatriämie</Text>
+    </GameDBLocalizedString>
+            
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HYPONATREMIA_DESC</LocID>
+    <Text>Hyponatriämie tritt auf, wenn die Konzentration von Natrium in Ihrem Blut abnormal niedrig ist. Natrium ist ein Elektrolyt und hilft, die Menge an Wasser zu regulieren, die sich in und um Ihre Zellen befindet.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HYPERGLYCEMIA</LocID>
+    <Text>Hyperglykämie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HYPERGLYCEMIA_DESC</LocID>
+    <Text>Hyperglykämie ist der Fachbegriff für einen hohen Blutzuckerspiegel. Hoher Blutzucker tritt auf, wenn der Körper zu wenig Insulin hat oder wenn der Körper Insulin nicht richtig verwenden kann.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HYPERCORTISOL</LocID>
+    <Text>Hypercortisolismus</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HYPERCORTISOL_DESC</LocID>
+    <Text>Cushing-Syndrom, auch als Hypercortisolismus bezeichnet, ist eine seltene endokrine Störung, die durch chronische Exposition der Körpergewebe gegenüber übermäßigen Mengen von Cortisol verursacht wird - einem Hormon, das natürlich von der Nebenniere produziert wird.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HYPERALDOSTERONISM</LocID>
+    <Text>Hyperaldosteronismus</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HYPERALDOSTERONISM_DESC</LocID>
+    <Text>Hyperaldosteronismus ist eine Krankheit, bei der die Nebenniere(n) zu viel Aldosteron produzieren, was zu Bluthochdruck und niedrigen Blutkaliumwerten führt. Primärer Hyperaldosteronismus kann durch Hyperaktivität in einer Nebenniere (unilaterale Krankheit) oder beiden (bilaterale Krankheit) verursacht werden.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_LARGE_LYMPHNODE</LocID>
+    <Text>Lymphadenitis</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_LARGE_LYMPHNODE_DESC</LocID>
+    <Text>Lymphadenitis (geschwollene Lymphknoten) tritt auf, wenn Lymphknoten als Reaktion auf Krankheit, Infektion oder Stress anschwellen. Geschwollene Lymphknoten sind ein Zeichen dafür, dass Ihr lymphatisches System daran arbeitet, Ihren Körper von den verantwortlichen Erregern zu befreien. Immunsystemdrüsen vergrößern sich normalerweise als Reaktion auf eine bakterielle oder virale Infektion, aber plötzliche Schwellung vieler Lymphknoten kann auf Krebs hinweisen.</Text>
+</GameDBLocalizedString>
+	
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_ELAVATED_5HIAA</LocID>
+    <Text>Erhöhte 5-HIAA-Werte im Urin</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_ELAVATED_5HIAA_DESC</LocID>
+    <Text>Der Patient hat erhöhte Werte von 5-HIAA (5-Hydroxyindolessigsäure) im Urin. Serotonin, gemessen im Urin als 5-Hydroxyindolessigsäure (5HIAA). Erhöhte 5HIAA-Werte korrelieren mit dem Karzinoid-Syndrom und Karzinoid-Krisen. Eine lang anhaltende Exposition der Herzklappen gegenüber hohen Serotoninwerten ist mit Komplikationen der Krankheit verbunden.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CGA_BL_DETECTED</LocID>
+    <Text>Hohe Chromogranin-A-Blutspiegel</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CGA_BL_DETECTED_DESC</LocID>
+    <Text>Der Patient hat erhöhte Werte des Tumormarkers Chromogranin-A im Blut. Chromogranin A (CgA) ist ein allgemeiner Marker, der mit allen Karzinoidtumoren in Verbindung steht. Es handelt sich um ein Protein, das von Tumorzellen produziert und freigesetzt wird. Chromogranin A steht mit anderen Hormonen in Verbindung und kann an ihrer Regulation beteiligt sein. Es gibt einen normalen Wert von Chromogranin A im Blut, und der Bereich liegt derzeit etwa unter 39 ng/L.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CARCINOID_CRISIS</LocID>
+    <Text>Karzinoid-Krise</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CARCINOID_CRISIS_DESC</LocID>
+    <Text>Die Karzinoid-Krise ist eine lebensbedrohliche Form des Karzinoid-Syndroms, die durch die Freisetzung einer überwältigenden Menge biologisch aktiver Verbindungen aus dem Tumor resultiert. Diese kann durch extremen Stress, Tumor-Manipulation (Biopsie oder Operation) oder durch Anästhesie ausgelöst werden.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_ANAPHYLACTIC_SHOCK</LocID>
+    <Text>Anaphylaktischer Schock</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_ANAPHYLACTIC_SHOCK_DESC</LocID>
+    <Text>Der anaphylaktische Schock ist eine seltene, aber schwere allergische Reaktion, die tödlich sein kann, wenn sie nicht sofort behandelt wird. Er wird am häufigsten durch eine Allergie gegen Nahrungsmittel, Insektenstiche oder bestimmte Medikamente verursacht. Eine Injektion eines Medikaments namens Epinephrin ist sofort erforderlich.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_UNUSUAL_INFECT</LocID>
+    <Text>Ungewöhnliche Infektion</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_UNUSUAL_INFECT_DESC</LocID>
+    <Text>Eine Infektion, die eine unbekannte Ursache hat oder Eigenschaften aufweist, die ungewöhnlich sind.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_FREQUENT_INFECT</LocID>
+    <Text>Häufige Infektionen</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_FREQUENT_INFECT_DESC</LocID>
+    <Text>Häufige Infektionen sind Infektionen, die in zu großer Anzahl, zu schwerer Form oder zu lange anhalten. Häufige oder wiederkehrende Infektionen können auftreten, weil der Körper nicht genügend weiße Blutkörperchen produziert, um das Immunsystem ordnungsgemäß funktionieren zu lassen.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_LYMPHOCYTOSIS</LocID>
+    <Text>Lymphozytose</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_LYMPHOCYTOSIS_DESC</LocID>
+    <Text>Lymphozytose bezeichnet eine höhere als normale Menge an Lymphozyten, einer Unterart von weißen Blutkörperchen, im Körper. Lymphozyten sind Teil Ihres Immunsystems und arbeiten daran, Infektionen abzuwehren.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_BLEEDING_GUM</LocID>
+    <Text>Blutendes Zahnfleisch</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_BLEEDING_GUM_DESC</LocID>
+    <Text>Blutendes Zahnfleisch ist das häufigste Symptom von Zahnfleischerkrankungen. Es kann jedoch auch auf andere Gesundheitsprobleme hinweisen. Gelegentliches Zahnfleischbluten kann durch zu kräftiges Zähneputzen oder das Tragen von nicht richtig passenden Zahnprothesen verursacht werden. Häufiges Zahnfleischbluten kann auch auf schwerwiegendere Probleme hinweisen.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HIGH_TCOUNT</LocID>
+    <Text>Hohe T-Zellenzahl</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HIGH_TCOUNT_DESC</LocID>
+    <Text>Eine hohe T-Zellenzahl kann auf infektiöse Mononukleose, auch bekannt als Mono oder "die Kusskrankheit", akute lymphatische Leukämie (ALL), eine Krebsart, die die weißen Blutkörperchen betrifft, oder multiples Myelom, eine Krebsart, die die Plasmazellen im Knochenmark betrifft, zurückzuführen sein.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_RC_APLASIA</LocID>
+    <Text>Rote Zellaplasie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_RC_APLASIA_DESC</LocID>
+    <Text>Die reine rote Zellaplasie (PRCA) oder Erythroblastopenie bezieht sich auf eine Art von Anämie, die die Vorläufer der roten Blutkörperchen betrifft, jedoch nicht die weißen Blutkörperchen. Bei PRCA hört das Knochenmark auf, rote Blutkörperchen zu produzieren. Es gibt mehrere Ursachen, die PRCA verursachen können.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CHRONIC_NEUT</LocID>
+    <Text>Neutropenie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CHRONIC_NEUT_DESC</LocID>
+    <Text>Neutropenie liegt vor, wenn eine Person einen niedrigen Neutrophilenspiegel hat. Neutrophile sind eine Art von weißen Blutkörperchen. Alle weißen Blutkörperchen helfen dem Körper, Infektionen zu bekämpfen. Neutrophile bekämpfen Infektionen, indem sie schädliche Bakterien und Pilze (Hefe) zerstören, die in den Körper eindringen. Neutrophile werden im Knochenmark produziert.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SPLENOMEGALY</LocID>
+    <Text>Splenomegalie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SPLENOMEGALY_DESC</LocID>
+    <Text>Splenomegalie tritt auf, wenn Ihre Milz vergrößert wird. Es wird auch häufig als vergrößerte Milz oder Milzvergrößerung bezeichnet.</Text>
+</GameDBLocalizedString>
+	
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_RUP_SPLENOMEGALY</LocID>
+    <Text>Gerissene Milz</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_RUP_SPLENOMEGALY_DESC</LocID>
+    <Text>Ein gerissene Milz ist ein medizinischer Notfall, der auftritt, wenn die kapselartige Hülle der Milz aufbricht und Blut in den Bauchraum gelangt. Abhängig von der Größe des Risses kann eine erhebliche innere Blutung auftreten.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HEPATOMEGALY</LocID>
+    <Text>Hepatomegalie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HEPATOMEGALY_DESC</LocID>
+    <Text>Hepatomegalie tritt auf, wenn die Leber des Patienten abnorm groß ist. Dies ist oft ein Anzeichen für eine schwerwiegende gesundheitliche Beeinträchtigung.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_THROMBOCYTOPENIA</LocID>
+    <Text>Thrombozytopenie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_THROMBOCYTOPENIA_DESC</LocID>
+    <Text>Thrombozytopenie ist ein Zustand, bei dem die Anzahl der Blutplättchen im Blut niedrig ist. Blutplättchen (Thrombozyten) sind farblose Blutzellen, die bei der Blutgerinnung helfen. Sie stoppen Blutungen, indem sie sich verklumpen und Pfropfen in Blutgefäßverletzungen bilden.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_02</LocID>
+    <Text>PML-RARA-Defekt erkannt</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_02_DESC</LocID>
+    <Text>APL-Zellen weisen eine sehr spezifische Anomalie auf, den sogenannten "ausgeglichenen Translokationsdefekt", bei dem Teile der Chromosomen 15 und 17 vertauscht werden. Dies führt zur Bildung eines abnormen Fusionsgens namens "PML/RARα". Dieses mutierte Gen verursacht viele Merkmale der Krankheit.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_FISH_POSLESION</LocID>
+    <Text>FISH-positive Läsion</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_FISH_POSLESION_DESC</LocID>
+    <Text>Die Läsion des Patienten wurde getestet, und FISH-Untersuchungen haben bestätigt, dass sie bösartig ist.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_01</LocID>
+    <Text>Philadelphia-Defekt erkannt</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_01_DESC</LocID>
+    <Text>Das Philadelphia-Chromosom oder die Philadelphia-Translokation (Ph) ist eine spezifische genetische Anomalie im Chromosom 22 von Leukämie-Krebszellen (insbesondere chronisch myeloischer Leukämie (CML)-Zellen). Der chromosomale Defekt in der Philadelphia-Translokation ist eine reziproke Translokation, bei der Teile der Chromosomen 9 und 22 die Plätze tauschen. Das Vorhandensein dieser Translokation ist ein hochsensitiver Test für CML, da die meisten Fälle von CML positiv sind.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_001</LocID>
+    <Text>Myeloperoxidase (MPO) positiv</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_001_DESC</LocID>
+    <Text>Myeloperoxidase ist ein lysosomales Enzym, das sich in den azurophilen Granula der neutrophilen Zellen und ihrer Vorläufer, Eosinophilen und Monozyten, befindet. Diese Färbung wird hauptsächlich zur Unterscheidung der akuten myeloischen Leukämie von der akuten lymphoblastischen Leukämie verwendet.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_002</LocID>
+    <Text>Sudan Black B positiv</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_002_DESC</LocID>
+    <Text>Solvent Black 3 ist ein Azofarbstoff. Es handelt sich um einen nicht fluoreszierenden, relativ thermostabilen Lysochrom (fettlöslicher Farbstoff) Diazofarbstoff, der zur Färbung neutraler Triglyceride und Lipide auf Gefrierschnitten und einiger Lipoproteine auf Paraffinschnitten verwendet wird. Im Labor wird Solvent Black 3 zur Sudan-Färbung verwendet. Bei der Differenzierung hämatologischer Störungen färbt es Myeloblasten, aber nicht Lymphoblasten.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_03</LocID>
+    <Text>IDH1/IDH2-Mutation erkannt</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_03_DESC</LocID>
+    <Text>Isocitrat-Dehydrogenase (IDH) ist ein Schlüsselenzym, das an der Umwandlung von Isocitrat in α-Ketoglutarat (α-KG) im Tricarbonsäurezyklus (TCA) beteiligt ist. Die IDH-Mutation führt zu einem neomorphen Enzym, das zu abnormaler Anhäufung von R-2-HG führen und die Leukämogenese fördern kann. Die IDH-Mutation tritt bei 20% der Patienten mit akuter myeloischer Leukämie (AML) auf, hauptsächlich bei IDH1 R132, IDH2 R140 und IDH2 R172.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_04</LocID>
+    <Text>BCR-ABL-Fusionsgen erkannt</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_04_DESC</LocID>
+    <Text>BCR-ABL ist eine Mutation, die durch die Kombination von zwei Genen, bekannt als BCR und ABL, entsteht. Sie wird manchmal als Fusionsgen bezeichnet. Das BCR-Gen befindet sich normalerweise auf Chromosom Nummer 22. Das ABL-Gen befindet sich normalerweise auf Chromosom Nummer 9. Die BCR-ABL-Mutation tritt auf, wenn Teile der BCR- und ABL-Gene abbrechen und die Plätze tauschen.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_05</LocID>
+    <Text>Trisomie 8-Gen erkannt</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_05_DESC</LocID>
+    <Text>Trisomie 8, auch als Warkany-Syndrom 2 bekannt, ist eine menschliche chromosomale Störung, die durch das Vorhandensein von drei Kopien (Trisomie) von Chromosom 8 verursacht wird. Es kann mit oder ohne Mosaik auftreten. Der Begriff "Mosaik" bedeutet, dass einige Zellen das zusätzliche Chromosom enthalten, während andere es nicht haben.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_06</LocID>
+    <Text>Trisomie 9-Gen erkannt</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_06_DESC</LocID>
+    <Text>Mosaik-Trisomie 9 ist eine seltene chromosomale Störung, bei der das gesamte 9. Chromosom in einigen Zellen des Körpers dreimal (Trisomie) statt zweimal erscheint. Der Begriff "Mosaik" bedeutet, dass einige Zellen das zusätzliche Chromosom 9 enthalten, während andere das typische chromosomale Paar haben.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_07</LocID>
+    <Text>Philadelphia-Chromosom-Duplikation erkannt</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_07_DESC</LocID>
+    <Text>Die Duplikation des defekten Chromosoms, des Philadelphia-Chromosoms, wurde festgestellt. Dies kann in fortgeschrittenen Stadien der chronischen myeloischen Leukämie auftreten.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_BLA_HIGH1</LocID>
+    <Text>Erhöhte Anzahl an Blastenzellen</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_BLA_HIGH1_DESC</LocID>
+    <Text>Blasten sind Vorläuferzellen der reifen, zirkulierenden Blutzellen wie Neutrophile, Monozyten, Lymphozyten und Erythrozyten. Blasten werden normalerweise in geringer Zahl im Knochenmark gefunden und sind im Blut normalerweise nicht in signifikanten Mengen vorhanden. Tests haben einen erhöhten Blastenzellspiegel im Blut des Patienten (zwischen 5 und 19%) erkannt.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_BLA_HIGH2</LocID>
+    <Text>Hohe Anzahl an Blastenzellen</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_BLA_HIGH2_DESC</LocID>
+    <Text>Blasten sind Vorläuferzellen der reifen, zirkulierenden Blutzellen wie Neutrophile, Monozyten, Lymphozyten und Erythrozyten. Blasten werden normalerweise in geringer Zahl im Knochenmark gefunden und sind im Blut normalerweise nicht in signifikanten Mengen vorhanden. Tests haben eine hohe Anzahl von Blasten im Blut des Patienten (über 20%) erkannt.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_BLA_HIGH3</LocID>
+    <Text>Sehr hohe Anzahl an Blastenzellen</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_BLA_HIGH3_DESC</LocID>
+    <Text>Blasten sind Vorläuferzellen der reifen, zirkulierenden Blutzellen wie Neutrophile, Monozyten, Lymphozyten und Erythrozyten. Blasten werden normalerweise in geringer Zahl im Knochenmark gefunden und sind im Blut normalerweise nicht in signifikanten Mengen vorhanden. Tests haben eine sehr hohe Anzahl von Blasten im Blut des Patienten (über 30%) erkannt. Auf diesem Niveau drängen die Blastenzellen normale weiße Blutzellen aus und machen sie weit weniger effektiv.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD10_BRIGHT</LocID>
+    <Text>Neprilysin (CD10) hell leuchtende Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD10_BRIGHT_DESC</LocID>
+    <Text>Neprilysin, auch bekannt als membranmetalloendopeptidase, neutrale Endopeptidase, Cluster of Differentiation 10 und gemeinsames akutes lymphoblastisches Leukämieantigen, ist ein Enzym, das beim Menschen durch das MME-Gen codiert wird. In der häufigen akuten lymphoblastischen Leukämie als krebsspezifisches Antigen identifiziert, ist CD10 ein Zellmembran-Ektoenzym, das weit verbreitet auf verschiedenen Zelltypen exprimiert wird.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD10_NEG</LocID>
+    <Text>Neprilysin (CD10) negative Expression</Text>
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD10_NEG_DESC</LocID>
+    <Text>Neprilysin, auch als Membran-Metallo-Endopeptidase, neutrales Endopeptidase, Cluster of Differentiation 10 und gemeinsames akutes lymphoblastisches Leukämieantigen bekannt, ist ein Enzym, das beim Menschen durch das MME-Gen codiert wird. In der häufigen akuten lymphoblastischen Leukämie als krebsspezifisches Antigen identifiziert, ist CD10 ein Zellmembran-Ektoenzym, das weit verbreitet auf verschiedenen Zelltypen exprimiert wird.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD19_BRIGHT</LocID>
+    <Text>CD19-Antigen Helle Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD19_BRIGHT_DESC</LocID>
+    <Text>Das B-Lymphozyten-Antigen CD19, auch als CD19-Molekül, B-Lymphozyten-Oberflächenantigen B4, T-Zellen-Oberflächenantigen Leu-12 und CVID3 bekannt, ist ein Transmembranprotein, das beim Menschen durch das CD19-Gen codiert wird. Bei Menschen wird CD19 in allen B-Linienzellen, außer in Plasmazellen, und in follikulären dendritischen Zellen exprimiert.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD19_NEG</LocID>
+    <Text>CD19-Antigen Negative Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD19_NEG_DESC</LocID>
+    <Text>Das B-Lymphozyten-Antigen CD19, auch als CD19-Molekül, B-Lymphozyten-Oberflächenantigen B4, T-Zellen-Oberflächenantigen Leu-12 und CVID3 bekannt, ist ein Transmembranprotein, das beim Menschen durch das CD19-Gen codiert wird. Bei Menschen wird CD19 in allen B-Linienzellen, außer in Plasmazellen, und in follikulären dendritischen Zellen exprimiert.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD20_DIM</LocID>
+    <Text>CD20-Antigen Dim Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD20_DIM_DESC</LocID>
+    <Text>Das B-Lymphozyten-Antigen CD20 oder CD20 wird auf der Oberfläche aller B-Zellen ab der Pro-B-Phase exprimiert und nimmt bis zur Reife stetig an Konzentration zu. CD20 ist ein in die Membran eingebettetes Oberflächenmolekül, das eine Rolle bei der Entwicklung und Differenzierung von B-Zellen in Plasmazellen spielt.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD20_BRIGHT</LocID>
+    <Text>CD20-Antigen Helle Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD20_BRIGHT_DESC</LocID>
+    <Text>Das B-Lymphozyten-Antigen CD20 oder CD20 wird auf der Oberfläche aller B-Zellen ab der Pro-B-Phase exprimiert und nimmt bis zur Reife stetig an Konzentration zu. CD20 ist ein in die Membran eingebettetes Oberflächenmolekül, das eine Rolle bei der Entwicklung und Differenzierung von B-Zellen in Plasmazellen spielt.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_TDT_BRIGHT</LocID>
+    <Text>TdT-Antigen Helle Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_TDT_BRIGHT_DESC</LocID>
+    <Text>Die terminal Deoxynukleotidyltransferase (TdT), auch bekannt als DNA-Nukleotidylexotransferase (DNTT) oder terminal Transferase, ist eine spezialisierte DNA-Polymerase, die in unreifen, prä-B-, prä-T-Lymphoidzellen und akuten lymphoblastischen Leukämie-/Lymphomzellen exprimiert wird.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_TDT_NEG</LocID>
+    <Text>TdT-Antigen Negative Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_TDT_NEG_DESC</LocID>
+    <Text>Die terminal Deoxynukleotidyltransferase (TdT), auch bekannt als DNA-Nukleotidylexotransferase (DNTT) oder terminal Transferase, ist eine spezialisierte DNA-Polymerase, die in unreifen, prä-B-, prä-T-Lymphoidzellen und akuten lymphoblastischen Leukämie-/Lymphomzellen exprimiert wird.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD22_DIM</LocID>
+    <Text>CD22-Antigen Dim Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD22_DIM_DESC</LocID>
+    <Text>CD22 oder Cluster of Differentiation-22 ist ein Molekül aus der SIGLEC-Familie von Lektinen. Es befindet sich auf der Oberfläche von reifen B-Zellen und in geringerem Maße auf einigen unreifen B-Zellen. CD22 ist ein zuckerbindendes Transmembranprotein, das spezifisch Sialinsäure mit einer Immunglobulin (Ig)-Domäne am N-Terminus bindet. Das Vorhandensein von Ig-Domänen macht CD22 zu einem Mitglied der Immunglobulin-Superfamilie. CD22 fungiert als inhibitorischer Rezeptor für das B-Zellrezeptor (BCR)-Signaling.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD22_BRIGHT</LocID>
+    <Text>CD22-Antigen Helle Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD22_BRIGHT_DESC</LocID>
+    <Text>CD22 oder Cluster of Differentiation-22 ist ein Molekül aus der SIGLEC-Familie von Lektinen. Es befindet sich auf der Oberfläche von reifen B-Zellen und in geringerem Maße auf einigen unreifen B-Zellen. CD22 ist ein zuckerbindendes Transmembranprotein, das spezifisch Sialinsäure mit einer Immunglobulin (Ig)-Domäne am N-Terminus bindet. Das Vorhandensein von Ig-Domänen macht CD22 zu einem Mitglied der Immunglobulin-Superfamilie. CD22 fungiert als inhibitorischer Rezeptor für das B-Zellrezeptor (BCR)-Signaling.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD23_BRIGHT</LocID>
+    <Text>Fc-epsilon-RII (CD23) Helle Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD23_BRIGHT_DESC</LocID>
+    <Text>CD23, auch als Fc-epsilon-RII oder FcεRII bekannt, ist der "niedrig-affine" Rezeptor für IgE, eine Antikörper-Isotyp, die an Allergien und Parasitenresistenz beteiligt ist und wichtig für die Regulation der IgE-Spiegel ist. Anders als viele der Antikörperrezeptoren ist CD23 ein C-Typ-Lektin. CD23-Antigen ist ein Zelloberflächenprotein, das als wichtig bei der Differenzierung der chronischen lymphatischen Leukämie betrachtet wird.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD34_BRIGHT</LocID>
+    <Text>CD34-Antigen Helle Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD34_BRIGHT_DESC</LocID>
+    <Text>Das CD34-Protein ist ein Mitglied einer Familie von Einzelpass-Transmembran-Sialomucin-Proteinen, die auf frühen hämatopoetischen und gefäßassoziierten Geweben exprimiert werden. CD34 ist auch ein wichtiges Adhäsionsmolekül und wird benötigt, damit T-Zellen in Lymphknoten eindringen können. Es wird auf Lymphknotenendothelien exprimiert, während das L-Selektin, an das es bindet, auf der T-Zelle vorhanden ist.</Text>
+</GameDBLocalizedString>
+	
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD79a_BRIGHT</LocID>
+    <Text>CD79a-Antigen Helle Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD79a_BRIGHT_DESC</LocID>
+    <Text>Cluster of Differentiation CD79A, auch als B-Zellantigenrezeptorkomplex-assoziiertes Protein Alpha-Kette und MB-1-Membranglykoprotein bekannt, ist ein Protein, das beim Menschen durch das CD79A-Gen codiert wird. CD79a spielt mehrere und vielfältige Rollen in der B-Zellentwicklung und -funktion. Das CD79a/b-Heterodimer assoziiert nicht kovalent mit der Immunglobulinschwerketten durch seine transmembranöse Region, bildet somit den BCR zusammen mit der Immunglobulinleichtkette und dem Pre-BCR, wenn es mit der Ersatzlichtkette in sich entwickelnden B-Zellen assoziiert ist.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD79b_NEG</LocID>
+    <Text>CD79b-Antigen Negative Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD79b_NEG_DESC</LocID>
+    <Text>CD79b-Molekül, immunoglobulinassoziierte Beta, auch als CD79B (Cluster of Differentiation 79B) bekannt, ist ein menschliches Gen. Das CD79a/b-Heterodimer assoziiert nicht kovalent mit der Immunglobulinschwerketten durch seine transmembranöse Region, bildet somit den BCR zusammen mit der Immunglobulinleichtkette und dem Pre-BCR, wenn es mit der Ersatzlichtkette in sich entwickelnden B-Zellen assoziiert ist.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD11c_BRIGHT</LocID>
+    <Text>Integrin alpha X (CD11c) Helle Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD11c_BRIGHT_DESC</LocID>
+    <Text>CD11c, auch als Integrin, alpha X (Komplementkomponente 3 Rezeptor 4 Untereinheit) (ITGAX) bekannt, ist ein Gen, das für CD11c kodiert. CD11c ist ein Typ-I-Transmembranprotein, das auf Monozyten, Granulozyten, einer Untergruppe von B-Zellen, dendritischen Zellen und Makrophagen exprimiert wird und auf B-Zell-chronischer lymphatischer Leukämie, marginalen Zonenlymphomen und Haarzellenleukämie nachgewiesen werden kann.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD25_BRIGHT</LocID>
+    <Text>IL2RA (CD25) Helle Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD25_BRIGHT_DESC</LocID>
+    <Text>Interleukin-2-Rezeptor-Alpha-Kette (auch CD25 genannt) ist ein Protein, das beim Menschen durch das IL2RA-Gen codiert wird. Die Interleukin-2-Rezeptor-Alpha (IL2RA)- und Beta (IL2RB)-Ketten bilden zusammen mit der gemeinsamen Gamma-Kette (IL2RG) den Hochaffinitäts-IL2-Rezeptor. IL2RA wird in den meisten B-Zell-Neoplasien, einigen akuten nonlymphatischen Leukämien, Neuroblastomen, Mastozytose und tumorinfiltrierenden Lymphozyten exprimiert. Es funktioniert als Rezeptor für HTLV-1 und wird folglich auf neoplastischen Zellen im adulten T-Zell-Lymphom/Leukämie exprimiert.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD25_NEG</LocID>
+    <Text>IL2RA (CD25) Negative Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD25_NEG_DESC</LocID>
+    <Text>Interleukin-2-Rezeptor-Alpha-Kette (auch CD25 genannt) ist ein Protein, das beim Menschen durch das IL2RA-Gen codiert wird. Die Interleukin-2-Rezeptor-Alpha (IL2RA)- und Beta (IL2RB)-Ketten bilden zusammen mit der gemeinsamen Gamma-Kette (IL2RG) den Hochaffinitäts-IL2-Rezeptor. IL2RA wird in den meisten B-Zell-Neoplasien, einigen akuten nonlymphatischen Leukämien, Neuroblastomen, Mastozytose und tumorinfiltrierenden Lymphozyten exprimiert. Es funktioniert als Rezeptor für HTLV-1 und wird folglich auf neoplastischen Zellen im adulten T-Zell-Lymphom/Leukämie exprimiert.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD103_BRIGHT</LocID>
+    <Text>ITGAE (CD103) Helle Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD103_BRIGHT_DESC</LocID>
+    <Text>Integrin, Alpha E, auch als CD103 bekannt, ist ein Integrinprotein, das beim Menschen durch das ITGAE-Gen codiert wird. CD103 wird weit verbreitet auf intraepithelialen Lymphozyten (IEL) T-Zellen (sowohl αβ T-Zellen als auch γδ T-Zellen) und auf einigen peripheren regulatorischen T-Zellen (Tregs) exprimiert. Es ist nützlich zur Identifizierung von Haarzellenleukämie, die positiv für dieses Marker ist im Gegensatz zu den meisten anderen hämatologischen Malignitäten, die negativ für CD103 sind, außer dem enteropathieassoziierten T-Zell-Lymphom.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD123_DIM</LocID>
+    <Text>Interleukin-3-Rezeptor (CD123) Dim Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD123_DIM_DESC</LocID>
+    <Text>Der Interleukin-3-Rezeptor (CD123) ist ein Molekül auf Zellen, das dazu beiträgt, das Signal von Interleukin-3, einem löslichen Zytokin, das im Immunsystem wichtig ist, zu übertragen. Der Rezeptor, der auf pluripotenten Vorläuferzellen zu finden ist, induziert Tyrosinphosphorylierung innerhalb der Zelle und fördert Proliferation und Differenzierung in den hämatopoetischen Zelllinien. CD123 wird über alle Subtypen der akuten myeloischen Leukämie (AML) hinweg exprimiert, einschließlich leukämischer Stammzellen.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD123_BRIGHT</LocID>
+    <Text>Interleukin-3-Rezeptor (CD123) Helle Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD123_BRIGHT_DESC</LocID>
+    <Text>Der Interleukin-3-Rezeptor (CD123) ist ein Molekül auf Zellen, das dazu beiträgt, das Signal von Interleukin-3, einem löslichen Zytokin, das im Immunsystem wichtig ist, zu übertragen. Der Rezeptor, der auf pluripotenten Vorläuferzellen zu finden ist, induziert Tyrosinphosphorylierung innerhalb der Zelle und fördert Proliferation und Differenzierung in den hämatopoetischen Zelllinien. CD123 wird über alle Subtypen der akuten myeloischen Leukämie (AML) hinweg exprimiert, einschließlich leukämischer Stammzellen.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD123_NEG</LocID>
+    <Text>Interleukin-3-Rezeptor (CD123) Negative Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD123_NEG_DESC</LocID>
+    <Text>Der Interleukin-3-Rezeptor (CD123) ist ein Molekül auf Zellen, das dazu beiträgt, das Signal von Interleukin-3, einem löslichen Zytokin, das im Immunsystem wichtig ist, zu übertragen. Der Rezeptor, der auf pluripotenten Vorläuferzellen zu finden ist, induziert Tyrosinphosphorylierung innerhalb der Zelle und fördert Proliferation und Differenzierung in den hämatopoetischen Zelllinien. CD123 wird über alle Subtypen der akuten myeloischen Leukämie (AML) hinweg exprimiert, einschließlich leukämischer Stammzellen.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD1a_BRIGHT</LocID>
+    <Text>CD1a-Antigen Helle Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD1a_BRIGHT_DESC</LocID>
+    <Text>CD1a (Cluster of Differentiation 1a) ist ein menschliches Protein, das durch das CD1A-Gen codiert wird. Dieses Gen kodiert für ein Mitglied der CD1-Familie von Transmembranglykoproteinen, die strukturell mit den Proteinen des Hauptgewebeverträglichkeitskomplexes (MHC) verwandt sind und Heterodimere mit Beta-2-Mikroglobulin bilden. Die CD1-Proteine vermitteln die Präsentation hauptsächlich von Lipid- und Glykolipidantigenen selbst oder mikrobiellen Ursprungs an T-Zellen.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD1a_NEG</LocID>
+    <Text>CD1a-Antigen Negative Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD1a_NEG_DESC</LocID>
+    <Text>CD1a (Cluster of Differentiation 1a) ist ein menschliches Protein, das durch das CD1A-Gen codiert wird. Dieses Gen kodiert für ein Mitglied der CD1-Familie von Transmembranglykoproteinen, die strukturell mit den Proteinen des Hauptgewebeverträglichkeitskomplexes (MHC) verwandt sind und Heterodimere mit Beta-2-Mikroglobulin bilden. Die CD1-Proteine vermitteln die Präsentation hauptsächlich von Lipid- und Glykolipidantigenen selbst oder mikrobiellen Ursprungs an T-Zellen.</Text>
+</GameDBLocalizedString>
+	
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD5_BRIGHT</LocID>
+    <Text>CD5-Antigen Hell Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD5_BRIGHT_DESC</LocID>
+    <Text>CD5 ist ein Differentiationscluster, der auf der Oberfläche von T-Zellen (verschiedener Spezies) und in einer Untergruppe muriner B-Zellen, bekannt als B-1a, exprimiert wird. Die Expression dieses Rezeptors in humanen B-Zellen war ein kontroverses Thema, und es gibt bisher keinen Konsens über die Rolle dieses Rezeptors als Marker für humane B-Zellen. CD5 ist ein guter immunohistochemischer Marker für T-Zellen, wenn auch nicht so empfindlich wie CD3. Etwa 76% der T-Zell-Neoplasien sollen CD5 exprimieren, und es wird auch in der chronischen lymphatischen Leukämie und dem Mantelzelllymphom (beide B-Zell-Malignitäten), die kein CD3 exprimieren, gefunden. Es geht üblicherweise in der kutanen T-Zell-Lymphom verloren, und sein Fehlen kann als Indikator für Malignität in diesem Zustand verwendet werden.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD7_BRIGHT</LocID>
+    <Text>CD7-Antigen Hell Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD7_BRIGHT_DESC</LocID>
+    <Text>CD7 (Cluster of Differentiation 7) ist ein Protein, das beim Menschen durch das CD7-Gen kodiert wird. Dieses Gen codiert für ein Transmembranprotein, das Mitglied der Immunglobulin-Superfamilie ist. Dieses Protein ist auf Thymozyten und reifen T-Zellen zu finden. Es spielt eine wesentliche Rolle bei T-Zell-Interaktionen sowie bei der T-Zell/B-Zell-Interaktion während der frühen lymphoiden Entwicklung.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD13_BRIGHT</LocID>
+    <Text>Aminopeptidase N (CD13) Hell Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD13_BRIGHT_DESC</LocID>
+    <Text>Membran-Alanyl-Aminopeptidase (EC 3.4.11.2), auch bekannt als Alanyl-Aminopeptidase (AAP) oder Aminopeptidase N (AP-N), ist ein Enzym, das beim Menschen durch das ANPEP-Gen kodiert wird. Aminopeptidase N befindet sich in der Mikrovillarmembran des Dünndarms und der Niere sowie in anderen Plasmamembranen. In Dünndarm spielt Aminopeptidase N eine Rolle bei der endgültigen Verdauung von Peptiden, die durch die Proteasen des Magens und der Bauchspeicheldrüse hydrolysiert werden. Seine Funktion in proximalen tubulären Epithelzellen und anderen Zelltypen ist weniger klar. Defekte in diesem Gen scheinen eine Ursache für verschiedene Arten von Leukämie oder Lymphomen zu sein.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD15_BRIGHT</LocID>
+    <Text>Sialyl-Lewis X (CD15) Hell Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD15_BRIGHT_DESC</LocID>
+    <Text>Sialyl LewisX (sLeX), auch bekannt als Cluster of Differentiation 15s (CD15s) oder Stage-Specific Embryonic Antigen 1 (SSEA-1), ist ein Tetrasaccharid-Carbohydrat, das normalerweise an O-Glykanen auf der Oberfläche von Zellen angebracht ist. Es spielt eine wichtige Rolle bei Zell-zu-Zell-Erkennungsprozessen. Es ist auch die Methode, mit der ein Ei Spermien anzieht; zuerst, um daran zu haften, dann sich damit zu verbinden und schließlich eine Zygote zu bilden. Sialyl-Lewisx vermittelt Phagozytose und Chemotaxis, gefunden auf Neutrophilen; es wird bei Patienten mit Hodgkin-Krankheit, einigen B-Zell-chronischen lymphatischen Leukämien, akuten lymphoblastischen Leukämien und den meisten akuten myeloischen Leukämien exprimiert. CD15 ist auf fast allen Reed-Sternberg-Zellen vorhanden, einschließlich ihrer seltenen mononukleären Varianten, und kann daher in der Immunhistochemie verwendet werden, um das Vorhandensein solcher Zellen in Biopsien nachzuweisen.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD33_BRIGHT</LocID>
+    <Text>Siglec-3 (CD33) Hell Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD33_BRIGHT_DESC</LocID>
+    <Text>CD33 oder Siglec-3 (Sialinsäure bindendes Ig-ähnliches Lektin 3, SIGLEC3, SIGLEC-3, gp67, p67) ist ein Transmembranrezeptor, der auf Zellen der myeloischen Linie exprimiert wird. Es wird normalerweise als myeloidspezifisch betrachtet, kann aber auch auf einigen lymphoiden Zellen gefunden werden. CD33 kann durch Moleküle mit Sialinsäureresten wie Glykoproteinen oder Glykolipiden stimuliert werden. Bei Bindung wird das immunorezeptor-tyrosinkinasenbasierte Inhibierungsmotiv (ITIM) von CD33, das sich im zytoplasmatischen Teil des Proteins befindet, phosphoryliert und dient als Andockstelle für Src-Homologie-2-(SHP-)domänenhaltige Proteine wie SHP-Phosphatasen. Dies führt zu einer Kaskade, die die Phagozytose in der Zelle hemmt.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD117_BRIGHT</LocID>
+    <Text>Proto-O c-KIT (CD117) Hell Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD117_BRIGHT_DESC</LocID>
+    <Text>Proto-Onkogen c-KIT, auch bekannt als Tyrosinkinase KIT, CD117 oder Mast/Stammzellwachstumsfaktorrezeptor, ist ein Transmembran-Tyrosinkinaseprotein, das beim Menschen durch das KIT-Gen kodiert wird. KIT ist ein wichtiger Zelloberflächenmarker, der verwendet wird, um bestimmte Arten hämatopoetischer (blutbildender) Vorläuferzellen im Knochenmark zu identifizieren. Genauer gesagt exprimieren hämatopoetische Stammzellen (HSC), multipotente Vorläuferzellen (MPP) und gemeinsame myeloide Vorläuferzellen (CMP) hohe Mengen an KIT. Gemeinsame lymphoide Vorläuferzellen (CLP) exprimieren geringe Mengen an KIT an der Oberfläche. Antikörper gegen KIT werden weitgehend in der Immunhistochemie verwendet, um bei histologischen Gewebeschnitten bestimmte Tumorarten zu unterscheiden. Es wird hauptsächlich bei der Diagnose von GISTs verwendet, die KIT-positiv sind, aber Marker wie Desmin und S-100 negativ sind, die in glatten Muskel- und Nerventumoren positiv sind, die ein ähnliches Erscheinungsbild haben.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD117_NEG</LocID>
+    <Text>Proto-O c-KIT (CD117) Negative Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD117_NEG_DESC</LocID>
+    <Text>Proto-Onkogen c-KIT, auch bekannt als Tyrosinkinase KIT, CD117 oder Mast/Stammzellwachstumsfaktorrezeptor, ist ein Transmembran-Tyrosinkinaseprotein, das beim Menschen durch das KIT-Gen kodiert wird. KIT ist ein wichtiger Zelloberflächenmarker, der verwendet wird,</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD38_BRIGHT</LocID>
+    <Text>Zyklisches ADP-RH (CD38) Hell Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD38_BRIGHT_DESC</LocID>
+    <Text>CD38, auch als zyklische ADP-Ribosehydrolase bekannt, ist ein Glykoprotein, das auf der Oberfläche vieler Immunzellen vorkommt, einschließlich CD4⁺, CD8⁺, B-Lymphozyten und natürlichen Killerzellen. CD38 ist auch an Zelladhäsion, Signaltransduktion und Kalziumsignalgebung beteiligt. Der Verlust der CD38-Funktion ist mit beeinträchtigten Immunantworten, Stoffwechselstörungen und Verhaltensänderungen einschließlich sozialem Gedächtnisverlust verbunden. Das CD38-Protein ist ein Marker für Zellaktivierung und wurde mit HIV-Infektionen, Leukämien, Myelomen, soliden Tumoren, Typ-II-Diabetes mellitus und Knochenstoffwechsel sowie einigen genetisch bedingten Erkrankungen in Verbindung gebracht.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD38_DIM</LocID>
+    <Text>Zyklisches ADP-RH (CD38) Gedämpfte Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD38_DIM_DESC</LocID>
+    <Text>CD38, auch als zyklische ADP-Ribosehydrolase bekannt, ist ein Glykoprotein, das auf der Oberfläche vieler Immunzellen vorkommt, einschließlich CD4⁺, CD8⁺, B-Lymphozyten und natürlichen Killerzellen. CD38 ist auch an Zelladhäsion, Signaltransduktion und Kalziumsignalgebung beteiligt. Der Verlust der CD38-Funktion ist mit beeinträchtigten Immunantworten, Stoffwechselstörungen und Verhaltensänderungen einschließlich sozialem Gedächtnisverlust verbunden. Das CD38-Protein ist ein Marker für Zellaktivierung und wurde mit HIV-Infektionen, Leukämien, Myelomen, soliden Tumoren, Typ-II-Diabetes mellitus und Knochenstoffwechsel sowie einigen genetisch bedingten Erkrankungen in Verbindung gebracht.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD43_BRIGHT</LocID>
+    <Text>Leukosialin (CD43) Hell Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD43_BRIGHT_DESC</LocID>
+    <Text>Leukosialin, auch als Sialophorin oder CD43 (Cluster of Differentiation 43) bekannt, ist ein Transmembran-Oberflächenprotein, das beim Menschen durch das SPN (Sialophorin) -Gen kodiert wird. Defekte im CD43-Molekül sind mit der Entwicklung des Wiskott-Aldrich-Syndroms verbunden. Mit Immunohistochemie kann CD43 in den parakortikalen T-Zellen gesunder Lymphknoten und Mandeln nachgewiesen werden. Es ist auch in einer Reihe von lymphoiden und myeloiden Tumoren positiv. Obwohl es bei über 90% der T-Zell-Lymphome vorhanden ist, ist es im Allgemeinen weniger effektiv, diese Erkrankung zu zeigen, als das CD3-Antigen. Es kann jedoch nützlich sein, um das B-Zell-Lymphoblastom zu zeigen, da die malignen Zellen in dieser Erkrankung häufig CD43-positiv sind und möglicherweise schwer mit anderen Antikörpern zu färben sind.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD8_BRIGHT</LocID>
+    <Text>CD8-Antigen Hell Expression</Text>
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD8_BRIGHT_DESC</LocID>
+    <Text>CD8 (Cluster of Differentiation 8) ist ein transmembranes Glykoprotein, das als Korezeptor für den T-Zellrezeptor (TCR) dient. Ähnlich wie der TCR bindet CD8 an ein Molekül des Hauptgewebekompatibilitätskomplexes (MHC), ist jedoch spezifisch für das Klasse-I-MHC-Protein. Der CD8-Korezeptor wird hauptsächlich auf der Oberfläche von zytotoxischen T-Zellen exprimiert, kann aber auch auf natürlichen Killerzellen, kortikalen Thymozyten und dendritischen Zellen gefunden werden. Das CD8-Molekül ist ein Marker für die zytotoxische T-Zell-Population. Es wird in T-Zell-Lymphoblastenlymphomen und hypo-pigmentierter Mycosis fungoides exprimiert.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD3_BRIGHT</LocID>
+    <Text>CD3-Antigen Hell Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD3_BRIGHT_DESC</LocID>
+    <Text>Im Bereich der Immunologie trägt der CD3 (Cluster of Differentiation 3) T-Zell-Korezeptor dazu bei, sowohl die zytotoxischen T-Zellen (CD8+ naive T-Zellen) als auch T-Helferzellen (CD4+ naive T-Zellen) zu aktivieren. CD3 wird zunächst im Zytoplasma von Prothymozyten, den Stammzellen, aus denen T-Zellen im Thymus entstehen, exprimiert. Die Prothymozyten differenzieren sich in gemeinsame Thymozyten und dann in medulläre Thymozyten, und es ist in diesem letzten Stadium, dass das CD3-Antigen beginnt, zur Zellmembran zu wandern. Das Antigen ist an den Membranen aller reifen T-Zellen gebunden und in praktisch keinem anderen Zelltyp zu finden, obwohl es in geringen Mengen in Purkinje-Zellen vorhanden zu sein scheint. Diese hohe Spezifität, kombiniert mit der Präsenz von CD3 in allen Entwicklungsstadien der T-Zellen, macht es zu einem nützlichen immunohistochemischen Marker für T-Zellen in Gewebeschnitten. Das Antigen bleibt in fast allen T-Zell-Lymphomen und Leukämien vorhanden und kann daher dazu verwendet werden, sie von oberflächlich ähnlichen B-Zell- und myeloiden Neoplasien zu unterscheiden.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD3_NEG</LocID>
+    <Text>CD3-Antigen Negative Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD3_NEG_DESC</LocID>
+    <Text>Im Bereich der Immunologie trägt der CD3 (Cluster of Differentiation 3) T-Zell-Korezeptor dazu bei, sowohl die zytotoxischen T-Zellen (CD8+ naive T-Zellen) als auch T-Helferzellen (CD4+ naive T-Zellen) zu aktivieren. CD3 wird zunächst im Zytoplasma von Prothymozyten, den Stammzellen, aus denen T-Zellen im Thymus entstehen, exprimiert. Die Prothymozyten differenzieren sich in gemeinsame Thymozyten und dann in medulläre Thymozyten, und es ist in diesem letzten Stadium, dass das CD3-Antigen beginnt, zur Zellmembran zu wandern. Das Antigen ist an den Membranen aller reifen T-Zellen gebunden und in praktisch keinem anderen Zelltyp zu finden, obwohl es in geringen Mengen in Purkinje-Zellen vorhanden zu sein scheint. Diese hohe Spezifität, kombiniert mit der Präsenz von CD3 in allen Entwicklungsstadien der T-Zellen, macht es zu einem nützlichen immunohistochemischen Marker für T-Zellen in Gewebeschnitten. Das Antigen bleibt in fast allen T-Zell-Lymphomen und Leukämien vorhanden und kann daher dazu verwendet werden, sie von oberflächlich ähnlichen B-Zell- und myeloiden Neoplasien zu unterscheiden.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD16_BRIGHT</LocID>
+    <Text>FcγRIII (CD16) Hell Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD16_BRIGHT_DESC</LocID>
+    <Text>CD16, auch als FcγRIII bekannt, ist ein Molekül des Differentiationsclusters, das auf der Oberfläche von natürlichen Killerzellen, Neutrophilen, Monozyten und Makrophagen zu finden ist. CD16 wurde als Fc-Rezeptoren FcγRIIIa und FcγRIIIb identifiziert, die an der Signaltransduktion teilnehmen. Diese Rezeptoren binden an den Fc-Teil von IgG-Antikörpern, was dann die durch Antikörper vermittelte zytotoxische Zellaktivität (ADCC) in menschlichen NK-Zellen aktiviert. CD16 ist für ADCC-Prozesse in menschlichen Monozyten erforderlich. Bei Menschen haben Monozyten, die CD16 exprimieren, verschiedene ADCC-Fähigkeiten in Anwesenheit spezifischer Antikörper und können primäre leukämische Zellen, Krebszelllinien und mit dem Hepatitis-B-Virus infizierte Zellen abtöten. Darüber hinaus ist CD16 in der Lage, die direkte Abtötung einiger durch Viren infizierter und Krebszellen ohne Antikörper zu vermitteln.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD56_BRIGHT</LocID>
+    <Text>NC Adhesion Molecule (CD56) Hell Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_CD56_BRIGHT_DESC</LocID>
+    <Text>Das Nervenzell-Adhäsionsmolekül (NCAM), auch als CD56 bekannt, ist ein homophiles Bindungsglykoprotein, das auf der Oberfläche von Neuronen, Gliazellen und Skelettmuskulatur exprimiert wird. Obwohl CD56 aufgrund seines Entdeckungsorts oft als Marker für die Verpflichtung zur neuralen Linie betrachtet wird, findet sich die Expression von CD56 auch in anderen Bereichen, darunter dem hämatopoetischen System. Hier ist die Expression von CD56 am strengsten mit, aber keineswegs auf, natürliche Killerzellen verbunden. In der anatomischen Pathologie verwenden Pathologen die CD56-Immunhistochemie, um bestimmte Tumore zu erkennen. Tumore, die CD56-positiv sind, umfassen Myelom, myeloide Leukämie, neuroendokrine Tumore, Wilms-Tumor, Neuroblastom, extranodales NK/T-Zell-Lymphom vom Nasentyp, pankreatischer Azinuszellkarzinom, Phäochromozytom, Paragangliom, kleinzelliges Lungenkarzinom und die Familie der Ewing-Sarkome.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_HLADR_BRIGHT</LocID>
+    <Text>HLA-DR Hell Expression</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CM_HLADR_BRIGHT_DESC</LocID>
+    <Text>HLA-DR ist ein MHC-Klasse-II-Zelloberflächenrezeptor, der durch das humane Leukozytenantigen auf dem Chromosom-6-Bereich 6p21.31 codiert wird. Der Komplex aus HLA-DR und Peptid, normalerweise zwischen 9 und 30 Aminosäuren lang, stellt einen Liganden für den T-Zellrezeptor dar.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_PANCYTOPENIA</LocID>
+    <Text>Pancytopenia</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_PANCYTOPENIA_DESC</LocID>
+    <Text>Pancytopenia ist ein Zustand, der auftritt, wenn eine Person niedrige Zahlen für alle drei Arten von Blutzellen hat: rote Blutkörperchen, weiße Blutkörperchen und Blutplättchen. Pancytopenia ist normalerweise auf ein Problem mit dem Knochenmark zurückzuführen, das die Blutzellen produziert. Es kann jedoch mehrere verschiedene zugrunde liegende Ursachen geben.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HAIRYCELL</LocID>
+    <Text>Hairy Looking Cell</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HAIRYCELL_DESC</LocID>
+    <Text>Hairy Cells sind abnormale weiße Blutkörperchen mit haarähnlichen Fortsätzen des Zytoplasmas. Sie sind ein charakteristisches Merkmal der Haarzellenleukämie.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_003</LocID>
+    <Text>TRAP Enzym Detected</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_003_DESC</LocID>
+    <Text>Tartratresistente saure Phosphatase (TRAP oder TRAPase), auch als saure Phosphatase 5, tartratresistent (ACP5) bezeichnet, ist ein glykosyliertes monomeres Metalloproteinenzym, das bei Säugetieren exprimiert wird. Es hat ein Molekulargewicht von etwa 35 kDa, einen basischen isoelektrischen Punkt (7,6–9,5) und optimale Aktivität in sauren Bedingungen.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_08</LocID>
+    <Text>BRAF V600E Mutation Detected</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_08_DESC</LocID>
+    <Text>Das B-Raf-Protonkogen (BRAF) kodiert für eine zytoplasmatische Serin/Threonin-Kinase mit einer Schlüsselrolle bei der Regulation des MAP-Kinase-Signaltransduktionswegs. Eine aktivierende missense-Mutation im Codon 600 von Exon 15 (V600E) des BRAF-Gens wurde in mehreren Neoplasien identifiziert, einschließlich Melanom, kolorektalem Karzinom, papillärem Schilddrüsenkarzinom, Haarzellenleukämie und Langerhans-Zell-Histiozytose.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_09</LocID>
+    <Text>IGHV Hypermutation Detected</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CDF_T_09_DESC</LocID>
+    <Text>Das Immunglobulin-Schwerketten-V-III-Gen VH26 ist ein Protein, das beim Menschen durch das IGHV@-Gen codiert wird. IGHV ist das Gen für die variable Region der Immunglobulinschwerketten; bei B-Zell-Neoplasien wie der chronisch lymphatischen Leukämie sind Mutationen des IGHV mit besseren Reaktionen auf einige Behandlungen und mit verlängerter Überlebensdauer verbunden. Ungefähr 80 bis 90 Prozent der HCL-Patienten weisen eine Hypermutation im Gen für die variable Region der Immunglobulinschwerketten auf.</Text>
+</GameDBLocalizedString>
+	
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_10</LocID>                               
+    <Text>Löschung Chromosom 17p13 erkannt</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_10_DESC</LocID>                   
+    <Text>Die Untersuchung hat ergeben, dass Chromosom 17p13 aus den getesteten Zellen des Patienten gelöscht ist.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_NECROSIS</LocID>                               
+    <Text>Nekrose</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_NECROSIS_DESC</LocID>                   
+    <Text>Nekrose ist eine Form von Zellschädigung, die zum vorzeitigen Tod von Zellen im lebenden Gewebe durch Autolyse führt.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_LPT1</LocID>                               
+    <Text>Großer primärer Tumor erkannt</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_LPT1_DESC</LocID>                   
+    <Text>Die Untersuchung hat einen großen primären Tumor beim Patienten erkannt, was manchmal ein Anzeichen dafür sein kann, dass der Krebs in einem fortgeschritteneren Stadium ist.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BREAST_LUMP</LocID>                               
+    <Text>Brustklumpen</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BREAST_LUMP_DESC</LocID>                   
+    <Text>Ein Brustklumpen ist eine lokalisierte Schwellung, Vorwölbung, Beule oder Erhebung in der Brust, die sich von dem umgebenden Brustgewebe unterscheidet.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BREAST_DISCH</LocID>                               
+    <Text>Brustausfluss</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BREAST_DISCH_DESC</LocID>                   
+    <Text>Der Ausfluss aus der Brustwarze ist die Freisetzung von Flüssigkeit aus der Brustwarze. Es handelt sich dabei um ein sehr häufiges Brustsymptom und tritt in den meisten Fällen im Rahmen der normalen Funktion der Brust auf, ohne dass ein Problem vorliegt.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SORE_NIPPLE</LocID>                               
+    <Text>Schmerzende Brustwarze</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SORE_NIPPLE_DESC</LocID>                   
+    <Text>Brustwarzenschmerzen sind Schmerzen, die im Brustgewebe um den Bereich der Brustwarze auftreten. Brustwarzenschmerzen können mit anderen Symptomen und Anzeichen verbunden sein, darunter Brustschmerzen, Ausfluss aus der Brustwarze, Brustklumpen oder -masse, Juckreiz oder Hautveränderungen. Brustkrebs verursacht in der Regel keine Schmerzen in der Brustwarze oder Brustschmerzen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BREAST_SCHANGE</LocID>                               
+    <Text>Veränderung der Brustform</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BREAST_SCHANGE_DESC</LocID>                   
+    <Text>Der Patient hat eine Veränderung in der Form oder Größe seiner Brüste erlebt.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BREAST_DIMP</LocID>                               
+    <Text>Einziehungen in der Brust</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BREAST_DIMP_DESC</LocID>                   
+    <Text>Auch als Peau d'Orange bekannt, führt das Einsinken der Brust dazu, dass die Haut wie die unebene Schale einer Orange aussieht. Manchmal kann die Haut auch rot und entzündet sein.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BREAST_PAIN</LocID>                               
+    <Text>Brustschmerzen</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BREAST_PAIN_DESC</LocID>                   
+    <Text>Enge, Zärtlichkeit oder stechende Schmerzen in einer oder beiden Brüsten, die häufig auftreten und normalerweise nichts Ernsthaftes bedeuten.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SUS_CALC</LocID>                               
+    <Text>Verdächtige Verkalkungen</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SUS_CALC_DESC</LocID>                   
+    <Text>Brustverkalkungen sind kleine Kalziumablagerungen, die im Brustgewebe einer Frau entstehen. Sie sind sehr verbreitet und in der Regel gutartig (nicht krebsartig). Brustverkalkungen sind bei Frauen häufiger, können aber auch bei Männern vorkommen. In einigen Fällen können bestimmte Arten von Brustverkalkungen auf einen frühen Brustkrebs hindeuten.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_IRR_BMASS</LocID>                               
+    <Text>Irreguläre Brustdichte</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_IRR_BMASS_DESC</LocID>                   
+    <Text>Eine potenzielle Anomalie in einer Mammographie könnte als Knötchen, Masse, Klumpen, Dichte oder Verzerrung bezeichnet werden. Eine Masse (Klumpen), die einen unregelmäßigen Rand oder ein sternförmiges Aussehen (spikuliert) hat, könnte bösartig sein.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CMA_CA153</LocID>                               
+    <Text>Erhöhte Blutspiegel des Krebsantigens 15-3</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CMA_CA153_DESC</LocID>                   
+    <Text>Das Krebsantigen 15-3 (CA15-3) ist ein Protein, das von verschiedenen Zellen, insbesondere von Brustkrebszellen, produziert wird. Das Protein gelangt ins Blut, wo es gemessen werden kann. CA15-3-Spiegel sind bei den meisten Frauen mit Brustkrebs, der sich auf andere Teile des Körpers ausgebreitet hat (metastatischer Brustkrebs), höher als normal. Nicht alle Arten von Brustkrebs führen zu einem Anstieg der CA 15-3-Spiegel, da einige Krebszellen das Antigen nicht übermäßig produzieren.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CMA_CA2729</LocID>                               
+    <Text>Erhöhte Blutspiegel des Krebsantigens 27-29</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CMA_CA2729_DESC</LocID>                   
+    <Text>Das Krebsantigen 27-29 ist eines von mehreren Antigenen, die Ärzte als Tumormarker für Brustkrebs verwenden. Diese Marker neigen dazu, immer dann zu steigen, wenn Krebs vorhanden ist. Der CA 27.29-Test wird hauptsächlich verwendet, um metastatischen Brustkrebs zu überwachen und in geringerem Maße, um einen Rückfall bei Personen, die zuvor wegen Frühstadiums-Brustkrebs behandelt wurden, zu erkennen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_11</LocID>                               
+    <Text>Befunde zu fehlerhaftem BRCA1-Gen</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_11_DESC</LocID>                   
+    <Text>BRCA1/2 ist ein menschliches Tumorsuppressorgen (auch als Fürsorgergen bekannt) und ist für die Reparatur von DNA verantwortlich. BRCA1 und BRCA2 sind nicht verwandte Proteine, aber beide werden normalerweise in den Zellen der Brust und anderer Gewebe exprimiert, wo sie bei der Reparatur von beschädigter DNA helfen oder Zellen zerstören, wenn DNA nicht repariert werden kann. Frauen, die einen Fehler in BRCA1 oder BRCA2 tragen, haben ein hohes lebenslanges Risiko für Brustkrebs, das auf etwa 30-60% geschätzt wird, und ein lebenslanges Eierstockkrebsrisiko von etwa 20%. Sie können von Maßnahmen zur Vorbeugung und Früherkennung von Krebs profitieren. Männer, die einen Fehler in BRCA1 oder BRCA2 tragen, haben möglicherweise ein leicht erhöhtes Risiko für Prostatakrebs und Brustkrebs bei Männern.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_HRM_01</LocID>                               
+    <Text>Östrogenrezeptor-positiv</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_HRM_01_DESC</LocID>                   
+    <Text>Ein Krebs wird als östrogenrezeptor-positiv (oder ER+) bezeichnet, wenn er Rezeptoren für Östrogen hat. Dies deutet darauf hin, dass die Krebszellen, wie normale Brustzellen, Signale von Östrogen erhalten können, die ihr Wachstum fördern könnten.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_HRM_02</LocID>                               
+    <Text>Progesteronrezeptor-positiv</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_HRM_02_DESC</LocID>                   
+    <Text>Der Krebs ist progesteronrezeptor-positiv (PR+), wenn er Progesteronrezeptoren hat. Auch hier bedeutet dies, dass die Krebszellen Signale von Progesteron erhalten können, die ihr Wachstum fördern könnten.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD340_NEG</LocID>                               
+    <Text>Negative Expression von HER2/neu (CD340)</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD340_NEG_DESC</LocID>                   
+    <Text>Der Rezeptortyrosin-Protein-Kinase erbB-2, auch bekannt als CD340, Proto-Onkogen Neu, Erbb2 oder ERBB2, ist ein Protein, das beim Menschen durch das ERBB2-Gen codiert wird. ERBB ist eine Abkürzung von erythroblastisches Onkogen B, ein Gen, das aus dem Vogelgenom isoliert wurde. Es wird auch häufig als HER2 oder HER2/neu bezeichnet. HER2 ist ein Mitglied der Familie der humanen epidermalen Wachstumsfaktorrezeptoren (HER/EGFR/ERBB). Amplifikation oder Überexpression dieses Onkogens hat sich als wichtig für die Entwicklung und Progression bestimmter aggressiver Arten von Brustkrebs erwiesen. In den letzten Jahren ist das Protein zu einem wichtigen Biomarker und Therapieziel für etwa 30% der Brustkrebspatienten geworden.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD340_POS</LocID>                               
+    <Text>Positive Mutation von HER2/neu (CD340)</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD340_POS_DESC</LocID>                   
+    <Text>Der Rezeptortyrosin-Protein-Kinase erbB-2, auch bekannt als CD340, Proto-Onkogen Neu, Erbb2 oder ERBB2, ist ein Protein, das beim Menschen durch das ERBB2-Gen codiert wird. ERBB ist eine Abkürzung von erythroblastisches Onkogen B, ein Gen, das aus dem Vogelgenom isoliert wurde. Es wird auch häufig als HER2 oder HER2/neu bezeichnet. HER2 ist ein Mitglied der Familie der humanen epidermalen Wachstumsfaktorrezeptoren (HER/EGFR/ERBB). Amplifikation oder Überexpression dieses Onkogens hat sich als wichtig für die Entwicklung und Progression bestimmter aggressiver Arten von Brustkrebs erwiesen. In den letzten Jahren ist das Protein zu einem wichtigen Biomarker und Therapieziel für etwa 30% der Brustkrebspatienten geworden.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SPEC_MARG</LocID>                               
+    <Text>Spikulierte Ränder</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SPEC_MARG_DESC</LocID>                   
+    <Text>Spikulierte Ränder sind ein echtes diagnostisches Merkmal von Bösartigkeit. Stränge von Gewebe sind zu sehen, die von einer schlecht definierten Masse ausgehen und ein sternförmiges Aussehen erzeugen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD44v6_BRIGHT</LocID>                               
+    <Text>Helle Expression des CD44v6-Antigens</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD44v6_BRIGHT_DESC</LocID>                   
+    <Text>CD44v6 ist eine Isoform der CD44-Familie von Transmembran-Glykoproteinen. Eine hohe CD44v6-Expression bei epithelialem Krebs korreliert mit Tumorwachstum, Invasion, Metastasierung und Rückfall. CD44v6 ist ein Korezeptor der Rezeptor-Tyrosin-Kinasen c-Met, RON und VEGFR-2.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_12</LocID>                               
+    <Text>Befunde zu GATA3-Mutationen</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_12_DESC</LocID>                   
+    <Text>GATA3 ist ein Transkriptionsfaktor, der beim Menschen durch das GATA3-Gen codiert wird. Der GATA3-Transkriptionsfaktor ist entscheidend für die embryonale Entwicklung verschiedener Gewebe sowie für entzündliche und humorale Immunantworten und die ordnungsgemäße Funktion der Endothelzellen von Blutgefäßen. Die immunzytochemische Analyse des GATA3-Proteins in Brustzellen ist ein wertvoller Marker zur Diagnose von primärem Brustkrebs und wird bei bis zu 94% der Fälle positiv getestet.</Text>  
+</GameDBLocalizedString>
+	
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_HEMOPTYSIS2</LocID>                               
+    <Text>Schwere Hämoptoe</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_HEMOPTYSIS2_DESC</LocID>                   
+    <Text>Hämoptoe ist das Aufhusten von Blut oder blutigem Schleim aus den Bronchien, dem Kehlkopf, der Luftröhre oder den Lungen. Mit anderen Worten, es handelt sich um Blutungen in den Atemwegen. Dies kann bei Lungenkrebs, Infektionen wie Tuberkulose, Bronchitis oder Lungenentzündung und bestimmten kardiovaskulären Erkrankungen auftreten.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_INC_INTRAPRE</LocID>                               
+    <Text>Erhöhter intrakranieller Druck</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_INC_INTRAPRE_DESC</LocID>                   
+    <Text>Erhöhter intrakranieller Druck (ICP) ist ein Anstieg des Drucks um das Gehirn herum. Dies kann auf eine Zunahme der Menge an Flüssigkeit um das Gehirn herum zurückzuführen sein. Zum Beispiel kann es eine erhöhte Menge der normalerweise das Gehirn abdämpfenden Gehirn-Rückenmarksflüssigkeit oder eine Zunahme des Blutes im Gehirn aufgrund einer Verletzung oder eines geplatzten Tumors geben.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BRAIN_ABW</LocID>                               
+    <Text>Abnormale Hirnwellenmuster</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BRAIN_ABW_DESC</LocID>                   
+    <Text>EEG hat abnormale Hirnwellenmuster erkannt. Spike, scharfe Wellen oder Spike-Wellen-Komplexe, die mit konsistenter Lokalisation auftreten, werden manchmal früh im Verlauf von Hirntumoren beobachtet. Sie sind jedoch häufiger entweder als frühe Befunde von langsam wachsenden Neoplasien im Zusammenhang mit Anfällen oder später, nachdem sich ein fokales Verlangsamen entwickelt hat.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_LPT2</LocID>                               
+    <Text>Abnormale Masse entdeckt</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_LPT2_DESC</LocID>                   
+    <Text>Tests haben eine abnormale Masse innerhalb des Patienten entdeckt. Weitere Tests sind erforderlich, um die Bösartigkeit, Art oder Progression zu identifizieren.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_13</LocID>                               
+    <Text>Neurofibromatose Typ I (NF-1) Befunde</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_13_DESC</LocID>                   
+    <Text>Die Neurofibromatose Typ I (NF-1) ist eine komplexe, multi-systemische menschliche Erkrankung, die durch die Mutation eines Gens auf Chromosom 17 verursacht wird, das für die Produktion eines Proteins namens Neurofibromin verantwortlich ist, das für die normale Funktion vieler menschlicher Zelltypen benötigt wird. Etwa 10% der Patienten mit Neurofibromatose Typ I (NFI) haben Tumoren im zentralen Nervensystem (ZNS). Die häufigsten davon sind hypothalamisch-optische Gliome, gefolgt von Hirnstamm- und kleinhirnpiloiden Astrozytomen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_EGB</LocID>                               
+    <Text>Eosinophile granuläre Körper</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_EGB_DESC</LocID>                   
+    <Text>Die häufige Präsenz eosinophiler granulärer Körper ist oft ein nützlicher Hinweis zur Unterscheidung eines Neoplasmas höheren Grades von einem Tumor niedrigeren Grades, wie einem pleomorphen Xanthoastrozytom (PXA) oder einem pilozytischen Astrozytom.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_ABSCESS</LocID>                               
+    <Text>Abszess</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_FND</LocID>                   
+    <Text>Fokaler neurologischer Defizit</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_FND_DESC</LocID>                   
+    <Text>Ein fokales neurologisches Defizit ist ein Problem mit der Funktion von Nerven, Rückenmark oder Gehirn. Es betrifft einen bestimmten Ort, wie die linke Seite des Gesichts, den rechten Arm oder sogar eine kleine Fläche wie die Zunge. Sprech-, Seh- und Hörprobleme gelten ebenfalls als fokale neurologische Defizite.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CMD</LocID>                   
+    <Text>Verkalkte Mineraleinlagerungen</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CMD_DESC</LocID>                   
+    <Text>Gehirnsteine oder zerebrale Calculi werden als große feste intrakranielle Verkalkungen definiert. Obwohl von vielen als gutartig betrachtet, können diese Calciumphosphat-Ablagerungen oder "Gehirnsteine" groß werden und sind mit neurologischen Symptomen verbunden, die von Krampfanfällen bis zu parkinsonschen Symptomen reichen. Dystrophe Verkalkungen werden am häufigsten in Bereichen von Hirnverletzungen wie Trauma, Operation, Schlaganfall und Strahlentherapie gesehen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_DYSPHASIA</LocID>                   
+    <Text>Dysphasie</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_14</LocID>                   
+    <Text>Li-Fraumeni-Syndrom (LFS)</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_14_DESC</LocID>                   
+    <Text>Das Li-Fraumeni-Syndrom (LFS) ist eine vererbte familiäre Anfälligkeit für eine Vielzahl bestimmter, oft seltener Krebsarten. Dies ist auf eine Veränderung (Mutation) in einem Tumorsuppressorgen namens TP53 zurückzuführen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_DYSPHASIA_DESC</LocID>                   
+    <Text>Dysphasie ist eine Sprachstörung, die durch einen Mangel an Spracherzeugung und manchmal auch an deren Verständnis aufgrund von Hirnerkrankungen oder -schäden gekennzeichnet ist.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_MCRO_CYSTS</LocID>                   
+    <Text>Mikrozysten</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_MCRO_CYSTS_DESC</LocID>                   
+    <Text>Ein Mikrozyste ist einfach eine sehr kleine Zyste. Zysten sind abnormal gewachsene, normalerweise gutartige Wucherungen, die mit Flüssigkeit oder einem halbfesten Stoff gefüllt sind und manchmal Schmerzen verursachen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_KI67_LLI</LocID>                               
+    <Text>Antigen KI-67 Niedriger Markierungsindex</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_KI67_LLI_DESC</LocID>                   
+    <Text>Das Antigen KI-67, auch als Ki-67 oder MKI67 bekannt, ist ein Protein, das beim Menschen durch das MKI67-Gen (Antigen, das durch monoklonale Antikörper Ki-67 identifiziert wurde) codiert wird. Ki-67 ist ein ausgezeichneter Marker zur Bestimmung des Wachstumsanteils einer bestimmten Zellpopulation. Der Anteil der Ki-67-positiven Tumorzellen (der Ki-67-Markierungsindex) korreliert oft mit dem klinischen Verlauf von Krebs.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_KI67_BLI</LocID>                               
+    <Text>Antigen KI-67 Rascher Markierungsindex</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_15</LocID>                               
+    <Text>Verlust der Heterozygotie</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_15_DESC</LocID>                   
+    <Text>Verlust der Heterozygotie am Chromosomenarm 10q ist die häufigste Genveränderung sowohl für primäre als auch für sekundäre Glioblastome; sie tritt in 60-90% der Fälle auf. Diese Mutation scheint spezifisch für das Glioblastoma multiforme zu sein und kommt selten in anderen Tumorgraden vor. Diese Mutation ist mit einer schlechten Überlebensrate verbunden. LOH am 10q plus 1 oder 2 der zusätzlichen Genmutationen scheinen häufige Veränderungen zu sein und sind wahrscheinlich Hauptakteure in der Entwicklung von Glioblastomen.</Text>  
+</GameDBLocalizedString>
+	
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_16</LocID>                               
+    <Text>Überexpression von PDGFR</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_16_DESC</LocID>                   
+    <Text>Der aus den Blutplättchen abgeleitete Wachstumsfaktor (PDGF) ist einer von zahlreichen Wachstumsfaktoren, die das Zellwachstum und die Zellteilung regulieren. Insbesondere spielt PDGF eine bedeutende Rolle bei der Bildung von Blutgefäßen, dem Wachstum von Blutgefäßen aus bereits vorhandenem Blutgefäßgewebe, der Mitogenese, d.h. der Proliferation, von mesenchymalen Zellen. In der Onkologie fungiert das PDGF-Gen als Hauptmitogen für Gliazellen, indem es an den PDGF-Rezeptor (PDGFR) bindet. Amplifikation oder Überexpression von PDGFR ist typisch für den Weg zu sekundären Glioblastomen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_017</LocID>                               
+    <Text>IDH1/IDH2-Mutation negativ</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_DYSPAREUNIA</LocID>                   
+    <Text>Dyspareunie (weiblich)</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_DYSPAREUNIA_DESC</LocID>                   
+    <Text>Schmerzhafter Geschlechtsverkehr kann aus verschiedenen Gründen auftreten, die von strukturellen Problemen bis zu psychologischen Bedenken reichen. Viele Frauen haben irgendwann in ihrem Leben schmerzhaften Geschlechtsverkehr. Der medizinische Begriff für schmerzhaften Geschlechtsverkehr ist Dyspareunie, definiert als anhaltender oder wiederkehrender genitaler Schmerz, der kurz vor, während oder nach dem Geschlechtsverkehr auftritt.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CMA_CA125</LocID>                   
+    <Text>Krebsantigen 125 hohe Blutspiegel</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CMA_CA125_DESC</LocID>                   
+    <Text>CA-125, auch als Mucin 16 oder MUC16 bekannt, ist ein Protein, das beim Menschen durch das MUC16-Gen codiert wird. MUC16 ist ein Mitglied der Mucin-Familie von Glykoproteinen. Ein CA-125-Test misst die Menge des Proteins CA-125 (Krebsantigen 125) in Ihrem Blut. Ein CA-125-Test kann verwendet werden, um bestimmte Krebsarten während und nach der Behandlung zu überwachen. In einigen Fällen kann ein CA-125-Test verwendet werden, um nach frühen Anzeichen von Eierstockkrebs bei Menschen mit einem sehr hohen Risiko für die Krankheit zu suchen. Die Menge an CA-125 ist bei Eierstockkrebs erhöht. Bei prämenopausalen Frauen können viele andere Krankheiten oder Erkrankungen neben Krebs zu höheren CA-125-Werten führen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_EARLY_SAT</LocID>                               
+    <Text>Frühe Sättigung</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_EARLY_SAT_DESC</LocID>                   
+    <Text>Frühe Sättigung ist die Unfähigkeit, eine volle Mahlzeit zu essen oder das Gefühl, nach nur einer geringen Menge Nahrung satt zu sein.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_PMPB</LocID>                               
+    <Text>Postmenopausale Blutung</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_PMPB_DESC</LocID>                   
+    <Text>Postmenopausale Blutung (PMB) wird definiert als Blutung, die nach 1 Jahr Amenorrhoe bei einer Frau auftritt, die keine Hormontherapie (HT) erhält. Frauen, die eine kontinuierliche Progesteron- und Östrogenhormontherapie erhalten, können mit unregelmäßigen vaginalen Blutungen rechnen, insbesondere für die ersten 6 Monate. Es gibt mehrere Ursachen für postmenopausale Blutungen. Die häufigsten Ursachen sind: Entzündung und Ausdünnung der Vaginalschleimhaut (atrophische Vaginitis) oder der Gebärmutterschleimhaut (endometriale Atrophie) – verursacht durch niedrige Östrogenspiegel.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_IRR_MNS</LocID>                               
+    <Text>Irreguläre Menstruation</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_IRR_MNS_DESC</LocID>                   
+    <Text>Ausgelassene, verspätete oder unregelmäßige Perioden oder abnormale Blutungsmuster. Irreguläre Menstruation kann Ursachen haben, die nicht auf zugrunde liegende Krankheiten zurückzuführen sind. Beispiele sind familiäre Vorgeschichte von unregelmäßiger Menstruation, Menopause oder Menarche, körperlicher Stress, psychischer Stress, Rauchen oder Nebenwirkungen von Medikamenten.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_APM</LocID>                               
+    <Text>Abnormale Beckenmasse entdeckt</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_APM_DESC</LocID>                   
+    <Text>Eine Beckenmasse ist eine Vergrößerung oder Schwellung im Beckenbereich. Die meisten Beckenmassen werden bei routinemäßigen gynäkologischen oder körperlichen Untersuchungen entdeckt. Beckenmassen können sowohl von den gynäkologischen Organen wie dem Gebärmutterhals, der Gebärmutter, den adnexalen Organen oder von anderen Beckenorganen wie Darm, Blase, Harnleitern und Nierenorganen ausgehen. Es gibt viele gynäkologische Probleme, die zu einer Beckenmasse führen können. Darüber hinaus gibt es andere Krankheiten, die ebenfalls zu einer Beckenmasse führen können. Die meisten sind gutartige Zustände, wie zum Beispiel eine Ovarialzyste, während andere mit gynäkologischem Krebs in Verbindung stehen können.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_OVAR_CYST</LocID>                               
+    <Text>Ovarialzysten</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_OVAR_CYST_DESC</LocID>                   
+    <Text>Ovarialzysten sind mit Flüssigkeit gefüllte Säcke oder Taschen in einem Eierstock oder auf seiner Oberfläche. Die meisten Ovarialzysten verursachen keine Symptome. In einigen Fällen können Menstruationsunregelmäßigkeiten, Schmerzen beim Geschlechtsverkehr oder unregelmäßige Darmbewegungen auftreten. Die meisten Ovarialzysten sind harmlos und verschwinden oft von selbst ohne Behandlung.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SM_P_004</LocID>                               
+    <Text>Mikropapilläre Invasionsmuster</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SM_P_004_DESC</LocID>                   
+    <Text>Ein mikropapilläres Muster wird definiert als ein Muster, das mikropapilläre Strukturen ohne einen fibrovaskulären Kern zeigt. Es ist bekannt, dass das Vorhandensein eines mikropapillären Musters zu einer schlechteren Prognose bei Eierstock-, Brust- und Blasenkrebs führt.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SM_P_005</LocID>                               
+    <Text>Psammoma-Körper</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SM_P_005_DESC</LocID>                   
+    <Text>Psammoma-Körper sind runde mikroskopische kalzifizierte Ansammlungen. Psammoma-Körper sind ein häufiger Befund bei gut differenziertem serösem Karzinom und können in Verbindung mit malignen drüsenförmigen Zellen nachgewiesen werden, die bei der zervikovaginalen Zytologie gefunden wurden.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_18</LocID>                               
+    <Text>BRAF V599E-Mutation festgestellt</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_18_DESC</LocID>                   
+    <Text>Das B-Raf Proto-Onkogen (BRAF) codiert eine zytoplasmatische Serin/Threonin-Kinase mit einer Schlüsselrolle bei der Regulation des Signaltransduktionswegs der mitogenaktivierten Proteinkinase. Mutationen im BRAF-Gen kommen in gutartigen und bösartigen melanozytären Läsionen vor, wobei >90% eine V599E-Mutation aufweisen. Diese Mutation führt zu einer konstitutiv aktiven Kinase-Funktion und zu einer erhöhten Koloniebildung in vitro.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_ASCITES</LocID>                               
+    <Text>Aszites</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_ASCITES_DESC</LocID>                   
+    <Text>Abdominalschwellung durch Ansammlung von Flüssigkeit, meistens im Zusammenhang mit Lebererkrankungen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_PLEURAL_EFFUSION</LocID>                               
+    <Text>Pleuraerguss</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_PLEURAL_EFFUSION_DESC</LocID>                   
+    <Text>Ein Pleuraerguss, manchmal als "Wasser in der Lunge" bezeichnet, ist die Ansammlung von überschüssiger Flüssigkeit zwischen den Schichten der Pleura außerhalb der Lunge. Die Pleura sind dünne Membranen, die die Lungen auskleiden und die Innenseite der Brusthöhle auskleiden und die Atmung erleichtern und schmieren.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD146_BRIGHT</LocID>                               
+    <Text>MCAM (CD146) Helle Expression</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD146_BRIGHT_DESC</LocID>                   
+    <Text>Das Melanomzelladhäsionsmolekül (MCAM) ist ein Zelladhäsionsmolekül, das in einer Vielzahl von Tumoren abnorm exprimiert wird und eng mit der Tumormetastasierung verbunden ist.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CK7_BRIGHT</LocID>                               
+    <Text>Keratin 7 (CK7) Helle Expression</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CK7_BRIGHT_DESC</LocID>                   
+    <Text>Keratin, Typ II, Cytoskelett 7, auch als Cytokeratin-7 (CK-7) oder Keratin-7 (K7) oder Sarkolectin (SCL) bekannt, ist ein Protein, das beim Menschen durch das KRT7-Gen codiert wird. Keratin-7 kommt in einfachen drüsenförmigen Epithelien und in Übergangsepithel vor. Epithelzellen der Lunge und der Brust enthalten beide Keratin-7, aber einige andere drüsenförmige Epithelien, wie die des Dickdarms und der Prostata, tun dies nicht. Da das Keratin-7-Antigen in gesunden und neoplastischen Zellen zu finden ist, können Antikörper gegen CK7 in der Immunhistochemie verwendet werden, um Ovarial- und Übergangszellkarzinome von kolorektalen und Prostatakrebsen zu unterscheiden. Es wird häufig zusammen mit CK20 verwendet, wenn solche Diagnosen gestellt werden.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CK7_NEG</LocID>                               
+    <Text>Keratin 7 (CK7) Negative Expression</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CK7_NEG_DESC</LocID>                   
+    <Text>Keratin, Typ II, Cytoskelett 7, auch als Cytokeratin-7 (CK-7) oder Keratin-7 (K7) oder Sarkolectin (SCL) bekannt, ist ein Protein, das beim Menschen durch das KRT7-Gen codiert wird. Keratin-7 kommt in einfachen drüsenförmigen Epithelien und in Übergangsepithel vor. Epithelzellen der Lunge und der Brust enthalten beide Keratin-7, aber einige andere drüsenförmige Epithelien, wie die des Dickdarms und der Prostata, tun dies nicht. Da das Keratin-7-Antigen in gesunden und neoplastischen Zellen zu finden ist, können Antikörper gegen CK7 in der Immunhistochemie verwendet werden, um Ovarial- und Übergangszellkarzinome von kolorektalen und Prostatakrebsen zu unterscheiden. Es wird häufig zusammen mit CK20 verwendet, wenn solche Diagnosen gestellt werden.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CK20_BRIGHT</LocID>                               
+    <Text>Keratin 20 (CK20) Helle Expression</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CK20_BRIGHT_DESC</LocID>                   
+    <Text>Keratin 20, oft abgekürzt als CK20, ist ein Protein, das beim Menschen durch das KRT20-Gen codiert wird. In der Immunhistochemie können Antikörper gegen CK20 verwendet werden, um eine Reihe von Adenokarzinomen zu identifizieren, die aus Epithelien entstehen, die normalerweise das CK20-Protein enthalten. Zum Beispiel kommt das Protein häufig bei kolorektalen Krebserkrankungen, Übergangszellkarzinomen und beim Merkelzellkarzinom vor, fehlt jedoch bei Lungenkrebs, Prostatakrebs und nicht-muzinösem Eierstockkrebs. Es wird häufig in Kombination mit Antikörpern gegen CK7 verwendet, um verschiedene Arten von drüsigen Tumoren zu unterscheiden.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CK20_NEG</LocID>                               
+    <Text>Keratin 20 (CK20) Negative Expression</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CK20_NEG_DESC</LocID>                   
+    <Text>Keratin 20, oft abgekürzt als CK20, ist ein Protein, das beim Menschen durch das KRT20-Gen codiert wird. In der Immunhistochemie können Antikörper gegen CK20 verwendet werden, um eine Reihe von Adenokarzinomen zu identifizieren, die aus Epithelien entstehen, die normalerweise das CK20-Protein enthalten. Zum Beispiel kommt das Protein häufig bei kolorektalen Krebserkrankungen, Übergangszellkarzinomen und beim Merkelzellkarzinom vor, fehlt jedoch bei Lungenkrebs, Prostatakrebs und nicht-muzinösem Eierstockkrebs. Es wird häufig in Kombination mit Antikörpern gegen CK7 verwendet, um verschiedene Arten von drüsigen Tumoren zu unterscheiden.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_17</LocID>                               
+    <Text>IDH1/IDH2 Negative Findings</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_17_DESC</LocID>                   
+    <Text>Isocitratdehydrogenase (IDH) ist ein Schlüsselenzym, das an der Umwandlung von Isocitrat zu α-Ketoglutarat (α-KG) im Tricarbonsäurezyklus beteiligt ist. Die IDH-Mutation führt zu einem neomorphen Enzym, das zu einer abnormalen Anhäufung von R-2-HG führen kann und die Leukämogenese fördert. Die IDH-Mutation tritt bei 20% der Patienten mit akuter myeloischer Leukämie (AML) auf, hauptsächlich einschließlich IDH1 R132, IDH2 R140 und IDH2 R172.</Text>  
+</GameDBLocalizedString>
+	
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_PSA_BL_DETECTED</LocID>                               
+    <Text>Prostata-spezifisches Antigen Hohe Werte</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_PSA_BL_DETECTED_DESC</LocID>                   
+    <Text>Das prostata-spezifische Antigen (PSA) ist ein Glykoprotein, das ausschließlich von der Prostata produziert wird. Seine Funktion besteht darin, das Sperma zu verflüssigen. Geringe Mengen gelangen in den Blutkreislauf, wo es gemessen werden kann. Das prostata-spezifische Antigen ist organspezifisch, aber nicht krebsspezifisch. Erhöhte Werte können bei Männern mit gutartiger Prostatavergrößerung (BPH), Prostatitis, Harnwegsinfektion oder prostataspezifischem Infarkt auftreten.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_DYSORGASMIA</LocID>                   
+    <Text>Dysorgasmie</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_DYSORGASMIA_DESC</LocID>                               
+    <Text>Dysorgasmie wird als schmerzhafter Orgasmus definiert, jedoch ohne vorherigen Schmerz während des Geschlechtsverkehrs. Der Schmerz ist oft eine krampfartige Empfindung im Becken, Gesäß oder Bauch.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_APM1</LocID>                               
+    <Text>Abnorme Prostata-Befunde</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_APM1_DESC</LocID>                   
+    <Text>Tests haben Abnormalitäten in der Prostata des Patienten gefunden.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_DIFF_URINE</LocID>                               
+    <Text>Harnretention</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_DIFF_URINE_DESC</LocID>                   
+    <Text>Schwierigkeiten beim Wasserlassen und beim vollständigen Entleeren der Blase. Harnretention kann Ursachen haben, die nicht auf zugrunde liegende Krankheiten zurückzuführen sind. Beispiele sind absichtliches Zurückhalten von Urin oder Nebenwirkungen von Medikamenten.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_NIGHT_URGE</LocID>                               
+    <Text>Häufiges nächtliches Wasserlassen</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_NIGHT_URGE_DESC</LocID>                   
+    <Text>Ein häufiger Drang, nachts aufzustehen und zur Toilette zu gehen, wird als Nykturie bezeichnet. Es unterscheidet sich von Enuresis oder Bettnässen, bei dem die Person nicht aus dem Schlaf erwacht, aber die Blase sich trotzdem entleert. Nykturie ist eine häufige Ursache von Schlafverlust, besonders bei älteren Erwachsenen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_UAS_PCA3</LocID>                               
+    <Text>Prostatakrebs-Antigen 3 Hohe Werte</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_UAS_PCA3_DESC</LocID>                   
+    <Text>Das Prostatakrebs-Antigen 3 (PCA3) ist in Prostata-Tumoren stark exprimiert. Tests haben hohe Urinwerte von PCA3 ergeben.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_ED</LocID>                               
+    <Text>Erektile Dysfunktion</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_ED_DESC</LocID>                   
+    <Text>Die erektile Dysfunktion (ED) ist die Unfähigkeit, eine Erektion zu bekommen oder aufrechtzuerhalten, die fest genug für den Geschlechtsverkehr ist. Sie wird manchmal als Impotenz bezeichnet, obwohl dieser Begriff heute seltener verwendet wird. Gelegentliche ED ist nicht ungewöhnlich. Viele Männer erleben dies in stressigen Zeiten. Eine erektile Dysfunktion nach radikaler Prostatektomie bei klinisch lokalisiertem Prostatakrebs ist eine bekannte potenzielle Komplikation der Operation.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_HEMATOSPERMIA</LocID>                               
+    <Text>Hematospermie</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_HEMATOSPERMIA_DESC</LocID>                   
+    <Text>Hematospermie wird als Blut im Sperma definiert. Obwohl oft als wenig bedeutsam betrachtet, kann Blut im Ejakulat bei den Männern, die es erleben, große Besorgnis verursachen. Die Erkrankung ist häufig, wobei viele Episoden unbemerkt bleiben; daher bleibt die Prävalenz der Hematospermie unbekannt.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_HYPERCALCEMIA</LocID>                               
+    <Text>Hyperkalzämie</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_HYPERCALCEMIA_DESC</LocID>                   
+    <Text>Die Hyperkalzämie ist ein Zustand, bei dem der Kalziumspiegel im Blut über normal liegt. Hyperkalzämie wird am häufigsten durch Überaktivität der vier winzigen Drüsen im Hals (Nebenschilddrüsen) oder durch Krebs verursacht. Zusätzliches Kalzium im Blut wirkt sich auf viele Körpersysteme aus.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SEVERE_HYPERCALCEMIA</LocID>                               
+    <Text>Schwere Hyperkalzämie</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SEVERE_HYPERCALCEMIA_DESC</LocID>                   
+    <Text>Schwere Hyperkalzämie ist ein medizinischer Notfall, der eine dringende Behandlung erfordert. Hyperkalzämie ist ein Zustand, bei dem der Kalziumspiegel im Blut über normal liegt. Selten kann schwere Hyperkalzämie die Herzfunktion beeinträchtigen und Herzrhythmusstörungen, Anzeichen von Herzarrhythmie und andere Herzprobleme verursachen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD13_NEG</LocID>                               
+    <Text>Aminopeptidase N (CD13) Negative Expression</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD30_BRIGHT</LocID>                   
+    <Text>CD30-Antigen Helle Expression</Text>  
+</GameDBLocalizedString>
+	
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD30_BRIGHT_DESC</LocID>                               
+    <Text>CD30, auch bekannt als TNFRSF8, ist ein Zellmembranprotein der Tumornekrosefaktor-Rezeptorfamilie und Tumormarker. Dieser Rezeptor wird von aktivierten, aber nicht von ruhenden, T- und B-Zellen exprimiert. TRAF2 und TRAF5 können mit diesem Rezeptor interagieren und die Signaltransduktion vermitteln, die zur Aktivierung von NF-kappaB führt. CD30 ist mit anaplastischem großzelligem Lymphom assoziiert. Es wird in embryonalem Karzinom, aber nicht in Seminom exprimiert und ist daher ein nützlicher Marker zur Unterscheidung zwischen diesen Keimzelltumoren. CD30 und CD15 werden auch auf Reed-Sternberg-Zellen ausgedrückt, die für das Hodgkin-Lymphom typisch sind.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD45_BRIGHT</LocID>                               
+    <Text>Helle Expression von PTPRC (CD45)</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD45_BRIGHT_DESC</LocID>                   
+    <Text>Protein-Tyrosin-Phosphatase, Rezeptortyp C, auch bekannt als PTPRC, ist ein Enzym, das beim Menschen vom PTPRC-Gen kodiert wird. PTPRC ist auch als CD45-Antigen bekannt (CD steht für Cluster of Differentiation), das ursprünglich als Leukozyten-Common-Antigen (LCA) bezeichnet wurde. CD45 ist ein Pan-Leukozyten-Protein mit Tyrosin-Phosphatase-Aktivität, das an der Regulation der Signaltransduktion in der Hämatopoese beteiligt ist. CD45 kolokalisiert nicht mit Lipid Rafts auf murinen und menschlichen nicht-transformierten hämatopoietischen Zellen, aber die Positionierung von CD45 innerhalb von Lipid Rafts wird während ihrer onkogenen Transformation zu akuter myeloischer Leukämie verändert.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_19</LocID>                               
+    <Text>IGH-BCL2-Translokation</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_19_DESC</LocID>                   
+    <Text>Das Kennzeichen des follikulären Lymphoms (FL) ist die abnormale Translokation t(14; 18)(q32; q21), die das IgH-Locus auf Chromosom 14 und das BCL2-Gen auf Chromosom 18 involviert.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_20</LocID>                               
+    <Text>BCL6 (3q27) Hypermutation</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_20_DESC</LocID>                   
+    <Text>B-Zell-Lymphom 6 Protein ist ein Protein, das beim Menschen vom BCL6-Gen kodiert wird. Wie BCL2, BCL3, BCL5, BCL7A, BCL9 und BCL10 hat es klinische Bedeutung bei Lymphomen. Das von diesem Gen kodierte Protein ist ein evolutionär konservierter Zinkfinger-Transkriptionsfaktor und enthält eine N-terminale POZ/BTB-Domäne. Dieses Protein wirkt als sequenzspezifischer Repressor der Transkription und wurde gezeigt, dass es die STAT-abhängigen Interleukin 4 (IL-4) Antworten von B-Zellen moduliert. Dieses Protein kann mit mehreren Korepressor-Komplexen interagieren, um die Transkription zu inhibieren. Dieses Gen wird häufig in diffusen großzelligen B-Zell-Lymphomen (DLBCL) transloziert und hypermutiert gefunden.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_BLC2_BRIGHT</LocID>                               
+    <Text>Starke Expression von BCL2</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_BLC2_BRIGHT_DESC</LocID>                   
+    <Text>Bcl-2 (B-Zell-Lymphom 2), kodiert beim Menschen vom BCL2-Gen, ist das Gründungsmitglied der Bcl-2-Familie von Regulatorproteinen, die den Zelltod (Apoptose) regulieren, indem sie entweder Apoptose hemmen (anti-apoptotisch) oder induzieren (pro-apoptotisch). Antikörper gegen Bcl-2 können mit Immunhistochemie verwendet werden, um Zellen zu identifizieren, die das Antigen enthalten. In gesundem Gewebe reagieren diese Antikörper mit B-Zellen in der Mantelzone sowie mit einigen T-Zellen. Allerdings nimmt die Anzahl der positiven Zellen in follikulärem Lymphom sowie in vielen anderen Krebsformen erheblich zu. In einigen Fällen kann das Vorhandensein oder Fehlen von Bcl-2-Färbungen in Biopsien für die Prognose oder die Wahrscheinlichkeit eines Rückfalls des Patienten von Bedeutung sein.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BL_DGP</LocID>                               
+    <Text>Diffuses Wachstumsmuster</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BL_DGP_DESC</LocID>                   
+    <Text>Vage noduläres und/oder diffuses zelluläres Wachstumsmuster.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_ABNORMAL_NODULE</LocID>                               
+    <Text>Unnormal gefärbtes Knötchen</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_ABNORMAL_NODULE_DESC</LocID>                   
+    <Text>Der Patient hat ein Knötchen (einen Klumpen) auf der Haut, das eine seltsame rot/violette Farbe aufweist.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_MCP_VIR</LocID>                               
+    <Text>Merkel-Zell-Polyomavirus-Befunde</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_MCP_VIR_DESC</LocID>                   
+    <Text>Merkel-Zell-Polyomavirus (MCV oder MCPyV) wurde erstmals im Januar 2008 in Pittsburgh, Pennsylvania, beschrieben. Es war das erste Beispiel eines menschlichen viralen Pathogens, das mit einer Technik namens digitale Transkriptomsubtraktion unter Verwendung unvoreingenommener metagenomischer Next-Generation-Sequenzierung entdeckt wurde. MCV ist eines von sieben derzeit bekannten humanen Onkoviren. Der Nachweis des Virus befindet sich noch in der Forschungsphase und ist im Allgemeinen nicht als klinischer Test verfügbar. Der Nachweis von viraler DNA erfolgt durch PCR oder FISH.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_MCP_VIR_EL</LocID>                               
+    <Text>Elektronenmikroskopische MCV-Befunde</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_MCP_VIR_EL_DESC</LocID>                   
+    <Text>Transmissionselektronenmikroskopie von MCV VLP bei ×50,000 Vergrößerung zeigt charakteristische Polyomavirus-ikosaedrische Kapsidstrukturen. Dieser Nachweis deutet auf das Merkel-Zell-Polyomavirus oder MCV hin, das eines von sieben derzeit bekannten humanen Onkoviren ist.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SM_P_006</LocID>                               
+    <Text>Cyclin D1 Überproduktion</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SM_P_006_DESC</LocID>                   
+    <Text>Cyclin D1 ist ein Protein, das den Eintritt der Zelle in den Zellzyklus reguliert. Es treibt den Übergang zwischen G0- und G1-Phase an. In normalen Geweben sind basale Epithelzellen, Endothelzellen und Stromazellen oft Cyclin D1-positiv, da diese Zellen den Zellzyklus durchlaufen. Aufgrund einer Translokation, die das Cyclin D1-Gen und IgH involviert, t(11;14), wird Cyclin D1 in der überwiegenden Mehrheit der Mantelzelllymphome überexprimiert. Dies ist ein nützliches Merkmal bei der Klassifizierung von niedriggradigen B-Zell-Lymphomen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_21</LocID>                               
+    <Text>Befunde zur IGH/CCND1-Translokation</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_21_DESC</LocID>                   
+    <Text>IGH-Gen-Umlagerungen gelten als eine der klassischen zytogenetischen Genaberrationen, die mit zahlreichen Krebsarten in Verbindung stehen. Das molekulare Kennzeichen von MCL, t(11;14)(q13;q32) (IGH/CCND1), führt zur Deregulierung und Überexpression des G1-Phasen-Zellzyklusgens CCND1 (Codierung für Cyclin D1), vermittelt durch Enhancer-Elemente, die im gesamten IGH-Lokus zu finden sind.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BL_SPC</LocID>                               
+    <Text>Salz-und-Pfeffer-Chromatin</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BL_SPC_DESC</LocID>                   
+    <Text>In der Pathologie bezieht sich "Salz-und-Pfeffer-Chromatin", auch "Salz-und-Pfeffer-Kerne" und "gesprenkeltes Chromatin" genannt, auf Zellkerne, die granuläres Chromatin (unter dem Lichtmikroskop) aufweisen. Salz-und-Pfeffer-Chromatin wird typischerweise in endokrinen Tumoren wie medullärem Schilddrüsenkarzinom, neuroendokrinen Tumoren und Phäochromozytom gesehen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BL_LSAC</LocID>                               
+    <Text>Große anaplastische Zellen</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BL_LSAC_DESC</LocID>                   
+    <Text>Anaplastische Zellen zeigen ausgeprägte Pleomorphismen (Variabilität). Die Kerne sind charakteristischerweise extrem hyperchromatisch (dunkel gefärbt) und groß. Das Kern-Zytoplasma-Verhältnis kann sich 1:1 nähern statt der normalen 1:4 oder 1:6. Riesenzellen, die erheblich größer als ihre Nachbarn sind, können gebildet werden und entweder einen enormen Kern oder mehrere Kerne (Syncytien) besitzen. Anaplastische Kerne sind in Größe und Form variabel und bizarr.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SM_P_007</LocID>                               
+    <Text>Positive Thyroid-Transkriptionsfaktor 1</Text>  
+</GameDBLocalizedString>
+            
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SM_P_007_DESC</LocID>                   
+    <Text>NK2 Homeobox 1 (NKX2-1), auch bekannt als Schilddrüsen-Transkriptionsfaktor 1 (TTF-1), ist ein Protein, das beim Menschen vom NKX2-1-Gen kodiert wird. TTF-1-positive Zellen findet man in der Lunge als Typ-II-Pneumozyten und Club-Zellen. In der Schilddrüse sind auch follikuläre und parafollikuläre Zellen positiv für TTF-1. Bei Lungenkrebs sind Adenokarzinome normalerweise positiv, während Plattenepithelkarzinome und großzellige Karzinome selten positiv sind. Kleinzellige Karzinome (unabhängig vom Primärort) sind normalerweise positiv. TTF1 ist mehr als nur ein klinischer Marker für Lungenadenokarzinome. Es spielt eine aktive Rolle bei der Aufrechterhaltung von Lungenkrebszellen in Anbetracht der experimentellen Beobachtung, dass es bei Lungenkrebs mutiert ist.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_IS_001</LocID>                               
+    <Text>Starke Expression des Tumorproteins P63</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_IS_001_DESC</LocID>                   
+    <Text>Tumorprotein p63, typischerweise als p63 bezeichnet, auch bekannt als transformationsbezogenes Protein 63, ist ein Protein, das beim Menschen vom TP63-Gen (auch bekannt als das p63-Gen) kodiert wird. P63-Immunfärbung ist nützlich für Plattenepithelkarzinome des Kopfes und des Halses, um prostatitisches Adenokarzinom (die häufigste Art von Prostatakrebs) und gutartiges Prostatagewebe zu unterscheiden.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_HYPERTROPHIC_PO</LocID>                               
+    <Text>Hypertrophe Pulmonale Osteoarthropathie</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_HYPERTROPHIC_PO_DESC</LocID>                   
+    <Text>Hypertrophe pulmonale Osteoarthropathie (HPO) ist ein seltenes paraneoplastisches Syndrom, das häufig mit Lungenkrebs in Verbindung gebracht wird. Hypertrophe Osteoarthropathie (HOA) ist ein klinisches Syndrom der Trommelschlägelfinger und -zehen, Vergrößerung der Extremitäten und schmerzhaften, geschwollenen Gelenken. Diese Erkrankung ist durch eine symmetrische Periostitis gekennzeichnet, die den Radius und die Fibula betrifft und in geringerem Maße auch Femur, Humerus, Metakarpalknochen und Metatarsalknochen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD44_BRIGHT</LocID>                               
+    <Text>Starke Expression des CD44-Antigens</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD44_BRIGHT_DESC</LocID>                   
+    <Text>Das CD44-Antigen ist ein zelloberflächenassoziiertes Glykoprotein, das an Zell-Zell-Interaktionen, Zelladhäsion und Migration beteiligt ist. Beim Menschen wird das CD44-Antigen vom CD44-Gen auf Chromosom 11 kodiert. CD44 ist ein Zelloberflächenadhäsionsrezeptor, der in vielen Krebsarten hoch exprimiert wird und die Metastasierung über die Rekrutierung von CD44 an der Zelloberfläche reguliert. Seine Interaktion mit geeigneten extrazellulären Matrixliganden fördert die Migrations- und Invasionsprozesse, die an Metastasen beteiligt sind.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_22</LocID>                               
+    <Text>EGFR-Mutation Überexpression</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_22_DESC</LocID>                   
+    <Text>Der epidermale Wachstumsfaktorrezeptor (EGFR; ErbB-1; HER1 beim Menschen) ist ein Transmembranprotein, das ein Rezeptor für Mitglieder der epidermalen Wachstumsfaktorfamilie (EGF-Familie) von extrazellulären Proteinliganden ist. Mutationen, die zu einer EGFR-Überexpression führen (bekannt als Hochregulation oder Amplifikation), wurden mit einer Reihe von Krebsarten in Verbindung gebracht, einschließlich Adenokarzinom der Lunge (40% der Fälle), Analkrebs, Glioblastom (50%) und epithelialen Tumoren des Kopfes und des Halses (80-100%). Diese somatischen Mutationen, die EGFR betreffen, führen zu seiner ständigen Aktivierung, was eine unkontrollierte Zellteilung zur Folge hat.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD274_BRIGHT</LocID>                               
+    <Text>Starke Expression von PD-L1 (CD274)</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CM_CD274_BRIGHT_DESC</LocID>                   
+    <Text>Programmiertes Zelltod-Ligand 1 (PD-L1), auch bekannt als Cluster of Differentiation 274 (CD274) oder B7-Homolog 1 (B7-H1), ist ein Protein, das beim Menschen vom CD274-Gen kodiert wird. Programmiertes Zelltod-Ligand 1 (PD-L1) ist ein 40kDa Typ-1-Transmembranprotein, von dem angenommen wird, dass es eine wichtige Rolle bei der Unterdrückung des adaptiven Arms des Immunsystems während bestimmter Ereignisse wie Schwangerschaft, Gewebetransplantationen, Autoimmunerkrankungen und anderen Krankheitszuständen wie Hepatitis spielt.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_IS_002</LocID>                               
+    <Text>Abnormale Expression des Tumorproteins P53</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_IS_002_DESC</LocID>                   
+    <Text>Tumorprotein p53, auch bekannt als p53, zelluläres Tumorantigen p53 (UniProt-Name), Tumorsuppressor p53, ist eine Isoform eines Proteins, das von homologen Genen in verschiedenen Organismen kodiert wird, wie TP53 (Menschen) und Trp53 (Mäuse). Dieses Homolog (ursprünglich als ein einziges Protein gedacht und oft als solches bezeichnet) ist in mehrzelligen Organismen von entscheidender Bedeutung, da es die Krebsbildung verhindert und somit als Tumorsuppressor fungiert. Das TP53-Gen kann auch durch Mutagene (Chemikalien, Strahlung oder Viren) modifiziert werden, was die Wahrscheinlichkeit für unkontrollierte Zellteilung erhöht.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BL_HISRC</LocID>                               
+    <Text>Signet-Ring-Zell-Morphologie</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_BL_HISRC_DESC</LocID>                   
+    <Text>In der Histologie ist eine Signet-Ring-Zelle eine Zelle mit einer großen Vakuole, der maligne Typ ist überwiegend in Karzinomen zu sehen. Signet-Ring-Zellen sind am häufigsten mit verschiedenen Formen von Krebs assoziiert. Per Definition ist ein 50%iger oder größerer (hoher) Signet-Ring-Zellanteil erforderlich, damit ein kolorektales Karzinom als Signet-Ring-Zell-kolorektales Karzinom bezeichnet wird.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_23</LocID>                               
+    <Text>Hoher Grad an Mikrosatelliteninstabilität</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_23_DESC</LocID>                   
+    <Text>Mikrosatelliteninstabilität (MSI) ist der Zustand der genetischen Hypermutabilität (Prädisposition zur Mutation), der durch eine beeinträchtigte DNA-Mismatch-Reparatur (MMR) verursacht wird. Das Vorhandensein von MSI stellt einen phänotypischen Nachweis dar, dass MMR nicht normal funktioniert. MMR korrigiert Fehler, die während der DNA-Replikation spontan auftreten, wie einzelne Basenfehlpaarungen oder kurze Einfügungen und Deletionen. Die an MMR beteiligten Proteine korrigieren Polymerasefehler, indem sie einen Komplex bilden, der sich an den fehlerhaften Abschnitt der DNA bindet, den Fehler herausschneidet und die richtige Sequenz an seiner Stelle einfügt. Zellen mit abnorm funktionierendem MMR sind nicht in der Lage, Fehler, die während der DNA-Replikation auftreten, zu korrigieren und sammeln folglich Fehler an. Mikrosatelliteninstabilität ist mit vielen Krebsformen assoziiert, ist aber am häufigsten in Verbindung mit Kolonkrebs zu finden.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SM_P_008</LocID>                               
+    <Text>Hohe Expression von Mucin 4</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_SM_P_008_DESC</LocID>                   
+    <Text>Mucin 4 (MUC 4) ist ein Mucin-Protein, das beim Menschen vom MUC4-Gen kodiert wird. Wie andere Mucine ist MUC-4 ein hochmolekulares Glykoprotein. Die Hauptbestandteile des Schleims, der viskose Sekret, der epitheliale Oberflächen wie die in der Luftröhre, dem Dickdarm und dem Gebärmutterhals bedeckt, sind hochglykosylierte Proteine, die als Mucine bezeichnet werden. Diese Glykoproteine spielen wichtige Rollen beim Schutz der epithelialen Zellen und wurden mit der epithelialen Erneuerung und Differenzierung in Verbindung gebracht. MUC-4 wurde gefunden, dass es verschiedene Rollen in der Progression von Krebs spielt, insbesondere aufgrund seiner Signal- und Antiadhäsionseigenschaften, die zur Tumorentwicklung und Metastasierung beitragen.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_24</LocID>                               
+    <Text>Befunde zur Mutation von CDH1 (CD324)</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_CDF_T_24_DESC</LocID>                   
+    <Text>Cadherin-1, auch bekannt als CAM 120/80 oder epitheliales Cadherin (E-Cadherin) oder Uvomorulin, ist ein Protein, das beim Menschen vom CDH1-Gen kodiert wird. CDH1 wurde auch als CD324 (Cluster of Differentiation 324) bezeichnet. Es ist ein Tumorsuppressorgen. Der Verlust der E-Cadherin-Funktion oder -Expression wurde mit Krebsprogression und Metastasierung in Verbindung gebracht. Die Herabregulierung von E-Cadherin verringert die Stärke der zellulären Adhäsion innerhalb eines Gewebes, was zu einer Zunahme der zellulären Mobilität führt. Dies kann wiederum dazu führen, dass Krebszellen die Basalmembran überqueren und umliegendes Gewebe invadieren.</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_COLONOFIND</LocID>                               
+    <Text>Koloskopische Befunde</Text>  
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>      
+    <LocID>SYM_CRP_COLONOFIND_DESC</LocID>                   
+    <Text>Die Tests haben ungewöhnliche Befunde im Dickdarm gemeldet. Weitere Tests oder Ergebnisse der Biopsie werden helfen zu bestimmen, ob die Befunde Anlass zur Sorge geben.</Text>  
+</GameDBLocalizedString>
+	
+	<!-- MISSING -->
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_010</LocID>
+    <Text>Mucin 2 stark exprimiert</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_010_DESC</LocID>
+    <Text>Mucine sind eine Familie von hochmolekularen, stark glykosylierten Proteinen (Glykokonjugate), die von epithelialen Geweben in den meisten Tieren produziert werden. Mucin 2, oligomeres Schleim-Gelbildendes, auch bekannt als MUC2, ist ein Protein, das beim Menschen durch das MUC2-Gen codiert wird. Mucin 2 ist besonders prominent im Darm, wo es von Becherzellen in der epithelialen Auskleidung in das Lumen des Dickdarms ausgeschieden wird. In der Onkologie kann die Überexpression von MUC-2 durch die Bildung einer Schleimschicht vor antitumoralen Immunabwehrmechanismen schützen und so die Tumorentwicklung fördern.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_011</LocID>
+    <Text>Mucin 5AC stark exprimiert</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_011_DESC</LocID>
+    <Text>Das stark glykosylierte sekretierte Mucin MUC5AC kann aufgrund seiner cysteinreichen Wiederholungen inter- und intramolekulare Disulfidbindungen bilden, die komplexe Polymere bilden und somit das Gerüst des polymeren Schleims auf epithelialen Zelloberflächen formen. MUC5AC ist ein Molekül mit vielseitigen funktionellen Implikationen, darunter Barrierenfunktionen für epitheliale Zellen, Wechselwirkung mit Krankheitserregern, Anlockung von Immunzellen an Stellen prämaligner oder maligner Läsionen und Tumorprogression in kontextabhängiger Weise. Die differentielle Expression, Glykosylierung und Lokalisierung von MUC5AC wurden mit zahlreichen gutartigen und bösartigen Krankheitsbildern in Verbindung gebracht.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_012</LocID>
+    <Text>Mucin 1 stark exprimiert</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_012_DESC</LocID>
+    <Text>Mucin 1, zelloberflächenassoziiert (MUC1), auch als polymorphes epitheliales Mucin (PEM) oder epitheliales Membranantigen (EMA) bezeichnet, ist ein durch das MUC1-Gen beim Menschen codiertes Mucin. MUC1 ist ein Glykoprotein mit umfangreicher O-verknüpfter Glykosylierung seiner extrazellulären Domäne. Mucine schützen den Körper vor Infektionen, indem sie an Oligosaccharide in der extrazellulären Domäne binden und so verhindern, dass der Krankheitserreger die Zelloberfläche erreicht. Die Überexpression von MUC1 wird häufig mit Darm-, Brust-, Eierstock-, Lungen- und Bauchspeicheldrüsenkrebs in Verbindung gebracht.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_009</LocID>
+    <Text>Mucin 6 stark exprimiert</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_009_DESC</LocID>
+    <Text>Mucin 6, oligomeres Schleim/Gelbildendes, auch bekannt als MUC6, ist ein menschliches Gen. Bei extrahepatischen Gallengangläsionen (biliäre intraduktale papilläre muzinöse Neoplasien, IPMNs) korreliert die Expression von MUC2 mit dem Grad der Umwandlung von Säulenepithelzellen und der intestinalen Differenzierung, während MUC6 charakteristischerweise in Tumoren mit einem würfelförmigen Zellmuster und bei Fällen mit pylorischem oder biliärem Differenzierungsgrad positiv ist. Pylorische Drüsenadenome (der Gallenblase) sind durchweg positiv für MUC6 sowie für andere pylorische Drüsenmarker wie M-GGMC-1.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_BL_PMCC</LocID>
+    <Text>Reine muzinöse Zellen</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_BL_PMCC_DESC</LocID>
+    <Text>Muzinöses Karzinom kann neben anderen Krebszelltypen auftreten, aber wenn dies nicht der Fall ist, gilt der Krebs als 'rein'. Reines muzinöses Karzinom besteht zu 90-100% aus muzinösen Zellen.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_BL_MMCC</LocID>
+    <Text>Gemischte muzinöse Zellen</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_BL_MMCC_DESC</LocID>
+    <Text>Muzinöses Karzinom kann neben anderen Krebszelltypen auftreten, wenn dies der Fall ist, wird der Krebs als gemischtes muzinöses Karzinom bezeichnet.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_013</LocID>
+    <Text>Napsin A stark exprimiert</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_SM_P_013_DESC</LocID>
+    <Text>Napsin A ist ein funktionelles Aspartatproteinase, das im Zytoplasma des gesunden Lungengewebes exprimiert wird. Es ist homolog zu dem Polypeptid TAO2 und ist an der Reifung des biologisch aktiven Surfactant-Proteins B beteiligt. Es besteht auch aus einem 38-kDa-Protein, einem Einzelkettenprotein, das in Typ-II-Pneumozyten, alveolären Makrophagen, Nierentubuli und exokrinen Drüsen und Gangsystemen in der Bauchspeicheldrüse exprimiert wird. Napsin A kann ein alternativer Marker für Lungenkrebs sein.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_WHITE_STOOLS</LocID>
+    <Text>Weiße Stühle</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_WHITE_STOOLS_DESC</LocID>
+    <Text>Ein weißer oder lehmfarbener Stuhl entsteht durch einen Mangel an Gallenflüssigkeit, was auf ein schwerwiegendes zugrunde liegendes Problem hinweisen kann. Gallenflüssigkeit ist eine Verdauungsflüssigkeit, die von der Leber produziert und in der Gallenblase gespeichert wird. Ein Stuhl erhält seine normale bräunliche Farbe von der Gallenflüssigkeit, die während des Verdauungsprozesses in den Dünndarm ausgeschieden wird.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_LIV_PRECONDITION</LocID>
+    <Text>Vorbestehende Lebererkrankung</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_LIV_PRECONDITION_DESC</LocID>
+    <Text>Die medizinische Akte des Patienten oder der Patient selbst hat dem Arzt mitgeteilt, dass sie eine vorbestehende Lebererkrankung haben oder hatten.</Text>
+</GameDBLocalizedString>
+	
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HEPATIC_ENCE</LocID>
+    <Text>Hepatische Enzephalopathie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HEPATIC_ENCE_DESC</LocID>
+    <Text>Die hepatische Enzephalopathie ist ein Rückgang der Gehirnfunktion, der aufgrund schwerer Lebererkrankungen auftritt. In diesem Zustand kann die Leber Toxine nicht ausreichend entfernen. Dies führt zu einer Ansammlung von Giftstoffen im Blutkreislauf, die zu Gehirnschäden führen kann.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HYPERAMMONEMIA</LocID>
+    <Text>Hyperammonämie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HYPERAMMONEMIA_DESC</LocID>
+    <Text>Hyperammonämie ist eine Stoffwechselstörung, die sich durch einen Überschuss an Ammoniak im Blut auszeichnet. Es handelt sich um einen gefährlichen Zustand, der zu Hirnverletzungen und Tod führen kann.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_IS_003</LocID>
+    <Text>Erhöhte Alpha-Fetoproteinwerte</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_IS_003_DESC</LocID>
+    <Text>Alpha-Fetoprotein ist ein Protein, das beim Menschen durch das AFP-Gen codiert wird. Das AFP-Gen befindet sich auf dem q-Arm des Chromosoms 4. AFP ist ein wichtiges Plasmaprotein, das vom Dotterbeutel und der fötalen Leber während der fötalen Entwicklung produziert wird. AFP kommt hauptsächlich in Leberkrebs und nichtseminomatösen Keimzelltumoren vor, die selten sind. Diese werden in der Zirbeldrüse im Gehirn gefunden. Einige Menschen mit Zirrhose oder chronischer aktiver Hepatitis haben auch höhere Blutspiegel von AFP. Wie jeder erhöhte Tumormarker ist auch ein erhöhter AFP allein nicht diagnostisch, sondern nur hinweisend.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CMA_CAHP1</LocID>
+    <Text>Nachweis des Hepatozytenparaffin-1-Antigens</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CMA_CAHP1_DESC</LocID>
+    <Text>Hepatozytenparaffin-1 ist ein monoklonaler Antikörper, der speziell zur Reaktion mit Hepatozyten in routinemäßig formalinfixierten und paraffineingebetteten Gewebeproben entwickelt wurde. Er führt zu einer deutlichen granulären Zytoplasmafärbung von Hepatozyten, reagiert jedoch nicht mit Gallengängen und nicht-parenchymalen Leberzellen. Der Antikörper dekoriert die Mehrheit der hepatozellulären Karzinome, einschließlich der fibrolamellaren Varianten. Er reagiert nicht mit einer Vielzahl anderer erwachsener Tumoren, mit Ausnahme einer fokalen Färbung in einigen gastrointestinalen Tumoren, einschließlich einer Untergruppe von Magenkarzinomen.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_AB_LFT</LocID>
+    <Text>Abnormale Leberfunktionstestergebnisse</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_AB_LFT_DESC</LocID>
+    <Text>Die Leberfunktionstests des Patienten haben abnormale Ergebnisse ergeben, weitere Tests sind erforderlich, um die mögliche Ursache zu bestimmen. Abnormale Leberfunktionstestergebnisse weisen nicht immer auf eine Lebererkrankung hin und können stattdessen das Ergebnis einer Vielzahl von Umständen sein.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_ACUTE_LIVER_FAILURE</LocID>
+    <Text>Akutes Leberversagen</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_ACUTE_LIVER_FAILURE_DESC</LocID>
+    <Text>Das akute Leberversagen (ALF) ist ein seltener Syndrom, das durch einen raschen Rückgang der Leberfunktion definiert ist.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CELL_REJECTION</LocID>
+    <Text>Zelluläre Abstoßung</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_CELL_REJECTION_DESC</LocID>
+    <Text>Die zelluläre Abstoßung tritt auf, wenn die Blutzellen des Körpers ein transplantiertes Organ als Fremdkörper erkennen und eine Armee von Zellen mobilisieren, um es anzugreifen. Eine Abstoßung bedeutet nicht zwangsläufig, dass der Patient sein transplantiertes Organ verliert, aber es ist äußerst wichtig, dass die Abstoßung so bald wie möglich diagnostiziert und behandelt wird.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_INTERNAL_BLEEDING</LocID>
+    <Text>Inneres Bluten</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_INTERNAL_BLEEDING_DESC</LocID>
+    <Text>Blutungen im Inneren des Körpers, insbesondere in der Brust- oder Bauchhöhle oder in den Muskeln, die durch schwere Verletzungen, Operationen oder einige unbekannte Komplikationen verursacht werden können.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HEMO_INSTA</LocID>
+    <Text>Hämodynamische Instabilität</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_HEMO_INSTA_DESC</LocID>
+    <Text>Hämodynamische Instabilität tritt auf, wenn ein abnormer oder instabiler Blutdruck vorliegt, was zu einer unzureichenden Durchblutung führen kann. Dieses Symptom kann lebensbedrohlich sein und möglicherweise eine intensivmedizinische Intervention erfordern.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_LES_RUPTURE</LocID>
+    <Text>Ruptur einer Läsion</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_LES_RUPTURE_DESC</LocID>
+    <Text>Eine Läsion oder ein Tumor im Inneren des Patienten ist gerissen. Dies ist mit lebensbedrohlichen inneren Blutungen verbunden.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_FACIAL_NERVE_PARA</LocID>
+    <Text>Faziale Nervenlähmung</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_FACIAL_NERVE_PARA_DESC</LocID>
+    <Text>Die faziale Nervenlähmung ist durch eine Gesichtsschwäche gekennzeichnet, normalerweise nur auf einer Seite des Gesichts, mit möglichen weiteren Symptomen wie Geschmacksverlust, Hyperakusis und vermindertem Speichel- und Tränensekret.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_DYSPLASIA</LocID>
+    <Text>Dysplasie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_DYSPLASIA_DESC</LocID>
+    <Text>Dysplasie (zytologische Atypie) bezeichnet das Vorhandensein von Zellen ungewöhnlichen Typs in einem Gewebe, was auf eine Phase vor der Entwicklung von Krebs hinweisen kann.</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_EPI_HIGH1</LocID>
+    <Text>Erhöhte Anzahl von Epidermoidzellen</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+    <LocID>SYM_CRP_EPI_HIGH1_DESC</LocID>
+    <Text>Tests haben einen abnormal hohen Gehalt an Epidermoidzellen erkannt. Dies kann auf eine ungünstigere Prognose oder fortgeschritteneren Krebs hinweisen.</Text>
+</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_CDF_T_25</LocID>                               
+		<Text>p16INK4a Overexpression</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_CDF_T_25_DESC</LocID>                   
+		<Text>p16 (also known as p16INK4a, cyclin-dependent kinase inhibitor 2A, CDKN2A, multiple tumor suppressor 1 and numerous other synonyms), is a protein that slows cell division by slowing the progression of the cell cycle from the G1 phase to the S phase, thereby acting as a tumor suppressor. p16 is a widely used immunohistochemical marker in gynecologic pathology. Strong and diffuse cytoplasmic and nuclear expression of p16 in squamous cell carcinomas (SCC) of the female genital tract is strongly associated with high-risk human papilloma virus (HPV) infection and neoplasms of cervical origin. The majority of SCCs of uterine cervix express p16. However, p16 can be expressed in other neoplasms and in several normal human tissues.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_CM_CK19_BRIGHT</LocID>                               
+		<Text>Cytokeratin 19 (CK19) Brightly Expressed</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_CRP_CM_CK19_BRIGHT_DESC</LocID>                   
+		<Text>Keratin, type I cytoskeletal 19 also known as cytokeratin-19 (CK-19) or keratin-19 (K19) is a 40 kDa protein that in humans is encoded by the KRT19 gene. Expression in certain cancers allows CK19 to help act as a marker and help determine what type of cancer the patient may have.</Text>  
+	</GameDBLocalizedString>
+	
+
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

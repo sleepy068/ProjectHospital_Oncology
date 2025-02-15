@@ -1,7 +1,7 @@
-Update v1.0.7.0 Build 22/11/23 | Post 
+Update v1.0.8.0 Build 22/11/23 | Post 
 
 Additions:
-N/A
+Added Prefabs
 
 Changes:
 Removed all old code
@@ -11,6 +11,11 @@ Changed SYM_SLP_LES_RUPTURE to have CRP version of SYM_SLP_INTERNAL_BLEEDING for
 
 Localisation:
 Some grammer and spelling mistakes
+
+Updated German Localisation (Thank you niofb271 & TheDibbuK)
+Updated Czech Localisation (Thank you josiffilip)
+Updated Brazilian Portuguese Localisation (Thank you Alice&Gui)
+Updated Hungarian Localisation (Thank you Kythrea)
 
 Bug Fixes:
 N/A

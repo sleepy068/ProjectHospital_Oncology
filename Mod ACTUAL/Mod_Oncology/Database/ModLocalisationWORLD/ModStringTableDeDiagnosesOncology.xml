@@ -1,17 +1,16 @@
 <Database>
-	<GameDBStringTable ID="LOC_DE_ADDON_ONCOLOGYSL_DIAGNOSES">
+	<!-- Oncology Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_DE_ADDON_ONCOLOGYSL_DIAGNOSES_ONCO">
 	<LanguageCode>de</LanguageCode>
-	<LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+	<LanguageNameLocalized>German</LanguageNameLocalized>
 	<Contributors>
-	<Name>Sonic1305</Name>
-	<Name>Bowelas</Name>
-	<Name>niofb271</Name>
+		<Name>Gego</Name>
+		<Name>Sonic1305</Name>
+		<Name>Bowelas</Name>
+		<Name>niofb271</Name>
 	</Contributors>
 
 	<LocalizedStrings>
-		
-        <!-- Diagnoses - Skin Cancer -->
-		
         <GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_SC1_1</LocID>                         
 		<Text>Basalzellkarzinom (1. Stadium)</Text>	
@@ -19,7 +18,7 @@
 		
         <GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_SC1_1_DESC</LocID>             
-		<Text>Basalzellkrebs ist die häufigste Krebsart beim Menschen. Es ist eine Art von Nicht-Melanom-Hautkrebs, der in der Basalzellschicht der Epidermis (der obersten Hautschicht) beginnt, sehr langsam wächst und sich selten ausbreitet (metastasiert). \n\nIm 1. Stadium ist der Tumor grob 2 cm breit oder kleiner und kann sich in die Dermis ausgebreitet haben</Text>	
+		<Text>Basalzellkrebs ist die häufigste Krebsart beim Menschen. Es ist eine Art von Nicht-Melanom-Hautkrebs, der in der Basalzellschicht der Epidermis (der obersten Hautschicht) beginnt, sehr langsam wächst und sich selten ausbreitet (metastasiert). \n\nIm 1. Stadium ist der Tumor grob 2 cm breit oder kleiner und kann sich in die Dermis ausgebreitet haben.</Text>	
 		</GameDBLocalizedString>
 
         <GameDBLocalizedString>      
@@ -34,7 +33,7 @@
 		
         <GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_SC1_3</LocID>                         
-		<Text>Basalzellkarzinom (3. Stadium)</Text>	
+		<Text>Basalzellkarzinom (3. Stadium))</Text>	
 		</GameDBLocalizedString>
 		
         <GameDBLocalizedString>      
@@ -163,9 +162,7 @@
 		<LocID>DIA_ONCO_CRP_AGC1_2_DESC</LocID>             
 		<Text>Das Phäochromozytom ist ein seltener Tumor des Nebennierengewebes. Es führt zur Freisetzung von zu viel Adrenalin und Noradrenalin, Hormonen, die Herzfrequenz, Stoffwechsel und Blutdruck steuern. Metastasierend hat sich der Krebs von dort, wo der Tumor begann, in einen entfernten Teil des Körpers ausgebreitet. Um die Wahrscheinlichkeit einer metastatischen Ausbreitung vorherzusagen, wurden verschiedene Kriterien und Bewertungssysteme auf der Grundlage der Histopathologie oder klinischer Daten entwickelt, aber kein System hat sich als zuverlässig erwiesen.</Text>	
 		</GameDBLocalizedString>
-		
-		<!-- Diagnoses - Lung Cancer -->
-		
+
 		<GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_LC_0</LocID>                         
 		<Text>NSC Lungenkrebs (lokal)</Text>	
@@ -215,9 +212,7 @@
 		<LocID>DIA_ONCO_CRP_LC1_1_DESC</LocID>             
 		<Text>Der kleinzellige Lungenkrebs beginnt, wenn sich gesunde Zellen in der Lunge verändern und außer Kontrolle geraten und eine Masse bilden, die als Tumor, Verletzung oder Knoten bezeichnet wird. SCLC beginnt in den Nervenzellen oder hormonproduzierenden Zellen der Lunge. Der Begriff "small cell" bezieht sich auf die Größe und Form der Krebszellen, wie sie unter einem Mikroskop betrachtet werden. Das ausgedehnte Stadium wird verwendet, um SCLC zu beschreiben, der sich auf Teile des Körpers wie die andere Lunge, den Knochen, das Gehirn oder das Knochenmark ausgebreitet hat. Viele Ärzte halten SCLC, welcher sich auf die Flüssigkeit um die Lunge herum ausgebreitet hat, ebenfalls für ein ausgedehntes Stadium. Ungefähr 2 von 3 Personen mit SCLC sind im ausgedehnte Stadium, wenn der Krebs zum ersten Mal gefunden wird.</Text>	
 		</GameDBLocalizedString>
-		
-		<!-- -->
-		
+
 		<GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_BC1_0</LocID>                         
 		<Text>Kolorektales Adenokarzinom (lokal)</Text>	
@@ -437,10 +432,7 @@
 		<LocID>DIA_ONCO_CRP_BLC06_1_DESC</LocID>             
 		<Text>Die Variante der Haarzellenleukämie (HCL-V) ist eine seltene und träge Form der kleinen, reifen B-Zell-Leukämie, die durch Splenomegalie, eine erhöhte Anzahl weißer Blutkörperchen (WBC) und hyperzelluläres Knochenmark gekennzeichnet ist. HCL-V ist aggressiver und therapieresistenter als klassisches HCL. Früher wurde angenommen, dass die HCL-Variante ein Subtyp von HCL ist. Im Jahr 2008 gelangte die Weltgesundheitsorganisation jedoch zu dem Schluss, dass es sich um eine von HCL getrennte und biologisch unterschiedliche Variante handelt. Die HCL-Variante ist seltener als HCL und verläuft klinisch anders.</Text>	
 		</GameDBLocalizedString>
-		<!-- ### ### -->
-		<!-- ######################################## Content for V0.13 Added Below ######################################## -->
-		<!-- ### ### -->
-		
+
 		<GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_BREC1_0</LocID>                         
 		<Text>Duktales Karzinom in situ</Text>	
@@ -487,63 +479,23 @@
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		<LocID>DIA_ONCO_CRP_BRAC1_0</LocID>                         
-		<Text>Pilozytisches Astrozytom</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		<LocID>DIA_ONCO_CRP_BRAC1_0_DESC</LocID>             
-		<Text>Astrozytome 1. Grades werden auch als pilozytische Astrozytome bezeichnet. Diese Tumore treten bei Kindern und jungen Erwachsenen auf. Sie sind weniger invasiv als andere Typen und haben eine relativ gute Prognose. Sie entstehen normalerweise im Kleinhirn, in der Nähe des Hirnstamms, im hypothalamischen Bereich oder im Chiasma opticum. Sie können jedoch in allen Bereichen auftreten, in denen Astrozyten vorhanden sind, einschließlich der Gehirnhälften und des Rückenmarks. Diese Tumore wachsen normalerweise langsam und sind gutartig.</Text>	
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>DIA_ONCO_CRP_BRAC1_1</LocID>                         
-		<Text>Diffuses Astrozytom</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		<LocID>DIA_ONCO_CRP_BRAC1_1_DESC</LocID>             
-		<Text>Diffuse Astrozytome, auch als niedriggradige infiltrative Astrozytome bezeichnet, werden als WHO-II-Tumoren des Gehirns bezeichnet. Der Begriff diffuse Infiltration bedeutet, dass es keine erkennbare Grenze zwischen dem Tumor und normalem Hirngewebe gibt, auch wenn die Ränder bei der Bildgebung gut voneinander abgegrenzt erscheinen.</Text>	
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>DIA_ONCO_CRP_BRAC1_2</LocID>                         
-		<Text>Anaplastisches Astrozytom</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		<LocID>DIA_ONCO_CRP_BRAC1_2_DESC</LocID>             
-		<Text>Das anaplastische Astrozytom ist ein seltener bösartiger Hirntumor. Astrozytome sind Tumoren, die sich aus bestimmten sternförmigen Gehirnzellen entwickeln, die als Astrozyten bezeichnet werden. Astrozyten und ähnliche Zellen bilden Gewebe, das andere Nervenzellen im Gehirn und Rückenmark umgibt und schützt.</Text>	
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		<LocID>DIA_ONCO_CRP_BRAC1_3</LocID>                         
-		<Text>Glioblastom</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		<LocID>DIA_ONCO_CRP_BRAC1_3_DESC</LocID>             
-		<Text>Das Glioblastom, auch als Glioblastoma multiforme (GBM) bekannt, ist der aggressivste Krebs, der im Gehirn beginnt. Anzeichen und Symptome eines Glioblastoms sind zunächst unspezifisch. Sie können Kopfschmerzen, Persönlichkeitsveränderungen, Übelkeit und ähnliche Symptome wie bei einem Schlaganfall umfassen.</Text>	
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_OVAC1_0F</LocID>                         
-		<Text>Hochgradiges seröses Karzinom</Text>	
+		<Text>High-Grade seriöses Karzinom</Text>	
 		</GameDBLocalizedString>
 		
         <GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_OVAC1_0F_DESC</LocID>             
-		<Text>Das hochgradige seröse Ovarialkarzinom (HGSC) ist eine Art Tumor, der aus der serösen Epithelschicht in der Bauchhöhle entsteht und hauptsächlich im Eierstock auftritt. HGSCs machen die Mehrheit der Fälle von Eierstockkrebs aus [1] und weisen die niedrigsten Überlebensraten auf. HGSC unterscheidet sich vom niedriggradigen serösen Karzinom (LGSC), das aus Eierstockgewebe stammt und weniger aggressiv ist.</Text>
+		<Text>Das High-Grade seröse Ovarialkarzinom (HGSC) ist eine Art von Tumor, der aus der serösen Epithelschicht in der Bauchhöhle entsteht und hauptsächlich in den Eierstöcken vorkommt. HGSCs machen die Mehrheit der Eierstockkrebsfälle aus[1] und haben die niedrigsten Überlebensraten. HGSC unterscheidet sich vom niedriggradigen serösen Karzinom (LGSC), das aus Eierstockgewebe entsteht und weniger aggressiv ist.</Text>
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_OVAC1_1F</LocID>                         
-		<Text>Niedriggradiges seröses Karzinom</Text>	
+		<Text>Low-Grade Seriöses Karzinom</Text>	
 		</GameDBLocalizedString>
 		
         <GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_OVAC1_1F_DESC</LocID>             
-		<Text>Niedriggradiger seröser Eierstockkrebs ist eine seltene Krankheit, die weniger als 10% der Fälle von Eierstockkrebs ausmacht. Niedriggradiges seröses Karzinom des Eierstocks (LGSC) ist weniger verbreitet und aggressiv als hochgradige Arten von Eierstockkrebs, widersteht jedoch vielen Arten von Chemotherapie.</Text>
+		<Text>Das Low-Grade seröse Ovarialkarzinom ist eine seltene Erkrankung, die weniger als 10 % der Fälle von Eierstockkrebs ausmacht. Niedriggradiges seröses Karzinom der Eierstöcke (LGSC) ist weniger häufig und aggressiv als hochgradige Arten von Eierstockkrebs, aber es widersteht vielen Arten von Chemotherapien.</Text>
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
@@ -553,7 +505,7 @@
 		
         <GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_OVAC1_2F_DESC</LocID>             
-		<Text>Metastasierter Eierstockkrebs ist ein Malignom im fortgeschrittenen Stadium, das sich von den Zellen in den Eierstöcken in entfernte Körperregionen ausgebreitet hat. Diese Art von Krebs breitet sich am wahrscheinlichsten auf die Leber, die Flüssigkeit um die Lunge, die Milz, den Darm, das Gehirn, die Haut oder die Lymphknoten außerhalb des Abdomens aus.</Text>
+		<Text>Metastasierter Eierstockkrebs ist ein bösartiger Tumor im fortgeschrittenen Stadium, der sich von den Zellen in den Eierstöcken in entfernte Bereiche des Körpers ausgebreitet hat. Diese Art von Krebs breitet sich am ehesten auf die Leber, die Flüssigkeit um die Lunge, die Milz, den Darm, das Gehirn, die Haut oder die Lymphknoten außerhalb des Bauches aus.</Text>
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
@@ -635,11 +587,7 @@
 		<LocID>DIA_ONCO_CRP_SC4_1_DESC</LocID>             
 		<Text>Das Merkelzellkarzinom ist eine seltene Form von Hautkrebs, der normalerweise als fleischfarbener oder bläulichroter Knoten auftritt, häufig im Gesicht, am Kopf oder am Hals. Das Merkelzellkarzinom wird auch als neuroendokrines Karzinom der Haut bezeichnet. Das Merkelzellkarzinom neigt dazu, schnell zu wachsen und sich frühzeitig zu metastasieren (zu verbreiten). Es breitet sich normalerweise zuerst auf nahegelegene Lymphknoten aus und kann sich dann auf Lymphknoten oder Haut in entfernten Teilen des Körpers, der Lunge, des Gehirns, der Knochen oder anderer Organe ausbreiten. Das Merkelzellkarzinom ist nach dem Melanom die zweithäufigste Todesursache bei Hautkrebs.</Text>
 		</GameDBLocalizedString>
-		
-		<!-- ### ### -->
-		<!-- ######################################## Content for V0.13.1a Added Below ######################################## -->
-		<!-- ### ### -->
-		
+
 		<GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_BLC09_0</LocID>                         
 		<Text>Mantelzell-Lymphom</Text>	
@@ -649,30 +597,311 @@
 		<LocID>DIA_ONCO_CRP_BLC09_0_DESC</LocID>             
 		<Text>Das Mantelzelllymphom ist eine relativ seltene Form des Lymphoms und macht etwa 5 bis 10% aller Non-Hodgkin-Lymphome aus. Es beeinflusst den äußeren Rand (Mantelzone) der B-Zellen im Lymphknotenfollikel. In 85% der Fälle tritt eine Abnormalität auf, wenn zwei Chromosomen (11 und 14) brechen und sich miteinander verbinden. Dies wird als "Translokation" bezeichnet und bewirkt, dass B-Zellen ein Protein namens Cyclin D1 überproduzieren. Cyclin D1 trägt in üblichen Mengen zur Förderung des normalen Zellwachstums bei, wobei überschüssige Mengen zu einem unkontrollierten Wachstum von Zellen in der Mantelzone führen, das zu MCL führen kann.</Text>
 		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC2_0</LocID>                         
+		<Text>Großzelliges Lungenkarzinom</Text>	
+		</GameDBLocalizedString>
 		
-		<!-- ### ### -->
-	<!-- ######################################## Content for V0.13.4.1 Added Below ######################################## -->
-	<!-- ### ### -->
-	
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC2_0_DESC</LocID>             
+		<Text>Das großzellige Lungenkarzinom ist eine Form des nicht-kleinzelligen Lungenkrebses. Nicht-kleinzelliger Lungenkrebs macht 80 Prozent der Lungenkrebserkrankungen aus, und davon sind etwa 10 Prozent großzellige Lungenkarzinome.﻿Im Gegensatz zu einigen Lungenkrebsarten, die häufiger mit Husten oder Lungeninfektionen einhergehen, umfassen frühe Symptome oft ein vages Gefühl von Kurzatmigkeit und Müdigkeit. Großzellige Karzinome werden auch als großzelliger Lungenkrebs bezeichnet. Sie sind nach dem Auftreten großer runder Zellen benannt, wenn sie unter dem Mikroskop untersucht werden, obwohl die Tumore selbst bei der Diagnose in der Regel ebenfalls groß sind. Großzellige Karzinome treten häufig in den äußeren Regionen der Lunge auf und neigen dazu, schnell zu wachsen und sich schneller auszubreiten als einige andere Formen von nicht-kleinzelligem Lungenkrebs.</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC3_0</LocID>                         
+		<Text>Lungenadenokarzinom (früh)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC3_0_DESC</LocID>             
+		<Text>Das Adenokarzinom der Lunge ist die häufigste Art von Lungenkrebs, und wie andere Formen von Lungenkrebs ist es durch unterschiedliche zelluläre und molekulare Merkmale gekennzeichnet. Es wird als einer von mehreren nicht-kleinzelligen Lungenkrebsarten (NSCLC) klassifiziert, um es von kleinzelligem Lungenkrebs zu unterscheiden, der ein anderes Verhalten und eine andere Prognose hat. Lungenkrebs verursacht in seinen frühesten Stadien normalerweise keine Anzeichen und Symptome. Anzeichen und Symptome von Lungenkrebs treten typischerweise erst auf, wenn die Krankheit fortgeschritten ist. \n\nBei früh erkanntem Krebs wird der Krebs normalerweise nur in dem Gewebe oder Organ gefunden, in dem er entstanden ist, und hat sich nicht auf nahe gelegene Lymphknoten oder andere Teile des Körpers ausgebreitet.</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC3_1</LocID>                         
+		<Text>Lungenadenokarzinom (fortgeschritten)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC3_1_DESC</LocID>             
+		<Text>Das Adenokarzinom der Lunge ist die häufigste Art von Lungenkrebs, und wie andere Formen von Lungenkrebs ist es durch unterschiedliche zelluläre und molekulare Merkmale gekennzeichnet. Es wird als einer von mehreren nicht-kleinzelligen Lungenkrebsarten (NSCLC) klassifiziert, um es von kleinzelligem Lungenkrebs zu unterscheiden, der ein anderes Verhalten und eine andere Prognose hat. Lungenkrebs verursacht in seinen frühesten Stadien normalerweise keine Anzeichen und Symptome. Anzeichen und Symptome von Lungenkrebs treten typischerweise erst auf, wenn die Krankheit fortgeschritten ist. \n\nBei fortgeschrittenem Krebs können Tumore jede Größe haben und sich sehr wahrscheinlich auf Lymphknoten auf der anderen Seite des Brustkorbs in der Nähe des Schlüsselbeins ausgebreitet haben oder andere Strukturen im Brustkorb wie das Herz oder die Speiseröhre befallen haben.</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC4_0</LocID>                         
+		<Text>Plattenepithelkarzinom der Lunge</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC4_0_DESC</LocID>             
+		<Text>Plattenepithelkarzinom der Lunge, auch Epidermoidkarzinom genannt, ist eine Art von nicht-kleinzelligem Lungenkrebs, der sich typischerweise in einem der Luftwege oder Bronchien der Lunge entwickelt. Es ist die zweithäufigste Art von nicht-kleinzelligem Lungenkrebs und macht etwa 30 Prozent aller Lungenkrebsfälle aus. Diese Art von Krebs wächst im Allgemeinen langsam, kann sich aber schließlich auf andere Bereiche des Körpers ausbreiten.</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC2_0</LocID>                         
+		<Text>Kolorektales Siegelringzellkarzinom</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC2_0_DESC</LocID>             
+		<Text>Das Siegelringzellkarzinom (SRCC) (selten) ist eine seltene Form des hochmalignen Adenokarzinoms, das Mucin produziert. Es handelt sich um eine epitheliale Malignität, die durch das histologische Erscheinungsbild von Siegelringzellen gekennzeichnet ist. Primäre SRCC-Tumoren werden am häufigsten in den Drüsenzellen des Magens gefunden (SRCC entsteht bei 90 Prozent der Patienten im Magen), seltener in Brust, Gallenblase, Harnblase und Bauchspeicheldrüse. SRCCs bilden sich normalerweise nicht in der Lunge. Unter Darmkrebs liegt die Prävalenz von SRCC bei weniger als einem Prozent.</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC3_0</LocID>                         
+		<Text>Muzinöses kolorektales Karzinom (gemischt)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC3_0_DESC</LocID>             
+		<Text>Das muzinöse kolorektale Karzinom ist ein distinkter Subtyp des kolorektalen Karzinoms (CRC), der durch das Vorhandensein von reichlich vorhandenem extrazellulärem Mucin gekennzeichnet ist, das mindestens 50 % des Tumorvolumens ausmacht. Muzinöses kolorektales Adenokarzinom wird bei 10–20 % der CRC-Patienten gefunden. Muzinöses Karzinom kann sich zusammen mit anderen Arten von Krebszellen bilden, wenn dies geschieht, wird der Krebs als gemischtes muzinöses Karzinom bezeichnet.</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC3_1</LocID>                         
+		<Text>Muzinöses kolorektales Karzinom (Prue)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC3_1_DESC</LocID>             
+		<Text>Das muzinöse kolorektale Karzinom ist ein distinkter Subtyp des kolorektalen Karzinoms (CRC), der durch das Vorhandensein von reichlich vorhandenem extrazellulärem Mucin gekennzeichnet ist, das mindestens 50 % des Tumorvolumens ausmacht. Muzinöses kolorektales Adenokarzinom wird bei 10–20 % der CRC-Patienten gefunden. Muzinöses Karzinom kann sich zusammen mit anderen Arten von Krebszellen bilden, aber wenn dies nicht der Fall ist, gilt der Krebs als „rein“.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_0</LocID>                         
+		<Text>Hepatozelluläres Karzinom (lokal)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_0_DESC</LocID>             
+		<Text>Das hepatozelluläre Karzinom (HCC) ist ein primärer bösartiger Tumor der Leber, der vorwiegend bei Patienten mit zugrunde liegender chronischer Lebererkrankung und Zirrhose auftritt. Bis zu 25 % der Patienten haben jedoch keine Zirrhose in der Vorgeschichte oder Risikofaktoren dafür. Symptome treten oft nicht in den frühen Stadien des Krebses auf.</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_1</LocID>                         
+		<Text>Hepatozelluläres Karzinom (regional)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_1_DESC</LocID>             
+		<Text>Das hepatozelluläre Karzinom (HCC) ist ein primärer bösartiger Tumor der Leber, der vorwiegend bei Patienten mit zugrunde liegender chronischer Lebererkrankung und Zirrhose auftritt. Bis zu 25 % der Patienten haben jedoch keine Zirrhose in der Vorgeschichte oder Risikofaktoren dafür. Symptome treten oft nicht in den frühen Stadien des Krebses auf. \n\nRegional, der Krebs hat sich von der Leber zu nahe gelegenen Lymphknoten ausgebreitet.</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_2</LocID>                         
+		<Text>Hepatozelluläres Karzinom (kritisch)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_2_DESC</LocID>             
+		<Text>Das hepatozelluläre Karzinom (HCC) ist ein primärer bösartiger Tumor der Leber, der vorwiegend bei Patienten mit zugrunde liegender chronischer Lebererkrankung und Zirrhose auftritt. Bis zu 25 % der Patienten haben jedoch keine Zirrhose in der Vorgeschichte oder Risikofaktoren dafür. \n\nIn einem kritischen Zustand ist die spontane Ruptur des hepatozellulären Karzinoms (HCC) eine potenziell lebensbedrohliche Komplikation. Die Diagnose kann schwierig sein, insbesondere wenn keine bekannte Leberzirrhose oder kein Tumor vorliegt.</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_3</LocID>                         
+		<Text>Metastasierter Leberkrebs</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_3_DESC</LocID>             
+		<Text>Eine Lebermetastase ist ein Krebstumor, der sich von einem Krebs, der an einer anderen Stelle im Körper begonnen hat, auf die Leber ausgebreitet hat. Es wird auch sekundärer Leberkrebs genannt. Primärer Leberkrebs entsteht in der Leber und betrifft am häufigsten Personen mit Risikofaktoren wie Hepatitis oder Zirrhose. Wenn es metastasiert, bedeutet dies, dass der Krebs in andere Teile des Körpers eingedrungen ist, z. B. in andere Organe, nahe gelegene Lymphknoten oder Knochen.</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC01_0_V2</LocID>                         
+		<Text>ALLE (Prä-B-Zelle)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC01_1_V2</LocID>                         
+		<Text>ALLE (B-Zelle)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC01_2_V2</LocID>                         
+		<Text>ALLE (T-Zelle)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC02_A_V2</LocID>                         
+		<Text>CLL (stabil)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC02_B_V2</LocID>                         
+		<Text>CLL (fortgeschritten)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC03_0_V2</LocID>                         
+		<Text>T-Zell-LGL-Leukämie</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC03_1_V2</LocID>                         
+		<Text>NK-Zell-LGL-Leukämie</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC03_2_V2</LocID>                         
+		<Text>T-Zell-Prolymphozytäre Leukämie</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC04_0_V2</LocID>                         
+		<Text>Akute myeloische Leukämie</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC05_A_V2</LocID>                         
+		<Text>CML (chronische Phase)</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC05_B_V2</LocID>                         
+		<Text>CML (beschleunigte Phase)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC05_C_V2</LocID>                         
+		<Text>CML (Blastphase)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC08_0_V2</LocID>                         
+		<Text>Follikuläres Lymphom</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC07_0_V2</LocID>                         
+		<Text>Diffuses großzelliges B-Zell (NOS) Lymphom</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BREC1_1_V2</LocID>                         
+		<Text>Invasives duktales Karzinom (IDC)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BREC1_1M_V2</LocID>                         
+		<Text>Invasives duktales Karzinom (IDC)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_MC001_1_V2</LocID>                         
+		<Text>Magen-Darm-NET (ES)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC3_4_V2</LocID>                         
+		<Text>Melanom (Stadium 4)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC4_1_V2</LocID>                         
+		<Text>Merkelzellkarzinom (metastasiert)</Text>	
+		</GameDBLocalizedString>
+		
 		<GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_ORA001_1</LocID>                         
-		<Text>Mukoepidermoidales Karzinom (Leicht)</Text>	
+		<Text>Mukoepidermoidkarzinom</Text>	
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_ORA001_1_DESC</LocID>                         
-		<Text>Mukoepidermoidale Karzinome sind die häufigste Art von Speicheldrüsenkrebs. Die meisten beginnen in den Parotis. Sie entwickeln sich seltener in den submandibulären Drüsen oder in kleinen Speicheldrüsen im Mund. Diese Krebsarten sind normalerweise weniger hochgradig und stellen eine relativ weniger ernsthafte Bedrohung dar. Die wichtigsten Determinanten des Überlebens sind die Histologie und das klinische Stadium. Zu den schlechten Prognosefaktoren gehören ein hochgradiges Stadium, lokal fortgeschrittene Erkrankung, fortgeschrittenes Alter, damit verbundene Schmerzen, regionale Lymphknotenmetastasen, Fernmetastasen und die Akkumulation von p53- oder c-erbB2-Onkoproteinen. Ein mukoepidermoidales Karzinom kann auch in anderen Organen wie Bronchien, Tränensack und Schilddrüse gefunden werden.</Text>	
+		<Text>Merkelzellkarzinom (metastasiert)</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA001_1</LocID>                         
+		<Text>Mukoepidermoidkarzinom (niedriggradig)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA001_1_DESC</LocID>                         
+		<Text>Mukoepidermoidkarzinome sind die häufigste Art von Speicheldrüsenkrebs. Die meisten beginnen in den Ohrspeicheldrüsen. Sie entwickeln sich seltener in den Glandula submandibularis oder in kleinen Speicheldrüsen im Mund. Diese Krebsarten sind in der Regel niedriggradig und stellen eine relativ weniger ernste Bedrohung dar. Die Hauptdeterminanten des Überlebens sind die Histologie und das klinische Stadium. Zu den ungünstigen Prognosefaktoren gehören hochgradige neurale Beteiligung, lokal fortgeschrittene Erkrankung, fortgeschrittenes Alter, damit verbundene Schmerzen, regionale Lymphknotenmetastasen, Fernmetastasen und Akkumulation von p53- oder c-erbB2-Onkoproteinen. Mukoepidermoidkarzinome können auch in anderen Organen wie Bronchien, Tränensack und Schilddrüse gefunden werden.</Text>	
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_ORA001_2</LocID>                         
-		<Text>Mukoepidermoidales Karzinom (Hochgradig)</Text>	
+		<Text>Mukoepidermoidkarzinom (High Grade)</Text>	
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
 		<LocID>DIA_ONCO_CRP_ORA001_2_DESC</LocID>                         
-		<Text>Mukoepidermoidale Karzinome sind die häufigste Art von Speicheldrüsenkrebs. Die meisten beginnen in den Parotis. Sie entwickeln sich seltener in den submandibulären Drüsen oder in kleinen Speicheldrüsen im Mund. Ungefähr 80% der Patienten mit Gesichtsnervlähmung haben zum Zeitpunkt der Diagnose eine Knotenmetastasierung. Diese Patienten haben eine viel niedrigere durchschnittliche Überlebensrate im Vergleich zu niedriggradigen Tumoren. Die wichtigsten Determinanten des Überlebens sind die Histologie und das klinische Stadium. Zu den schlechten Prognosefaktoren gehören ein hochgradiges Stadium, lokal fortgeschrittene Erkrankung, fortgeschrittenes Alter, damit verbundene Schmerzen, regionale Lymphknotenmetastasen, Fernmetastasen und die Akkumulation von p53- oder c-erbB2-Onkoproteinen. Ein mukoepidermoidales Karzinom kann auch in anderen Organen wie Bronchien, Tränensack und Schilddrüse gefunden werden.</Text>	
+		<Text>Mukoepidermoidkarzinome sind die häufigste Art von Speicheldrüsenkrebs. Die meisten beginnen in den Ohrspeicheldrüsen. Sie entwickeln sich seltener in den Glandula submandibularis oder in kleinen Speicheldrüsen im Mund. Etwa 80 % der Patienten mit Fazialisparese haben zum Zeitpunkt der Diagnose nodale Metastasen. Diese Patienten haben im Vergleich zu niedriggradigen Tumoren eine viel niedrigere durchschnittliche Überlebensrate. Die Hauptdeterminanten des Überlebens sind die Histologie und das klinische Stadium. Zu den ungünstigen Prognosefaktoren gehören hochgradige neurale Beteiligung, lokal fortgeschrittene Erkrankung, fortgeschrittenes Alter, damit verbundene Schmerzen, regionale Lymphknotenmetastasen, Fernmetastasen und Akkumulation von p53- oder c-erbB2-Onkoproteinen. Mukoepidermoidkarzinome können auch in anderen Organen wie Bronchien, Tränensack und Schilddrüse gefunden werden.</Text>	
 		</GameDBLocalizedString>
+		
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC1_0F</LocID>                         
+		<Text>Vaginale intraepitheliale Neoplasie (geringes Risiko)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC1_0F_DESC</LocID>                         
+		<Text>Vaginale intraepitheliale Neoplasie, auch bekannt als VAIN, ist eine Erkrankung, bei der Zellveränderungen in der Vagina auftreten. Es wird manchmal als Carcinoma in situ bezeichnet. VAIN ist kein Krebs, aber es besteht die Möglichkeit, dass es sich zu Krebs entwickelt, wenn es unbehandelt bleibt. VAIN verursacht selten Symptome und wird normalerweise erkannt, weil eine Frau als potenziell gefährdet gilt. Viele Fälle von niedriggradigem VAIN verschwinden von selbst, daher werden einige Ärzte sie genau beobachten, ohne mit der Behandlung zu beginnen.</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC1_1F</LocID>                         
+		<Text>Vaginale intraepitheliale Neoplasie (hohes Risiko)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC1_1F_DESC</LocID>                         
+		<Text>Vaginale intraepitheliale Neoplasie, auch bekannt als VAIN, ist eine Erkrankung, bei der Zellveränderungen in der Vagina auftreten. Es wird manchmal als Carcinoma in situ bezeichnet. VAIN ist kein Krebs, aber es besteht die Möglichkeit, dass es sich zu Krebs entwickelt, wenn es unbehandelt bleibt. VAIN verursacht selten Symptome und wird normalerweise erkannt, weil eine Frau als potenziell gefährdet gilt. High Risk VAIN verschwindet mit geringerer Wahrscheinlichkeit von selbst, daher kann sofort mit der Behandlung begonnen werden.</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_0F</LocID>                         
+		<Text>Vaginales Plattenepithelkarzinom (lokal)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_0F_DESC</LocID>                         
+		<Text>Vaginalkrebs ist ein seltener Krebs, der in der Vagina der Patientin auftritt – dem Muskelschlauch, der die Gebärmutter mit den äußeren Genitalien verbindet. Fast 9 von 10 Fällen von Vaginalkrebs sind Plattenepithelkarzinome. Diese Krebsarten beginnen in den Plattenepithelzellen, die die epitheliale Auskleidung der Vagina bilden. Sie sind am häufigsten im oberen Teil der Vagina in der Nähe des Gebärmutterhalses. Lokalisiert findet sich der Krebs nur in der Scheidenwand. </Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_1F</LocID>                         
+		<Text>Vaginales Plattenepithelkarzinom (regional)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_1F_DESC</LocID>                         
+		<Text>Vaginalkrebs ist ein seltener Krebs, der in der Vagina der Patientin auftritt – dem Muskelschlauch, der die Gebärmutter mit den äußeren Genitalien verbindet. Fast 9 von 10 Fällen von Vaginalkrebs sind Plattenepithelkarzinome. Diese Krebsarten beginnen in den Plattenepithelzellen, die die epitheliale Auskleidung der Vagina bilden. Sie sind am häufigsten im oberen Teil der Vagina in der Nähe des Gebärmutterhalses. Regional hat sich der Krebs durch die Scheidenwand auf das Gewebe um die Scheide herum ausgebreitet. Es kann sich auf die Beckenwand ausgebreitet haben oder nicht.</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_2F</LocID>                         
+		<Text>Metastasierter Vaginalkrebs</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_2F_DESC</LocID>                         
+		<Text>Vaginalkrebs ist ein seltener Krebs, der in der Vagina der Patientin auftritt – dem Muskelschlauch, der die Gebärmutter mit den äußeren Genitalien verbindet. Bei Metastasierung hat sich der Krebs auf Teile des Körpers ausgebreitet, die sich nicht in der Nähe der Vagina befinden, wie Lunge, Leber oder Knochen.</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA002_1</LocID>                         
+		<Text>Speichelgangskarzinom</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA002_1F</LocID>                         
+		<Text>Speichelgangskarzinom</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA002_1_DESC</LocID>                         
+		<Text>Das Speichelgangskarzinom (SDC) ist ein aggressiver primärer Speicheltumor, der mikroskopisch einem hochgradigen duktalen Karzinom der Brust ähnelt, sowohl mit in situ als auch mit invasivem Muster. Es wird typischerweise bei älteren Männern gefunden, am häufigsten in der Ohrspeicheldrüse.</Text>	
+		</GameDBLocalizedString>
+		
 	</LocalizedStrings>
 	</GameDBStringTable>
 </Database>

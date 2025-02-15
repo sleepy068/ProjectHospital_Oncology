@@ -1,0 +1,226 @@
+<Database>
+<!-- Oncology Mod od Sleepy068 -->
+<GameDBStringTable ID="LOC_CZ_ADDON_ONCOLOGYSL_TREATMENTSSURGERY">
+<LanguageCode>cz</LanguageCode>
+<LanguageNameLocalized>Czech</LanguageNameLocalized>
+	<Contributors>
+<Name>josiffilip</Name>
+</Contributors>
+
+<LocalizedStrings>
+<GameDBLocalizedString>
+<LocID>SUR_SLP_WIDELOCALEXCISION</LocID>
+<Text>Wide Local Excision (WLE)</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_WIDELOCALEXCISION_DESC</LocID>
+<Text>Široká lokální excize (WLE) je chirurgický zákrok k odstranění malé oblasti nemocné nebo problematické tkáně s okrajem normální tkáně. Tento postup se běžně provádí na prsou a kožních lézích, ale lze jej použít na jakoukoli oblast těla. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_LAPAROSCOPIC_SURGERY</LocID>
+<Text>Laparoskopická chirurgie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_LAPAROSCOPIC_SURGERY_DESC</LocID>
+<Text>Laparoskopická nebo „minimálně invazivní“ chirurgie je specializovaná technika pro provádění operací. Je to nízkorizikový, minimálně invazivní postup, který vyžaduje pouze malé řezy. Laparoskopie používá nástroj zvaný laparoskop k pohledu na břišní orgány. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_LOBECTOMY_SURGERY</LocID>
+<Text>Plicní lobektomie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_LOBECTOMY_SURGERY_DESC</LocID>
+<Text>Plicní lobektomie plic je chirurgický zákrok, při kterém je odstraněn plicní lalok. Provádí se k odstranění části nemocných plic, jako je rakovina plic v raném stádiu. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_ENDOVASCULAR_EMBOLISATION</LocID>
+<Text>Endovaskulární embolizace</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>
+<Text>Endovaskulární embolizace (EE) je invazivní chirurgický zákrok. Používá se k léčbě abnormálních krevních cév, které se nacházejí ve vašem mozku, stejně jako v jiných oblastech vašeho těla. Tento postup je alternativou k otevřené operaci. Blokuje krevní cévy, aby přerušil průtok krve do postižené oblasti. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_ONCO_NERVE_DECOM_SURGERY</LocID>
+<Text>Nervová rekonstrukční chirurgie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_ONCO_NERVE_DECOM_SURGERY_DESC</LocID>
+<Text>Nervová rekonstrukční chirurgie neboli chirurgická oprava nervu zahrnuje průzkum poraněného nervu a odstranění poraněné tkáně nebo jizvy z nervových zakončení. Poté může být nerv přímo znovu připojen, pokud je na koncích dostatečně dlouhá, aby umožnila kvalitní opravu bez napětí. \n\nPožadovaný pokoj: Operační sál na neurologickém oddělení</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_POLYPECTOMY</LocID>
+<Text>Polypektomie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_POLYPECTOMY_DESC</LocID>
+<Text>Polypektomie je postup používaný k odstranění polypů z vnitřku tlustého střeva, nazývaného také tlusté střevo. Polyp je abnormální shluk tkáně. Postup je relativně neinvazivní. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_PARTIAL_COLECTOMY</LocID>
+<Text>Kolektomie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_PARTIAL_COLECTOMY_DESC</LocID>
+<Text>Kolektomie je resekce tlustého střeva. Spočívá v chirurgickém odstranění jakéhokoli rozsahu tlustého střeva, obvykle segmentální resekci. V extrémních případech, kdy je odstraněno celé tlusté střevo. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_ADRENALECTOMY</LocID>
+<Text>Adrenalektomie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_ADRENALECTOMY_DESC</LocID>
+<Text>Adrenalektomie je chirurgické odstranění jedné nebo obou nadledvinek. Obvykle se doporučuje u pacientů s nádory nadledvin. Zákrok lze provést pomocí otevřené incize nebo laparoskopické techniky. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_SPLENECTOMY</LocID>
+<Text>Splenektomie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_SPLENECTOMY_DESC</LocID>
+<Text>Splenektomie je chirurgický zákrok k odstranění sleziny. Slezina je orgán, který sedí pod vaším hrudním košem na levé horní straně břicha. Pomáhá bojovat s infekcí a filtruje z krve nepotřebný materiál, jako jsou staré nebo poškozené krvinky. Nejčastějším důvodem pro splenektomii je léčba prasklé sleziny, která je často způsobena poraněním břicha. Splenektomie může být použita k léčbě jiných stavů, včetně zvětšené sleziny, která způsobuje nepohodlí (splenomegalie), některých krevních poruch, určitých druhů rakoviny, infekcí a nerakovinných cyst nebo nádorů. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_SEG_MASTECTOMY</LocID>
+<Text>Parciální mastektomie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_SEG_MASTECTOMY_DESC</LocID>
+<Text>Operace k odstranění rakoviny a nějaké normální tkáně kolem ní, ale ne samotného prsu. Některé lymfatické uzliny pod paží mohou být odstraněny pro biopsii. Část obložení hrudní stěny může být také odstraněna, pokud je rakovina blízko ní. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_DEBULKING</LocID>
+<Text>Chirurgické odstranění objemu</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_DEBULKING_DESC</LocID>
+<Text>Chirurgický debulking nádorů je postup, při kterém je bez kurativního záměru částečně odstraněn chirurgicky neléčitelný zhoubný novotvar, aby se zefektivnila následná terapie léky, ozařováním nebo jinými doplňkovými opatřeními a tím se prodloužila délka přežití. Lékař si bude muset s pacientem rezervovat schůzky s následnou léčbou, aby se pokusil dostat rakovinu do remise. \n\nPožadovaný pokoj: Operační sál na neurologickém oddělení</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_GTR</LocID>
+<Text>Gross-Total Resection Craniotomy</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_GTR_DESC</LocID>
+<Text>Hrubá totální resekce je kompletní odstranění viditelné nádorové tkáně magnetickou rezonancí (MRI). Supratotální resekce se provádí jako totální totální resekce s excizí viditelných hranic nádorové tkáně na MRI do nepostižené mozkové tkáně. \n\nPožadovaný pokoj: Operační sál na neurologickém oddělení</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_UNI_SALOOPH</LocID>
+<Text>Jednostranná salpingo-ooforektomie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_UNI_SALOOPH_DESC</LocID>
+<Text>Jednostranná salpingo-ooforektomie je chirurgické odstranění jednoho vaječníku a jednoho vejcovodu, které jsou oba umístěny na stejné straně těla a sdílejí společné zásobení krví (naproti tomu oboustranný výkon zahrnuje odstranění obou vaječníky a vejcovody). Jednostranná salpingo-ooforektomie by měla být považována za první volbu léčby šetřící plodnost u žen, které si přejí zachovat plodnost. Přestože je zjištěno vyšší riziko lokálních relapsů, není spojeno se sníženým celkovým přežitím. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_RAD_PROS</LocID>
+<Text>Radikální prostatektomie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_RAD_PROS_DESC</LocID>
+<Text>Radikální prostatektomie je operace k odstranění prostaty a tkání, které ji obklopují. To obvykle zahrnuje semenné váčky a některé blízké lymfatické uzliny. Radikální prostatektomie může vyléčit rakovinu prostaty u mužů, jejichž rakovina je omezena na prostatu. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_PARATHY</LocID>
+<Text>Parathyroidektomie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_PARATHY_DESC</LocID>
+<Text>Parathyroidektomie je operace k odstranění příštítných tělísek nebo nádorů příštítných tělísek. Příštítná tělíska jsou hned za štítnou žlázou na krku. Tyto žlázy pomáhají vašemu tělu kontrolovat hladinu vápníku v krvi. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_SEGMENTEKTOMY</LocID>
+<Text>Segmentektomie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_SEGMENTECTOMY_DESC</LocID>
+<Text>Segmentální resekce je chirurgický zákrok k odstranění části orgánu nebo žlázy jako podtyp resekce, který může zahrnovat odstranění celé části těla. Může být také použit k odstranění nádoru a normální tkáně kolem něj. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_HEPATECTOMY</LocID>
+<Text>Hepatektomie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_HEPATECTOMY_DESC</LocID>
+<Text>Hepatektomie je chirurgická resekce (odstranění celého nebo části) jater. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_LIVER_TRANSPL</LocID>
+<Text>Chirurgie po transplantaci jater</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_LIVER_TRANSPL_DESC</LocID>
+<Text>Transplantace jater je chirurgický zákrok, při kterém se odeberou játra, která již správně nefungují (jaterní selhání), a nahradí se zdravými játry od zemřelého dárce nebo částí zdravých jater od žijícího dárce. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_PAROTIDECTOMY</LocID>
+<Text>Parotidektomie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_PAROTIDECTOMY_DESC</LocID>
+<Text>Parotidektomie je chirurgická excize příušní žlázy, hlavní a největší ze slinných žláz. Tento postup se nejčastěji provádí kvůli novotvarům, což jsou růsty rychle a abnormálně se dělících buněk. Novotvary mohou být benigní nebo maligní. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<!-- ### ### -->
+<!-- ####################################### Obsah pro V0.15.0. 0 Přidáno níže ######################################## -->
+<!-- ### ### -->
+<GameDBLocalizedString>
+<LocID>SUR_SLP_VAGINEKTOMIE</LocID>
+<Text>Vaginektomie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_VAGINECTOMY_DESC</LocID>
+<Text>Vaginektomie je chirurgický zákrok k odstranění celé pochvy nebo její části. Obvykle se používá jako léčba rakoviny pochvy. Pokud mají děloha a vaječníky zůstat neporušené, vaginektomie zanechá kanál a otvor vhodný pro odtok menstruačního výtoku. V opačném případě musí být provedena hysterektomie, aby se zabránilo nebezpečí zadržení menstruačního výtoku v těle. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+<GameDBLocalizedString>
+<LocID>SUR_SLP_BRACHYTHERAPY</LocID>
+<Text>Brachyterapie</Text>
+</GameDBLocalizedString>
+
+<GameDBLocalizedString>
+<LocID>SUR_SLP_BRACHYTHERAPY_DESC</LocID>
+<Text>Brachyterapie je postup, který zahrnuje umístění radioaktivního materiálu do těla pacienta. Brachyterapie je jeden typ radiační terapie, která se používá k léčbě rakoviny. Brachyterapie se někdy nazývá vnitřní záření. Brachyterapie umožňuje lékařům dodávat vyšší dávky záření do specifičtějších oblastí těla ve srovnání s konvenční formou radiační terapie (záření z vnějšího paprsku), která promítá záření ze stroje mimo vaše tělo. Brachyterapie může způsobit méně vedlejších účinků než ozáření zevním paprskem a celková doba léčby je obvykle kratší. \n\nPožadovaný pokoj: Operační sál na onkologickém odd.</Text>
+</GameDBLocalizedString>
+ 
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

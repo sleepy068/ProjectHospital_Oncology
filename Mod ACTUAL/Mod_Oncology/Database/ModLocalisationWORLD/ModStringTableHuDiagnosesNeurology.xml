@@ -1,0 +1,44 @@
+<Database>
+  <!-- Oncology Mod by Sleepy068 -->
+  <GameDBStringTable ID="LOC_HU_ADDON_ONCOLOGYSL_DIAGNOSES_NEURO">
+    <LanguageCode>hu</LanguageCode>
+    <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+    <Contributors>
+      <Name>Ratox</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BRAC1_0_V2</LocID>
+        <Text>Pilocytás asztrocitóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BRAC1_0_DESC</LocID>
+        <Text>Az I. fokozatú asztrocitómákat pilocytás asztrocitómának is nevezik.  Ezek a daganatok gyermekeknél és fiatal felnőtteknél fordulnak elő.  Kevésbé invazívak, mint más fokozatok, és viszonylag jó a prognózisuk.  Általában a kisagyban, az agytörzs közelében, a hipotalamuszban vagy a látóidegben fordulnak elő, de előfordulhatnak minden olyan területen, ahol asztrociták vannak jelen, beleértve az agyféltekéket és a gerincvelőt is.  Ezek a daganatok általában lassan növekvőek és jóindulatúak.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BRAC1_1_V2</LocID>
+        <Text>Diffúz asztrocitóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BRAC1_1_DESC</LocID>
+        <Text>A diffúz asztrocitómákat, amelyeket alacsony fokú infiltratív asztrocitómáknak is neveznek, WHO II-es agydaganatoknak nevezik.  A diffúz infiltráció kifejezés azt jelenti, hogy nincs azonosítható határ a daganat és a normál agyszövet között, még akkor is, ha a határok a képalkotás során jól körülhatárolhatónak tűnhetnek.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BRAC1_2_V2</LocID>
+        <Text>Anaplasztikus asztrocitóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BRAC1_2_DESC</LocID>
+        <Text>Az anaplasztikus asztrocitóma egy ritka rosszindulatú agydaganat.  Az asztrocitómák olyan daganatok, amelyek bizonyos csillag alakú agysejtekből, úgynevezett asztrocitákból fejlődnek ki.  Az asztrociták és hasonló sejtek olyan szövetet alkotnak, amely körülveszi és védi az agyban és a gerincvelőben található egyéb idegsejteket.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BRAC1_3_V2</LocID>
+        <Text>Glioblasztóma</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>DIA_ONCO_CRP_BRAC1_3_DESC</LocID>
+        <Text>A glioblasztóma, más néven glioblastoma multiforme (GBM), a legagresszívebb rák, amely az agyban kezdődik.  Kezdetben a glioblasztóma jelei és tünetei nem specifikusak.  Ezek lehetnek fejfájás, személyiségváltozások, hányinger és a stroke tüneteihez hasonló tünetek.</Text>
+      </GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>

@@ -1,0 +1,426 @@
+<Database>
+	<!-- Community Resource Pack -->
+    <GameDBStringTable ID="LOC_DE_ADDON_CRP_SLEEPY_EXAMINATIONS">
+
+        <LanguageCode>de</LanguageCode>
+        <LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>TheDibbuK</Name>
+        </Contributors>
+
+<LocalizedStrings>
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_CCBT</LocID>
+        <Text>Catecholamine Blutentnahme</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_CCBT_DESC</LocID>
+        <Text>Catecholamine-Bluttests messen die Menge der Katecholamine in Ihrem Körper. "Katecholamine" ist ein Sammelbegriff für die Hormone Dopamin, Noradrenalin und Adrenalin.\n\nErforderliches Labor: Hämatologie</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_CCBT_TEST</LocID>
+        <Text>Catecholamine-Bluttest</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_CCBT_TEST_DESC</LocID>
+        <Text>Catecholamine-Bluttests messen die Menge der Katecholamine in Ihrem Körper. "Katecholamine" ist ein Sammelbegriff für die Hormone Dopamin, Noradrenalin und Adrenalin.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_CA</LocID>
+        <Text>CA Blutentnahme</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_CA_DESC</LocID>
+        <Text>Der Krebsantigen (CA)-Test ist ein Bluttest, der zur Diagnose und Behandlung bestimmter Krebsarten verwendet wird. Tumormarker sind Substanzen, meist Proteine, die vom Körper als Reaktion auf das Wachstum von Krebs oder durch das Krebstumorgewebe selbst produziert werden. Einige Tumormarker sind spezifisch für einen bestimmten Krebstyp, während andere bei mehreren Krebstypen vorkommen. Viele der bekannten Marker treten sowohl bei nicht-krebsartigen Bedingungen als auch bei Krebs auf. Daher können sie nicht zur Diagnose von Krebs verwendet werden.\n\nErforderliches Labor: Hämatologie</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_CA_TEST</LocID>
+        <Text>CA Bluttest</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_CA_TEST_DESC</LocID>
+        <Text>Der Krebsantigen (CA)-Test ist ein Bluttest, der zur Diagnose und Behandlung bestimmter Krebsarten verwendet wird. Tumormarker sind Substanzen, meist Proteine, die vom Körper als Reaktion auf das Wachstum von Krebs oder durch das Krebstumorgewebe selbst produziert werden. Einige Tumormarker sind spezifisch für einen bestimmten Krebstyp, während andere bei mehreren Krebstypen vorkommen. Viele der bekannten Marker treten sowohl bei nicht-krebsartigen Bedingungen als auch bei Krebs auf. Daher können sie nicht zur Diagnose von Krebs verwendet werden.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_COLONOSCOPY</LocID>
+        <Text>Koloskopie</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_COLONOSCOPY_DESC</LocID>
+        <Text>Die Koloskopie ist ein medizinisches Verfahren, das durchgeführt wird, um nach Krebs, Polypen oder anderen Anomalien im Darm zu suchen. Die Koloskopie wird mit einem Instrument namens Koloskop durchgeführt - ein langer, dünner, flexibler Schlauch mit einer Kamera und einer Lampe.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_UAS</LocID>
+        <Text>Harnantigen-Screen-Abnahme</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_UAS_DESC</LocID>
+        <Text>Urintest zur Überprüfung der Menge an krebsbasierten Antigenen im Urin. Durch Nutzung der Konzentration von aus verschiedenen Pathogenen in den Nieren ausgeschiedenen Antigenen für die Ausscheidung im Urin können Urinantigentests verwendet werden, um schnelle Testergebnisse zu erhalten.\n\nErforderliches Labor: Histologie</Text>
+    </GameDBLocalizedString>
+			
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_UAS_TEST</LocID>
+        <Text>Urintest auf Antigene im Urin</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_UAS_TEST_DESC</LocID>
+        <Text>Urintest zur Überprüfung der Menge an krebsbasierten Antigenen im Urin. Durch Nutzung der Konzentration von aus verschiedenen Pathogenen in den Nieren ausgeschiedenen Antigenen für die Ausscheidung im Urin können Urinantigentests verwendet werden, um schnelle Testergebnisse zu erhalten.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_BONEBIOPSY_SAMPLE</LocID>
+        <Text>Knochenmarkbiopsieprobe</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_BONEBIOPSY_SAMPLE_DESC</LocID>
+        <Text>Bei einer Knochenmarkbiopsie wird eine zylindrische Kernprobe gesammelt, die die Struktur des Knochenmarks erhält. Die Biopsieprobe wird von einem Spezialisten ausgewertet, um die Zellularität zu bestimmen. Das Volumen der Zellen wird mit dem Volumen anderer Bestandteile des Knochenmarks verglichen, ob die verschiedenen Zelllinien in ausreichender Anzahl vorhanden sind und ob es irgendwelche abnormen Infiltrate im Knochenmark gibt.\n\nErforderliches Labor: Histologie</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_BONEBIOPSY_TEST</LocID>
+        <Text>Knochenmarkbiopsietest</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_BONEBIOPSY_TEST_DESC</LocID>
+        <Text>Bei einer Knochenmarkbiopsie wird eine zylindrische Kernprobe gesammelt, die die Struktur des Knochenmarks erhält. Die Biopsieprobe wird von einem Spezialisten ausgewertet, um die Zellularität zu bestimmen. Das Volumen der Zellen wird mit dem Volumen anderer Bestandteile des Knochenmarks verglichen, ob die verschiedenen Zelllinien in ausreichender Anzahl vorhanden sind und ob es irgendwelche abnormen Infiltrate im Knochenmark gibt.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_FLOWCYT</LocID>
+        <Text>Flowzytometrieprobe</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_FLOWCYT_DESC</LocID>
+        <Text>Die Flowzytometrie ist eine Technik, die verwendet wird, um physikalische und chemische Eigenschaften einer Population von Zellen oder Partikeln zu erfassen und zu messen. Eine Probe, die Zellen oder Partikel enthält, wird in einer Flüssigkeit suspendiert und in das Flowzytometerinstrument injiziert.\n\nErforderliches Labor: Histologie</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_FLOWCYT_TEST</LocID>
+        <Text>Flowzytometrietest</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_FLOWCYT_TEST_DESC</LocID>
+        <Text>Die Flowzytometrie ist eine Technik, die verwendet wird, um physikalische und chemische Eigenschaften einer Population von Zellen oder Partikeln zu erfassen und zu messen. Eine Probe, die Zellen oder Partikel enthält, wird in einer Flüssigkeit suspendiert und in das Flowzytometerinstrument injiziert.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_CBC_SAMPLING</LocID>
+        <Text>(Onkologie) CBC-Entnahme</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE</LocID>
+        <Text>Blutausstrichprobe</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE_DESC</LocID>
+        <Text>Ein Blutfilm oder peripherer Blutausstrich ist eine dünne Schicht Blut, die auf einem Glasobjektträger verteilt und so gefärbt wird, dass die verschiedenen Blutzellen mikroskopisch untersucht werden können.\n\nErforderliches Labor: Histologie</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_BLOOD_SMEAR_TEST</LocID>
+        <Text>Blutausstrichtest</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_BLOOD_SMEAR_TEST_DESC</LocID>
+        <Text>Ein Blutfilm oder peripherer Blutausstrich ist eine dünne Schicht Blut, die auf einem Glasobjektträger verteilt und so gefärbt wird, dass die verschiedenen Blutzellen mikroskopisch untersucht werden können.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_LIVER_FT_SAMPLING</LocID>
+        <Text>Leberfunktionstestentnahme</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_LIVER_FT_SAMPLING_DESC</LocID>
+        <Text>Leberfunktionstests (auch LFTs genannt) sind Bluttests, die Informationen darüber liefern können, wie Ihre Leber funktioniert. Sie testen die Spiegel einer Reihe von Proteinen und Enzymen, die entweder von Leberzellen produziert oder in den Blutkreislauf freigesetzt werden, wenn Leberzellen geschädigt sind.\n\nErforderliches Labor: Hämatologie</Text>
+    </GameDBLocalizedString>
+			
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_LIVER_FT_TEST</LocID>
+        <Text>Leberfunktionstest</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_LIVER_FT_TEST_DESC</LocID>
+        <Text>Leberfunktionstests (auch LFTs genannt) sind Bluttests, die Informationen darüber liefern können, wie Ihre Leber funktioniert. Sie testen die Spiegel einer Reihe von Proteinen und Enzymen, die entweder von Leberzellen produziert oder in den Blutkreislauf freigesetzt werden, wenn Leberzellen geschädigt sind.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_FISH_SAMPLE</LocID>
+        <Text>F.I.S.H. Probenentnahme</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_FISH_SAMPLE_DESC</LocID>
+        <Text>Die Fluoreszenz-in-situ-Hybridisierung (FISH) ist eine molekularzytogenetische Technik, die fluoreszierende Sonden verwendet, die nur an solche Teile einer Nukleinsäuresequenz binden, die eine hohe Sequenzkomplementarität aufweisen. Sie wurde von biomedizinischen Forschern entwickelt, um das Vorhandensein oder Fehlen spezifischer DNA-Sequenzen auf Chromosomen nachzuweisen und zu lokalisieren. Die Fluoreszenzmikroskopie kann dazu verwendet werden, herauszufinden, wo die fluoreszierende Sonde an die Chromosomen gebunden ist. FISH wird häufig verwendet, um spezifische Merkmale in der DNA für die genetische Beratung, Medizin und Artidentifikation zu finden. FISH kann auch verwendet werden, um spezifische RNA-Ziele (mRNA, lncRNA und miRNA) in Zellen, zirkulierenden Tumorzellen und Gewebeproben nachzuweisen und zu lokalisieren.\n\nErforderliches Labor: Histologie</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_FISH_TEST</LocID>
+        <Text>F.I.S.H. Test</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_FISH_TEST_DESC</LocID>
+        <Text>Die Fluoreszenz-in-situ-Hybridisierung (FISH) ist eine molekularzytogenetische Technik, die fluoreszierende Sonden verwendet, die nur an solche Teile einer Nukleinsäuresequenz binden, die eine hohe Sequenzkomplementarität aufweisen. Sie wurde von biomedizinischen Forschern entwickelt, um das Vorhandensein oder Fehlen spezifischer DNA-Sequenzen auf Chromosomen nachzuweisen und zu lokalisieren. Die Fluoreszenzmikroskopie kann dazu verwendet werden, herauszufinden, wo die fluoreszierende Sonde an die Chromosomen gebunden ist. FISH wird häufig verwendet, um spezifische Merkmale in der DNA für die genetische Beratung, Medizin und Artidentifikation zu finden. FISH kann auch verwendet werden, um spezifische RNA-Ziele (mRNA, lncRNA und miRNA) in Zellen, zirkulierenden Tumorzellen und Gewebeproben nachzuweisen und zu lokalisieren.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_IV_STAINING_SAMPLE</LocID>
+        <Text>In-vitro-Färbeprobenentnahme</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_IV_STAINING_SAMPLE_DESC</LocID>
+        <Text>Färben ist eine Technik, die verwendet wird, um den Kontrast in Proben zu erhöhen, in der Regel auf mikroskopischer Ebene. Farbstoffe werden häufig in der Histologie (der Untersuchung von Gewebe unter dem Mikroskop) und in den medizinischen Bereichen der Histopathologie, Hämatologie und Zytopathologie verwendet, die sich auf die Untersuchung und Diagnose von Krankheiten auf mikroskopischer Ebene konzentrieren. Farbstoffe können verwendet werden, um biologische Gewebe zu definieren (z. B. Muskelgewebe oder Bindegewebe), Zellpopulationen zu klassifizieren (unterschiedliche Blutzellen) oder Organellen innerhalb einzelner Zellen.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_IV_STAINING_TEST</LocID>
+        <Text>In-vitro-Färbetest</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_IV_STAINING_TEST_DESC</LocID>
+        <Text>Färben ist eine Technik, die verwendet wird, um den Kontrast in Proben zu erhöhen, in der Regel auf mikroskopischer Ebene. Farbstoffe werden häufig in der Histologie (der Untersuchung von Gewebe unter dem Mikroskop) und in den medizinischen Bereichen der Histopathologie, Hämatologie und Zytopathologie verwendet, die sich auf die Untersuchung und Diagnose von Krankheiten auf mikroskopischer Ebene konzentrieren. Farbstoffe können verwendet werden, um biologische Gewebe zu definieren (z. B. Muskelgewebe oder Bindegewebe), Zellpopulationen zu klassifizieren (unterschiedliche Blutzellen) oder Organellen innerhalb einzelner Zellen.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_X_RAY_MAMMOGRAM</LocID>
+        <Text>Mammographie</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_X_RAY_MAMMOGRAM_DESC</LocID>
+        <Text>Ein Mammogramm ist eine Röntgenaufnahme des Brustgewebes, die Veränderungen finden kann, die bei einer körperlichen Untersuchung zu klein sind, um sie zu fühlen.\n\nErforderlicher Raum: Röntgen</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_FNA_SAMPLE</LocID>
+        <Text>Feinnadelaspirationsprobe</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_FNA_SAMPLE_DESC</LocID>
+        <Text>Die Feinnadelaspiration ist ein schnellerer, weniger schmerzhafter Biopsieprozess zur Entnahme von Gewebe-, Zell- oder Flüssigkeitsproben. Bei der Feinnadelaspiration wird eine dünne Nadel in einen Bereich mit abnormal aussehendem Gewebe oder Körperflüssigkeit eingeführt. Wie bei anderen Biopsiearten kann die während der Feinnadelaspiration gesammelte Probe dazu beitragen, eine Diagnose zu stellen oder Zustände wie Krebs auszuschließen.\n\nErforderliches Labor: Histologie</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_FNA_TEST</LocID>
+        <Text>Feinnadelaspirationstest</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_FNA_TEST_DESC</LocID>
+        <Text>Die Feinnadelaspiration ist ein schnellerer, weniger schmerzhafter Biopsieprozess zur Entnahme von Gewebe-, Zell- oder Flüssigkeitsproben. Bei der Feinnadelaspiration wird eine dünne Nadel in einen Bereich mit abnormal aussehendem Gewebe oder Körperflüssigkeit eingeführt. Wie bei anderen Biopsiearten kann die während der Feinnadelaspiration gesammelte Probe dazu beitragen, eine Diagnose zu stellen oder Zustände wie Krebs auszuschließen.</Text>
+    </GameDBLocalizedString>
+
+			
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_EMICRO_SAMPLE</LocID>
+        <Text>Elektronenmikroskopie Probe</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_EMICRO_SAMPLE_DESC</LocID>
+        <Text>Die diagnostische Elektronenmikroskopie wird als wichtiges diagnostisches Instrument eingesetzt, um menschliches Gewebe in hoher Vergrößerung (auf ultrastruktureller Ebene) zu untersuchen. Zu diagnostischen Zwecken werden feste Gewebe für die Transmissionselektronenmikroskopie (TEM) genauso vorbereitet wie andere biologische Gewebe. Sie werden in Glutaraldehyd und Osmiumtetroxid fixiert, dann dehydriert und in Epoxidharz eingebettet.\n\nErforderliches Labor: Histologie</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_EMICRO_TEST</LocID>
+        <Text>Elektronenmikroskopie Test</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_EMICRO_TEST_DESC</LocID>
+        <Text>Die diagnostische Elektronenmikroskopie wird als wichtiges diagnostisches Instrument eingesetzt, um menschliches Gewebe in hoher Vergrößerung (auf ultrastruktureller Ebene) zu untersuchen. Zu diagnostischen Zwecken werden feste Gewebe für die Transmissionselektronenmikroskopie (TEM) genauso vorbereitet wie andere biologische Gewebe. Sie werden in Glutaraldehyd und Osmiumtetroxid fixiert, dann dehydriert und in Epoxidharz eingebettet.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_PELVIC_EXAM</LocID>
+        <Text>Beckenuntersuchung</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_PELVIC_EXAM_DESC</LocID>
+        <Text>Bei einer Beckenuntersuchung handelt es sich um eine visuelle und körperliche Untersuchung der Fortpflanzungsorgane einer Frau. Während der Untersuchung inspiziert der Arzt die Vagina, den Gebärmutterhals, die Eileiter, die Vulva, die Eierstöcke und die Gebärmutter.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_DRE_EXAM</LocID>
+        <Text>Digitale rektale Untersuchung (DRE)</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_DRE_EXAM_DESC</LocID>
+        <Text>Die digitale rektale Untersuchung (DRE) ist ein Test sowohl für Männer als auch für Frauen. Sie ermöglicht einem Arzt, den unteren Enddarm, das Becken und den unteren Bauchraum auf Krebs und andere Gesundheitsprobleme wie Prostatakrebs zu überprüfen.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_MINERALT_SAMPLE</LocID>
+        <Text>Umfassende Mineralstoffpanel-Probenentnahme</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_MINERALT_SAMPLE_DESC</LocID>
+        <Text>Das umfassende Mineralstoffpanel umfasst die Untersuchung des Blutes auf fünf Mineralstoffe und wird verwendet, um Defizite oder Überbelichtungen (Toxizität) im gesamten Mineralstoffspektrum zu erkennen. Dieses Panel umfasst die Untersuchung der Spiegel der folgenden fünf Mineralstoffe: Calcium, Kupfer, Magnesium, Mangan und Zink.\n\nErforderliches Labor: Hämatologie</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_MINERALT_TEST</LocID>
+        <Text>Umfassende Mineralstoffpanel-Test</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_MINERALT_TEST_DESC</LocID>
+        <Text>Das umfassende Mineralstoffpanel umfasst die Untersuchung des Blutes auf fünf Mineralstoffe und wird verwendet, um Defizite oder Überbelichtungen (Toxizität) im gesamten Mineralstoffspektrum zu erkennen. Dieses Panel umfasst die Untersuchung der Spiegel der folgenden fünf Mineralstoffe: Calcium, Kupfer, Magnesium, Mangan und Zink.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE</LocID>
+        <Text>Lymphknotenbiopsie Probenentnahme</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE_DESC</LocID>
+        <Text>Die Lymphknotenbiopsie ist ein Test, bei dem ein Lymphknoten oder ein Stück eines Lymphknotens zur mikroskopischen Untersuchung entfernt wird. Eine Lymphknotenbiopsie kann helfen festzustellen, ob der Patient eine Infektion, eine Immunstörung oder Krebs hat.\n\nErforderliches Labor: Histologie</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_LYMPHBIOPSY_TEST</LocID>
+        <Text>Lymphknotenbiopsie Test</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_LYMPHBIOPSY_TEST_DESC</LocID>
+        <Text>Die Lymphknotenbiopsie ist ein Test, bei dem ein Lymphknoten oder ein Stück eines Lymphknotens zur mikroskopischen Untersuchung entfernt wird. Eine Lymphknotenbiopsie kann helfen festzustellen, ob der Patient eine Infektion, eine Immunstörung oder Krebs hat.</Text>
+    </GameDBLocalizedString>
+
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_COLONOSCOPY_BIOPSY_SAMPLE</LocID>
+        <Text>Kolonoskopie Biopsie Probenentnahme</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_COLONOSCOPY_BIOPSY_SAMPLE_DESC</LocID>
+        <Text>Die Kolonoskopie ist ein medizinisches Verfahren, das durchgeführt wird, um nach Krebs, Kolonpolypen oder anderen Abnormalitäten im Darm zu suchen. Die Kolonoskopie wird mit einem Instrument namens Kolonoskop (eine Art Endoskop) durchgeführt - ein langer, dünner, flexibler Schlauch mit einer Kamera und einem Licht. Während der Kolonoskopie führt der Arzt ein Instrument durch das Kolonoskop ein, um eine Biopsie (eine kleine Probe der Kolonschleimhaut) zu entnehmen, die weiter analysiert wird.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</LocID>
+        <Text>Kolonoskopie Biopsie Test</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_COLONOSCOPY_BIOPSY_TEST_DESC</LocID>
+        <Text>Die Kolonoskopie ist ein medizinisches Verfahren, das durchgeführt wird, um nach Krebs, Kolonpolypen oder anderen Abnormalitäten im Darm zu suchen. Die Kolonoskopie wird mit einem Instrument namens Kolonoskop (eine Art Endoskop) durchgeführt - ein langer, dünner, flexibler Schlauch mit einer Kamera und einem Licht. Während der Kolonoskopie führt der Arzt ein Instrument durch das Kolonoskop ein, um eine Biopsie (eine kleine Probe der Kolonschleimhaut) zu entnehmen, die weiter analysiert wird.</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_LIVER_BIOPSY_SAMPLE</LocID>
+        <Text>Leberbiopsie Probenentnahme</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_LIVER_BIOPSY_SAMPLE_DESC</LocID>
+        <Text>Bei einer Leberbiopsie wird eine kleine Nadel in die Leber eingeführt, um eine Gewebeprobe zu entnehmen. Das Gewebe wird dann im Labor analysiert, um Ärzten bei der Diagnose verschiedener Störungen und Krankheiten in der Leber zu helfen.\n\nErforderliches Labor: Histologie</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_LIVER_BIOPSY_TEST</LocID>
+        <Text>Leberbiopsie Test</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>
+        <LocID>EXM_CRP_LIVER_BIOPSY_TEST_DESC</LocID>
+        <Text>Bei einer Leberbiopsie wird eine kleine Nadel in die Leber eingeführt, um eine Gewebeprobe zu entnehmen. Das Gewebe wird dann im Labor analysiert, um Ärzten bei der Diagnose verschiedener Störungen und Krankheiten in der Leber zu helfen.</Text>
+    </GameDBLocalizedString>
+			
+			<!-- Community Resource Pack v0.0.9.1 Above (New Content Below) -->
+			
+			
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</LocID>                               
+			<Text>Ovarialbiopsieprobe</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE_DESC</LocID>                               
+			<Text>Derzeit gibt es keinen wirksamen Screening-Test für Eierstockkrebs. Wenn bei einer Patientin Eierstockkrebs vermutet wird, führt der Arzt verschiedene Tests durch, um Anomalien zu finden, die mit einer Biopsie weiterverfolgt werden müssen. Die einzige Möglichkeit, die Diagnose Eierstockkrebs zu bestätigen, besteht darin, eine Gewebeprobe (Biopsie) zu entnehmen und die Zellen unter einem Mikroskop zu betrachten. \n\nErforderliches Labor: Histologie</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_OVARIAN_BIOPSY_TEST</LocID>                               
+			<Text>Ovarialbiopsie-Test</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_OVARIAN_BIOPSY_TEST_DESC</LocID>                               
+			<Text>Histologie-Techniker arbeiten derzeit mit der vom Patienten bereitgestellten Probe. Sie sollten ihre Ergebnisse bald zurückgeben.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</LocID>                               
+			<Text>Vaginale Biopsieprobe</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE_DESC</LocID>                               
+			<Text>Bestimmte Anzeichen und Symptome können stark auf Vaginalkrebs hindeuten, aber viele von ihnen können durch andere Probleme verursacht werden. Der einzige Weg, um sicher zu sein, dass es Krebs ist, ist eine Biopsie. Bei diesem Verfahren wird ein kleines Stück Gewebe aus dem verdächtigen Bereich entfernt. Ein Techniker, der auf die Diagnose von Krankheiten mit Labortests spezialisiert ist (Histologielabortechniker), untersucht dann die Gewebeprobe unter einem Mikroskop, um festzustellen, ob Krebs oder eine Krebsvorstufe vorliegt und wenn ja, um welche Art es sich handelt. \n\nErforderliches Labor: Histologie</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_VAGINAL_BIOPSY_TEST</LocID>                               
+			<Text>Vaginaler Biopsie-Test</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_VAGINAL_BIOPSY_TEST_DESC</LocID>                               
+			<Text>Histologie-Techniker arbeiten derzeit mit der vom Patienten bereitgestellten Probe. Sie sollten ihre Ergebnisse bald zurückgeben.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</LocID>                               
+			<Text>Probe einer Speicheldrüsenbiopsie</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE_DESC</LocID>                               
+			<Text>Bei einer Speicheldrüsenbiopsie werden Zellen oder kleine Gewebestücke aus einer oder mehreren Speicheldrüsen entnommen, um sie im Labor untersuchen zu lassen. \n\nErforderliches Labor: Histologie</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+			<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</LocID>                               
+			<Text>Speicheldrüsenbiopsie-Test</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+			<LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST_DESC</LocID>                               
+			<Text>Histologie-Techniker arbeiten derzeit mit der vom Patienten bereitgestellten Probe. Sie sollten ihre Ergebnisse bald zurückgeben.</Text>  
+		</GameDBLocalizedString>
+		
+			
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

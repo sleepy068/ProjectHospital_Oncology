@@ -1,0 +1,204 @@
+<Database>
+  <!-- Oncology Mod by Sleepy068 -->
+  <GameDBStringTable ID="LOC_HU_ADDON_ONCOLOGYSL_TREATMENTSSURGERY">
+    <LanguageCode>hu</LanguageCode>
+    <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+    <Contributors>
+      <Name>Ratox</Name>
+    </Contributors>
+    <LocalizedStrings>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_WIDELOCALEXCISION</LocID>
+        <Text>Széles helyi kivágás (WLE)</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_WIDELOCALEXCISION_DESC</LocID>
+        <Text>A széles lokális kimetszés (WLE) olyan sebészeti beavatkozás, amelynek során a beteg vagy problémás szövetből egy kis területet távolítanak el, a normál szövet szélével.  Ezt az eljárást általában a mellen és a bőrelváltozásokon végzik, de a test bármely területén alkalmazható.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_LAPAROSCOPIC_SURGERY</LocID>
+        <Text>Laparoszkópos sebészet</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_LAPAROSCOPIC_SURGERY_DESC</LocID>
+        <Text>A laparoszkópos vagy „minimálisan invazív” műtét egy speciális műtéti technika.  Ez egy alacsony kockázatú, minimálisan invazív eljárás, amely csak kis bemetszéseket igényel.  A laparoszkópia egy laparoszkóp nevű eszközt használ a hasi szervek vizsgálatára.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_LOBECTOMY_SURGERY</LocID>
+        <Text>Pulmonalis Lobectomia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_LOBECTOMY_SURGERY_DESC</LocID>
+        <Text>A tüdő tüdőlobectomiája egy sebészeti beavatkozás, amelynek során a tüdő lebenyét eltávolítják.  Ennek célja a beteg tüdő egy részének eltávolítása, például a korai stádiumú tüdőrák.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_ENDOVASCULAR_EMBOLISATION</LocID>
+        <Text>Endovaszkuláris embolizáció</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>
+        <Text>Az endovaszkuláris embolizáció (EE) egy invazív sebészeti eljárás.  Az agyában, valamint a test más területein található kóros erek kezelésére használják.  Ez az eljárás a nyitott műtét alternatívája.  Elzárja az ereket, hogy meggátolja a véráramlást az érintett területen.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_ONCO_NERVE_DECOM_SURGERY</LocID>
+        <Text>Ideg helyreállító sebészet</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_ONCO_NERVE_DECOM_SURGERY_DESC</LocID>
+        <Text>Az idegrekonstrukciós műtét vagy a sebészeti idegjavítás magában foglalja a sérült ideg feltárását és a sérült szövet vagy heg eltávolítását az idegvégződésekből.  Ezt követően egy ideg közvetlenül újra csatlakoztatható, ha a végei elég hosszúak ahhoz, hogy jó minőségű javítást lehessen végezni feszültség nélkül.
+Szükséges helyiség: Műtő a Neurology dpt.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_POLYPECTOMY</LocID>
+        <Text>Polipectomia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_POLYPECTOMY_DESC</LocID>
+        <Text>A polipektómia egy olyan eljárás, amellyel a polipokat távolítják el a vastagbél belsejéből, amelyet vastagbélnek is neveznek.  A polip egy abnormális szövetgyűjtemény.  Az eljárás viszonylag nem invazív.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_PARTIAL_COLECTOMY</LocID>
+        <Text>Colectomia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_PARTIAL_COLECTOMY_DESC</LocID>
+        <Text>A kolektómia a vastagbél bélreszekciója.  A vastagbél tetszőleges kiterjedésének műtéti eltávolításából, általában szegmentális reszekcióból áll.  Extrém esetekben, amikor az egész vastagbelet eltávolítják.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_ADRENALECTOMY</LocID>
+        <Text>Mellékvese eltávolítása</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_ADRENALECTOMY_DESC</LocID>
+        <Text>A mellékvese eltávolítása az egyik vagy mindkét mellékvese műtéti eltávolítása.  Általában mellékvese daganatos betegeknek ajánlják.  Az eljárás nyílt bemetszéssel vagy laparoszkópos technikával végezhető.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_SPLENECTOMY</LocID>
+        <Text>Splenectomia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_SPLENECTOMY_DESC</LocID>
+        <Text>A splenectomia egy sebészeti eljárás a lép eltávolítására.  A lép egy olyan szerv, amely a bordaív alatt, a has bal felső részén található.  Segít a fertőzések leküzdésében, és kiszűri a vérből a felesleges anyagokat, például a régi vagy sérült vérsejteket.  A splenectomia leggyakoribb oka a léprepedés kezelése, amelyet gyakran hasi sérülés okoz.  A lépeltávolítás más állapotok kezelésére is alkalmazható, beleértve a kellemetlen érzést okozó lépmegnagyobbodást (splenomegalia), bizonyos vérbetegségeket, bizonyos rákos megbetegedéseket, fertőzéseket és nem rákos cisztákat vagy daganatokat.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_SEG_MASTECTOMY</LocID>
+        <Text>Részleges mastectomia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_SEG_MASTECTOMY_DESC</LocID>
+        <Text>Műtét a rák és néhány normális szövet eltávolítására a körülötte, de magát a mellet nem.  A kar alatti nyirokcsomók egy része biopszia céljából eltávolítható.  A mellkasfal egy része is eltávolítható, ha a rák a közelében van.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_DEBULKING</LocID>
+        <Text>Sebészeti debulking</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_DEBULKING_DESC</LocID>
+        <Text>A daganatok sebészi eltávolítása olyan eljárás, amelynek során a műtétileg nem gyógyítható rosszindulatú daganatot részben eltávolítják gyógyító szándék nélkül, hogy a későbbi gyógyszeres, sugárkezelési vagy egyéb kiegészítő intézkedésekkel hatékonyabb legyen, és ezáltal a túlélés hosszát meghosszabbítsák.  Az orvosnak utókezelési időpontokat kell egyeztetnie a pácienssel, hogy megpróbálja a rákot remisszióba juttatni.
+Szükséges helyiség: Műtő a Neurology dpt.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_GTR</LocID>
+        <Text>Bruttó-teljes reszekciós koponyatómia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_GTR_DESC</LocID>
+        <Text>A bruttó teljes reszekció a mágneses rezonancia képalkotás (MRI) látható daganatszövet teljes eltávolítása.  A szupratotális reszekciót bruttó teljes reszekcióként hajtják végre, az MRI látható daganatszövet határainak kimetszésével az érintetlen agyszövetbe.
+Szükséges helyiség: Műtő a Neurology dpt.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_UNI_SALOOPH</LocID>
+        <Text>Egyoldali Salpingo-Oophorectomia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_UNI_SALOOPH_DESC</LocID>
+        <Text>Az egyoldalú salpingo-oophorectomia egy petefészek és egy petevezeték műtéti eltávolítása, mindkettő a test ugyanazon oldalán található, és közös vérellátást biztosítanak (ellentétben a kétoldalú eljárás magában foglalja a petefészkek és a petevezetékek eltávolítását is)  csövek).  Az egyoldalú salpingo-oophorectomiát a termékenységet megkímélő kezelés első számú választásának kell tekinteni azon nők számára, akik meg akarják őrizni a termékenységet.  Bár a lokális relapszusok nagyobb kockázata tapasztalható, ez nem jár együtt a teljes túlélés csökkenésével.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_RAD_PROS</LocID>
+        <Text>Radikális prosztatektómia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_RAD_PROS_DESC</LocID>
+        <Text>A radikális prosztatektómia a prosztata és a körülötte lévő szövetek eltávolítása.  Ez általában magában foglalja az ondóhólyagokat és néhány közeli nyirokcsomót.  A radikális prosztatektómia gyógyíthatja a prosztatarákot olyan férfiaknál, akiknél a rák a prosztatára korlátozódik.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_PARATHY</LocID>
+        <Text>Parathyroidectomia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_PARATHY_DESC</LocID>
+        <Text>A mellékpajzsmirigy-eltávolítás műtét a mellékpajzsmirigyek vagy a mellékpajzsmirigy daganatok eltávolítására.  A mellékpajzsmirigy közvetlenül a pajzsmirigy mögött található a nyakában.  Ezek a mirigyek segítenek a szervezetnek szabályozni a vér kalciumszintjét.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_SEGMENTECTOMY</LocID>
+        <Text>Segmentectomia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_SEGMENTECTOMY_DESC</LocID>
+        <Text>A szegmentális reszekció egy szerv vagy mirigy egy részének eltávolítására szolgáló sebészeti eljárás a reszekció egyik altípusaként, amely magában foglalhatja a teljes testrész eltávolítását.  Használható daganat és a körülötte lévő normál szövet eltávolítására is.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_HEPATECTOMY</LocID>
+        <Text>Hepatektómia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_HEPATECTOMY_DESC</LocID>
+        <Text>A hepatektómia a máj sebészi eltávolítása (a máj egészének vagy egy részének eltávolítása).
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_LIVER_TRANSPL</LocID>
+        <Text>Májtranszplantációs műtét</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_LIVER_TRANSPL_DESC</LocID>
+        <Text>A májátültetés egy olyan sebészeti eljárás, amely eltávolítja a már nem megfelelően működő májat (májelégtelenség), és helyette egy elhunyt donortól származó egészséges májat vagy egy élő donortól származó egészséges májat helyeznek el.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_PAROTIDECTOMY</LocID>
+        <Text>Parotidectomia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_PAROTIDECTOMY_DESC</LocID>
+        <Text>A parotidectomia a fültőmirigy, a fő és legnagyobb nyálmirigy sebészeti kimetszése.  Az eljárást legjellemzőbb daganatok miatt végzik, amelyek gyorsan és abnormálisan osztódó sejtek növekedése.  A neoplazmák jóindulatúak vagy rosszindulatúak lehetnek.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <!-- ### ### -->
+      <!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+      <!-- ### ### -->
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_VAGINECTOMY</LocID>
+        <Text>Vaginectomia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_VAGINECTOMY_DESC</LocID>
+        <Text>A vaginectomia egy műtét a hüvely egészének vagy egy részének eltávolítására.  Általában hüvelyrák kezelésére használják.  Ha a méh és a petefészkek sértetlenek maradnak, a vaginectomia során a menstruációs váladék elvezetésére alkalmas csatorna és nyílás marad.  Ellenkező esetben méheltávolítást kell végezni, hogy elkerüljük a menstruációs váladék visszamaradásának veszélyét a szervezetben.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_BRACHYTHERAPY</LocID>
+        <Text>Brachyterápia</Text>
+      </GameDBLocalizedString>
+      <GameDBLocalizedString>
+        <LocID>SUR_SLP_BRACHYTHERAPY_DESC</LocID>
+        <Text>A brachyterápia egy olyan eljárás, amelynek során radioaktív anyagot helyeznek a páciens testébe.  A brachyterápia a sugárterápia egyik típusa, amelyet a rák kezelésére alkalmaznak.  A brachyterápiát néha belső sugárzásnak is nevezik.  A brachyterápia lehetővé teszi az orvosok számára, hogy nagyobb dózisú sugárzást juttatjanak a test specifikusabb területeire, összehasonlítva a hagyományos sugárterápia formájával (külső sugársugárzás), amely a gép sugárzását a testén kívülre vetíti.  A brachyterápia kevesebb mellékhatást okozhat, mint a külső sugársugárzás, és a teljes kezelési idő általában rövidebb.
+Szükséges helyiség: Műtő az Onkológiai dpt.-n.</Text>
+      </GameDBLocalizedString>
+    </LocalizedStrings>
+  </GameDBStringTable>
+</Database>
