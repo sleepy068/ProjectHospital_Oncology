@@ -512,6 +512,10 @@
 	<!-- ### ### -->
 	<!-- ######################################## Content for V0.14.0.2 Added Below ######################################## -->
 	<!-- ### ### -->
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DEP_DESC</LocID>                        	
+	<Text>[FEP Combination Treatment]\n플루오로우라실과 시스플라틴, 에토포시드를 조합하여 치료하는 요법입니다. 이는 1차 항암화학요법에 반응하지 않거나 치료 후 재발한 위암 환자에게 구제요법으로 비교적 효과적입니다. \n\n필요한 방: 일반병동</Text>  
+	</GameDBLocalizedString>
 	
 	</LocalizedStrings>
 	</GameDBStringTable>

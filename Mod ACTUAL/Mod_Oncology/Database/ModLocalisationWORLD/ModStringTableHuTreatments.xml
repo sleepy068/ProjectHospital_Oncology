@@ -148,6 +148,11 @@
 	<Text>A vastagbél kimetszés a bél bármilyen mértékű, de általában szegmentális műtéti eltávolítását jelenti. Szélsőséges esetekben az egész vastagbél eltávolításra kerül.</Text>  
 	</GameDBLocalizedString>
 	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DEP_DESC</LocID>                        	
+	<Text>5-fluorouracil (5-FU), ciszplatin és etopozid (FEP) kombinált kezelés. A kemoterápia viszonylag gyenge gyógyító hatású bizonyos rákos megbetegedésekben, például a Signet Ring Cell Carcinoma (SRCC) és a betegek körében, és az általános túlélési arány alacsonyabb, mint a tipikusabb rákbetegségben szenvedőké. Ezeket a rákokat általában a betegség késői szakaszában diagnosztizálják, ezért a daganatok általában agresszívebben terjednek, mint a nem pecsétes daganatok, így a kezelés kihívást jelent, de a legtöbb aktív kezelés az 5-fluor-uracilt (5-FU), a ciszplatint és / vagy az etopozidot tartalmazza. A FEP kombinált kemoterápia hatékony gyógymódnak tűnik a gyomorrákban, mint megmentő kemoterápia. \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
 	</LocalizedStrings>
 	</GameDBStringTable>
 </Database>

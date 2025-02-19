@@ -1,0 +1,32 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_ONCOLOGYSL_TREATMENTSSURGERY">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>1328411791</Name>
+	<Name>Frost</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<!-- ======================================== -->
+	<!-- ============= Core Content ============= -->
+	<!-- ======================================== -->
+	
+	
+	<!-- ============================================== -->
+	<!-- ============= CRP Export Content ============= -->
+	<!-- ============================================== -->
+	<GameDBLocalizedString>
+        <LocID>TRT_CRP_DEP_DESC</LocID>
+        <Text>5-氟尿嘧啶，顺铂和依托泊苷(FEP)联合治疗。 与典型的癌症相比，化疗对诸如印戒细胞癌等疗效较差且生存率较低。这类癌症往往在晚期才被诊断出来，通常扩散更为严重。但FEP联合化疗以其活跃性成为挽救性化疗最为活跃的一种疗法。\n\n所需房间：肿瘤科普通病房</Text>
+    </GameDBLocalizedString>
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

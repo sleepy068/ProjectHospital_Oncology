@@ -512,6 +512,10 @@
 	<!-- ### ### -->
 	<!-- ######################################## Content for V0.14.0.2 Added Below ######################################## -->
 	<!-- ### ### -->
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DEP_DESC</LocID>                        	
+	<Text>Trattamento chemioterapico con etoposide fosfato, cisplatino e 5-fluorouracile o 5-FU (ECF). La chemioterapia ha relativamente scarsa efficacia curativa in alcuni tumori come il carcinoma con cellule ad anello con sigillo (SRCC) ed i tassi di sopravvivenza globale sono più bassi rispetto ai pazienti con patologie tumorali più tipiche. Questi tumori vengono generalmente diagnosticati durante le fasi avanzate della malattia, quindi si diffondono generalmente in modo più aggressivo rispetto ai tumori non-SRCC, rendendo il trattamento più impegnativo. Il trattamento ECF sembra essere efficace per il cancro gastrico, come chemioterapia di salvataggio. \n\nStanze richieste: Stanza di Degenza presso il Rep. di Oncologia</Text>  
+	</GameDBLocalizedString>
 	
 	</LocalizedStrings>
 	</GameDBStringTable>

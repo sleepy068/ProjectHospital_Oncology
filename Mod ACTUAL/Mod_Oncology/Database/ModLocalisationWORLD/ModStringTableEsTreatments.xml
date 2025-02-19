@@ -512,6 +512,10 @@
 	<!-- ### ### -->
 	<!-- ######################################## Content for V0.14.0.2 Added Below ######################################## -->
 	<!-- ### ### -->
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DEP_DESC</LocID>                        	
+	<Text>5-Fluorouracil (5-FU), Cisplatino y Etoposide (FEP) en combinacion. Es un tratamiento efectivo en los tumores gástricos y también se usa como quimioterapia de rescate. \n\nSala requerida: Hospitalización en dpto. de Oncología</Text>  
+	</GameDBLocalizedString>
 	
 	</LocalizedStrings>
 	</GameDBStringTable>

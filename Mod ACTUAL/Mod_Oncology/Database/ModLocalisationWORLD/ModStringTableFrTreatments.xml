@@ -510,6 +510,11 @@
 	<Text>Une parotidectomie est l'excision chirurgicale de la glande parotide, la principale et la plus grande des glandes salivaires. L'intervention est le plus souvent pratiquée en raison de néoplasmes, qui sont des croissances de cellules se divisant rapidement et anormalement. Les néoplasmes peuvent être bénins ou malins. \Salle requise : Salle d'opération au service d'oncologie.</Text>  
 	</GameDBLocalizedString>
 	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DEP_DESC</LocID>                        	
+	<Text>Traitement combiné au 5-fluorouracile(5-FU), au cisplatine et à l'étoposide(FEP). La chimiothérapie a une efficacité curative relativement médiocre dans certains cancers tels que le carcinome à cellules en bague. Les patients et les taux de survie globaux sont inférieurs par rapport aux patients présentant une pathologie cancéreuse plus typique. Ces cancers sont généralement diagnostiqués au cours des derniers stades de la maladie, de sorte que les tumeurs se propagent généralement de manière plus agressive que les cancers non-annelés, ce qui rend le traitement difficile, mais la plupart des schémas thérapeutiques actifs comprennent le 5-fluorouracile (5-FU), le cisplatine et/ou l'étoposide. La chimiothérapie combinée FEP semble être un schéma thérapeutique efficace pour le cancer gastrique en tant que chimiothérapie de sauvetage. \n\nSalle requise: Hospitalisation régulière au service d'oncologie.</Text>  
+	</GameDBLocalizedString>
+	
 	</LocalizedStrings>
 	</GameDBStringTable>
 </Database>

@@ -17,5 +17,7 @@ Updated Czech Localisation (Thank you josiffilip)
 Updated Brazilian Portuguese Localisation (Thank you Alice&Gui)
 Updated Hungarian Localisation (Thank you Kythrea)
 
+Fixed up LOC issue with TRT_CRP_FEP_DESC (Labelled as TRT_CRP_DEP_DESC in Loc files)
+
 Bug Fixes:
 N/A

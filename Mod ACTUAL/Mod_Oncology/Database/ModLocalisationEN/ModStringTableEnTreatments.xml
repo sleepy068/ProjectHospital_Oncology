@@ -20,7 +20,10 @@
 	<!-- ============================================== -->
 	<!-- ============= CRP Export Content ============= -->
 	<!-- ============================================== -->
-	
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DEP_DESC</LocID>                        	
+	<Text>5-Fluorouracil (5-FU), Cisplatin, and Etoposide (FEP) Combination Treatment. Chemotherapy has relatively poor curative efficacy in certain cancers such as Signet Ring Cell Carcinoma (SRCC) and patients and overall survival rates are lower compared to patients with more typical cancer pathology. These cancers are usually diagnosed during the late stages of the disease, so the tumors generally spread more aggressively than non-signet cancers, making treatment challenging but most active regimens include 5-Fluorouracil (5-FU), Cisplatin, and/or Etoposide. FEP combination chemotherapy seems to be an effective treatment regimen for gastric cancer as salvage chemotherapy. \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
 	
 	</LocalizedStrings>
 	</GameDBStringTable>

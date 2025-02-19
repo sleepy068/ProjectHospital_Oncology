@@ -20,6 +20,10 @@
 	<!-- ============================================== -->
 	<!-- ============= CRP Export Content ============= -->
 	<!-- ============================================== -->
+	<GameDBLocalizedString>      
+	<LocID>TRT_CRP_DEP_DESC</LocID>                        	
+	<Text>Tratamento combinado de 5-fluorouracil (5-FU), cisplatina e ectosídeo (FEP). A quimioterapia tem uma eficácia curativa relativamente baixa em certos tipos de câncer, como o carcinoma de células em anel de sinete (SRCC) e as taxas de sobrevida global são mais baixas em comparação aos pacientes com patologia de câncer mais típica. Esses cânceres são geralmente diagnosticados durante os estágios finais da doença, de modo que os tumores geralmente se espalham mais agressivamente do que os cânceres sem sinete, tornando o tratamento desafiador, mas os regimes mais ativos incluem 5-Fluorouracil (5-FU), Cisplatina e/ou Etoposídeo. A quimioterapia combinada FEP parece ser um regime de tratamento eficaz contra o câncer gástrico como quimioterapia de resgate. \n\nSala necessária: Hospitalização regular na Oncologia.</Text>  
+	</GameDBLocalizedString>
 	
 	
 	</LocalizedStrings>

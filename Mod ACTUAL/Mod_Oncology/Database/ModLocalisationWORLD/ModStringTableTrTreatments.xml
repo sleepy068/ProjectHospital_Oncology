@@ -393,6 +393,11 @@
       <!-- ### ### -->
       <!-- ######################################## Content for V0.13.4.0 Added Below ######################################## -->
       <!-- ### ### -->
+	  <GameDBLocalizedString>
+        <LocID>TRT_CRP_FEP_DESC</LocID>
+        <Text>5-fluorourasil (5-FU), sisplatin ve etopozid kombinasyon tedavisi nispeten daha geç tanı konan ve sağkalım oranları daha düşük olan taşlı yüzük hücreli karsinom gibi hastalıkların tedavisinde kullanılan bir tedavi rejimidir. Ayrıca mide kanseri tedavisinde salvage kemoterapi şeklinde de uygulanabilmektedir. \n\nGerekli oda: Onkoloji bölümü servisi</Text>
+      </GameDBLocalizedString>
+	  
     </LocalizedStrings>
   </GameDBStringTable>
 </Database>
