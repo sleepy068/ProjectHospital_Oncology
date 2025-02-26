@@ -1,6 +1,6 @@
 <Database>
 	<!-- Oncology Mod by Sleepy068 -->
-	<GameDBStringTable ID="LOC_EN_ADDON_ONCOLOGYSL_TREATMENTS">
+	<GameDBStringTable ID="LOC_PTBR_ADDON_ONCOLOGYSL_TREATMENTS">
 	<LanguageCode>ptbr</LanguageCode>
 	<LanguageNameLocalized>Português do Brasil</LanguageNameLocalized>
 	<Contributors>
