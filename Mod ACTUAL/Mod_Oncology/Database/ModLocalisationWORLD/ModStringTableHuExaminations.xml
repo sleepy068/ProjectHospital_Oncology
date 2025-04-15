@@ -1,6 +1,6 @@
 <Database>
   <!-- Oncology Mod by Sleepy068 -->
-  <GameDBStringTable ID="LOC_EN_ADDON_ONCOLOGYSL_EXAMINATIONS">
+  <GameDBStringTable ID="LOC_HU_ADDON_ONCOLOGYSL_EXAMINATIONS">
     <LanguageCode>hu</LanguageCode>
     <LanguageNameLocalized>Magyar</LanguageNameLocalized>
     <Contributors>

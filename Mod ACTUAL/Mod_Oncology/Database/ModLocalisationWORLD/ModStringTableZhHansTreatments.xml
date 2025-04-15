@@ -1,6 +1,6 @@
 <Database>
 	<!-- Oncology Mod by Sleepy068 -->
-	<GameDBStringTable ID="LOC_ZHHANS_ADDON_ONCOLOGYSL_TREATMENTSSURGERY">
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_ONCOLOGYSL_TREATMENTS">
 	<LanguageCode>zh-Hans</LanguageCode>
 	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
 	<Contributors>
