@@ -177,7 +177,7 @@
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
 	</PatientRounds>
 	
-	<ShowInPrefabs>true</ShowInPrefabs>
+	<ShowInPrefabs>false</ShowInPrefabs>
     <PrefabsTag>ui_prefab_oncology</PrefabsTag>
     <PrefabsTooltipId>TOOLTIP_BUILDING_PREFAB_ONCOLOGY</PrefabsTooltipId>
 	<!--

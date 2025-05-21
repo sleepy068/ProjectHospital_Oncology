@@ -5,7 +5,7 @@
          <!-- ################################################################## -->
 
 
-         <!-- =============================== CLINIC =========================== -->
+         <!-- =============================== CLINIC =========================== 
 
     <GameDBPrefabObject ID="SLP_MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_SMALL">
         <AbbreviationLocID>SLP_MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_SMALL_ABBR</AbbreviationLocID>
@@ -46,5 +46,6 @@
         <LayerDoors>true</LayerDoors>
         <LayerObjects>true</LayerObjects>
     </GameDBPrefabObject>
+	-->
 	
 </Database>
