@@ -1,0 +1,52 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+    <GameDBStringTable ID="LOC_TH_ADDON_ONCOLOGYSL_DIAGNOSES_NEURO">
+    <LanguageCode>th</LanguageCode>
+    <LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
+    <Contributors>
+    <Name>TonWazza</Name>
+    </Contributors>
+
+    <LocalizedStrings>
+        <GameDBLocalizedString>      
+        <LocID>DIA_ONCO_CRP_BRAC1_0_V2</LocID>                         
+        <Text>ไพโลไซติก แอสโตรไซโตมา</Text>  
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>      
+        <LocID>DIA_ONCO_CRP_BRAC1_0_DESC</LocID>             
+        <Text>แอสโตรไซโตมา เกรด 1 หรือที่เรียกว่า ไพโลไซติก แอสโตรไซโตมา (Pilocytic Astrocytoma) เนื้องอกเหล่านี้มักพบในเด็กและวัยรุ่น มีการรุกล้ำน้อยกว่าเกรดอื่นและมีการพยากรณ์โรคที่ค่อนข้างดี มักเกิดขึ้นในสมองน้อย (Cerebellum), ใกล้ก้านสมอง, บริเวณไฮโปทาลามัส หรือเส้นประสาทตา แต่ก็อาจเกิดขึ้นในบริเวณใดก็ได้ที่มีเซลล์แอสโตรไซต์ รวมถึงสมองใหญ่และไขสันหลัง เนื้องอกเหล่านี้มักโตช้าและไม่ใช่มะเร็งร้าย</Text>  
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>      
+        <LocID>DIA_ONCO_CRP_BRAC1_1_V2</LocID>                         
+        <Text>ดิฟฟิวส์ แอสโตรไซโตมา</Text>    
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>      
+        <LocID>DIA_ONCO_CRP_BRAC1_1_DESC</LocID>             
+        <Text>ดิฟฟิวส์ แอสโตรไซโตมา (Diffuse Astrocytoma) หรือที่เรียกว่า แอสโตรไซโตมาแบบแทรกซึมเกรดต่ำ จัดเป็นเนื้องอกสมองตามเกณฑ์ WHO ระดับ 2 คำว่า 'แทรกซึมแบบกระจาย' (Diffuse infiltrating) หมายถึงไม่มีขอบเขตที่ชัดเจนระหว่างเนื้องอกและเนื้อเยื่อสมองปกติ ถึงแม้ว่าขอบเขตอาจจะดูชัดเจนเมื่อดูจากภาพถ่ายรังสีก็ตาม</Text>   
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>      
+        <LocID>DIA_ONCO_CRP_BRAC1_2_V2</LocID>                         
+        <Text>อะนาพลาสติก แอสโตรไซโตมา</Text> 
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>      
+        <LocID>DIA_ONCO_CRP_BRAC1_2_DESC</LocID>             
+        <Text>อะนาพลาสติก แอสโตรไซโตมา (Anaplastic Astrocytoma) เป็นเนื้องอกในสมองชนิดร้ายแรงที่พบได้ยาก แอสโตรไซโตมาคือเนื้องอกที่พัฒนามาจากเซลล์สมองรูปดาวที่เรียกว่า 'แอสโตรไซต์' (Astrocytes) ซึ่งเซลล์เหล่านี้ทำหน้าที่สร้างเนื้อเยื่อที่ล้อมรอบและปกป้องเซลล์ประสาทอื่นๆ ภายในสมองและไขสันหลัง</Text>  
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>      
+        <LocID>DIA_ONCO_CRP_BRAC1_3_V2</LocID>                         
+        <Text>ไกลโอบลาสโตมา</Text>   
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>      
+        <LocID>DIA_ONCO_CRP_BRAC1_3_DESC</LocID>             
+        <Text>ไกลโอบลาสโตมา (Glioblastoma) หรือที่รู้จักในชื่อ ไกลโอบลาสโตมา มัลติฟอร์ม (GBM) เป็นมะเร็งที่เริ่มต้นภายในสมองที่มีความรุนแรงที่สุด ในระยะแรก สัญญาณและอาการของโรคจะไม่จำเพาะเจาะจง อาจรวมถึงอาการปวดศีรษะ การเปลี่ยนแปลงบุคลิกภาพ คลื่นไส้ และอาการคล้ายกับโรคหลอดเลือดสมอง</Text>  
+        </GameDBLocalizedString>
+    </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

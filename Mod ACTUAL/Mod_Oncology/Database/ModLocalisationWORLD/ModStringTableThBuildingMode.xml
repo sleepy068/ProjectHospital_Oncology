@@ -1,0 +1,252 @@
+<Database>
+<!-- Oncology Mod by Sleepy068 -->
+<GameDBStringTable ID="LOC_TH_ADDON_ONCO_BUILDING_MODE">
+<LanguageCode>th</LanguageCode>
+<LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
+<Contributors>
+<Name>TonWazza</Name>
+</Contributors>
+
+<LocalizedStrings>
+    <GameDBLocalizedString>      
+        <LocID>ROOM_TYPE_ONCO_OFFICE</LocID>                            
+        <Text>ห้องตรวจแผนกมะเร็งวิทยา</Text>   
+    </GameDBLocalizedString>
+    <GameDBLocalizedString>      
+        <LocID>ROOM_TYPE_ONCO_OFFICE_DESCRIPTION</LocID>                
+        <Text>ห้องตรวจสำหรับแพทย์เฉพาะทางด้านมะเร็งวิทยา ความต้องการบุคลากร:\n1x แพทย์</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+        <LocID>OBJECT_DECAL_MOD_ONCO</LocID>                
+        <Text>มะเร็งวิทยา A</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>OBJECT_DECAL_ONCO_DESC</LocID>       
+        <Text>ลวดลายติดผนัง</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>OBJECT_DECAL_MOD_ONCO1</LocID>                   
+        <Text>มะเร็งวิทยา B</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>OBJECT_DECAL_MOD_ONCO2</LocID>                   
+        <Text>มะเร็งวิทยา C</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>OBJECT_DECAL_MOD_ONCO3</LocID>                   
+        <Text>มะเร็งวิทยา D</Text>  
+    </GameDBLocalizedString>
+
+	<!-- ### ### -->
+	<!-- ######################################## V0.13 Below ######################################## -->
+	<!-- ### ### -->
+    
+    <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_INPATIENT_ONCO_OFFICE</LocID>                       
+        <Text>หน่วยวินิจฉัยโรค</Text>   
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>ROOM_TYPE_INPATIENT_ONCO_OFFICE_DESC</LocID>                   
+        <Text>หน่วยวินิจฉัยโรคประจำแผนกมะเร็งวิทยา ให้บริการการตรวจและรักษาสำหรับผู้ป่วยใน \n\nความต้องการบุคลากรขั้นต่ำ: \n1x แพทย์ \n(บุคลากรประจำอยู่ในห้องพักแพทย์เวร)</Text>
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>
+        <LocID>ROOM_TYPE_ONCO_NEURODIAGNOSTIC_UNIT_NE</LocID>
+		<Text>หน่วยตรวจระบบประสาททางมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>ROOM_TYPE_ONCO_NEURODIAGNOSTIC_UNIT_NE_DESC</LocID>
+		<Text>หน่วยตรวจระบบประสาทให้บริการตรวจทางระบบประสาทเฉพาะทางเพื่อสนับสนุนแผนกมะเร็งวิทยา \n\nความต้องการบุคลากรขั้นต่ำ: \n1x นักเทคนิคการแพทย์ - สาขาระบบประสาท</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_ONCO</LocID>                     
+        <Text>หน่วยอัลตราซาวด์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_ONCO_DESCRIPTION</LocID>         
+        <Text>หน่วยอัลตราซาวด์ให้บริการตรวจและรักษาด้วยคลื่นเสียงความถี่สูง \n\nความต้องการบุคลากรขั้นต่ำ: \n1x นักเทคนิคการแพทย์ - อัลตราซาวด์ (USG)</Text>  
+    </GameDBLocalizedString>
+
+	<!-- ### ### -->
+	<!-- ######################################## V0.13.2.0 Below ######################################## -->
+	<!-- ### ### -->
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_PICT01</LocID>                       
+        <Text>รูปภาพมะเร็งวิทยา A</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_PICT01_DESC</LocID>                   
+        <Text>รูปภาพใส่กรอบเพื่อเตือนใจผู้ป่วยไม่ให้หมดหวัง</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_PICT02</LocID>                       
+        <Text>รูปภาพมะเร็งวิทยา B</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_PICT02_DESC</LocID>                   
+        <Text>รูปภาพใส่กรอบเพื่อเตือนใจผู้ป่วยไม่ให้หมดหวัง</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_CUBE1</LocID>                       
+        <Text>ชั้นวางของ 4 ช่อง A-E</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_CUBE1_DESC</LocID>                   
+        <Text>ชั้นวางของ 4 ช่องแบบว่างเปล่า</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_CUBE2</LocID>                       
+        <Text>ชั้นวางของ 4 ช่อง B-E</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_CUBE2_DESC</LocID>                   
+        <Text>ชั้นวางของ 4 ช่องแบบว่างเปล่า</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_PLANT01</LocID>                       
+        <Text>กระถางต้นไม้</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_PLANT01_DESC</LocID>                   
+        <Text>กระถางต้นไม้ที่สวยงาม</Text>  
+    </GameDBLocalizedString>
+    
+	<!-- ### ### -->
+	<!-- ######################################## V0.13.2.3 Below ######################################## -->
+	<!-- ### ### -->
+
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_CUBE3</LocID>                       
+        <Text>ชั้นวางของสี่ช่อง A-B</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_CUBE3_DESC</LocID>                   
+        <Text>ชั้นวางของสี่ช่องพร้อมหนังสือเล่มใหญ่</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_CUBE4</LocID>                       
+        <Text>ชั้นวางของสี่ช่อง B-B</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_CUBE4_DESC</LocID>                   
+        <Text>ชั้นวางของสี่ช่องพร้อมหนังสือเล่มใหญ่</Text>  
+    </GameDBLocalizedString> 
+
+	<!-- ### ### -->
+	<!-- ######################################## V0.13.3.0 Below ######################################## -->
+	<!-- ### ### -->
+    
+    <GameDBLocalizedString>
+		<LocID>ROOM_TYPE_ONCO_OBSERVATION_ROOM</LocID>                    
+        <Text>ห้องสังเกตอาการแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>
+		<LocID>ROOM_TYPE_ONCO_OBSERVATION_ROOM_DESC</LocID>         
+        <Text>บางครั้งแผนกมะเร็งวิทยาจำเป็นต้องตรวจผู้ป่วยหลายขั้นตอนซึ่งใช้เวลานาน การสังเกตอาการช่วยให้โรงพยาบาลมีเวลาทำแบบทดสอบเหล่านี้ให้เสร็จสิ้น และช่วยให้ผู้ป่วยสะดวกสบายยิ่งขึ้นขณะอยู่ภายใต้การดูแลทางการแพทย์ที่เหมาะสม อีกทั้งยังช่วยลดภาระแพทย์ในคลินิกสำหรับเคสที่ยุ่งยาก \n\nความต้องการบุคลากรขั้นต่ำ: \n1x แพทย์ \n(บุคลากรประจำอยู่ในห้องพักแพทย์เวร)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_POST01</LocID>                       
+        <Text>โปสเตอร์ - มะเร็งวิทยา A</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_POST01_DESC</LocID>                   
+        <Text>อินโฟกราฟิกเกี่ยวกับตับอ่อน</Text>  
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_POST02</LocID>                       
+        <Text>โปสเตอร์ - มะเร็งวิทยา B</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_POST02_DESC</LocID>                   
+        <Text>โปสเตอร์เพื่อเตือนใจผู้ป่วยว่าพวกเขาไม่ได้ต่อสู้เพียงลำพัง</Text>  
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_POST03</LocID>                       
+        <Text>โปสเตอร์ - มะเร็งวิทยา C</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_POST03_DESC</LocID>                   
+        <Text>อินโฟกราฟิกเกี่ยวกับมะเร็งเม็ดเลือด</Text>  
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_POST04</LocID>                       
+        <Text>โปสเตอร์ - มะเร็งวิทยา D</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_POST04_DESC</LocID>                   
+        <Text>อินโฟกราฟิกเกี่ยวกับมะเร็งปอด</Text>  
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_POST05</LocID>                       
+        <Text>โปสเตอร์ - มะเร็งวิทยา E</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>MOD_ONCO_OBJECT_POST05_DESC</LocID>                   
+        <Text>โปสเตอร์เพื่อเตือนใจผู้ป่วยไม่ให้หมดหวัง</Text>  
+    </GameDBLocalizedString> 
+    
+    <GameDBLocalizedString>      
+        <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_ONCO</LocID>                       
+        <Text>หน่วยตรวจหัวใจ</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_ONOC_DESC</LocID>                   
+        <Text>หน่วยวินิจฉัยโรคหัวใจให้บริการวิธีการตรวจและทดสอบต่างๆ ที่เกี่ยวข้องกับระบบหัวใจและหลอดเลือดของมนุษย์ \n\nความต้องการบุคลากรขั้นต่ำ: \n1x นักเทคนิคการแพทย์ - อายุรแพทย์หัวใจ</Text>  
+    </GameDBLocalizedString> 
+
+    <!-- ### ### -->
+	<!-- ######################################## Content for V0.14.0.2 Added Below ######################################## -->
+	<!-- ### ### -->
+
+    <GameDBLocalizedString>      
+    <LocID>TOOLTIP_BUILDING_PREFAB_ONCOLOGY</LocID>                         
+    <Text>มะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SLP_MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_SMALL_ABBR</LocID>                          
+    <Text>ห้องตรวจแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SLP_MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_LARGE_ABBR</LocID>                          
+    <Text>ห้องตรวจแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

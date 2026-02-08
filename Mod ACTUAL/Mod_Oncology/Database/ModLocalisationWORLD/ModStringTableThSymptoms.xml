@@ -1,0 +1,138 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+    <GameDBStringTable ID="LOC_TH_ADDON_ONCOLOGYSL_SYMPTOMS">
+    <LanguageCode>th</LanguageCode>
+    <LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
+    <Contributors>
+    <Name>TonWazza</Name>
+    </Contributors>
+
+    <LocalizedStrings>
+	<!-- ======================================== -->
+	<!-- ============= Core Content ============= -->
+	<!-- ======================================== -->
+    <GameDBLocalizedString>      
+        <LocID>SYM_SLP_NERVE_DAMAGE</LocID>                       
+        <Text>อาการปวดประสาทหลังผ่าตัด</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_SLP_NERVE_DAMAGE_DESC</LocID>                   
+        <Text>อาการปวดประสาทหลังผ่าตัด (PONP) สามารถเกิดขึ้นได้หากเส้นประสาทได้รับความเสียหายระหว่างการผ่าตัด เส้นประสาทที่เสียหายไม่สามารถส่งสัญญาณจากส่วนต่างๆ ของร่างกายไปยังสมองได้อย่างถูกต้อง แต่สัญญาณเหล่านี้จะถูกขยายให้รุนแรงขึ้น ทำให้เกิดอาการปวดเรื้อรังที่อาจคงอยู่นานหลายเดือนหรือหลายปี</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>    
+        <LocID>SYM_SLP_LES_RUPTURE</LocID>                       
+        <Text>รอยโรคแตก</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>     
+        <LocID>SYM_SLP_LES_RUPTURE_DESC</LocID>                       
+        <Text>รอยโรคหรือเนื้องอกภายในร่างกายผู้ป่วยเกิดการแตกออก ซึ่งสัมพันธ์กับการตกเลือดภายในที่เป็นอันตรายถึงชีวิต</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_SLP_HEMOPTYSIS2</LocID>                       
+        <Text>ไอเป็นเลือดรุนแรง</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_SLP_HEMOPTYSIS2_DESC</LocID>                   
+        <Text>การไอเป็นเลือด (Hemoptysis) คือการไอเอาเลือดหรือเสมหะปนเลือดออกมาจากหลอดลม กล่องเสียง ท่อลม หรือปอด หรืออีกนัยหนึ่งคือการมีเลือดออกในทางเดินหายใจ สิ่งนี้อาจเกิดขึ้นได้ในมะเร็งปอด การติดเชื้อเช่นวัณโรค หลอดลมอักเสบ หรือปอดบวม และภาวะโรคหัวใจและหลอดเลือดบางชนิด</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_SLP_SPLENOMEGALY</LocID>                       
+        <Text>ม้ามโต</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_SLP_SPLENOMEGALY_DESC</LocID>                   
+        <Text>Splenomegaly คือภาวะที่ม้ามมีขนาดใหญ่ขึ้น หรือที่เรียกกันทั่วไปว่าม้ามโต</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_SLP_RUP_SPLENOMEGALY</LocID>                       
+        <Text>ม้ามแตก</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_SLP_RUP_SPLENOMEGALY_DESC</LocID>                   
+        <Text>ม้ามแตกเป็นภาวะฉุกเฉินทางการแพทย์ที่เกิดขึ้นเมื่อเยื่อหุ้มคล้ายแคปซูลของม้ามฉีกขาด ทำให้เลือดไหลเข้าสู่ช่องท้อง ปริมาณการตกเลือดภายในอาจมากหรือน้อยขึ้นอยู่กับขนาดของรอยแตก</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_SLP_HYPERCALCEMIA</LocID>                       
+        <Text>ภาวะแคลเซียมในเลือดสูง</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_SLP_HYPERCALCEMIA_DESC</LocID>                   
+        <Text>Hypercalcemia คือภาวะที่ระดับแคลเซียมในเลือดสูงกว่าปกติ สาเหตุส่วนใหญ่มักเกิดจากการทำงานมากเกินไปของต่อมเล็กๆ 4 ต่อมที่คอ (ต่อมพาราไทรอยด์) หรือจากมะเร็ง แคลเซียมส่วนเกินในเลือดส่งผลกระทบต่อระบบต่างๆ ของร่างกาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_SLP_SEVERE_HYPERCALCEMIA</LocID>                       
+        <Text>ภาวะแคลเซียมในเลือดสูงรุนแรง</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_SLP_SEVERE_HYPERCALCEMIA_DESC</LocID>                   
+        <Text>ภาวะแคลเซียมในเลือดสูงรุนแรงเป็นภาวะฉุกเฉินทางการแพทย์ที่ต้องได้รับการรักษาอย่างเร่งด่วน ในบางกรณีที่พบได้ยาก ภาวะนี้อาจรบกวนการทำงานของหัวใจ ทำให้เกิดอาการใจสั่น เป็นลม บ่งบอกถึงภาวะหัวใจเต้นผิดจังหวะ และปัญหาหัวใจอื่นๆ</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>    
+        <LocID>SYM_SLP_ACUTE_LIVER_FAILURE</LocID>                       
+        <Text>ตับวายเฉียบพลัน</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>     
+        <LocID>SYM_SLP_ACUTE_LIVER_FAILURE_DESC</LocID>                       
+        <Text>ตับวายเฉียบพลัน (ALF) เป็นกลุ่มอาการที่พบได้ยาก ซึ่งนิยามโดยการลดลงอย่างรวดเร็วของการทำงานของตับ</Text>  
+    </GameDBLocalizedString>
+
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+	<!-- ### ### -->
+	<!-- ======================================== -->
+	<!-- ============= Core Content ============= -->
+	<!-- ======================================== -->
+	
+	
+	
+	<!-- ============================================== -->
+	<!-- ============= CRP Export Content ============= -->
+	<!-- ============================================== -->
+    <GameDBLocalizedString>      
+        <LocID>SYM_CRP_BL_PMCC</LocID>                       
+        <Text>เซลล์มะเร็งชนิดมิวซินัสล้วน</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_CRP_BL_PMCC_DESC</LocID>                   
+        <Text>มะเร็งชนิดมิวซินัสสามารถก่อตัวร่วมกับเซลล์มะเร็งชนิดอื่นได้ แต่ถ้าไม่พบชนิดอื่นร่วมด้วยจะถือว่าเป็น 'แบบล้วน' (Pure) มะเร็งชนิดมิวซินัสล้วนประกอบด้วยเซลล์มิวซินัส 90–100%</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_CRP_CDF_T_25</LocID>                       
+        <Text>การแสดงออกของ p16INK4a มากเกินไป</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_CRP_CDF_T_25_DESC</LocID>                   
+        <Text>p16 (หรือ p16INK4a) เป็นโปรตีนที่ชะลอการแบ่งตัวของเซลล์โดยการชะลอการดำเนินของวัฏจักรเซลล์จากระยะ G1 ไปยังระยะ S ทำหน้าที่เป็นตัวยับยั้งเนื้องอก p16 เป็นตัวบ่งชี้ทางอิมมูโนฮิสโตเคมีที่ใช้กันอย่างแพร่หลายในพยาธิวิทยานรีเวช การแสดงออกของ p16 ที่รุนแรงและกระจายทั่วในไซโตพลาสซึมและนิวเคลียสของมะเร็งชนิดสความัสเซลล์ (SCC) ของอวัยวะสืบพันธุ์สตรีมีความสัมพันธ์อย่างมากกับการติดเชื้อไวรัส papilloma ในมนุษย์ (HPV) ความเสี่ยงสูงและเนื้องอกที่มีต้นกำเนิดจากปากมดลูก ส่วนใหญ่ของ SCC ของปากมดลูกแสดงออก p16 อย่างไรก็ตาม p16 สามารถแสดงออกในเนื้องอกอื่นๆ และเนื้อเยื่อปกติของมนุษย์ได้เช่นกัน</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_CRP_CM_CK19_BRIGHT</LocID>                       
+        <Text>การแสดงออกของ Cytokeratin 19 (CK19) ชัดเจน</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_CRP_CM_CK19_BRIGHT_DESC</LocID>                   
+        <Text>Keratin, type I cytoskeletal 19 หรือ Cytokeratin-19 (CK-19) เป็นโปรตีนขนาด 40 kDa ในมนุษย์ การแสดงออกในมะเร็งบางชนิดทำให้ CK19 ช่วยทำหน้าที่เป็นตัวบ่งชี้และช่วยระบุชนิดของมะเร็งที่ผู้ป่วยอาจเป็นได้</Text>  
+    </GameDBLocalizedString>
+    
+    </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

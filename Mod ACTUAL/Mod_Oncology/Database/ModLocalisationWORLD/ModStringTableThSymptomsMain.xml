@@ -1,0 +1,942 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+    <GameDBStringTable ID="LOC_TH_ADDON_ONCOLOGYSL_SYMPTOMSMAIN">
+    <LanguageCode>th</LanguageCode>
+    <LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
+    <Contributors>
+    <Name>TonWazza</Name>
+    </Contributors>
+
+    <LocalizedStrings>
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC1_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดเบซอลเซลล์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC1_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งผิวหนังชนิดเบซอลเซลล์ โดยไม่มีสัญญาณของการแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC1_2_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดเบซอลเซลล์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC1_2_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งผิวหนังชนิดเบซอลเซลล์ โดยไม่มีสัญญาณของการแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC1_3_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดเบซอลเซลล์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC1_3_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งผิวหนังชนิดเบซอลเซลล์ โดยมีสัญญาณว่าได้ลุกลามไปยังต่อมน้ำเหลืองใกล้เคียงและเนื้อเยื่อรอบข้าง</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC1_4_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดเบซอลเซลล์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC1_4_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งผิวหนังชนิดเบซอลเซลล์ โดยมีสัญญาณว่าอยู่ในระยะแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC2_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดสความัสเซลล์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC2_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งผิวหนังชนิดสความัสเซลล์ โดยไม่มีสัญญาณของการแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC2_2_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดสความัสเซลล์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC2_2_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งผิวหนังชนิดสความัสเซลล์ โดยไม่มีสัญญาณของการแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC2_3_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดสความัสเซลล์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC2_3_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งผิวหนังชนิดสความัสเซลล์ โดยมีสัญญาณว่าได้ลุกลามไปยังต่อมน้ำเหลืองใกล้เคียงและเนื้อเยื่อรอบข้าง</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC2_4_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดสความัสเซลล์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC2_4_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งผิวหนังชนิดสความัสเซลล์ โดยมีสัญญาณว่าอยู่ในระยะแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC3_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดเมลาโนมา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC3_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งผิวหนังชนิดเมลาโนมา โดยไม่มีหลักฐานการแพร่กระจายไปยังเนื้อเยื่อน้ำเหลือง ต่อมน้ำเหลือง หรืออวัยวะภายใน ดูเหมือนจะจำกัดอยู่เฉพาะที่และไม่มีแผลเปื่อย</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC3_2_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดเมลาโนมา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC3_2_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งผิวหนังชนิดเมลาโนมา โดยมีหลักฐานว่าขยายตัวเกินชั้นหนังกำพร้า (ชั้นนอกสุดของผิวหนัง) เข้าสู่ชั้นหนังแท้ที่หนากว่า แต่ไม่มีสัญญาณของการแพร่กระจายไปยังส่วนอื่น</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC3_3_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดเมลาโนมา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC3_3_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งผิวหนังชนิดเมลาโนมา โดยมีสัญญาณว่าได้ลุกลามไปยังต่อมน้ำเหลืองใกล้เคียงและเนื้อเยื่อรอบข้าง</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC3_4_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดเมลาโนมา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC3_4_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งผิวหนังชนิดเมลาโนมา โดยมีสัญญาณว่าอยู่ในระยะแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_AGC1_0_DETECTED</LocID>                       
+        <Text>ตรวจพบฟีโอโครโมไซโตมา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_AGC1_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบฟีโอโครโมไซโตมา โดยมีหลักฐานว่าเป็นโรคเฉพาะที่เท่านั้น</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_AGC1_1_DETECTED</LocID>                       
+        <Text>ตรวจพบฟีโอโครโมไซโตมา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_AGC1_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบฟีโอโครโมไซโตมา โดยมีหลักฐานว่าเป็นโรคระยะลุกลามเฉพาะที่</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_AGC1_2_DETECTED</LocID>                       
+        <Text>ตรวจพบฟีโอโครโมไซโตมา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_AGC1_2_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบฟีโอโครโมไซโตมา โดยมีหลักฐานว่าเป็นโรคระยะแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งปอด NSCLC ชนิดไม่จำเพาะ</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งปอดชนิดไม่ใช่เซลล์เล็ก (NSCLC) โดยมีหลักฐานว่าเป็นโรคเฉพาะที่เท่านั้น</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งปอด NSCLC ชนิดไม่จำเพาะ</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งปอดชนิดไม่ใช่เซลล์เล็ก (NSCLC) โดยมีหลักฐานว่าเป็นโรคระยะลุกลามเฉพาะที่</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC_2_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งปอด NSCLC ชนิดไม่จำเพาะ</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC_2_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งปอดชนิดไม่ใช่เซลล์เล็ก (NSCLC) โดยมีหลักฐานว่าเป็นโรคระยะแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC1_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งปอดชนิดเซลล์เล็ก (SCLC)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC1_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งปอดชนิดเซลล์เล็ก โดยมีหลักฐานว่าอยู่ในระยะจำกัด (Limited stage)</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC1_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งปอดชนิดเซลล์เล็ก (SCLC)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC1_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งปอดชนิดเซลล์เล็ก โดยมีหลักฐานว่าอยู่ในระยะลุกลาม (Extensive stage)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BC1_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งลำไส้ใหญ่ชนิดอะดีโนคาร์ซิโนมา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BC1_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งลำไส้ใหญ่ชนิดอะดีโนคาร์ซิโนมา โดยมีหลักฐานว่าเป็นโรคเฉพาะที่เท่านั้น</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BC1_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งลำไส้ใหญ่ชนิดอะดีโนคาร์ซิโนมา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BC1_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งลำไส้ใหญ่ชนิดอะดีโนคาร์ซิโนมา โดยมีหลักฐานว่าเป็นโรคระยะลุกลามเฉพาะที่</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BC1_2_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งลำไส้ใหญ่ชนิดอะดีโนคาร์ซิโนมา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BC1_2_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งลำไส้ใหญ่ชนิดอะดีโนคาร์ซิโนมา โดยมีหลักฐานว่าเป็นโรคระยะแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_AGC2_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมหมวกไตส่วนนอก</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_AGC2_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งต่อมหมวกไตส่วนนอก (Adrenocortical Carcinoma) โดยมีหลักฐานว่าเป็นโรคเฉพาะที่เท่านั้น</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_AGC2_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมหมวกไตส่วนนอก</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_AGC2_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งต่อมหมวกไตส่วนนอก (Adrenocortical Carcinoma) โดยมีหลักฐานว่าเป็นโรคระยะลุกลามเฉพาะที่</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_AGC2_2_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมหมวกไตส่วนนอก</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_AGC2_2_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งต่อมหมวกไตส่วนนอก (Adrenocortical Carcinoma) โดยมีหลักฐานว่าเป็นโรคระยะแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_MC001_0_DETECTED</LocID>                       
+        <Text>ตรวจพบเนื้องอก NET ทางเดินอาหาร</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_MC001_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบเนื้องอกนูโรเอนโดไครน์ทางเดินอาหาร โดยมีหลักฐานว่าอยู่ในระยะจำกัด</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_MC001_1_DETECTED</LocID>                       
+        <Text>ตรวจพบเนื้องอก NET ทางเดินอาหาร</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_MC001_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบเนื้องอกนูโรเอนโดไครน์ทางเดินอาหาร โดยมีหลักฐานว่าอยู่ในระยะลุกลาม</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC01_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด ALL (Pre-B Cell)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC01_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิดลิมโฟไซติก แบบ Pre-B Cell โดยมีหลักฐานว่าเป็นชนิดเฉียบพลัน</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC01_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด ALL (B Cell)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC01_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิดลิมโฟไซติก แบบ B Cell โดยมีหลักฐานว่าเป็นชนิดเฉียบพลัน</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC02_A_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด CLL</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC02_A_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิดลิมโฟไซติก โดยมีหลักฐานว่าเป็นชนิดเรื้อรังแต่ยังคงตัว (Stable)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC02_B_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด CLL</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC02_B_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิดลิมโฟไซติก โดยมีหลักฐานว่าเป็นชนิดเรื้อรังและอยู่ในระยะก้าวหน้า (Advanced)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC01_2_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด ALL (T Cell)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC01_2_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิดลิมโฟไซติก แบบ T Cell โดยมีหลักฐานว่าเป็นชนิดเฉียบพลัน</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC01_3_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด ALL (T Cell)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC01_3_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิดลิมโฟไซติก แบบ T Cell โดยมีหลักฐานว่าเป็นชนิดเฉียบพลัน</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC03_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด T-cell LGL</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC03_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิดลิมโฟไซติก โดยมีหลักฐานว่าเป็นชนิดย่อย T-Cell Large Granular Lymphocyte (LGL)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC03_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด NK-cell LGL</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC03_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิดลิมโฟไซติก โดยมีหลักฐานว่าเป็นชนิดย่อย NK-Cell Large Granular Lymphocyte (LGL)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC03_2_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด T-cell Prolymphocytic (T-PLL)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC03_2_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิดลิมโฟไซติก โดยมีหลักฐานว่าเป็นชนิดย่อยหายาก T-cell Prolymphocytic Leukaemia</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC04_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด AML</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC04_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิดไมอีลอยด์ โดยมีหลักฐานว่าเป็นชนิดเฉียบพลัน (Acute)</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC05_A_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด CML</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC05_A_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิดไมอีลอยด์ โดยมีหลักฐานว่าอยู่ในระยะเรื้อรัง (Chronic phase)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC05_B_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด CML</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC05_B_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิดไมอีลอยด์ โดยมีหลักฐานว่าอยู่ในระยะลุกลาม (Accelerated phase)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC05_C_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด CML</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC05_C_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิดไมอีลอยด์ โดยมีหลักฐานว่าอยู่ในระยะวิกฤต (Blast Crisis phase)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC06_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด Hairy Cell (HCL)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC06_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิด Hairy Cell Leukaemia</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC06_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด Hairy Cell Variant (HCL-V)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC06_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเม็ดเลือดขาวชนิด Hairy Cell โดยมีหลักฐานว่าเป็นชนิด Variant ที่พบได้ยาก</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BREC01_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเต้านมระยะเริ่มแรก (DCIS)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BREC01_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งท่อน้ำนม (Ductal Carcinoma) โดยมีหลักฐานว่าเป็นระยะ In Situ (อยู่ในตำแหน่งเดิมและยังไม่แพร่กระจาย)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BREC01_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเต้านมชนิดลุกลามท่อน้ำนม (IDC)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BREC01_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งท่อน้ำนม โดยมีหลักฐานว่าเป็นชนิดลุกลาม (Invasive) ซึ่งได้รุกรานเนื้อเยื่อรอบข้างแล้ว</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BREC01_2_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเต้านมระยะแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BREC01_2_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งเต้านม โดยมีหลักฐานว่าเป็นระยะแพร่กระจาย (Metastatic)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BRAC01_0_DETECTED</LocID>                       
+        <Text>ตรวจพบไพโลไซติก แอสโตรไซโตมา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BRAC01_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบเนื้องอก Pilocytic Astrocytoma ในผู้ป่วย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BRAC01_1_DETECTED</LocID>                       
+        <Text>ตรวจพบดิฟฟิวส์ แอสโตรไซโตมา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BRAC01_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบเนื้องอก Diffuse Astrocytoma ในผู้ป่วย</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BRAC01_2_DETECTED</LocID>                       
+        <Text>ตรวจพบอะนาพลาสติก แอสโตรไซโตมา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BRAC01_2_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบเนื้องอก Anaplastic Astrocytoma ในผู้ป่วย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_OVAC1_0F_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งรังไข่ชนิด High-Grade Serous (HGSC)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_OVAC1_0F_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งรังไข่ชนิด High-Grade Serous ในผู้ป่วย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_OVAC1_1F_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งรังไข่ชนิด Low-Grade Serous (LGSC)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_OVAC1_1F_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งรังไข่ชนิด Low-Grade Serous ในผู้ป่วย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BRAC01_3_DETECTED</LocID>                       
+        <Text>ตรวจพบไกลโอบลาสโตมา</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BRAC01_3_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบเนื้องอก Glioblastoma ในผู้ป่วย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_PROC1_0M_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมลูกหมาก (ระยะที่ 1)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_PROC1_0M_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งต่อมลูกหมาก (ระยะที่ 1) ในผู้ป่วย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_PROC1_1M_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมลูกหมาก (ระยะที่ 2)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_PROC1_1M_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งต่อมลูกหมาก (ระยะที่ 2) ในผู้ป่วย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_PROC1_2M_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมลูกหมาก (ระยะที่ 3)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_PROC1_2M_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งต่อมลูกหมาก (ระยะที่ 3) ในผู้ป่วย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_PROC1_3M_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมลูกหมาก (ระยะที่ 4)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_PROC1_3M_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งต่อมลูกหมาก (ระยะที่ 4) ในผู้ป่วย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_OVAC1_2F_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งรังไข่ระยะแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_OVAC1_2F_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งรังไข่ระยะแพร่กระจายในผู้ป่วย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC07_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมน้ำเหลืองชนิด DLBCL (NOS)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC07_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งต่อมน้ำเหลืองชนิด Diffuse Large B-Cell (NOS)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC08_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมน้ำเหลืองชนิดฟอลลิคูลาร์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC08_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งต่อมน้ำเหลืองชนิด Follicular Lymphoma</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC4_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดเมอร์เกลเซลล์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC4_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งผิวหนังชนิด Merkel Cell โดยมีหลักฐานว่าเป็นโรคเฉพาะที่เท่านั้น</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC4_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดเมอร์เกลเซลล์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC4_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งผิวหนังชนิด Merkel Cell โดยมีหลักฐานว่าเป็นโรคระยะแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC09_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมน้ำเหลืองชนิดแมนเทิลเซลล์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC09_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งต่อมน้ำเหลืองชนิด Mantle Cell Lymphoma</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC2_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งปอดชนิดเซลล์ใหญ่</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC2_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งปอดชนิด Large Cell Lung Carcinoma</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC3_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งปอดชนิดอะดีโนคาร์ซิโนมา (ระยะแรก)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC3_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งปอดชนิด Adenocarcinoma โดยมีหลักฐานว่าอยู่ในระยะแรก</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC3_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งปอดชนิดอะดีโนคาร์ซิโนมา (ระยะก้าวหน้า)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC3_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งปอดชนิด Adenocarcinoma โดยมีหลักฐานว่าอยู่ในระยะก้าวหน้า</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC4_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งปอดชนิดสความัสเซลล์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_LC4_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งปอดชนิด Squamous Cell</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BC2_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งลำไส้ใหญ่ชนิดซิกเน็ตริงเซลล์</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BC2_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งลำไส้ใหญ่ชนิด Signet Ring Cell</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BC3_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งลำไส้ใหญ่ชนิดมิวซินัส (แบบผสม)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BC3_0_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งลำไส้ใหญ่ชนิดมิวซินัส (Mucinous Adenocarcinoma) โดยมีหลักฐานว่าเป็นแบบผสม (Mixed)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BC3_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งลำไส้ใหญ่ชนิดมิวซินัส (แบบล้วน)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BC3_1_DETECTED_DESC</LocID>                   
+        <Text>ผลการตรวจพบมะเร็งลำไส้ใหญ่ชนิดมิวซินัส (Mucinous Adenocarcinoma) โดยมีหลักฐานว่าเป็นแบบล้วน (Pure)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>    
+        <LocID>SYM_ONCO_CRP_BREC01_0M_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเต้านมระยะเริ่มแรก (DCIS)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>     
+        <LocID>SYM_ONCO_CRP_BREC01_1M_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเต้านมชนิดลุกลามท่อน้ำนม (IDC)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>     
+        <LocID>SYM_ONCO_CRP_BREC01_2M_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งเต้านมระยะแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>    
+        <LocID>SYM_ONCO_CRP_LIV0_0_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งตับชนิด HCC (เฉพาะที่)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>     
+        <LocID>SYM_ONCO_CRP_LIV0_0_DETECTED_DESC</LocID>                       
+        <Text>ผลการตรวจพบมะเร็งตับชนิด Hepatocellular Carcinoma โดยมีหลักฐานว่าเป็นโรคเฉพาะที่</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>    
+        <LocID>SYM_ONCO_CRP_LIV0_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งตับชนิด HCC (ลุกลามเฉพาะที่)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>     
+        <LocID>SYM_ONCO_CRP_LIV0_1_DETECTED_DESC</LocID>                       
+        <Text>ผลการตรวจพบมะเร็งตับชนิด Hepatocellular Carcinoma โดยมีหลักฐานว่าเป็นโรคระยะลุกลามเฉพาะที่</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>    
+        <LocID>SYM_ONCO_CRP_LIV0_2_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งตับชนิด HCC (วิกฤต)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>     
+        <LocID>SYM_ONCO_CRP_LIV0_2_DETECTED_DESC</LocID>                       
+        <Text>ผลการตรวจพบมะเร็งตับชนิด Hepatocellular Carcinoma โดยมีหลักฐานว่าอยู่ในภาวะวิกฤต</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>    
+        <LocID>SYM_ONCO_CRP_LIV0_3_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งตับระยะแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>     
+        <LocID>SYM_ONCO_CRP_LIV0_3_DETECTED_DESC</LocID>                       
+        <Text>ผลการตรวจพบมะเร็งตับ โดยมีหลักฐานว่าเป็นโรคระยะแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC01_0_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด ALL (Pre-B Cell)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC01_1_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด ALL (B Cell)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC01_2_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด ALL (T Cell)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC02_A_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด CLL</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC02_B_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด CLL</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC03_0_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด T-cell LGL</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC03_1_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด NK-cell LGL</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC03_2_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด T-cell Prolymphocytic (T-PLL)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC04_0_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด AML</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC05_A_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด CML</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC05_B_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด CML</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC05_C_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งเม็ดเลือดขาวชนิด CML</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC08_0_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมน้ำเหลืองชนิดฟอลลิคูลาร์</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BLC07_0_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมน้ำเหลืองชนิด DLBCL (NOS)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_BREC01_1_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งเต้านมชนิดลุกลามท่อน้ำนม (IDC)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>     
+        <LocID>SYM_ONCO_CRP_BREC01_1M_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งเต้านมชนิดลุกลามท่อน้ำนม (IDC)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_MC001_1_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบเนื้องอก NET ทางเดินอาหาร</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC3_4_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดเมลาโนมา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_SC4_1_DETECTED_V2</LocID>                       
+        <Text>ตรวจพบมะเร็งผิวหนังชนิดเมอร์เกลเซลล์</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_ORA001_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมน้ำลายชนิดมิวโคอีพิเดอร์มอยด์</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_ORA001_1_DETECTED_DESC</LocID>                       
+        <Text>ผลการตรวจพบมะเร็งต่อมน้ำลายชนิด Mucoepidermoid โดยมีหลักฐานว่าเป็นเกรดต่ำ</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_ORA001_2_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมน้ำลายชนิดมิวโคอีพิเดอร์มอยด์</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_ORA001_2_DETECTED_DESC</LocID>                       
+        <Text>ผลการตรวจพบมะเร็งต่อมน้ำลายชนิด Mucoepidermoid โดยมีหลักฐานว่าเป็นเกรดสูง</Text>  
+    </GameDBLocalizedString>
+
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+	<!-- ### ### -->
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED</LocID>                       
+        <Text>ตรวจพบภาวะเซลล์เยื่อบุช่องคลอดเจริญผิดปกติ (VAIN)(ความเสี่ยงต่ำ)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_VAGC1_0F_DETECTED_DESC</LocID>                       
+        <Text>ผลการตรวจพบภาวะเซลล์เยื่อบุช่องคลอดเจริญผิดปกติ (VAIN) แต่หลักฐานบ่งชี้ว่าเป็นความเสี่ยงต่ำ</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED</LocID>                       
+        <Text>ตรวจพบภาวะเซลล์เยื่อบุช่องคลอดเจริญผิดปกติ (VAIN)(ความเสี่ยงสูง)</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_VAGC1_1F_DETECTED_DESC</LocID>                       
+        <Text>ผลการตรวจพบภาวะเซลล์เยื่อบุช่องคลอดเจริญผิดปกติ (VAIN) และหลักฐานบ่งชี้ว่าเป็นความเสี่ยงสูง</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งช่องคลอดชนิดสความัสเซลล์</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_VAGC2_0F_DETECTED_DESC</LocID>                       
+        <Text>ผลการตรวจพบมะเร็งช่องคลอดชนิดสความัสเซลล์ โดยมีหลักฐานว่าเป็นโรคเฉพาะที่</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งช่องคลอดชนิดสความัสเซลล์</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_VAGC2_1F_DETECTED_DESC</LocID>                       
+        <Text>ผลการตรวจพบมะเร็งช่องคลอดชนิดสความัสเซลล์ โดยมีหลักฐานว่าเป็นโรคระยะลุกลามเฉพาะที่</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งช่องคลอดระยะแพร่กระจาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_VAGC2_2F_DETECTED_DESC</LocID>                       
+        <Text>ผลการตรวจพบมะเร็งช่องคลอด โดยมีหลักฐานว่าเป็นระยะแพร่กระจายไปทั่วร่างกาย</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_ORA002_1_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมน้ำลายชนิด Salivary Duct</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_ORA002_1F_DETECTED</LocID>                       
+        <Text>ตรวจพบมะเร็งต่อมน้ำลายชนิด Salivary Duct</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SYM_ONCO_CRP_ORA002_1_DETECTED_DESC</LocID>                       
+        <Text>ผลการตรวจพบมะเร็งต่อมน้ำลายชนิด Salivary Duct Carcinoma</Text>  
+    </GameDBLocalizedString>
+    
+    </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
