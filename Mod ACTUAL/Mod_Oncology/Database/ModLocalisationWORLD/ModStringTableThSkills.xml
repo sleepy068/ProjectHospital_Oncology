@@ -1,0 +1,45 @@
+<Database>
+    <GameDBStringTable ID="LOC_TH_ADDON_ONCOLOGY_SKILLS">
+    
+    <LanguageCode>th</LanguageCode>
+    <LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
+    <Contributors>
+        <Name>TonWazza</Name>
+    </Contributors>
+        
+    <LocalizedStrings>
+
+    <!-- ### Skills ### -->
+
+	<GameDBLocalizedString>      
+        <LocID>DPT_ONCOLOGY</LocID>                                         
+        <Text>มะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SKILL_DOC_SPEC_ONCO</LocID>                   
+        <Text>มะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SKILL_DOC_SPEC_ONCO_DESCR</LocID>                   
+        <Text>มะเร็งวิทยาช่วยให้เข้าถึงหัตถการเฉพาะทางสำหรับการตรวจหา วินิจฉัย และรักษามะเร็งชนิดต่างๆ</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SKILL_DOC_SPEC_ONCO_SURGERY</LocID>                   
+        <Text>ศัลยกรรมมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+        <LocID>SKILL_DOC_SPEC_ONCO_SURG_DESCR</LocID>                   
+        <Text>ศัลยกรรมมะเร็งวิทยาช่วยให้แพทย์สามารถทำหน้าที่เป็นศัลยแพทย์หลักในแผนกมะเร็งวิทยา และมีผลต่อโอกาสการเกิดภาวะแทรกซ้อนจากการผ่าตัด</Text>  
+    </GameDBLocalizedString>
+
+	<!-- ### ### -->
+	<!-- ######################################## Vx.x.x.x Below ######################################## -->
+	<!-- ### ### -->
+
+    </LocalizedStrings> 
+    </GameDBStringTable>
+</Database>

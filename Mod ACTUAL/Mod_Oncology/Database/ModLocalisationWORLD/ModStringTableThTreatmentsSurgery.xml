@@ -1,0 +1,226 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+    <GameDBStringTable ID="LOC_TH_ADDON_ONCOLOGYSL_TREATMENTSSURGERY">
+    <LanguageCode>th</LanguageCode>
+    <LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
+    <Contributors>
+    <Name>TonWazza</Name>
+    </Contributors>
+
+    <LocalizedStrings>
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_WIDELOCALEXCISION</LocID>                         
+    <Text>การผ่าตัดก้อนเนื้อออกเป็นบริเวณกว้าง (WLE)</Text>  
+    </GameDBLocalizedString>
+            
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_WIDELOCALEXCISION_DESC</LocID>                   
+    <Text>Wide Local Excision (WLE) เป็นหัตถการทางศัลยกรรมเพื่อกำจัดเนื้อเยื่อที่เป็นโรคหรือมีปัญหาขนาดเล็กพร้อมกับขอบเขตของเนื้อเยื่อปกติโดยรอบ หัตถการนี้มักทำที่เต้านมและรอยโรคที่ผิวหนัง แต่สามารถใช้ได้กับทุกส่วนของร่างกาย \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_LAPAROSCOPIC_SURGERY</LocID>                                         
+    <Text>การผ่าตัดผ่านกล้อง</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_LAPAROSCOPIC_SURGERY_DESC</LocID>                                    
+    <Text>การผ่าตัดผ่านกล้อง (Laparoscopic surgery) หรือ "ศัลยกรรมที่มีการรุกล้ำน้อยที่สุด" เป็นเทคนิคเฉพาะทางในการทำศัลยกรรม เป็นหัตถการที่มีความเสี่ยงต่ำและบาดเจ็บน้อยซึ่งต้องการเพียงแผลผ่าตัดขนาดเล็ก การผ่าตัดนี้ใช้เครื่องมือที่เรียกว่ากล้องลาปาโรสโคปเพื่อมองดูอวัยวะภายในช่องท้อง \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_LOBECTOMY_SURGERY</LocID>                                            
+    <Text>การผ่าตัดตัดปอดออกหนึ่งกลีบ</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_LOBECTOMY_SURGERY_DESC</LocID>                                   
+    <Text>Pulmonary Lobectomy คือการผ่าตัดนำกลีบปอด (Lobe) ออกหนึ่งกลีบ ทำเพื่อกำจัดส่วนของปอดที่เป็นโรค เช่น มะเร็งปอดระยะเริ่มต้น \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_ENDOVASCULAR_EMBOLISATION</LocID>                                            
+    <Text>การอุดหลอดเลือดผ่านสายสวน</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_ENDOVASCULAR_EMBOLISATION_DESC</LocID>                                   
+    <Text>Endovascular embolization (EE) เป็นหัตถการศัลยกรรมแบบรุกล้ำ ใช้เพื่อรักษาหลอดเลือดผิดปกติที่พบในสมองรวมถึงส่วนอื่นๆ ของร่างกาย หัตถการนี้เป็นทางเลือกแทนการผ่าตัดแบบเปิด โดยจะทำการปิดกั้นหลอดเลือดเพื่อตัดการไหลเวียนของเลือดไปยังบริเวณที่มีปัญหา \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_ONCO_NERVE_DECOM_SURGERY</LocID>                                         
+    <Text>ศัลยกรรมซ่อมแซมเส้นประสาท</Text>
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_ONCO_NERVE_DECOM_SURGERY_DESC</LocID>                                    
+    <Text>Nerve Reconstructive Surgery หรือการซ่อมแซมเส้นประสาททางศัลยกรรม เกี่ยวข้องกับการสำรวจเส้นประสาทที่บาดเจ็บและการกำจัดเนื้อเยื่อที่บาดเจ็บหรือแผลเป็นออกจากปลายประสาท หลังจากนั้นเส้นประสาทจะถูกเชื่อมต่อเข้าด้วยกันโดยตรงหากปลายประสาทมีความยาวเพียงพอที่จะซ่อมแซมได้อย่างมีคุณภาพโดยไม่เกิดแรงตึง \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกประสาทวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_POLYPECTOMY</LocID>                                      
+    <Text>การตัดติ่งเนื้อ (Polypectomy)</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_POLYPECTOMY_DESC</LocID>                         
+    <Text>Polypectomy เป็นหัตถการที่ใช้กำจัดติ่งเนื้อ (Polyps) ออกจากภายในลำไส้ใหญ่ ติ่งเนื้อคือการรวมตัวของเนื้อเยื่อที่ผิดปกติ ขั้นตอนนี้มีการรุกล้ำร่างกายค่อนข้างน้อย \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_PARTIAL_COLECTOMY</LocID>                                            
+    <Text>การผ่าตัดลำไส้ใหญ่ (Colectomy)</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_PARTIAL_COLECTOMY_DESC</LocID>                                   
+    <Text>Colectomy คือการตัดลำไส้ใหญ่ ประกอบด้วยการตัดส่วนใดส่วนหนึ่งของลำไส้ใหญ่ออก หรือในกรณีร้ายแรงอาจตัดลำไส้ใหญ่ออกทั้งหมด \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_ADRENALECTOMY</LocID>                                            
+    <Text>การผ่าตัดต่อมหมวกไต</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_ADRENALECTOMY_DESC</LocID>                                   
+    <Text>Adrenalectomy คือการผ่าตัดเอาต่อมหมวกไตออกหนึ่งหรือทั้งสองข้าง มักแนะนำสำหรับผู้ป่วยที่มีเนื้องอกที่ต่อมหมวกไต หัตถการนี้สามารถทำได้โดยใช้เทคนิคการผ่าตัดแบบเปิดหรือแบบส่องกล้อง \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_SPLENECTOMY</LocID>                                      
+    <Text>การผ่าตัดม้าม</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_SPLENECTOMY_DESC</LocID>                         
+    <Text>Splenectomy เป็นหัตถการทางศัลยกรรมเพื่อเอาม้ามออก ม้ามเป็นอวัยวะที่อยู่ใต้ชายโครงด้านซ้ายบนของช่องท้อง ช่วยต่อสู้กับการติดเชื้อและกรองวัสดุที่ไม่จำเป็น เช่น เซลล์เม็ดเลือดเก่าหรือเสียหาย ออกจากเลือด เหตุผลที่พบบ่อยที่สุดสำหรับการตัดม้ามคือเพื่อรักษาม้ามแตก ซึ่งมักเกิดจากการบาดเจ็บที่ช่องท้อง นอกจากนี้ยังใช้รักษาภาวะอื่นๆ เช่น ม้ามโตที่สร้างความเจ็บปวด โรคเลือดบางชนิด มะเร็งบางชนิด การติดเชื้อ และซีสต์หรือเนื้องอกที่ไม่ใช่มะเร็ง \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_SEG_MASTECTOMY</LocID>                                           
+    <Text>การผ่าตัดเต้านมบางส่วน</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_SEG_MASTECTOMY_DESC</LocID>                                  
+    <Text>การผ่าตัดเพื่อเอามะเร็งและเนื้อเยื่อปกติรอบๆ ออก แต่ไม่ได้เอาเต้านมออกทั้งหมด อาจมีการเลาะต่อมน้ำเหลืองใต้รักแร้ออกเพื่อส่งตรวจชิ้นเนื้อ และอาจมีการตัดส่วนของผนังหน้าอกออกหากมะเร็งอยู่ใกล้บริเวณนั้น \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_DEBULKING</LocID>                                            
+    <Text>การผ่าตัดลดขนาดก้อนมะเร็ง</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_DEBULKING_DESC</LocID>                                   
+    <Text>Surgical debulking เป็นหัตถการที่เนื้องอกมะเร็งที่ไม่สามารถรักษาให้หายขาดด้วยการผ่าตัด จะถูกตัดออกเพียงบางส่วน เพื่อให้การรักษาต่อเนื่องด้วยยา การฉายรังสี หรือมาตรการเสริมอื่นๆ มีประสิทธิภาพมากขึ้น และช่วยยืดอายุขัย แพทย์จำเป็นต้องนัดหมายการรักษาติดตามผลเพื่อพยายามผลักดันให้โรคสงบ (Remission) \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกประสาทวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_GTR</LocID>                                      
+    <Text>การผ่าตัดเปิดกะโหลกเพื่อนำเนื้องอกออกทั้งหมด (GTR)</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_GTR_DESC</LocID>                         
+    <Text>Gross total resection คือการกำจัดเนื้อเยื่อเนื้องอกที่มองเห็นได้จากภาพ MRI ออกทั้งหมด ส่วน Supratotal resection คือการทำ Gross total resection ร่วมกับการตัดขอบเขตเนื้อเยื่อเนื้องอกที่มองเห็นใน MRI ลุกลามเข้าไปในเนื้อเยื่อสมองปกติด้วย \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกประสาทวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_UNI_SALOOPH</LocID>                                      
+    <Text>การผ่าตัดรังไข่และท่อนำไข่ออกข้างเดียว</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_UNI_SALOOPH_DESC</LocID>                         
+    <Text>Unilateral salpingo-oophorectomy คือการผ่าตัดเอารังไข่หนึ่งข้างและท่อนำไข่หนึ่งข้างออก ซึ่งทั้งสองส่วนอยู่ด้านเดียวกันของร่างกายและใช้เลือดหล่อเลี้ยงร่วมกัน (ตรงข้ามกับแบบทวิภาคีที่เอาออกทั้งสองข้าง) วิธีนี้ควรพิจารณาเป็นทางเลือกแรกสำหรับการรักษาแบบสงวนภาวะเจริญพันธุ์สำหรับสตรีที่ต้องการมีบุตร แม้ว่าจะมีความเสี่ยงสูงกว่าที่จะกลับมาเป็นซ้ำเฉพาะที่ แต่ก็ไม่สัมพันธ์กับการลดลงของอัตราการรอดชีวิตโดยรวม \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_RAD_PROS</LocID>                                     
+    <Text>การผ่าตัดต่อมลูกหมากออกทั้งหมด</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_RAD_PROS_DESC</LocID>                                    
+    <Text>Radical prostatectomy เป็นการผ่าตัดเพื่อเอาต่อมลูกหมากและเนื้อเยื่อรอบๆ ออก ซึ่งมักจะรวมถึงถุงเก็บน้ำเชื้อและต่อมน้ำเหลืองใกล้เคียงบางส่วน การผ่าตัดนี้สามารถรักษามะเร็งต่อมลูกหมากในผู้ชายที่มะเร็งจำกัดอยู่เฉพาะในต่อมลูกหมากให้หายขาดได้ \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_PARATHY</LocID>                                      
+    <Text>การผ่าตัดต่อมพาราไทรอยด์</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_PARATHY_DESC</LocID>                         
+    <Text>Parathyroidectomy คือการผ่าตัดเอาต่อมพาราไทรอยด์หรือเนื้องอกพาราไทรอยด์ออก ต่อมเหล่านี้อยู่ด้านหลังต่อมไทรอยด์ที่คอของคุณ ทำหน้าที่ช่วยร่างกายควบคุมระดับแคลเซียมในเลือด \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_SEGMENTECTOMY</LocID>                                            
+    <Text>การผ่าตัดแบบตัดส่วน (Segmentectomy)</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_SEGMENTECTOMY_DESC</LocID>                                   
+    <Text>Segmental resection เป็นหัตถการทางศัลยกรรมเพื่อเอาส่วนหนึ่งของอวัยวะหรือต่อมออก เป็นชนิดย่อยของการตัดออก (Resection) ซึ่งอาจหมายถึงการเอาอวัยวะออกทั้งส่วน นอกจากนี้ยังอาจใช้เพื่อเอาเนื้องอกและเนื้อเยื่อปกติรอบๆ ออก \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_HEPATECTOMY</LocID>                                      
+    <Text>การผ่าตัดตับ (Hepatectomy)</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_HEPATECTOMY_DESC</LocID>                         
+    <Text>Hepatectomy คือการผ่าตัดเอาตับออก (ทั้งหมดหรือบางส่วน) \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_LIVER_TRANSPL</LocID>                                            
+    <Text>การศัลยกรรมปลูกถ่ายตับ</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_LIVER_TRANSPL_DESC</LocID>                                   
+    <Text>การปลูกถ่ายตับเป็นหัตถการทางศัลยกรรมที่นำตับที่ทำงานไม่ปกติ (ตับวาย) ออกและแทนที่ด้วยตับที่แข็งแรงจากผู้บริจาคที่เสียชีวิตแล้ว หรือส่วนหนึ่งของตับที่แข็งแรงจากผู้บริจาคที่มีชีวิต \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_PAROTIDECTOMY</LocID>                                            
+    <Text>การผ่าตัดต่อมน้ำลายหน้ากกหู</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_PAROTIDECTOMY_DESC</LocID>                                   
+    <Text>Parotidectomy คือการผ่าตัดเอาต่อมพารอทิดออก ซึ่งเป็นต่อมน้ำลายที่สำคัญและใหญ่ที่สุด หัตถการนี้มักทำเนื่องจากมีเนื้องอก (Neoplasms) ซึ่งเป็นการเติบโตของเซลล์ที่แบ่งตัวอย่างรวดเร็วและผิดปกติ เนื้องอกอาจเป็นชนิดไม่ร้ายแรงหรือเป็นมะเร็งก็ได้ \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+	<!-- ### ### -->
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_VAGINECTOMY</LocID>                                      
+    <Text>การผ่าตัดช่องคลอด (Vaginectomy)</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_VAGINECTOMY_DESC</LocID>                         
+    <Text>Vaginectomy คือการผ่าตัดเอาช่องคลอดออกทั้งหมดหรือบางส่วน มักใช้เพื่อรักษามะเร็งช่องคลอด หากมดลูกและรังไข่ยังอยู่ การผ่าตัดจะเหลือช่องทางและช่องเปิดที่เหมาะสมสำหรับการระบายประจำเดือน มิฉะนั้นจำเป็นต้องตัดมดลูกออกด้วยเพื่อหลีกเลี่ยงอันตรายจากการกักเก็บประจำเดือนไว้ภายในร่างกาย \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_BRACHYTHERAPY</LocID>                                            
+    <Text>การฝังแร่ (Brachytherapy)</Text>  
+    </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+    <LocID>SUR_SLP_BRACHYTHERAPY_DESC</LocID>                                   
+    <Text>Brachytherapy เป็นหัตถการที่เกี่ยวข้องกับการวางวัสดุกัมมันตรังสีไว้ภายในร่างกายของผู้ป่วย เป็นรังสีรักษาประเภทหนึ่งที่ใช้รักษามะเร็ง บางครั้งเรียกว่าการฉายรังสีภายใน ช่วยให้แพทย์สามารถส่งรังสีปริมาณสูงไปยังบริเวณเฉพาะของร่างกายได้มากกว่าการฉายรังสีแบบดั้งเดิม (การฉายรังสีภายนอก) ที่ฉายรังสีจากเครื่องภายนอกร่างกาย การฝังแร่อาจก่อให้เกิดผลข้างเคียงน้อยกว่าการฉายรังสีภายนอก และระยะเวลาการรักษาโดยรวมมักจะสั้นกว่า \n\nห้องที่ต้องการ: ห้องผ่าตัดแผนกมะเร็งวิทยา</Text>  
+    </GameDBLocalizedString>
+    
+    </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

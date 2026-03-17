@@ -1,0 +1,88 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+    <GameDBStringTable ID="LOC_TH_ADDON_ONCOLOGYSL_EXAMINATIONS">
+
+        <LanguageCode>th</LanguageCode>
+        <LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>TonWazza</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+		<!-- ### ### -->
+		<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+		<!-- ### ### -->
+		
+		<!-- ======================================== -->
+		<!-- ============= Core Content ============= -->
+		<!-- ======================================== -->
+		
+		
+		<!-- ============================================== -->
+		<!-- ============= CRP Export Content ============= -->
+		<!-- ============================================== -->
+
+        <GameDBLocalizedString>    
+            <LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE</LocID>                       
+            <Text>ตัวอย่างชิ้นเนื้อรังไข่</Text>  
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>     
+            <LocID>EXM_CRP_OVARIAN_BIOPSY_SAMPLE_DESC</LocID>                       
+            <Text>ปัจจุบันยังไม่มีการตรวจคัดกรองมะเร็งรังไข่ที่มีประสิทธิภาพ เมื่อผู้ป่วยถูกสงสัยว่าเป็นมะเร็งรังไข่ แพทย์จะทำการทดสอบต่างๆ เพื่อหาความผิดปกติที่ต้องติดตามผลด้วยการตัดชิ้นเนื้อ วิธีเดียวที่จะยืนยันการวินิจฉัยมะเร็งรังไข่ได้คือการนำตัวอย่างเนื้อเยื่อ (Biopsy) ไปส่องดูเซลล์ภายใต้กล้องจุลทรรศน์ \n\nห้องปฏิบัติการที่ต้องการ: จุลพยาธิวิทยา (Histology)</Text>  
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>    
+            <LocID>EXM_CRP_OVARIAN_BIOPSY_TEST</LocID>                       
+            <Text>การตรวจชิ้นเนื้อรังไข่</Text>  
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>     
+            <LocID>EXM_CRP_OVARIAN_BIOPSY_TEST_DESC</LocID>                       
+            <Text>นักเทคนิคการแพทย์สาขาจุลพยาธิวิทยากำลังทำงานกับตัวอย่างที่ได้รับจากผู้ป่วย ผลการตรวจน่าจะออกมาเร็วๆ นี้</Text>  
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>    
+            <LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE</LocID>                       
+            <Text>ตัวอย่างชิ้นเนื้อช่องคลอด</Text>  
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>     
+            <LocID>EXM_CRP_VAGINAL_BIOPSY_SAMPLE_DESC</LocID>                       
+            <Text>สัญญาณและอาการบางอย่างอาจบ่งชี้อย่างชัดเจนถึงมะเร็งช่องคลอด แต่อาการหลายอย่างอาจเกิดจากปัญหาอื่นได้ วิธีเดียวที่จะมั่นใจว่าเป็นมะเร็งคือการทำ Biopsy ในขั้นตอนนี้ ชิ้นส่วนเล็กๆ ของเนื้อเยื่อจากบริเวณที่น่าสงสัยจะถูกนำออกมา นักเทคนิคผู้เชี่ยวชาญด้านการวินิจฉัยโรคด้วยการทดสอบทางห้องปฏิบัติการ (Histology Lab Technician) จะส่องดูตัวอย่างเนื้อเยื่อภายใต้กล้องจุลทรรศน์เพื่อดูว่ามีมะเร็งหรือภาวะก่อนเป็นมะเร็งหรือไม่ และถ้ามี เป็นชนิดใด \n\nห้องปฏิบัติการที่ต้องการ: จุลพยาธิวิทยา (Histology)</Text>  
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>    
+            <LocID>EXM_CRP_VAGINAL_BIOPSY_TEST</LocID>                       
+            <Text>การตรวจชิ้นเนื้อช่องคลอด</Text>  
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>     
+            <LocID>EXM_CRP_VAGINAL_BIOPSY_TEST_DESC</LocID>                       
+            <Text>นักเทคนิคการแพทย์สาขาจุลพยาธิวิทยากำลังทำงานกับตัวอย่างที่ได้รับจากผู้ป่วย ผลการตรวจน่าจะออกมาเร็วๆ นี้</Text>  
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>    
+            <LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE</LocID>                       
+            <Text>ตัวอย่างชิ้นเนื้อต่อมน้ำลาย</Text>  
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>     
+            <LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_SAMPLE_DESC</LocID>                       
+            <Text>การตัดชิ้นเนื้อต่อมน้ำลายเกี่ยวข้องกับการนำเซลล์หรือชิ้นส่วนเล็กๆ ของเนื้อเยื่อออกจากต่อมน้ำลายหนึ่งต่อมหรือมากกว่า เพื่อนำไปตรวจสอบในห้องปฏิบัติการ \n\nห้องปฏิบัติการที่ต้องการ: จุลพยาธิวิทยา (Histology)</Text>  
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>    
+            <LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST</LocID>                       
+            <Text>การตรวจชิ้นเนื้อต่อมน้ำลาย</Text>  
+        </GameDBLocalizedString>
+        
+        <GameDBLocalizedString>     
+            <LocID>EXM_CRP_SALIVARYGLAND_BIOPSY_TEST_DESC</LocID>                       
+            <Text>นักเทคนิคการแพทย์สาขาจุลพยาธิวิทยากำลังทำงานกับตัวอย่างที่ได้รับจากผู้ป่วย ผลการตรวจน่าจะออกมาเร็วๆ นี้</Text>  
+        </GameDBLocalizedString>
+        
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

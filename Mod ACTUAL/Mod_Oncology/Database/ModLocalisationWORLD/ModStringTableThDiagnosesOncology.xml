@@ -1,0 +1,892 @@
+<Database>
+	<!-- Oncology Mod by Sleepy068 -->
+	<GameDBStringTable ID="LOC_TH_ADDON_ONCOLOGYSL_DIAGNOSES_ONCO">
+	<LanguageCode>th</LanguageCode>
+	<LanguageNameLocalized>ภาษาไทย</LanguageNameLocalized>
+	<Contributors>
+	<Name>TonWazza</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC1_1</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดเบซอลเซลล์ (ระยะที่ 1)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC1_1_DESC</LocID>             
+		<Text>มะเร็งผิวหนังชนิดเบซอลเซลล์ (Basal Cell Carcinoma) เป็นมะเร็งที่พบบ่อยที่สุดในมนุษย์ เป็นมะเร็งผิวหนังชนิดที่ไม่ใช่เมลาโนมา ซึ่งเริ่มต้นในชั้นเบซอลของหนังกำพร้า (ชั้นบนสุดของผิวหนัง) เติบโตช้ามากและแทบจะไม่แพร่กระจาย (Metastasize) \n\nในระยะที่ 1 เนื้องอกมีขนาดกว้างประมาณ 2 เซนติเมตรหรือเล็กกว่า และอาจลุกลามเข้าสู่ชั้นหนังแท้</Text>	
+		</GameDBLocalizedString>
+
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC1_2</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดเบซอลเซลล์ (ระยะที่ 2)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC1_2_DESC</LocID>             
+		<Text>มะเร็งผิวหนังชนิดเบซอลเซลล์ (Basal Cell Carcinoma) เป็นมะเร็งที่พบบ่อยที่สุดในมนุษย์ เป็นมะเร็งผิวหนังชนิดที่ไม่ใช่เมลาโนมา ซึ่งเริ่มต้นในชั้นเบซอลของหนังกำพร้า (ชั้นบนสุดของผิวหนัง) เติบโตช้ามากและแทบจะไม่แพร่กระจาย (Metastasize) \n\nในระยะที่ 2 เนื้องอกมีขนาดใหญ่กว่า 2 เซนติเมตร อาจลุกลามเข้าสู่ชั้นหนังแท้และมีลักษณะความเสี่ยงสูง เช่น การรุกรานเส้นประสาท (Perineural invasion)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC1_3</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดเบซอลเซลล์ (ระยะที่ 3)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC1_3_DESC</LocID>             
+		<Text>มะเร็งผิวหนังชนิดเบซอลเซลล์ (Basal Cell Carcinoma) เป็นมะเร็งที่พบบ่อยที่สุดในมนุษย์ เป็นมะเร็งผิวหนังชนิดที่ไม่ใช่เมลาโนมา ซึ่งเริ่มต้นในชั้นเบซอลของหนังกำพร้า (ชั้นบนสุดของผิวหนัง) เติบโตช้ามากและแทบจะไม่แพร่กระจาย (Metastasize) \n\nในระยะที่ 3 มะเร็งได้แพร่กระจายไปยังพื้นที่ใต้ผิวหนัง เช่น กล้ามเนื้อ กระดูก กระดูกอ่อน หรือต่อมน้ำเหลือง แต่เฉพาะส่วนที่อยู่ใกล้กับเนื้องอกเดิมเท่านั้น</Text>	
+		</GameDBLocalizedString>
+
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC1_4</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดเบซอลเซลล์ (ระยะที่ 4)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC1_4_DESC</LocID>             
+		<Text>มะเร็งผิวหนังชนิดเบซอลเซลล์ (Basal Cell Carcinoma) เป็นมะเร็งที่พบบ่อยที่สุดในมนุษย์ เป็นมะเร็งผิวหนังชนิดที่ไม่ใช่เมลาโนมา ซึ่งเริ่มต้นในชั้นเบซอลของหนังกำพร้า (ชั้นบนสุดของผิวหนัง) เติบโตช้ามากและแทบจะไม่แพร่กระจาย (Metastasize) \n\nในระยะที่ 4 มะเร็งได้แพร่กระจายไปยังพื้นที่นอกผิวหนัง เช่น อวัยวะที่อยู่ห่างไกลอย่างสมองหรือปอด หรือลุกลามเข้าสู่โครงกระดูก</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC2_1</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดสความัสเซลล์ (ระยะที่ 1)</Text>	
+		</GameDBLocalizedString>
+
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC2_1_DESC</LocID>             
+		<Text>มะเร็งผิวหนังชนิดสความัสเซลล์ (Squamous Cell Carcinoma) เป็นรูปแบบทั่วไปของมะเร็งผิวหนังที่พัฒนาในเซลล์สความัส ซึ่งเป็นส่วนประกอบของผิวหนังชั้นกลางและชั้นนอก \n\nในระยะที่ 1 เนื้องอกมีขนาดกว้างประมาณ 2 เซนติเมตรหรือเล็กกว่า และอาจลุกลามเข้าสู่ชั้นหนังแท้</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC2_2</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดสความัสเซลล์ (ระยะที่ 2)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC2_2_DESC</LocID>             
+		<Text>มะเร็งผิวหนังชนิดสความัสเซลล์ (Squamous Cell Carcinoma) เป็นรูปแบบทั่วไปของมะเร็งผิวหนังที่พัฒนาในเซลล์สความัส ซึ่งเป็นส่วนประกอบของผิวหนังชั้นกลางและชั้นนอก \n\nในระยะที่ 2 เนื้องอกมีขนาดใหญ่กว่า 2 เซนติเมตร อาจลุกลามเข้าสู่ชั้นหนังแท้และมีลักษณะความเสี่ยงสูง เช่น การรุกรานเส้นประสาท</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC2_3</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดสความัสเซลล์ (ระยะที่ 3)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC2_3_DESC</LocID>             
+		<Text>มะเร็งผิวหนังชนิดสความัสเซลล์ (Squamous Cell Carcinoma) เป็นรูปแบบทั่วไปของมะเร็งผิวหนังที่พัฒนาในเซลล์สความัส ซึ่งเป็นส่วนประกอบของผิวหนังชั้นกลางและชั้นนอก \n\nในระยะที่ 3 มะเร็งได้แพร่กระจายไปยังพื้นที่ใต้ผิวหนัง เช่น กล้ามเนื้อ กระดูก กระดูกอ่อน หรือต่อมน้ำเหลือง แต่เฉพาะส่วนที่อยู่ใกล้กับเนื้องอกเดิมเท่านั้น</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC2_4</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดสความัสเซลล์ (ระยะที่ 4)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC2_4_DESC</LocID>             
+		<Text>มะเร็งผิวหนังชนิดสความัสเซลล์ (Squamous Cell Carcinoma) เป็นรูปแบบทั่วไปของมะเร็งผิวหนังที่พัฒนาในเซลล์สความัส ซึ่งเป็นส่วนประกอบของผิวหนังชั้นกลางและชั้นนอก \n\nในระยะที่ 4 มะเร็งได้แพร่กระจายไปยังพื้นที่นอกผิวหนัง เช่น อวัยวะที่อยู่ห่างไกลอย่างสมองหรือปอด หรือลุกลามเข้าสู่โครงกระดูก</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC3_1</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดเมลาโนมา (ระยะที่ 1)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC3_1_DESC</LocID>             
+		<Text>เมลาโนมา (Melanoma) เกิดขึ้นเมื่อเซลล์สร้างเม็ดสีในผิวหนัง (เรียกว่า เมลาโนไซต์) เกิดการกลายพันธุ์และเริ่มเติบโตจนควบคุมไม่ได้ \n\nในระยะที่ 1 มะเร็งได้แพร่กระจายลึกลงไปในชั้นผิวหนัง แต่ยังไม่แพร่กระจายไปยังต่อมน้ำเหลืองหรือส่วนอื่นๆ ของร่างกาย</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC3_2</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดเมลาโนมา (ระยะที่ 2)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC3_2_DESC</LocID>             
+		<Text>เมลาโนมา (Melanoma) เกิดขึ้นเมื่อเซลล์สร้างเม็ดสีในผิวหนัง (เรียกว่า เมลาโนไซต์) เกิดการกลายพันธุ์และเริ่มเติบโตจนควบคุมไม่ได้ \n\nระยะที่ 2 เมลาโนมามีความหนาขึ้น ขยายผ่านชั้นหนังกำพร้าและลึกลงไปในชั้นหนังแท้ ซึ่งเป็นชั้นในที่หนาแน่นของผิวหนัง มีโอกาสสูงที่จะแพร่กระจาย</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC3_3</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดเมลาโนมา (ระยะที่ 3)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC3_3_DESC</LocID>             
+		<Text>เมลาโนมา (Melanoma) เกิดขึ้นเมื่อเซลล์สร้างเม็ดสีในผิวหนัง (เรียกว่า เมลาโนไซต์) เกิดการกลายพันธุ์และเริ่มเติบโตจนควบคุมไม่ได้ \n\nระยะที่ 3 อธิบายถึงเมลาโนมาที่แพร่กระจายเฉพาะที่ หรือผ่านระบบน้ำเหลืองไปยังต่อมน้ำเหลืองในบริเวณใกล้เคียง แต่ยังไม่แพร่กระจายไปยังต่อมน้ำเหลืองที่อยู่ไกลหรืออวัยวะอื่น</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC3_4</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดเมลาโนมา (ระยะที่ 4)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC3_4_DESC</LocID>             
+		<Text>เมลาโนมา (Melanoma) เกิดขึ้นเมื่อเซลล์สร้างเม็ดสีในผิวหนัง (เรียกว่า เมลาโนไซต์) เกิดการกลายพันธุ์และเริ่มเติบโตจนควบคุมไม่ได้ \n\nระยะที่ 4 อธิบายถึงเมลาโนมาที่แพร่กระจายผ่านกระแสเลือดไปยังส่วนอื่นๆ ของร่างกาย เช่น ผิวหนังหรือเนื้อเยื่ออ่อนในตำแหน่งที่ห่างไกล ต่อมน้ำเหลืองที่อยู่ไกล หรืออวัยวะอื่นๆ</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_AGC1_0</LocID>                          
+		<Text>ฟีโอโครโมไซโตมา (เฉพาะที่)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_AGC1_0_DESC</LocID>             
+		<Text>ฟีโอโครโมไซโตมา (Pheochromocytoma) เป็นเนื้องอกที่พบได้ยากของเนื้อเยื่อต่อมหมวกไต ส่งผลให้มีการหลั่งเอพิเนฟรินและนอร์เอพิเนฟรินมากเกินไป ซึ่งเป็นฮอร์โมนที่ควบคุมอัตราการเต้นของหัวใจ การเผาผลาญ และความดันโลหิต ในระยะเฉพาะที่ (Localised) เนื้องอกถูกตรวจพบในระยะเริ่มต้นในต่อมหมวกไตชั้นใน (Medulla) ของต่อมหมวกไตข้างใดข้างหนึ่งหรือทั้งสองข้าง</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_AGC1_1</LocID>                          
+		<Text>ฟีโอโครโมไซโตมา (ลุกลามเฉพาะที่)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_AGC1_1_DESC</LocID>             
+		<Text>ฟีโอโครโมไซโตมา (Pheochromocytoma) เป็นเนื้องอกที่พบได้ยากของเนื้อเยื่อต่อมหมวกไต ส่งผลให้มีการหลั่งเอพิเนฟรินและนอร์เอพิเนฟรินมากเกินไป ซึ่งเป็นฮอร์โมนที่ควบคุมอัตราการเต้นของหัวใจ การเผาผลาญ และความดันโลหิต ในระยะลุกลามเฉพาะที่ (Regional) มะเร็งได้แพร่กระจายจากจุดเริ่มต้นไปยังเนื้อเยื่อโดยรอบและ/หรือต่อมน้ำเหลืองใกล้เคียง</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_AGC1_2</LocID>                          
+		<Text>ฟีโอโครโมไซโตมา (แพร่กระจาย)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_AGC1_2_DESC</LocID>             
+		<Text>ฟีโอโครโมไซโตมา (Pheochromocytoma) เป็นเนื้องอกที่พบได้ยากของเนื้อเยื่อต่อมหมวกไต ส่งผลให้มีการหลั่งเอพิเนฟรินและนอร์เอพิเนฟรินมากเกินไป ซึ่งเป็นฮอร์โมนที่ควบคุมอัตราการเต้นของหัวใจ การเผาผลาญ และความดันโลหิต ในระยะแพร่กระจาย (Metastatic) มะเร็งได้แพร่กระจายจากจุดเริ่มต้นไปยังส่วนที่ห่างไกลของร่างกาย การทำนายโอกาสของการแพร่กระจายนั้นทำได้ยากและยังไม่มีระบบเกณฑ์ใดที่เชื่อถือได้ 100%</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC_0</LocID>                          
+		<Text>มะเร็งปอด NSCLC ชนิดไม่จำเพาะ (เฉพาะที่)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC_0_DESC</LocID>             
+		<Text>มะเร็งปอดชนิดไม่ใช่เซลล์เล็ก (NSCLC) แบบ Undifferentiated เริ่มต้นเมื่อเซลล์สุขภาพดีในปอดเปลี่ยนแปลงและเติบโตจนควบคุมไม่ได้ ก่อตัวเป็นก้อนเนื้อเรียกว่าเนื้องอก รอยโรค หรือปุ่มเนื้อ คำว่า Undifferentiated ใช้เพื่ออธิบายเซลล์หรือเนื้อเยื่อที่ไม่มีโครงสร้างหรือหน้าที่เฉพาะเจาะจง ("ยังไม่เจริญเต็มที่") เซลล์มะเร็งชนิดนี้มักเติบโตและแพร่กระจายอย่างรวดเร็ว ในระยะเฉพาะที่ (Localised) มะเร็งพบในปอดแต่ยังไม่ลุกลามไปยังต่อมน้ำเหลืองหรืออวัยวะที่ห่างไกล</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC_1</LocID>                          
+		<Text>มะเร็งปอด NSCLC ชนิดไม่จำเพาะ (ลุกลามเฉพาะที่)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC_1_DESC</LocID>             
+		<Text>มะเร็งปอดชนิดไม่ใช่เซลล์เล็ก (NSCLC) แบบ Undifferentiated เริ่มต้นเมื่อเซลล์สุขภาพดีในปอดเปลี่ยนแปลงและเติบโตจนควบคุมไม่ได้ ก่อตัวเป็นก้อนเนื้อเรียกว่าเนื้องอก รอยโรค หรือปุ่มเนื้อ คำว่า Undifferentiated ใช้เพื่ออธิบายเซลล์หรือเนื้อเยื่อที่ไม่มีโครงสร้างหรือหน้าที่เฉพาะเจาะจง ("ยังไม่เจริญเต็มที่") เซลล์มะเร็งชนิดนี้มักเติบโตและแพร่กระจายอย่างรวดเร็ว ในระยะลุกลามเฉพาะที่ (Regional) มะเร็งได้ลุกลามจากปอดไปยังต่อมน้ำเหลืองใกล้เคียง</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC_2</LocID>                          
+		<Text>มะเร็งปอดระยะแพร่กระจาย</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC_2_DESC</LocID>             
+		<Text>มะเร็งปอดเริ่มต้นเมื่อเซลล์ผิดปกติเติบโตและแบ่งตัวอย่างควบคุมไม่ได้ในปอดข้างใดข้างหนึ่งหรือทั้งสองข้าง สามารถแพร่กระจายไปยังส่วนอื่นๆ ของร่างกาย เช่น ต่อมน้ำเหลือง สมอง ต่อมหมวกไต ตับ และกระดูก เมื่อเนื้องอกโตขึ้นและก้าวร้าวมากขึ้น มันต้องการพื้นที่เพิ่มและเริ่มแพร่กระจายไปยังบริเวณอื่น ระยะนี้คือจุดเริ่มต้นของมะเร็งปอดระยะแพร่กระจาย (Metastatic Lung Cancer)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC1_0</LocID>                          
+		<Text>มะเร็งปอดชนิดเซลล์เล็ก (ระยะจำกัด)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC1_0_DESC</LocID>             
+		<Text>มะเร็งปอดชนิดเซลล์เล็ก (SCLC) เริ่มต้นเมื่อเซลล์สุขภาพดีในปอดเปลี่ยนแปลงและเติบโตจนควบคุมไม่ได้ ก่อตัวเป็นก้อนเนื้อ SCLC เริ่มต้นในเซลล์ประสาทหรือเซลล์ผลิตฮอร์โมนของปอด คำว่า "เซลล์เล็ก" อ้างอิงถึงขนาดและรูปร่างของเซลล์มะเร็งเมื่อดูผ่านกล้องจุลทรรศน์ ระยะจำกัด (Limited stage) หมายถึงมะเร็งอยู่ในส่วนเดียวของหน้าอกและการฉายรังสีอาจเป็นทางเลือกในการรักษา ประมาณ 1 ใน 3 ของผู้ป่วย SCLC จะอยู่ในระยะจำกัดเมื่อได้รับการวินิจฉัยครั้งแรก</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC1_1</LocID>                          
+		<Text>มะเร็งปอดชนิดเซลล์เล็ก (ระยะลุกลาม)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC1_1_DESC</LocID>             
+		<Text>มะเร็งปอดชนิดเซลล์เล็ก (SCLC) เริ่มต้นเมื่อเซลล์สุขภาพดีในปอดเปลี่ยนแปลงและเติบโตจนควบคุมไม่ได้ ก่อตัวเป็นก้อนเนื้อ SCLC เริ่มต้นในเซลล์ประสาทหรือเซลล์ผลิตฮอร์โมนของปอด ระยะลุกลาม (Extensive stage) ใช้เพื่ออธิบาย SCLC ที่แพร่กระจายไปยังส่วนต่างๆ ของร่างกาย เช่น ปอดอีกข้าง กระดูก สมอง หรือไขกระดูก แพทย์หลายคนถือว่า SCLC ที่แพร่กระจายไปยังของเหลวรอบปอดเป็นระยะลุกลามเช่นกัน ประมาณ 2 ใน 3 ของผู้ป่วย SCLC จะอยู่ในระยะลุกลามเมื่อตรวจพบมะเร็งครั้งแรก</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC1_0</LocID>                          
+		<Text>มะเร็งลำไส้ใหญ่และทวารหนัก (เฉพาะที่)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC1_0_DESC</LocID>             
+		<Text>อะดีโนคาร์ซิโนมา (Adenocarcinomas) ของลำไส้ใหญ่และทวารหนักคิดเป็น 95% ของผู้ป่วยมะเร็งลำไส้ใหญ่ทั้งหมด ในทางเดินอาหาร มะเร็งชนิดนี้พัฒนาในเซลล์เยื่อบุภายในลำไส้ใหญ่ มักเริ่มต้นจากการเจริญเติบโตของเนื้อเยื่อที่เรียกว่าติ่งเนื้อ (Polyp) ติ่งเนื้อชนิดอะดีโนมาอาจพัฒนาเป็นมะเร็งได้ ในระยะเฉพาะที่ (Localised) มะเร็งถูกจำกัดอยู่ที่ผนังลำไส้หรืออาจแพร่กระจายไปยังพื้นผิวด้านนอกของผนังลำไส้</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC1_1</LocID>                          
+		<Text>มะเร็งลำไส้ใหญ่และทวารหนัก (ลุกลามเฉพาะที่)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC1_1_DESC</LocID>             
+		<Text>อะดีโนคาร์ซิโนมา (Adenocarcinomas) ของลำไส้ใหญ่และทวารหนักคิดเป็น 95% ของผู้ป่วยมะเร็งลำไส้ใหญ่ทั้งหมด ในทางเดินอาหาร มะเร็งชนิดนี้พัฒนาในเซลล์เยื่อบุภายในลำไส้ใหญ่ มักเริ่มต้นจากการเจริญเติบโตของเนื้อเยื่อที่เรียกว่าติ่งเนื้อ (Polyp) ติ่งเนื้อชนิดอะดีโนมาอาจพัฒนาเป็นมะเร็งได้ ในระยะลุกลามเฉพาะที่ (Regional) มะเร็งได้แพร่กระจายในต่อมน้ำเหลืองใกล้ลำไส้</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC1_2</LocID>                          
+		<Text>มะเร็งลำไส้ใหญ่และทวารหนักระยะแพร่กระจาย</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC1_2_DESC</LocID>             
+		<Text>หากมะเร็งในลำไส้ไม่ถูกตรวจพบและนำออกในระยะเริ่มต้น ส่วนหนึ่งของเนื้องอกอาจหลุดออกจากเนื้องอกหลักและแพร่กระจาย โดยปกติจะผ่านระบบน้ำเหลืองหรือกระแสเลือด ไปยังต่อมน้ำเหลืองใกล้เคียงหรือส่วนอื่นๆ ของร่างกาย หากมะเร็งแพร่กระจายไปยังส่วนอื่นของร่างกาย (เช่น ตับหรือปอด) จะเรียกว่ามะเร็งระยะแพร่กระจาย (Metastatic) หรือมะเร็งทุติยภูมิ (Secondary)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_AGC2_0</LocID>                          
+		<Text>มะเร็งต่อมหมวกไตส่วนนอก (เฉพาะที่)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_AGC2_0_DESC</LocID>             
+		<Text>Adrenocortical carcinoma เป็นโรคหายากที่เซลล์มะเร็งก่อตัวขึ้นในชั้นนอกของต่อมหมวกไต ในระยะเฉพาะที่ (Localised) เนื้องอกมีขนาด 5 เซนติเมตรหรือเล็กกว่า และพบเฉพาะในต่อมหมวกไตเท่านั้น</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_AGC2_1</LocID>                          
+		<Text>มะเร็งต่อมหมวกไตส่วนนอก (ลุกลามเฉพาะที่)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_AGC2_1_DESC</LocID>             
+		<Text>Adrenocortical carcinoma เป็นโรคหายากที่เซลล์มะเร็งก่อตัวขึ้นในชั้นนอกของต่อมหมวกไต ในระยะลุกลามเฉพาะที่ (Regional) เนื้องอกอาจมีขนาดใดก็ได้และได้แพร่กระจายไปยังต่อมน้ำเหลืองใกล้เคียง หรือเนื้อเยื่อ/อวัยวะใกล้เคียง (ไต กะบังลม ตับอ่อน ม้าม หรือตับ) หรือหลอดเลือดใหญ่ (หลอดเลือดดำไตหรือ vena cava)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_AGC2_2</LocID>                          
+		<Text>มะเร็งต่อมหมวกไตส่วนนอก (แพร่กระจาย)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_AGC2_2_DESC</LocID>             
+		<Text>Adrenocortical carcinoma เป็นโรคหายากที่เซลล์มะเร็งก่อตัวขึ้นในชั้นนอกของต่อมหมวกไต ในระยะแพร่กระจาย (Metastatic) เนื้องอกอาจมีขนาดใดก็ได้ อาจแพร่กระจายไปยังต่อมน้ำเหลืองใกล้เคียง และได้แพร่กระจายไปยังส่วนอื่นๆ ของร่างกาย เช่น ปอด กระดูก หรือเยื่อบุช่องท้อง</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_MC001_0</LocID>                          
+		<Text>เนื้องอกเนูโรเอนโดไครน์ทางเดินอาหาร (ระยะจำกัด)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_MC001_0_DESC</LocID>             
+		<Text>เนื้องอกเนูโรเอนโดไครน์ (NETs) เป็นเนื้องอกที่เกิดขึ้นจากเซลล์ของระบบต่อมไร้ท่อและระบบประสาท หลายชนิดไม่ร้ายแรง แต่บางชนิดเป็นมะเร็ง มักพบในลำไส้ (มักเรียกว่าเนื้องอกคาร์ซินอยด์) แต่ก็พบในตับอ่อน ปอด และส่วนอื่นๆ ของร่างกายได้ ในระยะจำกัด (Limited Stage) เนื้องอกมีขนาดเล็กกว่า 4 ซม. และเติบโตไปถึงเพียงเยื่อบุที่เชื่อมไส้ติ่งกับผนังหน้าท้อง</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_MC001_1</LocID>                          
+		<Text>เนื้องอกเนูโรเอนโดไครน์ทางเดินอาหาร (ระยะลุกลาม)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_MC001_1_DESC</LocID>             
+		<Text>เนื้องอกเนูโรเอนโดไครน์ (NETs) เป็นเนื้องอกที่เกิดขึ้นจากเซลล์ของระบบต่อมไร้ท่อและระบบประสาท ในระยะลุกลาม (Extensive Stage) เนื้องอกได้เติบโตผ่านเยื่อบุช่องท้องหรือลุกลามเข้าสู่อวัยวะหรือโครงสร้างใกล้เคียง</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC01_0</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว ALL (เซลล์ตัวอ่อน B)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC01_0_DESC</LocID>             
+		<Text>มะเร็งเม็ดเลือดขาวเฉียบพลันชนิดลิมโฟไซติก (ALL) แบบ Pre-B Cell เป็นมะเร็งที่ส่งผลต่อเลือดและไขกระดูก ALL มีลักษณะคือการผลิตเม็ดเลือดขาวตัวอ่อน (Lymphoblasts) มากเกินไป เนื่องจากไขกระดูกไม่สามารถสร้างเม็ดเลือดแดง เม็ดเลือดขาวปกติ และเกล็ดเลือดได้เพียงพอ ผู้ป่วยจึงเสี่ยงต่อภาวะโลหิตจาง ติดเชื้อซ้ำซ้อน และฟกช้ำหรือเลือดออกง่าย ใน 75-80% ของผู้ใหญ่ที่เป็น ALL โรคจะเกิดใน B-lymphocytes ในระยะแรกของการพัฒนา จึงเรียกว่า Precursor B-cell ALL</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC01_1</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว ALL (เซลล์ B)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC01_1_DESC</LocID>             
+		<Text>B-cell Acute Lymphocytic Leukaemia หรือรู้จักในชื่อ Burkitt-type ALL เป็นมะเร็งที่ส่งผลต่อ "B lymphocytes" ชนิดนี้พบน้อยกว่า (ประมาณ 3-5% ของผู้ป่วยผู้ใหญ่) ลักษณะเด่นคือมีอิมมูโนโกลบูลินบนพื้นผิวของลิมโฟบลาสท์ ด้วยการรักษาทั่วไป มีเพียง 30-40% ของผู้ป่วยที่เข้าสู่ระยะโรคสงบสมบูรณ์ (Complete Remission) และมีผู้ป่วยน้อยรายที่รอดชีวิตในระยะยาว</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC01_2</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว ALL (เซลล์ T)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC01_2_DESC</LocID>             
+		<Text>T-cell Acute Lymphocytic Leukaemia (T-ALL) เป็นมะเร็งเม็ดเลือดขาวเฉียบพลันที่มีความรุนแรงและลุกลามเร็ว ส่งผลต่อสเต็มเซลล์ที่สร้างเซลล์น้ำเหลือง โดยเฉพาะเม็ดเลือดขาวชนิด T lymphocytes (ต่างจาก ALL ทั่วไปที่มักเกิดกับ B lymphocytes)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC02_A</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว CLL (ระยะคงตัว)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC02_A_DESC</LocID>             
+		<Text>Chronic Lymphocytic Leukaemia (CLL) เป็นมะเร็งเม็ดเลือดขาวชนิดโตช้าที่ส่งผลต่อ B-lymphocytes ในผู้ป่วย CLL ลิมโฟไซต์เกิดการเปลี่ยนแปลงเป็นมะเร็งและกลายเป็นเซลล์ลูคีเมีย สิ่งสำคัญคือต้องทราบว่าสำหรับหลายคน CLL จะอยู่ในระยะคงตัว (Stable) เป็นเวลาหลายปีและส่งผลกระทบต่อชีวิตน้อยมาก ประมาณ 30-50% ของผู้ป่วยไม่จำเป็นต้องรักษาและสามารถมีชีวิตอยู่ได้หลายปี เนื่องจากโรคดำเนินช้า หลายคนจึงไม่มีอาการและตรวจพบโดยบังเอิญจากการตรวจเลือด</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC02_B</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว CLL (ระยะก้าวหน้า)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC02_B_DESC</LocID>             
+		<Text>Chronic Lymphocytic Leukaemia (CLL) (ระยะก้าวหน้า - Advanced) เป็นมะเร็งเม็ดเลือดขาวชนิดโตช้าที่ส่งผลต่อ B-lymphocytes ในผู้ป่วย CLL ลิมโฟไซต์เกิดการเปลี่ยนแปลงเป็นมะเร็งและกลายเป็นเซลล์ลูคีเมีย ในระยะก้าวหน้า ผู้ป่วยอาจเริ่มมีอาการหรือผลกระทบจากโรคมากขึ้นเมื่อเทียบกับระยะคงตัว</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC03_0</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว T-cell LGL</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC03_0_DESC</LocID>             
+		<Text>T-Cell large granular lymphocytic (LGL) leukaemia เป็นมะเร็งเม็ดเลือดขาวเรื้อรังที่ส่งผลต่อ "ลิมโฟไซต์" ลักษณะเด่นคือลิมโฟไซต์มีขนาดใหญ่และมีแกรนูลที่เห็นได้ชัดใต้กล้องจุลทรรศน์ มักเกี่ยวข้องกับความผิดปกติของระบบภูมิคุ้มกัน โดยเฉพาะโรคข้ออักเสบรูมาตอยด์</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC03_1</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว NK-cell LGL</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC03_1_DESC</LocID>             
+		<Text>NK-Cell large granular lymphocytic (LGL) leukaemia ผู้ป่วยส่วนใหญ่ไม่มีอาการ แต่ผู้ป่วยที่มีรูปแบบรุนแรงมักมีตับโตและม้ามโต และมักมีอาการ B symptoms (ไข้, เหงื่อออกกลางคืน, น้ำหนักลด) โดยเฉลี่ยผู้ป่วยมักมีอายุน้อยกว่ากลุ่มที่เป็น T-cell LGL</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC03_2</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว T-cell Prolymphocytic</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC03_2_DESC</LocID>             
+		<Text>T-cell prolymphocytic leukaemia (T-PLL) เป็นมะเร็งที่หายากมากและมักมีความรุนแรง เกิดจากการเติบโตที่ควบคุมไม่ได้ของ T-cells ที่เจริญเต็มที่แล้ว (Mature T-cells) เซลล์มะเร็งสามารถเดินทางในเลือดไปยังไขกระดูก ม้าม ตับ ต่อมน้ำเหลือง และบางครั้งผิวหนัง</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC04_0</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาวเฉียบพลันชนิดไมอีลอยด์ (AML)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC04_0_DESC</LocID>             
+		<Text>Acute Myeloid Leukaemia (AML) พัฒนาเมื่อร่างกายสร้างเม็ดเลือดขาวตัวอ่อนชนิดไมอีลอยด์ (Myeloblasts) มากเกินไป เซลล์เหล่านี้แบ่งตัวจนควบคุมไม่ได้แต่ไม่เคยเจริญเป็นเซลล์ปกติ มันจะเข้าไปแทนที่เม็ดเลือดขาวปกติ ทำให้ทำงานไม่ได้และเพิ่มความเสี่ยงต่อการติดเชื้อ</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC05_A</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว CML (ระยะเรื้อรัง)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC05_A_DESC</LocID>             
+		<Text>Chronic Myeloid Leukaemia (CML) เป็นมะเร็งที่ไขกระดูกสร้างเม็ดเลือดขาวชนิด Granulocytes มากเกินไป ในระยะเรื้อรัง (Chronic Phase) จำนวนเม็ดเลือดขาวจะสูงขึ้นและพบเซลล์ตัวอ่อน (Blast cells) จำนวนเล็กน้อยในเลือดและไขกระดูก ผู้ป่วยหลายคนไม่มีอาการในระยะนี้</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC05_B</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว CML (ระยะลุกลาม)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC05_B_DESC</LocID>             
+		<Text>Chronic Myeloid Leukaemia (CML) ในระยะลุกลาม (Accelerated Phase) จำนวนของเซลล์ตัวอ่อน (Blast cells) เพิ่มขึ้น และบางครั้งอาจพบความผิดปกติของโครโมโซมใหม่เพิ่มเติมจากโครโมโซมฟิลาเดลเฟีย</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC05_C</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว CML (ระยะวิกฤต)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC05_C_DESC</LocID>             
+		<Text>Chronic Myeloid Leukaemia (CML) ในระยะวิกฤต (Blast Phase หรือ Blast Crisis) โรคจะมีลักษณะและพฤติกรรมเหมือนกับมะเร็งเม็ดเลือดขาวชนิดเฉียบพลัน (Acute leukemia)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC06_0</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาวชนิด Hairy Cell</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC06_0_DESC</LocID>             
+		<Text>Hairy cell leukaemia (HCL) เป็นมะเร็งเม็ดเลือดขาวเรื้อรังชนิดหายากของระบบน้ำเหลือง โดยมีการสะสมของ B-lymphocytes ผิดปกติในไขกระดูก ตับ และม้าม ภายใต้กล้องจุลทรรศน์ เซลล์เหล่านี้จะมีส่วนยื่นคล้ายเส้นผมเล็กๆ บนพื้นผิว จึงได้ชื่อว่า "Hairy cell"</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC06_1</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาวชนิด Hairy Cell (Variant)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC06_1_DESC</LocID>             
+		<Text>Hairy Cell Leukemia variant (HCL-V) เป็นรูปแบบที่หายากและมีความก้าวร้าวมากกว่า HCL แบบคลาสสิก และดื้อต่อการรักษามากกว่า ปัจจุบันองค์การอนามัยโลกจัดให้เป็นโรคที่แยกต่างหากจาก HCL</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BREC1_0</LocID>                          
+		<Text>มะเร็งเต้านมระยะเริ่มแรก (DCIS)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BREC1_0M</LocID>                          
+		<Text>มะเร็งเต้านมระยะเริ่มแรก (DCIS)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BREC1_0_DESC</LocID>             
+		<Text>Ductal carcinoma in situ (DCIS) คือมะเร็งเต้านมระยะที่ไม่ลุกลาม "Ductal" หมายถึงเริ่มต้นในท่อน้ำนม "In situ" หมายถึง "ในตำแหน่งเดิม" DCIS เรียกว่าไม่ลุกลามเพราะยังไม่แพร่กระจายออกจากท่อน้ำนมไปยังเนื้อเยื่อเต้านมรอบข้าง DCIS ไม่เป็นอันตรายถึงชีวิต แต่อาจเพิ่มความเสี่ยงในการเป็นมะเร็งเต้านมชนิดลุกลามในภายหลัง โดยทั่วไป DCIS ไม่มีอาการ</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BREC1_1</LocID>                          
+		<Text>มะเร็งเต้านมชนิดลุกลามท่อน้ำนม (IDC)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BREC1_1M</LocID>                          
+		<Text>มะเร็งเต้านมชนิดลุกลามท่อน้ำนม (IDC)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BREC1_1_DESC</LocID>             
+		<Text>Invasive ductal carcinoma (IDC) เป็นมะเร็งเต้านมชนิดที่พบบ่อยที่สุด (ประมาณ 80%) "Invasive" หมายถึงมะเร็งได้ "ลุกลาม" หรือแพร่กระจายไปยังเนื้อเยื่อเต้านมรอบข้าง IDC หมายถึงมะเร็งที่ทะลุผนังท่อน้ำนมและเริ่มรุกรานเนื้อเยื่อของเต้านม เมื่อเวลาผ่านไป IDC สามารถแพร่กระจายไปยังต่อมน้ำเหลืองและส่วนอื่นๆ ของร่างกาย ในระยะแรกอาจไม่มีอาการ</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BREC1_2</LocID>                          
+		<Text>มะเร็งเต้านมระยะแพร่กระจาย</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BREC1_2M</LocID>                          
+		<Text>มะเร็งเต้านมระยะแพร่กระจาย</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BREC1_2_DESC</LocID>             
+		<Text>มะเร็งเต้านมระยะแพร่กระจาย (ระยะที่ 4) คือมะเร็งเต้านมที่แพร่กระจายไปยังส่วนอื่นของร่างกาย ที่พบบ่อยที่สุดคือ ตับ สมอง กระดูก หรือปอด เซลล์มะเร็งสามารถหลุดจากเนื้องอกเดิมและเดินทางผ่านกระแสเลือดหรือระบบน้ำเหลือง เกือบ 30% ของผู้หญิงที่ได้รับการวินิจฉัยว่าเป็นมะเร็งเต้านมระยะแรกจะพัฒนาไปสู่ระยะแพร่กระจาย ผู้ชายก็สามารถเป็นมะเร็งเต้านมได้เช่นกันแม้จะหายาก</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_OVAC1_0F</LocID>                          
+		<Text>มะเร็งรังไข่ชนิด High-Grade Serous</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_OVAC1_0F_DESC</LocID>             
+		<Text>High-Grade serous ovarian carcinoma (HGSC) เป็นเนื้องอกที่เกิดขึ้นจากชั้นเยื่อบุผิวในช่องท้องและอุ้งเชิงกราน และพบมากที่สุดในรังไข่ HGSC เป็นสาเหตุส่วนใหญ่ของมะเร็งรังไข่และมีอัตราการรอดชีวิตต่ำที่สุด มีความแตกต่างจากชนิด Low-grade (LGSC) ที่มีความก้าวร้าวน้อยกว่า</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_OVAC1_1F</LocID>                          
+		<Text>มะเร็งรังไข่ชนิด Low-Grade Serous</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_OVAC1_1F_DESC</LocID>             
+		<Text>Low-grade serous ovarian cancer เป็นโรคที่พบได้น้อย (น้อยกว่า 10% ของเคสมะเร็งรังไข่) มะเร็งชนิดนี้พบได้น้อยกว่าและมีความก้าวร้าวน้อยกว่าชนิด High-grade แต่ก็มักดื้อต่อยาเคมีบำบัดหลายชนิด</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_OVAC1_2F</LocID>                          
+		<Text>มะเร็งรังไข่ระยะแพร่กระจาย</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_OVAC1_2F_DESC</LocID>             
+		<Text>มะเร็งรังไข่ระยะแพร่กระจายคือระยะลุกลามที่แพร่จากเซลล์ในรังไข่ไปยังส่วนที่ห่างไกลของร่างกาย มักแพร่กระจายไปยังตับ ของเหลวรอบปอด ม้าม ลำไส้ สมอง ผิวหนัง หรือต่อมน้ำเหลืองนอกช่องท้อง</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_PROC1_0M</LocID>                          
+		<Text>มะเร็งต่อมลูกหมาก (ระยะที่ 1)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_PROC1_0M_DESC</LocID>             
+		<Text>มะเร็งต่อมลูกหมากเกิดขึ้นในต่อมลูกหมาก โดยปกติมักโตช้าและจำกัดอยู่แค่ในต่อม แต่บางชนิดอาจก้าวร้าว \n\nในระยะที่ 1 มะเร็งจำกัดอยู่ภายในต่อมลูกหมาก ไม่สามารถตรวจพบได้ด้วยการตรวจทางทวารหนัก (Digital rectal exam) และมักเติบโตช้า</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_PROC1_1M</LocID>                          
+		<Text>มะเร็งต่อมลูกหมาก (ระยะที่ 2)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_PROC1_1M_DESC</LocID>             
+		<Text>มะเร็งต่อมลูกหมากเกิดขึ้นในต่อมลูกหมาก \n\nในระยะที่ 2 อาจตรวจพบมะเร็งได้จากการตรวจทางทวารหนัก โรคยังคงจำกัดอยู่ในต่อมลูกหมาก แต่เซลล์อาจมีความผิดปกติและเติบโตเร็วกว่าระยะที่ 1</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_PROC1_2M</LocID>                          
+		<Text>มะเร็งต่อมลูกหมาก (ระยะที่ 3)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_PROC1_2M_DESC</LocID>             
+		<Text>มะเร็งต่อมลูกหมากเกิดขึ้นในต่อมลูกหมาก \n\nในระยะที่ 3 มะเร็งอยู่ในเนื้อเยื่อใกล้ต่อมลูกหมาก และอาจลุกลามไปถึงถุงเก็บน้ำเชื้อ (Seminal vesicles)</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_PROC1_3M</LocID>                          
+		<Text>มะเร็งต่อมลูกหมาก (ระยะที่ 4)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_PROC1_3M_DESC</LocID>             
+		<Text>มะเร็งต่อมลูกหมากเกิดขึ้นในต่อมลูกหมาก \n\nระยะที่ 4 หมายถึงมะเร็งได้ลุกลามไปยังส่วนอื่นๆ ของร่างกาย เช่น ทวารหนัก ต่อมน้ำเหลืองใกล้เคียง หรือกระดูก</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC07_0</LocID>                          
+		<Text>มะเร็งต่อมน้ำเหลืองชนิด DLBCL (NOS)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC07_0_DESC</LocID>             
+		<Text>Diffuse large B-cell lymphoma (Not Otherwise Specified) (DLBCL) เป็นมะเร็งต่อมน้ำเหลืองชนิดนอน-ฮอดจ์กิน (Non-Hodgkin lymphoma) ที่มีความรุนแรง พัฒนาจาก B-cells ในระบบน้ำเหลือง เป็นชนิดย่อยที่พบบ่อยที่สุด (30-40% ของเคสทั้งหมด)</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC08_0</LocID>                          
+		<Text>มะเร็งต่อมน้ำเหลืองชนิดฟอลลิคูลาร์</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC08_0_DESC</LocID>             
+		<Text>Follicular lymphoma เป็นชนิดย่อยที่พบบ่อยที่สุดของมะเร็งต่อมน้ำเหลืองชนิดเติบโตช้า (Indolent NHL) มักพบในผู้ใหญ่วัยกลางคนหรือผู้สูงอายุ ผู้ป่วยมักมีมะเร็งในหลายส่วนของร่างกายเมื่อได้รับการวินิจฉัย หากพบในระยะแรกอาจยังไม่ต้องรักษา (เฝ้าระวังอาการ - Watch and Wait)</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC4_0</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดเมอร์เกลเซลล์ (เฉพาะที่)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC4_0_DESC</LocID>             
+		<Text>Merkel cell carcinoma เป็นมะเร็งผิวหนังชนิดหายาก มักปรากฏเป็นก้อนสีเนื้อหรือสีน้ำเงินแดง มักพบบนใบหน้า ศีรษะ หรือคอ มะเร็งชนิดนี้เติบโตเร็วและแพร่กระจาย (Metastasize) ในระยะเริ่มต้น มักแพร่ไปยังต่อมน้ำเหลืองใกล้เคียงก่อน เป็นสาเหตุการตายอันดับสองของมะเร็งผิวหนังรองจากเมลาโนมา</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC4_1</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดเมอร์เกลเซลล์ (แพร่กระจาย)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC4_1_DESC</LocID>             
+		<Text>Merkel cell carcinoma ในระยะแพร่กระจาย มะเร็งได้กระจายไปสู่ต่อมน้ำเหลืองหรือผิวหนังในส่วนที่ห่างไกล ปอด สมอง กระดูก หรืออวัยวะอื่นๆ</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC09_0</LocID>                          
+		<Text>มะเร็งต่อมน้ำเหลืองชนิดแมนเทิลเซลล์</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC09_0_DESC</LocID>             
+		<Text>Mantle cell lymphoma (MCL) เป็นมะเร็งต่อมน้ำเหลืองชนิดนอน-ฮอดจ์กินที่พบได้ไม่บ่อย (5-10%) ส่งผลต่อขอบนอก (Mantle zone) ของ B-cells ในต่อมน้ำเหลือง มักเกิดจากการสลับตำแหน่งของโครโมโซม 11 และ 14 ทำให้มีการผลิตโปรตีน Cyclin D1 มากเกินไป ส่งผลให้เซลล์เติบโตอย่างควบคุมไม่ได้</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC2_0</LocID>                          
+		<Text>มะเร็งปอดชนิดเซลล์ใหญ่</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC2_0_DESC</LocID>             
+		<Text>Large cell carcinoma ของปอดเป็นรูปแบบหนึ่งของมะเร็งปอดชนิดไม่ใช่เซลล์เล็ก (NSCLC) อาการเริ่มแรกมักรวมถึงอาการหายใจลำบากและอ่อนเพลีย เซลล์มีลักษณะกลมใหญ่เมื่อมองผ่านกล้องจุลทรรศน์ มะเร็งชนิดนี้มักเกิดขึ้นในบริเวณรอบนอกของปอด และมีแนวโน้มที่จะเติบโตและแพร่กระจายเร็วกว่า NSCLC ชนิดอื่นบางชนิด</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC3_0</LocID>                          
+		<Text>มะเร็งปอดชนิดอะดีโนคาร์ซิโนมา (ระยะแรก)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC3_0_DESC</LocID>             
+		<Text>Adenocarcinoma ของปอดเป็นชนิดที่พบบ่อยที่สุดของมะเร็งปอด จัดเป็นมะเร็งปอดชนิดไม่ใช่เซลล์เล็ก (NSCLC) ในระยะแรกที่ตรวจพบ มะเร็งมักพบเฉพาะในเนื้อเยื่อหรืออวัยวะที่เริ่มต้น และยังไม่แพร่กระจายไปยังต่อมน้ำเหลืองหรือส่วนอื่นของร่างกาย</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC3_1</LocID>                          
+		<Text>มะเร็งปอดชนิดอะดีโนคาร์ซิโนมา (ระยะก้าวหน้า)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC3_1_DESC</LocID>             
+		<Text>Adenocarcinoma ของปอดเป็นชนิดที่พบบ่อยที่สุดของมะเร็งปอด จัดเป็นมะเร็งปอดชนิดไม่ใช่เซลล์เล็ก (NSCLC) ในระยะก้าวหน้า เนื้องอกอาจมีขนาดใดก็ได้และน่าจะแพร่กระจายไปยังต่อมน้ำเหลืองอีกด้านของหน้าอก ใกล้กระดูกไหปลาร้า หรือลุกลามเข้าสู่โครงสร้างอื่นในหน้าอก เช่น หัวใจ หรือหลอดอาหาร</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC4_0</LocID>                          
+		<Text>มะเร็งปอดชนิดสความัสเซลล์</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LC4_0_DESC</LocID>             
+		<Text>Squamous cell carcinoma ของปอด หรือเรียกว่า epidermoid carcinoma เป็นมะเร็งปอดชนิดไม่ใช่เซลล์เล็ก (NSCLC) ที่มักพัฒนาในทางเดินหายใจหรือหลอดลม เป็นชนิดที่พบบ่อยเป็นอันดับสองของ NSCLC (ประมาณ 30%) โดยทั่วไปเติบโตช้า แต่สามารถแพร่กระจายได้ในที่สุด</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC2_0</LocID>                          
+		<Text>มะเร็งลำไส้ใหญ่ชนิดซิกเน็ตริงเซลล์</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC2_0_DESC</LocID>             
+		<Text>Signet ring cell carcinoma (SRCC) เป็นรูปแบบที่หายากของอะดีโนคาร์ซิโนมาที่มีความรุนแรงสูงและผลิตเมือก (Mucin) ลักษณะเด่นทางจุลพยาธิวิทยาคือเซลล์รูปร่างคล้ายแหวน (Signet ring cells) มักพบในกระเพาะอาหาร แต่ก็พบได้น้อยในลำไส้ใหญ่ (น้อยกว่า 1% ของมะเร็งลำไส้ใหญ่)</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC3_0</LocID>                          
+		<Text>มะเร็งลำไส้ใหญ่ชนิดมิวซินัส (แบบผสม)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC3_0_DESC</LocID>             
+		<Text>Mucinous colorectal carcinoma เป็นชนิดย่อยของมะเร็งลำไส้ใหญ่ที่มีเมือกภายนอกเซลล์จำนวนมาก (อย่างน้อย 50% ของปริมาตรเนื้องอก) พบได้ใน 10-20% ของผู้ป่วย เมื่อเซลล์มะเร็งชนิดมิวซินัสก่อตัวร่วมกับเซลล์มะเร็งชนิดอื่น จะเรียกว่าแบบผสม (Mixed)</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC3_1</LocID>                          
+		<Text>มะเร็งลำไส้ใหญ่ชนิดมิวซินัส (แบบล้วน)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BC3_1_DESC</LocID>             
+		<Text>Mucinous colorectal carcinoma เป็นชนิดย่อยของมะเร็งลำไส้ใหญ่ที่มีเมือกภายนอกเซลล์จำนวนมาก (อย่างน้อย 50% ของปริมาตรเนื้องอก) พบได้ใน 10-20% ของผู้ป่วย หากไม่พบเซลล์มะเร็งชนิดอื่นปะปน จะถือว่าเป็นแบบล้วน (Pure)</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_0</LocID>                          
+		<Text>มะเร็งตับชนิด HCC (เฉพาะที่)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_0_DESC</LocID>             
+		<Text>Hepatocellular carcinoma (HCC) เป็นมะเร็งตับปฐมภูมิที่มักเกิดในผู้ป่วยที่มีโรคตับเรื้อรังและตับแข็ง แต่อีก 25% ของผู้ป่วยไม่มีประวัติโรคตับแข็ง อาการมักไม่ปรากฏในระยะแรก</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_1</LocID>                          
+		<Text>มะเร็งตับชนิด HCC (ลุกลามเฉพาะที่)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_1_DESC</LocID>             
+		<Text>Hepatocellular carcinoma (HCC) ในระยะลุกลามเฉพาะที่ (Regional) มะเร็งได้ลุกลามจากตับไปยังต่อมน้ำเหลืองใกล้เคียง</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_2</LocID>                          
+		<Text>มะเร็งตับชนิด HCC (วิกฤต)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_2_DESC</LocID>             
+		<Text>Hepatocellular carcinoma (HCC) ในสภาวะวิกฤต การแตกของก้อนมะเร็ง (Spontaneous rupture) เป็นภาวะแทรกซ้อนที่อาจเป็นอันตรายถึงชีวิต การวินิจฉัยอาจทำได้ยากโดยเฉพาะในกรณีที่ไม่ทราบมาก่อนว่าเป็นโรคตับแข็งหรือมีเนื้องอก</Text>
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_3</LocID>                          
+		<Text>มะเร็งตับระยะแพร่กระจาย</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_LIV0_3_DESC</LocID>             
+		<Text>Liver metastasis คือเนื้องอกมะเร็งที่แพร่กระจายมายังตับจากมะเร็งที่เริ่มต้นในที่อื่นของร่างกาย (เรียกว่ามะเร็งตับทุติยภูมิ) ส่วนมะเร็งตับปฐมภูมิเริ่มต้นในตับ หากเป็นระยะแพร่กระจาย (Metastatic) หมายถึงมะเร็งได้ลุกลามไปยังส่วนอื่นของร่างกาย เช่น อวัยวะอื่น ต่อมน้ำเหลืองใกล้เคียง หรือกระดูก</Text>
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC01_0_V2</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว ALL (เซลล์ตัวอ่อน B)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC01_1_V2</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว ALL (เซลล์ B)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC01_2_V2</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว ALL (เซลล์ T)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC02_A_V2</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว CLL (ระยะคงตัว)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC02_B_V2</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว CLL (ระยะก้าวหน้า)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC03_0_V2</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว T-cell LGL</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC03_1_V2</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว NK-cell LGL</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC03_2_V2</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว T-cell Prolymphocytic</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC04_0_V2</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาวเฉียบพลันชนิดไมอีลอยด์ (AML)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC05_A_V2</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว CML (ระยะเรื้อรัง)</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC05_B_V2</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว CML (ระยะลุกลาม)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC05_C_V2</LocID>                          
+		<Text>มะเร็งเม็ดเลือดขาว CML (ระยะวิกฤต)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC08_0_V2</LocID>                          
+		<Text>มะเร็งต่อมน้ำเหลืองชนิดฟอลลิคูลาร์</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BLC07_0_V2</LocID>                          
+		<Text>มะเร็งต่อมน้ำเหลืองชนิด DLBCL (NOS)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BREC1_1_V2</LocID>                          
+		<Text>มะเร็งเต้านมชนิดลุกลามท่อน้ำนม (IDC)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_BREC1_1M_V2</LocID>                          
+		<Text>มะเร็งเต้านมชนิดลุกลามท่อน้ำนม (IDC)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_MC001_1_V2</LocID>                          
+		<Text>เนื้องอกเนูโรเอนโดไครน์ทางเดินอาหาร (ระยะลุกลาม)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC3_4_V2</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดเมลาโนมา (ระยะที่ 4)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_SC4_1_V2</LocID>                          
+		<Text>มะเร็งผิวหนังชนิดเมอร์เกลเซลล์ (แพร่กระจาย)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA001_1</LocID>                          
+		<Text>มะเร็งต่อมน้ำลายชนิดมิวโคอีพิเดอร์มอยด์ (เกรดต่ำ)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA001_1_DESC</LocID>                          
+		<Text>Mucoepidermoid carcinomas เป็นมะเร็งต่อมน้ำลายที่พบบ่อยที่สุด ส่วนใหญ่เริ่มในต่อมน้ำลายหน้ากกหู (Parotid glands) มักเป็นเกรดต่ำ (Low grade) และคุกคามน้อยกว่า ปัจจัยที่มีผลต่อการรอดชีวิตคือลักษณะทางเนื้อเยื่อและระยะทางคลินิก สามารถพบได้ในอวัยวะอื่นด้วย เช่น หลอดลม ถุงน้ำตา และต่อมไทรอยด์</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA001_2</LocID>                          
+		<Text>มะเร็งต่อมน้ำลายชนิดมิวโคอีพิเดอร์มอยด์ (เกรดสูง)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA001_2_DESC</LocID>                          
+		<Text>Mucoepidermoid carcinomas เป็นมะเร็งต่อมน้ำลายที่พบบ่อยที่สุด ประมาณ 80% ของผู้ป่วยที่มีอาการใบหน้าอัมพาตจะมีการกระจายไปยังต่อมน้ำเหลือง ณ เวลาที่ตรวจพบ ผู้ป่วยกลุ่มนี้มีอัตราการรอดชีวิตเฉลี่ยต่ำกว่าเนื้องอกเกรดต่ำมาก ปัจจัยพยากรณ์โรคที่ไม่ดี ได้แก่ เกรดสูง เกี่ยวข้องกับเส้นประสาท เป็นโรคระยะลุกลามเฉพาะที่ อายุมาก และมีการกระจายไปยังอวัยวะที่ห่างไกล</Text>	
+		</GameDBLocalizedString>
+		
+		<!-- ### ### -->
+		<!-- ######################################## Content for V0.15.0.0 Added Below ######################################## -->
+		<!-- ### ### -->
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC1_0F</LocID>                          
+		<Text>ภาวะเซลล์เยื่อบุช่องคลอดเจริญผิดปกติ (ความเสี่ยงต่ำ)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC1_0F_DESC</LocID>                          
+		<Text>Vaginal intraepithelial neoplasia (VAIN) เป็นภาวะที่มีการเปลี่ยนแปลงของเซลล์ในช่องคลอด บางครั้งเรียกว่ามะเร็งระยะ in-situ VAIN ไม่ใช่มะเร็งแต่มีโอกาสพัฒนาเป็นมะเร็งหากไม่รักษา VAIN ที่มีความเสี่ยงต่ำหลายเคสอาจหายไปเอง ดังนั้นแพทย์บางท่านอาจเลือกที่จะเฝ้าดูอาการอย่างใกล้ชิด</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC1_1F</LocID>                          
+		<Text>ภาวะเซลล์เยื่อบุช่องคลอดเจริญผิดปกติ (ความเสี่ยงสูง)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC1_1F_DESC</LocID>                          
+		<Text>Vaginal intraepithelial neoplasia (VAIN) เป็นภาวะที่มีการเปลี่ยนแปลงของเซลล์ในช่องคลอด VAIN ความเสี่ยงสูง (High Risk) มีโอกาสน้อยที่จะหายไปเอง ดังนั้นอาจต้องเริ่มการรักษาทันที</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_0F</LocID>                          
+		<Text>มะเร็งช่องคลอดชนิดสความัสเซลล์ (เฉพาะที่)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_0F_DESC</LocID>                          
+		<Text>มะเร็งช่องคลอดเป็นมะเร็งที่หายาก เกือบ 9 ใน 10 ของมะเร็งช่องคลอดเป็น Squamous cell carcinomas ซึ่งเริ่มต้นในเซลล์สความัสที่บุช่องคลอด มักพบในส่วนบนของช่องคลอดใกล้ปากมดลูก ในระยะเฉพาะที่ (Localised) มะเร็งพบเฉพาะในผนังช่องคลอด</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_1F</LocID>                          
+		<Text>มะเร็งช่องคลอดชนิดสความัสเซลล์ (ลุกลามเฉพาะที่)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_1F_DESC</LocID>                          
+		<Text>มะเร็งช่องคลอดเป็นมะเร็งที่หายาก ในระยะลุกลามเฉพาะที่ (Regional) มะเร็งได้แพร่กระจายผ่านผนังช่องคลอดไปยังเนื้อเยื่อรอบช่องคลอด อาจจะหรืออาจจะไม่แพร่กระจายไปยังผนังของอุ้งเชิงกราน</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_2F</LocID>                          
+		<Text>มะเร็งช่องคลอดระยะแพร่กระจาย</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_VAGC2_2F_DESC</LocID>                          
+		<Text>มะเร็งช่องคลอดเป็นมะเร็งที่หายาก เมื่ออยู่ในระยะแพร่กระจาย (Metastatic) มะเร็งได้แพร่กระจายไปยังส่วนของร่างกายที่ไม่ใกล้กับช่องคลอด เช่น ปอด ตับ หรือกระดูก</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA002_1</LocID>                          
+		<Text>มะเร็งต่อมน้ำลายชนิด Salivary Duct</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA002_1F</LocID>                          
+		<Text>มะเร็งต่อมน้ำลายชนิด Salivary Duct</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_CRP_ORA002_1_DESC</LocID>                          
+		<Text>Salivary duct carcinoma (SDC) เป็นมะเร็งต่อมน้ำลายที่มีความก้าวร้าว ภายใต้กล้องจุลทรรศน์มีลักษณะคล้ายมะเร็งเต้านมชนิด High-grade ductal carcinoma มักพบในผู้ชายสูงอายุและพบบ่อยที่สุดในต่อมน้ำลายหน้ากกหู (Parotid gland)</Text>	
+		</GameDBLocalizedString>
+		
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
